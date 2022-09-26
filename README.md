@@ -9,7 +9,7 @@ This repository is open to all members of the GitHub community. Any member may c
 [https://fineanmol.github.io/hacktoberfest/](https://fineanmol.github.io/hacktoberfest/)
 
 ## What is Hacktoberfest?
-A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.com/) and [GitHub](https://dev.to/this-is-learning/hacktoberfest-2022-is-almost-there-get-ready-4ifb) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 [https://hacktoberfest.com/](https://hacktoberfest.com/)
 
@@ -27,7 +27,7 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/fineanmol/hacktoberfest.git
 ```
 
 * Create a branch
@@ -107,7 +107,7 @@ Name the file `hello_world_yourusername.xx`. e.g., `hello_world_anmolagarwal.js`
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
-Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_anmolagarwal.js)
+Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.com/fineanmol/hacktoberfest/blob/master/scripts/hello_world_anmol_agarwal.js)
 
 ## BONUS!
 * See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
@@ -122,7 +122,7 @@ Managing your Forked Repo: [https://help.github.com/articles/fork-a-repo/](https
 
 Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
 
-Keep Your Fork Synced: [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
+Keep Your Fork Synced: [https://gist.github.com/fineanmol/f9b8943230e7031ae78cdcd1755bef32](https://gist.github.com/fineanmol/f9b8943230e7031ae78cdcd1755bef32)
 
 Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
