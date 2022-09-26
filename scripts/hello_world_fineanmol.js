@@ -1,7 +1,7 @@
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Alice Chuang
-// GITHUB: https://github.com/AliceWonderland
+// AUTHOR: Anmol Agarwal
+// GITHUB: https://github.com/fineanmol
 // LINK: http://es6-features.org/
 
 // This hello world uses Javascript Objects and Classes.
@@ -36,5 +36,5 @@ class Person {
   }
 }
 
-var myself = new Person('Alice','NYC');
+var myself = new Person('Anmol','UK');
 myself.greeting();
