@@ -110,6 +110,7 @@ Don't forget to include the comments as seen above. Feel free to include additio
 Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.com/fineanmol/hacktoberfest/blob/master/scripts/hello_world_anmol_agarwal.js)
 
 ## BONUS!
+* Merging All Pull Requests
 * See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
 * Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 * Check out some very creative ways to print out a "Hello, World!" string.
