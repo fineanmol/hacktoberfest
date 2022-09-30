@@ -23,6 +23,7 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
-
-
-
+#### Name: [Chris](https://github.com/ChrisVo)
+- Place: Southern California
+- Bio: Front End Web Developer
+- GitHub: [Chris](https://github.com/Chrisvo)
