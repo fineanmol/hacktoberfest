@@ -18,6 +18,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Faiz Syahrullah](https://github.com/bersekerblade)
+- Place: Indonesia
+- Bio: Front End Web Developer
+- GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
+
 
 
 
