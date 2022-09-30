@@ -23,6 +23,8 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
-
-
+#### Name: [Sohil Pathan](https://github.com/SohilP25)
+- Place: Gujarat,India
+- Bio: Computer Engineering Student,A passionate learner.
+- GitHub: [Sohil Pathan](https://github.com/SohilP25)
 
