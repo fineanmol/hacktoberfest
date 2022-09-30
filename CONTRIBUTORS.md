@@ -23,6 +23,10 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
+#### Name: [Dixit Tilaji](https://github.com/dixitt5)
+- Place: India
+- Bio: Developer
+- GitHub: [Dixit Tilaji](https://github.com/dixitt5)
 
 
 
