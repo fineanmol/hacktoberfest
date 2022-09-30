@@ -22,6 +22,13 @@
 - Place: Indonesia
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
+- 
+#### Name: [Heru Hermawan](https://github.com/iamheru)
+- Place: Indonesia
+- Bio: Front End Web Developer
+- GitHub: [Heru Hermawan](https://github.com/iamheru)
+
+
 
 
 
