@@ -255,6 +255,9 @@
 - Bio: ML Developer
 - GitHub: [Sooraj](https://github.com/soorajks2002/)
 
-
+#### Name: [Shivanshu Thakur](https://github.com/shivanshut105)
+- Place: Hamirpur, Himachal Pradesh, Inida
+- Bio: A passionate competitive programmer.
+- GitHub: [shivanshut105](https://github.com/shivanshut105)
 
 
