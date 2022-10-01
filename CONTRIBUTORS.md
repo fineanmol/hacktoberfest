@@ -25,7 +25,10 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Palash Burad](https://github.com/palash9561)
 
-
+#### Name: [Vishakha Agrawal](https://github.com/vishakha868)
+- Place: UP, India
+- Bio: Software Engineer:
+- GitHub: [Vishakha Agrawal](https://github.com/vishakha868)
 
 #### Name: [Ian Kisali](https://github.com/iankisali)
 - Place: Nairobi, Kenya
