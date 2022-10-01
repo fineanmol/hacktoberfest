@@ -375,3 +375,9 @@
 - Place: Jogja, Jogja, Indonesia
 - Bio: I am a learner
 - GitHub: [agusardi](https://github.com/letdummy)
+
+#### Name: [Dennis Jojo Kuriakose](https://github.com/atmozki)
+
+- Place: Kottayam, Kerala, India
+- Bio: I am a Computer Science Student
+- GitHub: [atmozki](https://github.com/atmozki)
