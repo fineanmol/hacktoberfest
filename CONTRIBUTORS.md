@@ -23,6 +23,9 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
-
+#### Name: [Swagat Panda](https://github.com/socopoko)
+- Place: India
+- Bio: Software Engineer 
+- Github: [socopoko](https://github.com/socopoko)
 
 
