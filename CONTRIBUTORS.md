@@ -255,6 +255,11 @@
 - Bio: ML Developer
 - GitHub: [Sooraj](https://github.com/soorajks2002/)
 
+#### Name: [Chirag Arora](https://github.com/Chirag8023)
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [Chirag8023](https://github.com/Chirag8023)
+
 
 
 
