@@ -4,9 +4,33 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Anmol Agarwal](https://github.com/fineanmol)
 #### Name: Vallenain
+
+
+- Place: Lyon, France
+- Bio: Software engineer. Graduated from INSA Lyon.
+- GitHub: [Vallenain](https://github.com/Vallenain)
+
+#### Name: [Devesh](https://github.com/Devesh1602)
+- Place: Pune, Maharashtra, INDIA
+- Bio: Full Stack Developer
+- GitHub: [Devesh1602](https://github.com/Devesh1602)
+
+#### Name: Ryan
+
+- Place: Kadiappatinam, India
+- Bio: 12 year old. Just chillin.
+- GitHub: [Ryan-techie](https://github.com/Ryan-techie)
+
+#### Name: [Ryan](https://github.com/Ryan-techie)
+
+- Place: INDIA
+- Bio: 12 Year Old Just Chillin
+- GitHub: [Ryan-techie](https://github.com/Ryan-techie)
+
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
