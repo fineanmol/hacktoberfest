@@ -40,6 +40,10 @@
 - GitHub: [Ryan-techie](https://github.com/Ryan-techie)
 
 
+#### Name: [Soham](https://github.com/sohamtembhurne)
+- Place: India
+- Bio: Computer Science Student
+- Github: [sohamtembhurne](https://github.com/sohamtembhurne)
 
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
