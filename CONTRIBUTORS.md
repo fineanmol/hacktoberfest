@@ -369,3 +369,9 @@
 - Place: Gorakhpur, UP, India
 - Bio: Coder and VLSI Enthusiasts
 - GitHub: [maazm007](https://github.com/maazm007)
+
+#### Name: [agusardi](https://github.com/letdummy)
+
+- Place: Jogja, Jogja, Indonesia
+- Bio: I am a learner
+- GitHub: [agusardi](https://github.com/letdummy)
