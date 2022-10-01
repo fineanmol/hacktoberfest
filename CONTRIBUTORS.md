@@ -97,6 +97,12 @@
 - GitHub: [Ian Kisali](https://github.com/iankisali)
 
 
+#### Name: [Fazil](https://github.com/fazilakhtar)
+ - Place: Earth
+ - Bio: Software Engineer
+ - GitHub: [Fazil](https://github.com/fazilakhtar)
+
+
 #### Name: [Harshit Maheshwari](https://github.com/harshit-maheshwari)
 - Place: UP, India
 - Bio: Student Engineer: ECE
@@ -106,6 +112,7 @@
 - Place: Mumbai, India
 - Bio: Enjoying this wonderful hacktober
 - GitHub: [Divyanshu Modi](https://github.com/Divyanshu-Modi)
+
 
 #### Name: [प्रथमेश | Prathmesh](https://github.com/prathmesh-b)
 
@@ -121,6 +128,7 @@
 - Place: Mumbai, India
 - Bio: I love DOGS and FISH! :dog: :fish:
 - GitHub: [Prathmesh](https://github.com/prathmesh-b)
+
 
 #### Name: Rhythm Bhatia
 
@@ -139,5 +147,4 @@
 - Place: Banglore, India
 - Bio: A Learner
 - GitHub: [Surajwakka](https://github.com/surajwakka)
-
 
