@@ -184,3 +184,8 @@
 - Bio: "Live to dominate"
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
+#### Name: [Beatriz Sabino](https://github.com/beatriz-sabino)
+- Place: Portugal
+- Bio: Learning how to contribute to Hacktoberfest 
+- GitHub: [beatriz-sabino](https://github.com/beatriz-sabino)
+
