@@ -1,3 +1,9 @@
+#### Name: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
+
+- Place: Delhi, India
+- Bio: Student
+- GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
+
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
 - Place: Old Street, UK,
