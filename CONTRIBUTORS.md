@@ -99,6 +99,9 @@
 - Bio: I love DOGS and FISH! :dog: :fish:
 - GitHub: [Prathmesh](https://github.com/prathmesh-b)
 
-
+#### Name: [Suraj Vishwakarma](https://github.com/surajwakka)
+- Place: Banglore, India
+- Bio: A Learner
+- GitHub: [Surajwakka](https://github.com/surajwakka)
 
 
