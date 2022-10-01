@@ -185,8 +185,16 @@
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
 
+#### Name: [Udeet Mittal](https://github.com/udeet27)
+
+- Place: Pune, Maharashtra, India
+- Bio: Web-developer & UI/UX designer
+- GitHub: [Udeet Mittal](https://github.com/udeet27)
+
+
 #### Name: [Anns Shahbaz](https://github.com/Ansi007)
 - Place: Lahore, Punjab, Pakistan
 - Bio: "24/7 Student"
 - GitHub: [Ansi007](https://github.com/Ansi007)
+
 
