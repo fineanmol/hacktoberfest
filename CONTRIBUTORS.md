@@ -397,6 +397,13 @@
 - GitHub: [agusardi](https://github.com/letdummy)
 
 
+#### Name: [AntishK](https://github.com/AntishK)
+
+- Place: Mauritius
+- Bio: Software Developer
+- GitHub: [agusardi](https://github.com/AntishK)
+
+
 #### Name: [Luqman Bello](https://github.com/ItzAboki)
 
 - Place: Abuja, Nigeria
@@ -479,6 +486,5 @@
 - Place: westBengal, Kolkata, India
 - Bio: I am a Sportslover
 - GitHub: [debajyotig466](https://github.com/debajyotig466)
-
 
 
