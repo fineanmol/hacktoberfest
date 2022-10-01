@@ -64,6 +64,10 @@
 - Bio - Backend developer
 - Github:[Daksh kesarwani](https://github.com/InnocentDaksh63)
 
+#### Name: [Kunal Kumar Sahoo](https://github.com/Kunal-Kumar-Sahoo)
+- Place: India
+- Bio: Machine Learning Enthusiast
+- Github: [Kunal-Kumar-Sahoo](https://github.com/Kunal-Kumar-Sahoo)
 
 #### Name: [Dixit Tilaji](https://github.com/dixitt5)
 - Place: India
