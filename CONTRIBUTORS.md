@@ -184,3 +184,9 @@
 - Bio: "Live to dominate"
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
+#### Name: [Udeet Mittal](https://github.com/udeet27)
+
+- Place: Pune, Maharashtra, India
+- Bio: Web-developer & UI/UX designer
+- GitHub: [Udeet Mittal](https://github.com/udeet27)
+
