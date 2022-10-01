@@ -47,6 +47,11 @@
 - Bio: Backend Developer
 - GitHub: [Rizqi Bagus Andrean](https://github.com/bagusok)
 
+#### Name: [Chamod Nugekotuwa](https://github.com/c-koder)
+- Place: Ratnapura, Sri Lanka
+- Bio: Love gaming, mystery/comedy tv series and code!
+- GitHub: [c-koder](https://github.com/c-koder)
+
 
 #### Name: [Dixit Tilaji](https://github.com/dixitt5)
 - Place: India
