@@ -23,6 +23,11 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
+#### Name: [Vedant Sharma](https://github.com/Eatbullets)
+- Place: India
+- Bio: Student
+- GitHub: [Vedant Sharma](https://github.com/Eatbullets)
+
 
 
 
