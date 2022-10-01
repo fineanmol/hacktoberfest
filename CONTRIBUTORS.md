@@ -375,3 +375,9 @@
 - Place: Jogja, Jogja, Indonesia
 - Bio: I am a learner
 - GitHub: [agusardi](https://github.com/letdummy)
+
+#### Name: [Moch Rizal Fadilah](https://github.com/papoy-xor)
+
+- Place: Bandung, Jawa Barat, Indonesia
+- Bio: I still learning programming
+- GitHub: [Moch Rizal Fadilah](https://github.com/papoy-xor)
