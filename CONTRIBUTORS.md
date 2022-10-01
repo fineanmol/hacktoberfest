@@ -1,3 +1,4 @@
+
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
 - Place: Old Street, UK,
@@ -5,10 +6,37 @@
 - GitHub: [Anmol Agarwal](https://github.com/fineanmol)
 
 #### Name: Vallenain
+- Place: Lyon, France
+- Bio: Software engineer. Graduated from INSA Lyon.
+- GitHub: [Vallenain](https://github.com/Vallenain)
+
 
 - Place: Lyon, France
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
+
+#### Name: [Devesh](https://github.com/Devesh1602)
+- Place: Pune, Maharashtra, INDIA
+- Bio: Full Stack Developer
+- GitHub: [Devesh1602](https://github.com/Devesh1602)
+
+#### Name: Ryan
+
+- Place: Kadiappatinam, India
+- Bio: 12 year old. Just chillin.
+- GitHub: [Ryan-techie](https://github.com/Ryan-techie)
+
+#### Name: [Ryan](https://github.com/Ryan-techie)
+
+- Place: INDIA
+- Bio: 12 Year Old Just Chillin
+- GitHub: [Ryan-techie](https://github.com/Ryan-techie)
+
+ - Place: Lyon, France
+ - Bio: Software engineer. Graduated from INSA Lyon.
+ - GitHub: [Vallenain](https://github.com/Vallenain)
+
+
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 
@@ -28,10 +56,30 @@
 - Bio: B-Tech Undergraduate Cse Student
 - GitHub: [Muhammmad Noorani](https://github.com/MuhammadNoorani)
 
+
+#### Name: [Palash Burad](https://github.com/palash9561)
+- Place: MH, India
+- Bio: I love DOGS! :dog:
+- GitHub: [Palash Burad](https://github.com/palash9561)
+
+
+
+
+#### Name: [Shivanshu Thakur](https://github.com/shivanshut105)
+- Place: Hamirpur, Himachal Pradesh, Inida
+- Bio: A passionate competitive programmer.
+- GitHub: [shivanshut105](https://github.com/shivanshut105)
+
 #### Name: [Ian Kisali](https://github.com/iankisali)
 - Place: Nairobi, Kenya
 - Bio: Student Engineer. Electrical, Electronics and Software
 - GitHub: [Ian Kisali](https://github.com/iankisali)
+
+#### Name: [प्रथमेश | Prathmesh](https://github.com/prathmesh-b)
+
+- Place: Mumbai, India
+- Bio: I love DOGS and FISH! :dog: :fish:
+- GitHub: [Prathmesh](https://github.com/prathmesh-b)
 
 
 
