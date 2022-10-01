@@ -383,9 +383,17 @@
 - GitHub: [agusardi](https://github.com/letdummy)
 
 
+#### Name: [Moch Rizal Fadilah](https://github.com/papoy-xor)
+
+- Place: Bandung, Jawa Barat, Indonesia
+- Bio: I still learning programming
+- GitHub: [Moch Rizal Fadilah](https://github.com/papoy-xor)
+
+
 #### Name: [debajyoti ghosh](https://github.com/debajyotig466)
 
 - Place: westBengal, Kolkata, India
 - Bio: I am a Sportslover
 - GitHub: [debajyotig466](https://github.com/debajyotig466)
+
 
