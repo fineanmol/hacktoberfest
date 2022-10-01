@@ -23,6 +23,10 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
+#### Name: [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: I am 2nd year BTech, CSE student from IIIT JABALPUR Madhya Pradesh
+- GitHub: [hardik-pratap-singh](https://github.com/hardik-pratap-singh)
 
 
 
