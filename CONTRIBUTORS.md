@@ -23,6 +23,7 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
-
-
-
+#### Name: [Anshul Dadhwal](https://github.com/AnshulDadhwal)
+- Place: Australia
+- Bio: Third year Software Engineering Student
+- GitHub: [Anshul Dadhwal](https://github.com/AnshulDadhwal)
