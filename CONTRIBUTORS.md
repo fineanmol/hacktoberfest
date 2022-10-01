@@ -254,7 +254,6 @@
 - Bio: "24/7 Student"
 - GitHub: [Kush Munot](https://github.com/Kush-munot)
 
-
 #### Name: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
 - Place: Bengaluru, India
 - Bio: Software Developer
@@ -272,6 +271,13 @@
 - GitHub: [hoplite2000](https://github.com/hoplite2000)
 
 
+#### Name: [Dhruv Bhagatkar](https://github.com/yunocrown)
+
+- Place: Mumbai,Maharashtra
+- Bio: 2nd Year EXTC student in KJSCE
+- GitHub: [dhruv2003](https://github.com/dhruv2003)
+
+
 
 #### Name: [Siddhesh Khandagale](https://github.com/Siddheshk02)
 
@@ -284,5 +290,4 @@
 - Place: Manila, Philippines
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
-
 
