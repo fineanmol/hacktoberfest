@@ -25,4 +25,7 @@
 
 
 
-
+#### Name: [Anushka](https://github.com/Anushka298)
+- Place: India
+- Bio: ML engineer
+- GitHub: [Anushka](https://github.com/Anushka298)
