@@ -10,6 +10,11 @@
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Devesh](https://github.com/Devesh1602)
+- Place: Pune, Maharashtra, INDIA
+- Bio: Full Stack Developer
+- GitHub: [Devesh1602](https://github.com/Devesh1602)
+
 #### Name: Ryan
 
 - Place: Kadiappatinam, India
