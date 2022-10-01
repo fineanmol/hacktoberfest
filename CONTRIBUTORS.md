@@ -262,3 +262,9 @@
 - GitHub: [hoplite2000](https://github.com/hoplite2000)
 
 
+#### Name: [Siddhesh Khandagale](https://github.com/Siddheshk02)
+
+- Place: Maharashtra, India
+- Bio: Student
+- GitHub: [Siddhesh Khandagale](https://github.com/Siddheshk02)
+
