@@ -88,9 +88,17 @@
 
 #### Name: [प्रथमेश | Prathmesh](https://github.com/prathmesh-b)
 
+
+#### Name: [Chirag Arora](https://github.com/Chirag8023)
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [Chirag8023](https://github.com/Chirag8023)
+
+
 - Place: Mumbai, India
 - Bio: I love DOGS and FISH! :dog: :fish:
 - GitHub: [Prathmesh](https://github.com/prathmesh-b)
+
 
 
 
