@@ -3,6 +3,7 @@
 - Place: Old Street, UK,
 - Bio: I love DOGS! :dog:
 - GitHub: [Anmol Agarwal](https://github.com/fineanmol)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -23,6 +24,7 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
-
-
-
+#### Name: [Hemerson B](https://github.com/mersonfufu)
+- Place: Brazil
+- Bio: Jonh Doe
+- GitHub: [mersonfufu](https://github.com/mersonfufu)
