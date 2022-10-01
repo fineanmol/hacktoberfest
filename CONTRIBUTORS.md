@@ -1,8 +1,8 @@
-#### Name: [Anmol Agarwal](https://github.com/fineanmol)
+#### Name: [प्रथमेश | Prathmesh](https://github.com/prathmesh-b)
 
-- Place: Old Street, UK,
-- Bio: I love DOGS! :dog:
-- GitHub: [Anmol Agarwal](https://github.com/fineanmol)
+- Place: Mumbai, India
+- Bio: I love DOGS and FISH! :dog: :fish:
+- GitHub: [Prathmesh](https://github.com/prathmesh-b)
 
 #### Name: Vallenain
 
