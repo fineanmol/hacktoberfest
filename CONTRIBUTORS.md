@@ -184,3 +184,8 @@
 - Bio: "Live to dominate"
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
+
+#### Name: [Aditya Rawat](https://github.com/tech-with-aditya)
+- Place: Dehradun, Uttarakhand, India
+- Bio: "B.Tech CSE Undergrad"
+- GitHub: [tech-with-aditya](https://github.com/tech-with-aditya)
