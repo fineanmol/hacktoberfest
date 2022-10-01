@@ -1,3 +1,10 @@
+#### Name: [Valentina](https://github.com/vale-c)
+
+- Place: Parma, Italy 
+- Bio: Front-end Software Engineer 🤓 & Drummer 🥁
+- GitHub: [vale-c](https://github.com/vale-c)
+
+
 #### Name: [JATIN SAINI](https://github.com/yunocrown)
 - Place: Jaipur, Rajasthan
 - Bio: 3rd year Computer Science Student At Arya College of Engineering and I.T
@@ -97,6 +104,12 @@
 - GitHub: [Ian Kisali](https://github.com/iankisali)
 
 
+#### Name: [Fazil](https://github.com/fazilakhtar)
+ - Place: Earth
+ - Bio: Software Engineer
+ - GitHub: [Fazil](https://github.com/fazilakhtar)
+
+
 #### Name: [Harshit Maheshwari](https://github.com/harshit-maheshwari)
 - Place: UP, India
 - Bio: Student Engineer: ECE
@@ -106,6 +119,7 @@
 - Place: Mumbai, India
 - Bio: Enjoying this wonderful hacktober
 - GitHub: [Divyanshu Modi](https://github.com/Divyanshu-Modi)
+
 
 #### Name: [प्रथमेश | Prathmesh](https://github.com/prathmesh-b)
 
@@ -121,6 +135,7 @@
 - Place: Mumbai, India
 - Bio: I love DOGS and FISH! :dog: :fish:
 - GitHub: [Prathmesh](https://github.com/prathmesh-b)
+
 
 #### Name: Rhythm Bhatia
 
@@ -140,8 +155,20 @@
 - Bio: A Learner
 - GitHub: [Surajwakka](https://github.com/surajwakka)
 
+
 #### Name: [Nishant](https://github.com/Ordinary-droid)
 - Place: Jaipur, India
 - Bio: Student :D
 - GitHub: [Nishant Thottarath](https://github.com/Ordinary-droid)
+
+#### Name: [Nandini Gangadharan](https://github.com/Nandini-13)
+- Place: New Delhi, India
+- Bio: May the Force be with you.
+- GitHub: [Nandini Gangadharan](https://github.com/Nandini-13)
+
+#### Name: [Ayush Khandelwal](https://github.com/Ayush-Khandelwal28)
+- Place: Gandhinagar, India
+- Bio: Always Learning :)
+- GitHub: [Surajwakka](https://github.com/Ayush-Khandelwal28)
+
 
