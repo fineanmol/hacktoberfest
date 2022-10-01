@@ -198,3 +198,8 @@
 - Bio: Final Year Computer Science Student from Nepal :)
 - GitHub: [Sambhav](https://github.com/LordSambhav/)
 
+#### Name: [Sambhav](https://github.com/SahityaRoy/)
+- Place: Jaipur
+- Bio: Founder of Eduhub Community and a Community guy :)
+- GitHub: [Sambhav](https://github.com/SahityaRoy/)
+
