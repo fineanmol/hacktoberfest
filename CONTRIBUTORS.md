@@ -16,6 +16,14 @@
 - Bio: Student
 - GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 
+
+#### Name: [Ishan Katoch](https://github.com/ishan-1010)
+
+- Place: Dera Bassi, India
+- Bio: Student
+- GitHub: [Ishan](https://github.com/ishan-1010)
+
+
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
 - Place: Old Street, UK,
@@ -389,6 +397,7 @@
 - GitHub: [agusardi](https://github.com/letdummy)
 
 
+
 #### Name: [Dennis Jojo Kuriakose](https://github.com/atmozki)
 
 - Place: Kottayam, Kerala, India
@@ -422,6 +431,7 @@
 - Place: westBengal, Kolkata, India
 - Bio: I am a Sportslover
 - GitHub: [debajyotig466](https://github.com/debajyotig466)
+
 
 
 
