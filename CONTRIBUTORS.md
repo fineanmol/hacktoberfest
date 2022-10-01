@@ -19,5 +19,11 @@
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
 
+#### Name: [Palash Burad](https://github.com/palash9561)
+- Place: MH, India
+- Bio: I love DOGS! :dog:
+- GitHub: [Palash Burad](https://github.com/palash9561)
+
+
 
 
