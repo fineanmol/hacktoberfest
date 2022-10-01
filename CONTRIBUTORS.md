@@ -1,4 +1,7 @@
-
+#### Name: [Harsh Jain](https://github.com/Sriver27)
+- Place: Kolkata, West Bengal, India
+- Bio: 5th semester undergrad IT student.I am a web development enthusiast
+- GitHub: [Sriver27](https://github.com/Sriver27)
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 - Place: Old Street, UK,
 - Bio: I love DOGS! :dog:
