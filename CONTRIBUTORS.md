@@ -300,6 +300,12 @@
 
 
 
+#### Name: [Prachi Pandey](https://github.com/prachipandeyy)
+- Place: Pune, India
+- Bio: I'm somewhat of a coder myself
+- GitHub: [AbbeyIT](https://github.com/prachipandeyy)
+
+
 #### Name: [Rishi Goswami](https://github.com/rishig2003)
 - Place: Mumbai, India
 - Bio: Student, Coder, Budding Developer
@@ -337,6 +343,7 @@
 - Place: Bhopal, India
 - Bio: Developer | Coder
 - GitHub: [khushimarothi](https://github.com/khushimarothi)
+
 
 
 
