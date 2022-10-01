@@ -249,11 +249,21 @@
 - GitHub: [Ansi007](https://github.com/Ansi007)
 
 
+#### Name: [Kush Munot](https://github.com/Kush-munot)
+- Place: Nagpur, India
+- Bio: "24/7 Student"
+- GitHub: [Kush Munot](https://github.com/Kush-munot)
+=======
+
 #### Name: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
 - Place: Bengaluru, India
 - Bio: Software Developer
 - Github: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
 
+#### Name: [Kush Munot](https://github.com/Kush-munot)
+- Place: Nagpur, India
+- Bio: "24/7 Student"
+- GitHub: [Kush Munot](https://github.com/Kush-munot)
 
 #### Name: [Nehal N Shet](https://github.com/hoplite2000)
 
@@ -261,7 +271,9 @@
 - Bio: I love coding!
 - GitHub: [hoplite2000](https://github.com/hoplite2000)
 
+
 #### Name: [Abbey Santos](https://github.com/AbbeyIT)
 - Place: Manila, Philippines
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
+
