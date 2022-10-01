@@ -261,4 +261,7 @@
 - Bio: I love coding!
 - GitHub: [hoplite2000](https://github.com/hoplite2000)
 
-
+#### Name: [Amit Shinde](https://github.com/amitShindeGit)
+- Place: Pune, Maharashtra, India
+- Bio: Software Developer
+- Github: [Amit Shinde](https://github.com/amitShindeGit)
