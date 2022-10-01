@@ -397,6 +397,13 @@
 - GitHub: [agusardi](https://github.com/letdummy)
 
 
+#### Name: [Luqman Bello](https://github.com/ItzAboki)
+
+- Place: Abuja, Nigeria
+- Bio: I am an art, tech and design enthusiast
+- GitHub: [ItzAboki](https://github.com/ItzAboki)
+
+
 
 #### Name: [Kunal Kaushik](https://github.com/Kunal-8789)
 
@@ -439,7 +446,6 @@
 - GitHub: [lkmeta](https://github.com/lkmeta)
 
 
-
 #### Name: [Dennis Jojo Kuriakose](https://github.com/atmozki)
 
 - Place: Kottayam, Kerala, India
@@ -473,5 +479,6 @@
 - Place: westBengal, Kolkata, India
 - Bio: I am a Sportslover
 - GitHub: [debajyotig466](https://github.com/debajyotig466)
+
 
 
