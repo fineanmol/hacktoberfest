@@ -96,10 +96,23 @@
 - Bio: Student Engineer. Electrical, Electronics and Software
 - GitHub: [Ian Kisali](https://github.com/iankisali)
 
+
+#### Name: [Fazil](https://github.com/fazilakhtar)
+ - Place: Earth
+ - Bio: Software Engineer
+ - GitHub: [Fazil](https://github.com/fazilakhtar)
+
+
+#### Name: [Harshit Maheshwari](https://github.com/harshit-maheshwari)
+- Place: UP, India
+- Bio: Student Engineer: ECE
+- GitHub: [Harshit Maheshwari](https://github.com/harshit-maheshwari)
+
 #### Name: [Divyanshu Modi](https://github.com/Divyanshu-Modi)
 - Place: Mumbai, India
 - Bio: Enjoying this wonderful hacktober
 - GitHub: [Divyanshu Modi](https://github.com/Divyanshu-Modi)
+
 
 #### Name: [प्रथमेश | Prathmesh](https://github.com/prathmesh-b)
 
@@ -111,10 +124,24 @@
 - GitHub: [Chirag8023](https://github.com/Chirag8023)
 
 
+
+- Place: Mumbai, India
+- Bio: I love DOGS and FISH! :dog: :fish:
+- GitHub: [Prathmesh](https://github.com/prathmesh-b)
+
+
+#### Name: Rhythm Bhatia
+
+- Place: New Delhi, India
+- Bio: 21 year old, Information Technology Undergraduate
+- GitHub: [rhythm-28](https://github.com/rhythm-28)
+
+
 #### Name: [Yash Srivastav](https://github.com/Yashs-7)
 -Place: Patna, India
 -Bio: College Student @IIT Patna
 -GitHub: [Yash Srivastav](https://github.com/Yashs-7)
+
 
 #### Name: [Suraj Vishwakarma](https://github.com/surajwakka)
 - Place: Banglore, India
@@ -126,3 +153,4 @@
 - Place: Gandhinagar, India
 - Bio: Always Learning :)
 - GitHub: [Surajwakka](https://github.com/Ayush-Khandelwal28)
+
