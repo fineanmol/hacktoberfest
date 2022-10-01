@@ -4,7 +4,6 @@
 - Bio: Front-end Software Engineer 🤓 & Drummer 🥁
 - GitHub: [vale-c](https://github.com/vale-c)
 
-#### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
 #### Name: [JATIN SAINI](https://github.com/yunocrown)
 - Place: Jaipur, Rajasthan
