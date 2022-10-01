@@ -23,6 +23,11 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
+#### Name: [Chamod Nugekotuwa](https://github.com/c-koder)
+- Place: Ratnapura, Sri Lanka
+- Bio: Love gaming, mystery/comedy tv series and code!
+- GitHub: [c-koder](https://github.com/c-koder)
+
 
 
 
