@@ -23,6 +23,12 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
+#### Name: [Renzo Cabarios](https://github.com/renzocabarios)
+- Place: Philippines
+- Bio: Software Developer
+- GitHub: [Renzo Cabarios](https://github.com/renzocabarios)
+
+
 
 
 
