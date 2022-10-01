@@ -184,3 +184,8 @@
 - Bio: "Live to dominate"
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
+#### Name: [PunGrumpy](https://github.com/PunGrumpy)
+- Place: Bangkok, Thailand
+- Bio: College student
+- GitHub: [PunGrumpy](https://github.com/PunGrumpy)
+
