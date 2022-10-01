@@ -198,3 +198,9 @@
 - Bio: Final Year Computer Science Student from Nepal :)
 - GitHub: [Sambhav](https://github.com/LordSambhav/)
 
+#### Name: [Aastha Kumari](https://github.com/aasthak108)
+
+- Place: NMIT, Bangalore
+- Bio: I love technologies.
+- GitHub: [Aastha Kumari](https://github.com/aasthak108)
+
