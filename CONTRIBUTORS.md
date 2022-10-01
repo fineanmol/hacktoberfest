@@ -102,6 +102,12 @@
 - Bio: Computer Engineering Student,A passionate learner.
 - GitHub: [Sohil Pathan](https://github.com/SohilP25)
 
+
+#### Name: [Ayush Rawat](https://github.com/Ayushrawat-cmd)
+- Place: Delhi, India
+- Bio: Web and software developer and ML/data scientist
+- Github: [Ayush Rawat](https://github.com/Ayushrawat-cmd)
+
 #### Name: [Anushka](https://github.com/Anushka298)
 - Place: India
 - Bio: ML engineer
