@@ -12,7 +12,7 @@
 - GitHub: [Vallenain](https://github.com/Vallenain)
 
 
- 
+
 #### Name: Ryan
  - Place: Kadiappatinam, India
  - Bio: 12 year old. Just chillin.
@@ -40,7 +40,7 @@
 - Place: Indonesia
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
-- 
+-
 #### Name: [Heru Hermawan](https://github.com/iamheru)
 - Place: Indonesia
 - Bio: Front End Web Developer
@@ -144,7 +144,7 @@
 
 #### Name: [Swagat Panda](https://github.com/socopoko)
 - Place: India
-- Bio: Software Engineer 
+- Bio: Software Engineer
 - Github: [socopoko](https://github.com/socopoko)
 
 #### Name: [Aditya Dwivedi](https://github.com/Lonewolf0502)
@@ -187,4 +187,7 @@
 - Bio: 5th semester undergrad IT student.I am a web development enthusiast
 - GitHub: [Sriver27](https://github.com/Sriver27)
 
-
+#### Name: [Sambhav](https://github.com/LordSambhav/)
+- Place: Nepal
+- Bio: Final Year Computer Science Student from Nepal :)
+- GitHub: [Sambhav](https://github.com/LordSambhav/)
