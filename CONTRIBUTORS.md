@@ -184,3 +184,9 @@
 - Bio: "Live to dominate"
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
+
+#### Name: [Anns Shahbaz](https://github.com/Ansi007)
+- Place: Lahore, Punjab, Pakistan
+- Bio: "24/7 Student"
+- GitHub: [Ansi007](https://github.com/Ansi007)
+
