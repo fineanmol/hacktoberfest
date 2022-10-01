@@ -22,8 +22,35 @@
 - Place: Indonesia
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
+- 
+#### Name: [Heru Hermawan](https://github.com/iamheru)
+- Place: Indonesia
+- Bio: Front End Web Developer
+- GitHub: [Heru Hermawan](https://github.com/iamheru)
+
+
+
+
+#### Name: [Dixit Tilaji](https://github.com/dixitt5)
+- Place: India
+- Bio: Developer
+- GitHub: [Dixit Tilaji](https://github.com/dixitt5)
+
 
 #### Name: [Chris](https://github.com/ChrisVo)
 - Place: Southern California
 - Bio: Front End Web Developer
 - GitHub: [Chris](https://github.com/Chrisvo)
+
+#### Name: [Aditya More](https://github.com/AdityaMore7000/)
+- Place: India
+- Bio: Second Year Computer Engineering Student from Pune :)
+- GitHub: [Aditya More](https://github.com/AdityaMore7000/)
+
+
+#### Name: [Sohil Pathan](https://github.com/SohilP25)
+- Place: Gujarat,India
+- Bio: Computer Engineering Student,A passionate learner.
+- GitHub: [Sohil Pathan](https://github.com/SohilP25)
+
+
