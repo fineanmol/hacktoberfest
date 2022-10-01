@@ -389,6 +389,13 @@
 - GitHub: [agusardi](https://github.com/letdummy)
 
 
+#### Name: [Dhruv Pandey](https://github.com/Dhruvpandey08)
+
+- Place: Ghaziabad, UP, India
+- Bio: Tech Enthusiast
+- GitHub: [Dhruv Pandey](https://github.com/Dhruvpandey08)
+
+
 #### Name: [Sayak Mondal](https://github.com/isayakmondal)
 
 - Place: Kolkata, India
@@ -408,6 +415,7 @@
 - Place: westBengal, Kolkata, India
 - Bio: I am a Sportslover
 - GitHub: [debajyotig466](https://github.com/debajyotig466)
+
 
 
 
