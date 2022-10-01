@@ -291,8 +291,15 @@
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
+
 #### Name: [Sachin Aghera](https://github.com/AgheraSachin)
 - Place: Karnataka, India
 - Bio: Open Source Enthusiast
 - GitHub: [Sachin Aghera](https://github.com/AgheraSachin)
+
+
+#### Name: [Khushi Marothi](https://github.com/khushimarothi)
+- Place: Bhopal, India
+- Bio: Developer | Coder
+- GitHub: [khushimarothi](https://github.com/khushimarothi)
 
