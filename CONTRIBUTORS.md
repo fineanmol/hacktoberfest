@@ -292,7 +292,7 @@
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
-- #### Name: [Kartikey Jain](https://github.com/kjain05)
+ #### Name: [Kartikey Jain](https://github.com/kjain05)
 - Place: Delhi, India
 - Bio: Exploring new features
 - GitHub: [kjain05](https://github.com/kjain05)
