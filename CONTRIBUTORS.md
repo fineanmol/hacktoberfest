@@ -23,6 +23,10 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
+#### Name: [Rizqi Bagus Andrean](https://github.com/bagusok)
+- Place: Indonesia
+- Bio: Backend Developer
+- GitHub: [Rizqi Bagus Andrean](https://github.com/bagusok)
 
 
 
