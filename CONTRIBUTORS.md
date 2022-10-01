@@ -375,3 +375,9 @@
 - Place: Jogja, Jogja, Indonesia
 - Bio: I am a learner
 - GitHub: [agusardi](https://github.com/letdummy)
+
+#### Name: [lkmeta](https://github.com/lkmeta)
+
+- Place: Thessaloniki, Greece
+- Bio: I am a student
+- GitHub: [agusardi](https://github.com/lkmeta)
