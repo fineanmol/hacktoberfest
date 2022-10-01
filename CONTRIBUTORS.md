@@ -19,6 +19,11 @@
 - Bio: Full Stack Developer
 - GitHub: [Devesh1602](https://github.com/Devesh1602)
 
+#### Name: [Avnish Ranwa](https://github.com/avnishranwa7)
+- Place: Jaipur, Rajasthan, India
+- Bio: Software Engineer
+- GitHub: [avnishranwa7](https://github.com/avnishranwa7)
+
 #### Name: Ryan
 
 - Place: Kadiappatinam, India
