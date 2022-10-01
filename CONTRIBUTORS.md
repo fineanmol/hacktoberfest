@@ -255,5 +255,10 @@
 - Github: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
 
 
+#### Name: [Nehal N Shet](https://github.com/hoplite2000)
+
+- Place: Bangalore, India
+- Bio: I love coding!
+- GitHub: [hoplite2000](https://github.com/hoplite2000)
 
 
