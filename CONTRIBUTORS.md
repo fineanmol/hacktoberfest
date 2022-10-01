@@ -1,3 +1,9 @@
+#### Name: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
+
+- Place: Delhi, India
+- Bio: Student
+- GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
+
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
 - Place: Old Street, UK,
@@ -184,7 +190,31 @@
 - Bio: "Live to dominate"
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
+
 #### Name: [Sourav Kumar Bhunia](https://github.com/souravbhunia07)
 - Place: New Delhi, India
 - Bio: "No.1 knucklehead Programmer"
 - Github: [souravbhunia07](https://github.com/souravbhunia07)
+
+
+#### Name: [PunGrumpy](https://github.com/PunGrumpy)
+- Place: Bangkok, Thailand
+- Bio: College student
+- GitHub: [PunGrumpy](https://github.com/PunGrumpy)
+
+
+#### Name: [Udeet Mittal](https://github.com/udeet27)
+
+- Place: Pune, Maharashtra, India
+- Bio: Web-developer & UI/UX designer
+- GitHub: [Udeet Mittal](https://github.com/udeet27)
+
+
+#### Name: [Anns Shahbaz](https://github.com/Ansi007)
+- Place: Lahore, Punjab, Pakistan
+- Bio: "24/7 Student"
+- GitHub: [Ansi007](https://github.com/Ansi007)
+
+
+
+
