@@ -40,6 +40,11 @@
 - Bio: Software Engineer
 - GitHub: [avnishranwa7](https://github.com/avnishranwa7)
 
+#### Name: [Dev Kumar Gupta](https://github.com/DevGupta-ikr)
+- Place: Kolkata, West Bengal, India
+- Bio: Product Designer
+- GitHub: [DevGupta-ikr](https://github.com/DevGupta-ikr)
+
 #### Name: Ryan
 
 - Place: Kadiappatinam, India
