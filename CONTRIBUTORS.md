@@ -120,10 +120,17 @@
 - GitHub: [Anushka](https://github.com/Anushka298)
 
 
+#### Name: [Swagat Panda](https://github.com/socopoko)
+- Place: India
+- Bio: Software Engineer 
+- Github: [socopoko](https://github.com/socopoko)
+
+
 #### Name: [Anish Mathakiya](https://github.com/iam-anish)
 - Place: Gujarat, India,
 - Bio: Software Developer.
 - GitHub: [Anish Mathakiya](https://github.com/iam-anish)
+
 
 #### Name: [Harsh Jain](https://github.com/Sriver27)
 - Place: Kolkata, West Bengal, India
