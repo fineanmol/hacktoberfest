@@ -140,4 +140,8 @@
 - Bio: A Learner
 - GitHub: [Surajwakka](https://github.com/surajwakka)
 
+#### Name: [Nishant](https://github.com/Ordinary-droid)
+- Place: Jaipur, India
+- Bio: Student :D
+- GitHub: [Nishant Thottarath](https://github.com/Ordinary-droid)
 
