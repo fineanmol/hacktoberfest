@@ -184,3 +184,8 @@
 - Bio: "Live to dominate"
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
+#### Name: [Pradeep Khatri](https://github.com/PradeepKhatri)
+- Place: Haryana, India
+- Bio: "Suiiiiii"
+- GitHub: [PradeepKhatri](https://github.com/PradeepKhatri)
+
