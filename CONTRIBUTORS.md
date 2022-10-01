@@ -344,6 +344,10 @@
 - Bio: Developer | Coder
 - GitHub: [khushimarothi](https://github.com/khushimarothi)
 
+#### Name: [Muhammad Hassan](https://github.com/Mhassanniazi)
+- Place: Karachi, Pakistan
+- Bio: Coding Ninja
+- GitHub: [Muhammad Hassan](https://github.com/Mhassanniazi)
 
 
 
