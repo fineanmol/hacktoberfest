@@ -90,6 +90,12 @@
 - Bio: Front End Web Developer
 - GitHub: [Chris](https://github.com/Chrisvo)
 
+#### Name: [Renzo Cabarios](https://github.com/renzocabarios)
+- Place: Philippines
+- Bio: Software Developer
+- GitHub: [Renzo Cabarios](https://github.com/renzocabarios)
+
+
 
 #### Name: [Nalin Kashyap](https://github.com/Nkashyap-anand)
 
