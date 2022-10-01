@@ -19,5 +19,9 @@
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
 
+#### Name: [Ian Kisali](https://github.com/iankisali)
+- Place: Nairobi, Kenya
+- Bio: Student Engineer. Electrical, Electronics and Software
+- GitHub: [Ian Kisali](https://github.com/iankisali)
 
 
