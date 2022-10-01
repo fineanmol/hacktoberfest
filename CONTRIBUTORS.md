@@ -23,6 +23,10 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
+#### Name: [Gourav Saini](https://github.com/g7i)
+- Place: India
+- Bio: Software Developer
+- GitHub: [Gourav Saini](https://github.com/g7i)
 
 
 
