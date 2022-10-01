@@ -1,4 +1,3 @@
-
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 - Place: Old Street, UK,
 - Bio: I love DOGS! :dog:
@@ -22,5 +21,10 @@
 - Place: Lucknow, Uttar Pradesh, India
 - Bio: Computer science final year student
 - GitHub: [Sayam241020](https://github.com/Sayam241020)
+
+#### Name: [Ian Kisali](https://github.com/iankisali)
+- Place: Nairobi, Kenya
+- Bio: Student Engineer. Electrical, Electronics and Software
+- GitHub: [Ian Kisali](https://github.com/iankisali)
 
 
