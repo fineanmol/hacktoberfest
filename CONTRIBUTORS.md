@@ -23,6 +23,8 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
-
-
+#### Name: [Utkarsh Singh](https://github.com/UtkarshSingh5474)
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: Student in BTeach Computer Science who loves to develop applications
+- GitHub: [UtkarshSingh5474](https://github.com/UtkarshSingh5474)
 
