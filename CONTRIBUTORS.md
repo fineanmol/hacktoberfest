@@ -184,3 +184,7 @@
 - Bio: "Live to dominate"
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
+#### Name: [Shashank Singh](https://github.com/Shashank0271)
+- Place: Bengaluru, India
+- Bio: "// No comment"
+- GitHub: [Shashank0271](https://github.com/Shashank0271)
