@@ -96,6 +96,11 @@
 - Bio: Student Engineer. Electrical, Electronics and Software
 - GitHub: [Ian Kisali](https://github.com/iankisali)
 
+#### Name: [Divyanshu Modi](https://github.com/Divyanshu-Modi)
+- Place: Mumbai, India
+- Bio: Enjoying this wonderful hacktober
+- GitHub: [Divyanshu Modi](https://github.com/Divyanshu-Modi)
+
 #### Name: [प्रथमेश | Prathmesh](https://github.com/prathmesh-b)
 
 
@@ -110,7 +115,6 @@
 -Place: Patna, India
 -Bio: College Student @IIT Patna
 -GitHub: [Yash Srivastav](https://github.com/Yashs-7)
-
 
 #### Name: [Suraj Vishwakarma](https://github.com/surajwakka)
 - Place: Banglore, India
