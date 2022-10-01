@@ -397,6 +397,13 @@
 - GitHub: [agusardi](https://github.com/letdummy)
 
 
+
+#### Name: [Kunal Kaushik](https://github.com/Kunal-8789)
+
+- Place: Patna, Bihar, India
+- Bio: I am a problem solver and coder.
+- GitHub: [Kunal-8789](https://github.com/Kunal-8789)
+
 #### Name: [Akashdeep Tickoo](https://github.com/Akashdeep-Tickoo)
 
 - Place: Jammu, J&K, India
@@ -466,4 +473,5 @@
 - Place: westBengal, Kolkata, India
 - Bio: I am a Sportslover
 - GitHub: [debajyotig466](https://github.com/debajyotig466)
+
 
