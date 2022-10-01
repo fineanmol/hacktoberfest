@@ -8,25 +8,10 @@ This repository is open to all members of the GitHub community. Any member may c
 
 [https://fineanmol.github.io/hacktoberfest/](https://fineanmol.github.io/hacktoberfest/)
 
-![image](https://user-images.githubusercontent.com/86391985/193400414-e59abf37-1aa4-4d44-a9ea-727f3e8eed4a.png)
+## What is Hacktoberfest?
+A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.com/) and [GitHub](https://dev.to/this-is-learning/hacktoberfest-2022-is-almost-there-get-ready-4ifb) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
-
-# A different kind of contribution this year
-
-There’s a new way to contribute this year—financially. Hacktoberfest is the perfect time to give back to open source maintainers. Maintainers are the backbones of the software we all use. We all know backbones get sore after a long day, so consider sending them some support (and a lumbar pillow). The Hacktoberfest donation page is integrated with both GitHub Sponsors and OpenCollective to make it easy to find projects you’d like to thank. While you’re there, consider what smaller projects you benefit from and could especially use relative to resources.
-
-
-# New to contributing in open source?
-
-Hacktoberfest can be an especially welcoming time to dip your toes into open source contributions for the first time. There’s plenty of streams, posts, guides, and conversations around getting started. You’re joining many folks also starting their journey this month!
-
-Hacktoberfest’s website has some great resource for beginners: https://hacktoberfest.digitalocean.com/resources/beginners
-Guide to Making your First Contribution by Ceora Ford: https://dev.to/codesandboxio/how-to-make-your-first-open-source-contribution-2oim
-Practice the workflow for making your first contribution: https://github.com/firstcontributions/first-contributions
-Find good first issues: https://goodfirstissue.dev/
-Overcoming impostor syndrome of contributing to open source: https://blackgirlbytes.dev/conquering-the-fear-of-contributing-to-open-source
-Open Source projects participating in Hacktoberfest: https://github.com/topics/hacktoberfest
-
+[https://hacktoberfest.com/](https://hacktoberfest.com/)
 
 ## How to contribute to this project
 Here are 3 quick and painless ways to contribute to this project:
