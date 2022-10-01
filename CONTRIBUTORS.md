@@ -340,6 +340,12 @@
 
 
 
+#### Name: [Pankaj Singh Sirari](https://github.com/pankajsirari222)
+- Place: Uttarakhand, India
+- Bio: Interested in DSA and Web development
+- GitHub: [pankajsirari222](https://github.com/pankajsirari222)
+
+
 #### Name: [Tanishka Rao](https://github.com/tanishkarao16)
 - Place: Mumbai, India
 - Bio: Developer | Coder
@@ -356,6 +362,7 @@
 - Place: Gorakhpur, UP, India
 - Bio: Coder and VLSI Enthusiasts
 - GitHub: [maazm007](https://github.com/maazm007)
+
 
 
 
