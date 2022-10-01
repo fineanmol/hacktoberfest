@@ -405,6 +405,13 @@
 - GitHub: [agusardi](https://github.com/letdummy)
 
 
+#### Name: [Soustab Haldar](https://github.com/soustab10)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Computer Science Major and Developer
+- GitHub: [soustab10](https://github.com/soustab10)
+
+
 #### Name: [AntishK](https://github.com/AntishK)
 
 - Place: Mauritius
