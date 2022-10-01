@@ -248,6 +248,7 @@
 - Bio: "24/7 Student"
 - GitHub: [Ansi007](https://github.com/Ansi007)
 
+
 #### Name: [Kush Munot](https://github.com/Kush-munot)
 - Place: Nagpur, India
 - Bio: "24/7 Student"
@@ -269,8 +270,24 @@
 - Bio: I love coding!
 - GitHub: [hoplite2000](https://github.com/hoplite2000)
 
+
 #### Name: [Dhruv Bhagatkar](https://github.com/yunocrown)
 
 - Place: Mumbai,Maharashtra
 - Bio: 2nd Year EXTC student in KJSCE
 - GitHub: [dhruv2003](https://github.com/dhruv2003)
+
+
+
+#### Name: [Siddhesh Khandagale](https://github.com/Siddheshk02)
+
+- Place: Maharashtra, India
+- Bio: Student
+- GitHub: [Siddhesh Khandagale](https://github.com/Siddheshk02)
+
+
+#### Name: [Abbey Santos](https://github.com/AbbeyIT)
+- Place: Manila, Philippines
+- Bio: Open Source Enthusiast
+- GitHub: [AbbeyIT](https://github.com/AbbeyIT)
+
