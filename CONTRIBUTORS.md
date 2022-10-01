@@ -389,6 +389,13 @@
 - GitHub: [agusardi](https://github.com/letdummy)
 
 
+#### Name: [Sayak Mondal](https://github.com/isayakmondal)
+
+- Place: Kolkata, India
+- Bio: Passionate Programmer | CSE Undergrad
+- GitHub: [Sayak Mondal](https://github.com/isayakmondal)
+
+
 #### Name: [Moch Rizal Fadilah](https://github.com/papoy-xor)
 
 - Place: Bandung, Jawa Barat, Indonesia
@@ -401,5 +408,6 @@
 - Place: westBengal, Kolkata, India
 - Bio: I am a Sportslover
 - GitHub: [debajyotig466](https://github.com/debajyotig466)
+
 
 
