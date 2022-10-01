@@ -19,9 +19,18 @@
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
 
+
+#### Name: [Palash Burad](https://github.com/palash9561)
+- Place: MH, India
+- Bio: I love DOGS! :dog:
+- GitHub: [Palash Burad](https://github.com/palash9561)
+
+
+
 #### Name: [Ian Kisali](https://github.com/iankisali)
 - Place: Nairobi, Kenya
 - Bio: Student Engineer. Electrical, Electronics and Software
 - GitHub: [Ian Kisali](https://github.com/iankisali)
+
 
 
