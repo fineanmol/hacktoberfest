@@ -28,6 +28,12 @@
 - Bio: 3rd year Computer Science Student At Arya College of Engineering and I.T
 - GitHub: [yunocrown](https://github.com/yunocrown)
 
+#### Name: [Oreoluwa Alaba](https://github.com/SanDiego2049)
+
+- Place: Lagos, Nigeria
+- Bio: https://twitter.com/Sandiego2049
+- GitHub: [SanDiego2049](https://github.com/SanDiego2049)
+
 #### Name: Vallenain
 
 - Place: Lyon, France
