@@ -198,3 +198,7 @@
 - Bio: Final Year Computer Science Student from Nepal :)
 - GitHub: [Sambhav](https://github.com/LordSambhav/)
 
+#### Name: [Om Umrania](https://github.com/om-umrania/)
+- Place: Maharashtra, India
+- Bio: Life Long Learner
+- GitHub: [Om Umrania](https://github.com/om-umrania/)
