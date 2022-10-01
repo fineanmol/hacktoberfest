@@ -375,3 +375,9 @@
 - Place: Jogja, Jogja, Indonesia
 - Bio: I am a learner
 - GitHub: [agusardi](https://github.com/letdummy)
+
+#### Name: [Dhruv Pandey](https://github.com/Dhruvpandey08)
+
+- Place: Ghaziabad, UP, India
+- Bio: Tech Enthusiast
+- GitHub: [Dhruv Pandey](https://github.com/Dhruvpandey08)
