@@ -1,4 +1,3 @@
-
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
 - Place: Old Street, UK,
@@ -50,6 +49,12 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+
+#### Name: [Sayam Agarwal](https://github.com/Sayam241020)
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Computer science final year student
+- GitHub: [Sayam241020](https://github.com/Sayam241020)
+
 #### Name: Muhammad Noorani
 
 - Place: Gujarat, India
@@ -69,6 +74,7 @@
 - Place: Hamirpur, Himachal Pradesh, Inida
 - Bio: A passionate competitive programmer.
 - GitHub: [shivanshut105](https://github.com/shivanshut105)
+
 
 #### Name: [Ian Kisali](https://github.com/iankisali)
 - Place: Nairobi, Kenya
