@@ -210,3 +210,7 @@
 - Bio: ML Developer
 - GitHub: [Sooraj](https://github.com/soorajks2002/)
 
+#### Name: [Ian Kisali](https://github.com/iankisali)
+- Place: Nairobi, Kenya
+- Bio: Student Engineer. Electrical, Electronics and Software
+- GitHub: [Ian Kisali](https://github.com/iankisali)
