@@ -108,6 +108,12 @@
 - Bio: Web and software developer and ML/data scientist
 - Github: [Ayush Rawat](https://github.com/Ayushrawat-cmd)
 
+
+#### Name: [Anshul Dadhwal](https://github.com/AnshulDadhwal)
+- Place: Australia
+- Bio: Third year Software Engineering Student
+- GitHub: [Anshul Dadhwal](https://github.com/AnshulDadhwal)
+
 #### Name: [Anushka](https://github.com/Anushka298)
 - Place: India
 - Bio: ML engineer
@@ -123,3 +129,4 @@
 - Place: Kolkata, West Bengal, India
 - Bio: 5th semester undergrad IT student.I am a web development enthusiast
 - GitHub: [Sriver27](https://github.com/Sriver27)
+
