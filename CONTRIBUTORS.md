@@ -180,5 +180,8 @@
 - Bio: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 - GitHub: [ProgrammerDG](https://github.com/ProgrammerDG)
 
-
+#### Name: [Shivam Kumar Padney](https://github.com/Shivam164)
+- Place: New Delhi, India
+- Bio: "Live to dominate"
+- GitHub: [Shivam164](https://github.com/Shivam164)
 
