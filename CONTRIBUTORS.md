@@ -1,3 +1,7 @@
+#### Name: [Anish Mathakiya](https://github.com/iam-anish)
+- Place: Gujarat, India,
+- Bio: Software Developer.
+- GitHub: [Anish Mathakiya](https://github.com/iam-anish)
 
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 - Place: Old Street, UK,
