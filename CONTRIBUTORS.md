@@ -5,14 +5,12 @@
 - GitHub: [Anmol Agarwal](https://github.com/fineanmol)
 
 
+#### Name: Vallenain
 
 - Place: Lyon, France
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
 
-- Place: Lyon, France
-- Bio: Software engineer. Graduated from INSA Lyon.
-- GitHub: [Vallenain](https://github.com/Vallenain)
 
  
 #### Name: Ryan
@@ -24,8 +22,6 @@
 - Place: INDIA
 - Bio: 12 Year Old Just Chillin
 - GitHub: [Ryan-techie](https://github.com/Ryan-techie)
-
-
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 
@@ -169,6 +165,13 @@
 - Bio: Front End Web Developer
 - GitHub: [Sainath](https://github.com/sainathd07)
 
+
+#### Name: [Gabriel Mendoza](https://github.com/GabTheGreat25)
+
+- Place: Philippines
+- Bio: Front End Web Developer
+- GitHub: [Gabriel Mendoza](https://github.com/GabTheGreat25)
+
 #### Name: [Anish Mathakiya](https://github.com/iam-anish)
 - Place: Gujarat, India,
 - Bio: Software Developer.
@@ -179,4 +182,5 @@
 - Place: Kolkata, West Bengal, India
 - Bio: 5th semester undergrad IT student.I am a web development enthusiast
 - GitHub: [Sriver27](https://github.com/Sriver27)
+
 
