@@ -27,3 +27,11 @@
 - Place: Gujarat, India
 - Bio: B-Tech Undergraduate Cse Student
 - GitHub: [Muhammmad Noorani](https://github.com/MuhammadNoorani)
+
+#### Name: [Ian Kisali](https://github.com/iankisali)
+- Place: Nairobi, Kenya
+- Bio: Student Engineer. Electrical, Electronics and Software
+- GitHub: [Ian Kisali](https://github.com/iankisali)
+
+
+
