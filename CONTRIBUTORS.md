@@ -375,3 +375,9 @@
 - Place: Jogja, Jogja, Indonesia
 - Bio: I am a learner
 - GitHub: [agusardi](https://github.com/letdummy)
+
+#### Name: [Sayak Mondal](https://github.com/isayakmondal)
+
+- Place: Kolkata, India
+- Bio: Passionate Programmer | CSE Undergrad
+- GitHub: [Sayak Mondal](https://github.com/isayakmondal)
