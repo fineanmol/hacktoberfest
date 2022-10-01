@@ -249,7 +249,10 @@
 - Bio: I love technologies.
 - GitHub: [Aastha Kumari](https://github.com/aasthak108)
 
-
+#### Name: [Shivam Kumar Jha]
+- Place: Delhi, India
+- Bio: |Web-Developer|USAR'25|DSA LOVER❤|
+- GitHub: [SHIVAM KUMAR JHA](https://github.com/s-k-jha)
 #### Name: [YOUR NAME](GitHub link)
 - Place: Bangalore, Karnataka, India
 - Bio: ML Developer
