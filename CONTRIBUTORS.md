@@ -375,3 +375,9 @@
 - Place: Jogja, Jogja, Indonesia
 - Bio: I am a learner
 - GitHub: [agusardi](https://github.com/letdummy)
+
+#### Name: [AntishK](https://github.com/AntishK)
+
+- Place: Mauritius
+- Bio: Software Developer
+- GitHub: [agusardi](https://github.com/AntishK)
