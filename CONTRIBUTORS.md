@@ -291,3 +291,8 @@
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
+#### Name: [Preetraj Haldar](https://github.com/the-threshold-frequency)
+- Place: Kolkata, West Bengal, India
+- Bio: Third year CSE Undergrad, Blockchain Developer-in-the-making
+- GitHub: [the-threshold-frequency](https://github.com/the-threshold-frequency)
+
