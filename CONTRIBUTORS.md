@@ -111,10 +111,23 @@
 - GitHub: [Chirag8023](https://github.com/Chirag8023)
 
 
+
+- Place: Mumbai, India
+- Bio: I love DOGS and FISH! :dog: :fish:
+- GitHub: [Prathmesh](https://github.com/prathmesh-b)
+
+#### Name: Rhythm Bhatia
+
+- Place: New Delhi, India
+- Bio: 21 year old, Information Technology Undergraduate
+- GitHub: [rhythm-28](https://github.com/rhythm-28)
+
+
 #### Name: [Yash Srivastav](https://github.com/Yashs-7)
 -Place: Patna, India
 -Bio: College Student @IIT Patna
 -GitHub: [Yash Srivastav](https://github.com/Yashs-7)
+
 
 #### Name: [Suraj Vishwakarma](https://github.com/surajwakka)
 - Place: Banglore, India
