@@ -59,6 +59,11 @@
 - Bio: Love gaming, mystery/comedy tv series and code!
 - GitHub: [c-koder](https://github.com/c-koder)
 
+#### Name: [Daksh Kesarwani](https://github.com/InnocentDaksh63)
+- Place: India
+- Bio - Backend developer
+- Github:[Daksh kesarwani](https://github.com/InnocentDaksh63)
+
 
 #### Name: [Dixit Tilaji](https://github.com/dixitt5)
 - Place: India
