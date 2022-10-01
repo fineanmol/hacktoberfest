@@ -112,3 +112,8 @@
 - Place: Gujarat, India,
 - Bio: Software Developer.
 - GitHub: [Anish Mathakiya](https://github.com/iam-anish)
+
+#### Name: [Harsh Jain](https://github.com/Sriver27)
+- Place: Kolkata, West Bengal, India
+- Bio: 5th semester undergrad IT student.I am a web development enthusiast
+- GitHub: [Sriver27](https://github.com/Sriver27)
