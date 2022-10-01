@@ -3,6 +3,7 @@
 - Place: Old Street, UK,
 - Bio: I love DOGS! :dog:
 - GitHub: [Anmol Agarwal](https://github.com/fineanmol)
+
 #### Name: Vallenain
 
 
@@ -62,6 +63,10 @@
 - Bio: Student Engineer. Electrical, Electronics and Software
 - GitHub: [Ian Kisali](https://github.com/iankisali)
 
+#### Name: [प्रथमेश | Prathmesh](https://github.com/prathmesh-b)
 
+- Place: Mumbai, India
+- Bio: I love DOGS and FISH! :dog: :fish:
+- GitHub: [Prathmesh](https://github.com/prathmesh-b)
 
 
