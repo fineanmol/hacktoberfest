@@ -1,9 +1,6 @@
-#include <iostream>
-
-int main() {
-    std::ios_base::sync_with_stdio(false);
-
-    std::cout << "Hello, World" << std::endl;
-
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    cout<<"Hello world";
     return 0;
 }
