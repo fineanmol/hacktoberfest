@@ -291,3 +291,7 @@
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
+#### Name: [Khushi Marothi](https://github.com/khushimarothi)
+- Place: Bhopal, India
+- Bio: Developer | Coder
+- GitHub: [khushimarothi](https://github.com/khushimarothi)
