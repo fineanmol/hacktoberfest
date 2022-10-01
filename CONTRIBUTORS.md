@@ -291,3 +291,7 @@
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
+#### Name: [Prachi Pandey](https://github.com/prachipandeyy)
+- Place: Pune, India
+- Bio: I'm somewhat of a coder myself
+- GitHub: [AbbeyIT](https://github.com/prachipandeyy)
