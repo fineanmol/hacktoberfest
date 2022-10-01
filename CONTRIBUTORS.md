@@ -291,3 +291,7 @@
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
+#### Name: [Maglionaire](https://github.com/maglionaire)
+- Place: Bangkok, Thailand
+- Bio: Interesting in code
+- GitHub: [Maglionaire](https://github.com/maglionaire)
