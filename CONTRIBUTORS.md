@@ -397,6 +397,13 @@
 - GitHub: [agusardi](https://github.com/letdummy)
 
 
+#### Name: [Akashdeep Tickoo](https://github.com/Akashdeep-Tickoo)
+
+- Place: Jammu, J&K, India
+- Bio: I love to code?
+- GitHub: [Akashdeep-Tickoo](https://github.com/Akashdeep-Tickoo)
+
+
 #### Name: [Devender Pal](https://github.com/devender15)
 
 - Place: Gurugram, India
@@ -459,11 +466,4 @@
 - Place: westBengal, Kolkata, India
 - Bio: I am a Sportslover
 - GitHub: [debajyotig466](https://github.com/debajyotig466)
-
-
-
-
-
-
-
 
