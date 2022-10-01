@@ -1,3 +1,9 @@
+#### Name: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
+
+- Place: Delhi, India
+- Bio: Student
+- GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
+
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
 - Place: Old Street, UK,
@@ -33,6 +39,11 @@
 - Place: Jaipur, Rajasthan, India
 - Bio: Software Engineer
 - GitHub: [avnishranwa7](https://github.com/avnishranwa7)
+
+#### Name: [Dev Kumar Gupta](https://github.com/DevGupta-ikr)
+- Place: Kolkata, West Bengal, India
+- Bio: Product Designer
+- GitHub: [DevGupta-ikr](https://github.com/DevGupta-ikr)
 
 #### Name: Ryan
 
@@ -185,6 +196,46 @@
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
 
+#### Name: [Naufal Hisyam](https://github.com/naufalhisyam)
+- Place: West Java, Indonesia
+- Bio: A tech enthusiast
+- GitHub: [naufalhisyam](https://github.com/naufalhisyam)
+
+
+#### Name: [Shashank Singh](https://github.com/Shashank0271)
+- Place: Bengaluru, India
+- Bio: "// No comment"
+- GitHub: [Shashank0271](https://github.com/Shashank0271)
+
+#### Name: [Beatriz Sabino](https://github.com/beatriz-sabino)
+- Place: Portugal
+- Bio: Learning how to contribute to Hacktoberfest 
+- GitHub: [beatriz-sabino](https://github.com/beatriz-sabino)
+
+
+#### Name: [Aditya Rawat](https://github.com/tech-with-aditya)
+- Place: Dehradun, Uttarakhand, India
+- Bio: "B.Tech CSE Undergrad"
+- GitHub: [tech-with-aditya](https://github.com/tech-with-aditya)
+
+#### Name: [Pradeep Khatri](https://github.com/PradeepKhatri)
+- Place: Haryana, India
+- Bio: "Suiiiiii"
+- GitHub: [PradeepKhatri](https://github.com/PradeepKhatri)
+
+
+#### Name: [Sourav Kumar Bhunia](https://github.com/souravbhunia07)
+- Place: New Delhi, India
+- Bio: "No.1 knucklehead Programmer"
+- Github: [souravbhunia07](https://github.com/souravbhunia07)
+
+
+#### Name: [PunGrumpy](https://github.com/PunGrumpy)
+- Place: Bangkok, Thailand
+- Bio: College student
+- GitHub: [PunGrumpy](https://github.com/PunGrumpy)
+
+
 #### Name: [Udeet Mittal](https://github.com/udeet27)
 
 - Place: Pune, Maharashtra, India
@@ -196,6 +247,12 @@
 - Place: Lahore, Punjab, Pakistan
 - Bio: "24/7 Student"
 - GitHub: [Ansi007](https://github.com/Ansi007)
+
+
+#### Name: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
+- Place: Bengaluru, India
+- Bio: Software Developer
+- Github: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
 
 
 #### Name: [Nehal N Shet](https://github.com/hoplite2000)
