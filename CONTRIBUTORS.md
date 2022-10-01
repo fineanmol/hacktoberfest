@@ -195,6 +195,12 @@
 - Bio: "Live to dominate"
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
+
+#### Name: [Shashank Singh](https://github.com/Shashank0271)
+- Place: Bengaluru, India
+- Bio: "// No comment"
+- GitHub: [Shashank0271](https://github.com/Shashank0271)
+
 #### Name: [Beatriz Sabino](https://github.com/beatriz-sabino)
 - Place: Portugal
 - Bio: Learning how to contribute to Hacktoberfest 
@@ -241,5 +247,6 @@
 - Place: Bengaluru, India
 - Bio: Software Developer
 - Github: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
+
 
 
