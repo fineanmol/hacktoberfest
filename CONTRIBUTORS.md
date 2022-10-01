@@ -231,5 +231,7 @@
 - Bio: "24/7 Student"
 - GitHub: [Ansi007](https://github.com/Ansi007)
 
-
-
+#### Name: [Kush Munot](https://github.com/Kush-munot)
+- Place: Nagpur, India
+- Bio: "24/7 Student"
+- GitHub: [Kush Munot](https://github.com/Kush-munot)
