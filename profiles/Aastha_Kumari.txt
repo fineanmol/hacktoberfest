@@ -1,13 +1,7 @@
 Aastha Kumari
-Location
-Bangalore, Karnataka, India
 
-Academics
-Persuing B-tech in Information Technology
+Bangalore,India
 
-Interests
-DSA
-DevOps
-AWS
-Open Source
-Development
+NMIT College
+
+DSA Enthusiast
