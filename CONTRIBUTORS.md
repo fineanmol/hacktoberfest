@@ -375,3 +375,9 @@
 - Place: Jogja, Jogja, Indonesia
 - Bio: I am a learner
 - GitHub: [agusardi](https://github.com/letdummy)
+
+#### Name: [Devender Pal](https://github.com/devender15)
+
+- Place: Gurugram, India
+- Bio: https://twitter.com/0x15_dev
+- GitHub: [Devender Pal](https://github.com/devender15)
