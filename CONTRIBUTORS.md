@@ -136,6 +136,11 @@
 - Bio: Web Developer
 - GitHub: [Aditya Dwivedi](https://github.com/Lonewolf0502)
 
+#### Name: [Vedant Sharma](https://github.com/Eatbullets)
+- Place: India
+- Bio: Student
+- GitHub: [Vedant Sharma](https://github.com/Eatbullets)
+
 
 
 #### Name: [Sainath](https://github.com/sainathd07)
