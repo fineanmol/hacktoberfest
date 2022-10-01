@@ -32,5 +32,8 @@
 - Bio: Student Engineer. Electrical, Electronics and Software
 - GitHub: [Ian Kisali](https://github.com/iankisali)
 
-
+#### Name: [Harshit Maheshwari](https://github.com/harshit-maheshwari)
+- Place: UP, India
+- Bio: Student Engineer: ECE
+- GitHub: [Harshit Maheshwari](https://github.com/harshit-maheshwari)
 
