@@ -28,6 +28,10 @@
 - Bio: Front End Web Developer
 - GitHub: [Heru Hermawan](https://github.com/iamheru)
 
+#### Name: [Yathartha Rana](https://github.com/yathartha_rana)
+- Place: India
+- Bio: Chionophile
+- GitHub: [Yathartha Rana](https://github.com/yathartha_rana)
 
 
 
