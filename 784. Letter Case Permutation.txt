@@ -1,0 +1,26 @@
+Leetcode - 784. Letter Case Permutation
+https://leetcode.com/problems/letter-case-permutation/
+
+
+class Solution {
+    public List<String> letterCasePermutation(String s) {
+        List<String> arr=new LinkedList<String>();
+        traversal(arr,0,"",s);
+        return arr;
+    }
+    
+    public void traversal(List<String> arr, int n,String curr, String s){
+        if(n==s.length()){
+            arr.add(curr);
+            return;
+        }
+        char ch=s.charAt(n);
+        if(Character.isLetter(ch)){
+            traversal(arr,n+1,curr+Character.toUpperCase(ch), s);
+            traversal(arr,n+1,curr+Character.toLowerCase(ch), s);
+        }
+        else{
+            traversal(arr,n+1,curr+ch, s);
+        }
+    }
+}
