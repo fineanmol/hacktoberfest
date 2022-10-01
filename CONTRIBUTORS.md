@@ -1,3 +1,9 @@
+#### Name: [Jason Chen](https://github.com/jnchen12a)
+
+- Place: Gainesville, FL, USA
+- Bio: First-year college student
+- GitHib: [jnchen12a](https://github.com/jnchen12a)
+
 #### Name: [Aditya Nigam](https://github.com/adityanigam1)
 
 - Place: Delhi, India
