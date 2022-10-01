@@ -517,4 +517,8 @@
 - GitHub: [RohanKGP](https://github.com/RohanKGP)
 
 
+#### Name: [Sam Pulman](https://github.com/sjpulman)
 
+- Place: Wales, United Kingdom
+- Bio: I am a frontend developer that specialises in Vue.js
+- GitHub: [sjpulman](https://github.com/sjpulman)
