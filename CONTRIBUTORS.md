@@ -291,3 +291,8 @@
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
+#### Name: [Sachin Aghera](https://github.com/AgheraSachin)
+- Place: Karnataka, India
+- Bio: Open Source Enthusiast
+- GitHub: [Sachin Aghera](https://github.com/AgheraSachin)
+
