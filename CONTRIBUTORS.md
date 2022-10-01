@@ -18,6 +18,9 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
-
+#### Name: [Sayam Agarwal](https://github.com/Sayam241020)
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Computer science final year student
+- GitHub: [Sayam241020](https://github.com/Sayam241020)
 
 
