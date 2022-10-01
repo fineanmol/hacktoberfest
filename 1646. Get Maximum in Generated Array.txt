@@ -1,0 +1,30 @@
+Leetcode - 1646. Get Maximum in Generated Array
+https://leetcode.com/problems/get-maximum-in-generated-array/
+
+
+
+class Solution {
+    public int getMaximumGenerated(int n) {
+        if(n==0){
+            return 0;
+        }
+        else if(n==1){
+            return 1;
+        }
+        int a[]=new int[n+1];
+        a[0]=0;
+        a[1]=1;
+        int m=1;
+        for(int i=2;i<=n;i++){
+            if(i%2==0){
+                a[i]=a[i/2];
+            }
+            else{
+                a[i]=a[(i-1)/2]+a[(i-1)/2 +1];
+            }
+            m=a[i]>m?a[i]:m;
+        }
+        return m;
+    }
+    
+}
