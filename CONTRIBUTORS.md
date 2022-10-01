@@ -291,3 +291,8 @@
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
+#### Name: [Rishi Goswami](https://github.com/rishig2003)
+- Place: Mumbai, India
+- Bio: Student, Coder, Budding Developer
+- GitHub: [rishig2003](https://github.com/rishig2003)
+
