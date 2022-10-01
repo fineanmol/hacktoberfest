@@ -298,39 +298,35 @@
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
-
-
 #### Name: [Prachi Pandey](https://github.com/prachipandeyy)
+
 - Place: Pune, India
 - Bio: I'm somewhat of a coder myself
 - GitHub: [AbbeyIT](https://github.com/prachipandeyy)
 
-
 #### Name: [Rishi Goswami](https://github.com/rishig2003)
+
 - Place: Mumbai, India
 - Bio: Student, Coder, Budding Developer
 - GitHub: [rishig2003](https://github.com/rishig2003)
 
 #### Name: [Craig Wildhaber](https://github.com/Craig-Wildhaber)
+
 - Place: Missouri, United States
 - Bio: Beginner python programmer and pro linux user
 - GitHub: [Craig-Wildhaber](https://github.com/Craig-Wildhaber)
 
-
-
-
 #### Name: [Preetraj Haldar](https://github.com/the-threshold-frequency)
+
 - Place: Kolkata, West Bengal, India
 - Bio: Third year CSE Undergrad, Blockchain Developer-in-the-making
 - GitHub: [the-threshold-frequency](https://github.com/the-threshold-frequency)
 
-
 #### Name: [Maglionaire](https://github.com/maglionaire)
+
 - Place: Bangkok, Thailand
 - Bio: Interesting in code
 - GitHub: [Maglionaire](https://github.com/maglionaire)
-
-
 
 #### Name: [Sachin Aghera](https://github.com/AgheraSachin)
 
@@ -345,19 +341,19 @@
 - GitHub: [khushimarothi](https://github.com/khushimarothi)
 
 #### Name: [Muhammad Hassan](https://github.com/Mhassanniazi)
+
 - Place: Karachi, Pakistan
 - Bio: Coding Ninja
 - GitHub: [Muhammad Hassan](https://github.com/Mhassanniazi)
 
-
-
 #### Name: [Pankaj Singh Sirari](https://github.com/pankajsirari222)
+
 - Place: Uttarakhand, India
 - Bio: Interested in DSA and Web development
 - GitHub: [pankajsirari222](https://github.com/pankajsirari222)
 
-
 #### Name: [Tanishka Rao](https://github.com/tanishkarao16)
+
 - Place: Mumbai, India
 - Bio: Developer | Coder
 - GitHub: [tanishkarao16] (https://github.com/tanishkarao16)
@@ -368,15 +364,8 @@
 -Bio: Computer Science Major
 -GitHub: [tbacon781](https://github.com/tbacon781)
 
-
 #### Name: [Maaz Mahmood](https://github.com/maazm007)
+
 - Place: Gorakhpur, UP, India
 - Bio: Coder and VLSI Enthusiasts
 - GitHub: [maazm007](https://github.com/maazm007)
-
-
-
-
-
-
-
