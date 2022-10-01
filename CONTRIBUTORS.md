@@ -226,6 +226,12 @@
 - Bio: Final Year Computer Science Student from Nepal :)
 - GitHub: [Sambhav](https://github.com/LordSambhav/)
 
+
+#### Name: [Sahitya](https://github.com/SahityaRoy/)
+- Place: Jaipur
+- Bio: Founder of Eduhub Community and a Community guy :)
+- GitHub: [Sambhav](https://github.com/SahityaRoy/)
+
 #### Name: [Om Umrania](https://github.com/om-umrania/)
 - Place: Maharashtra, India
 - Bio: Life Long Learner
@@ -236,6 +242,7 @@
 - Place: NMIT, Bangalore
 - Bio: I love technologies.
 - GitHub: [Aastha Kumari](https://github.com/aasthak108)
+
 
 #### Name: [YOUR NAME](GitHub link)
 - Place: Bangalore, Karnataka, India
