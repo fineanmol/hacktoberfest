@@ -1,3 +1,9 @@
+#### Name: [Aditya Nigam](https://github.com/adityanigam1)
+
+- Place: Delhi, India
+- Bio: https://twitter.com/hinduism_reborn
+- GitHub: [Aditya Nigam ](https://github.com/adityanigam1)
+
 #### Name: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 
 - Place: Delhi, India
