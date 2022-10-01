@@ -140,4 +140,8 @@
 - Bio: A Learner
 - GitHub: [Surajwakka](https://github.com/surajwakka)
 
+#### Name: [Nandini Gangadharan](https://github.com/Nandini-13)
+- Place: New Delhi, India
+- Bio: May the Force be with you.
+- GitHub: [Nandini Gangadharan](https://github.com/Nandini-13)
 
