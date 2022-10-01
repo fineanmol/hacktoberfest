@@ -299,6 +299,12 @@
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
 
+#### Name: [Craig Wildhaber](https://github.com/Craig-Wildhaber)
+- Place: Missouri, United States
+- Bio: Beginner python programmer and pro linux user
+- GitHub: [Craig-Wildhaber](https://github.com/Craig-Wildhaber)
+
+
 
 #### Name: [Preetraj Haldar](https://github.com/the-threshold-frequency)
 - Place: Kolkata, West Bengal, India
@@ -337,6 +343,7 @@
 - Place: Gorakhpur, UP, India
 - Bio: Coder and VLSI Enthusiasts
 - GitHub: [maazm007](https://github.com/maazm007)
+
 
 
 
