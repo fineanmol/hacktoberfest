@@ -23,6 +23,11 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
+#### Name: [Kartikey Singh](https://github.com/noiceee)
+- Place: India
+- Bio: Fullstack Web Developer
+- GitHub: [Kartikey Singh](https://github.com/noiceee)
+
 
 
 
