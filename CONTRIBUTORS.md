@@ -316,4 +316,9 @@
 - GitHub: [khushimarothi](https://github.com/khushimarothi)
 
 
+#### Name: [Maaz Mahmood](https://github.com/maazm007)
+- Place: Gorakhpur, UP, India
+- Bio: Coder and VLSI Enthusiasts
+- GitHub: [maazm007](https://github.com/maazm007)
+
 
