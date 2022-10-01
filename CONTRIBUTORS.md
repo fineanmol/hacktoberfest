@@ -36,6 +36,12 @@
 - Bio: Developer
 - GitHub: [Dixit Tilaji](https://github.com/dixitt5)
 
+
+#### Name: [Chris](https://github.com/ChrisVo)
+- Place: Southern California
+- Bio: Front End Web Developer
+- GitHub: [Chris](https://github.com/Chrisvo)
+
 #### Name: [Aditya More](https://github.com/AdityaMore7000/)
 - Place: India
 - Bio: Second Year Computer Engineering Student from Pune :)
@@ -46,4 +52,5 @@
 - Place: Gujarat,India
 - Bio: Computer Engineering Student,A passionate learner.
 - GitHub: [Sohil Pathan](https://github.com/SohilP25)
+
 
