@@ -1,3 +1,9 @@
+#### Name: [Moch Rizal Fadilah](https://github.com/papoy-xor)
+
+- Place: Indonesian
+- Bio: I love music
+- GitHub: [Moch Rizal Fadilah](https://github.com/papoy-xor)
+
 #### Name: [Aditya Nigam](https://github.com/adityanigam1)
 
 - Place: Delhi, India
@@ -377,9 +383,9 @@
 - GitHub: [agusardi](https://github.com/letdummy)
 
 
-
 #### Name: [debajyoti ghosh](https://github.com/debajyotig466)
 
 - Place: westBengal, Kolkata, India
 - Bio: I am a Sportslover
 - GitHub: [debajyotig466](https://github.com/debajyotig466)
+
