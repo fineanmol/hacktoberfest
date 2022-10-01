@@ -292,6 +292,21 @@
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
+
+
+#### Name: [Preetraj Haldar](https://github.com/the-threshold-frequency)
+- Place: Kolkata, West Bengal, India
+- Bio: Third year CSE Undergrad, Blockchain Developer-in-the-making
+- GitHub: [the-threshold-frequency](https://github.com/the-threshold-frequency)
+
+
+#### Name: [Maglionaire](https://github.com/maglionaire)
+- Place: Bangkok, Thailand
+- Bio: Interesting in code
+- GitHub: [Maglionaire](https://github.com/maglionaire)
+
+
+
 #### Name: [Sachin Aghera](https://github.com/AgheraSachin)
 
 - Place: Karnataka, India
@@ -304,8 +319,18 @@
 - Bio: Developer | Coder
 - GitHub: [khushimarothi](https://github.com/khushimarothi)
 
+
 #### Name: [Tyler Bacon](https://github.com/tbacon781)
 
 -Place: Boston, Massachusetts
 -Bio: Computer Science Major
 -GitHub: [tbacon781](https://github.com/tbacon781)
+
+
+#### Name: [Maaz Mahmood](https://github.com/maazm007)
+- Place: Gorakhpur, UP, India
+- Bio: Coder and VLSI Enthusiasts
+- GitHub: [maazm007](https://github.com/maazm007)
+
+
+
