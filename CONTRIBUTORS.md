@@ -249,11 +249,21 @@
 - GitHub: [Ansi007](https://github.com/Ansi007)
 
 
+#### Name: [Kush Munot](https://github.com/Kush-munot)
+- Place: Nagpur, India
+- Bio: "24/7 Student"
+- GitHub: [Kush Munot](https://github.com/Kush-munot)
+
+
 #### Name: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
 - Place: Bengaluru, India
 - Bio: Software Developer
 - Github: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
 
+#### Name: [Kush Munot](https://github.com/Kush-munot)
+- Place: Nagpur, India
+- Bio: "24/7 Student"
+- GitHub: [Kush Munot](https://github.com/Kush-munot)
 
 #### Name: [Nehal N Shet](https://github.com/hoplite2000)
 
@@ -262,9 +272,11 @@
 - GitHub: [hoplite2000](https://github.com/hoplite2000)
 
 
+
 #### Name: [Siddhesh Khandagale](https://github.com/Siddheshk02)
 
 - Place: Maharashtra, India
 - Bio: Student
 - GitHub: [Siddhesh Khandagale](https://github.com/Siddheshk02)
+
 
