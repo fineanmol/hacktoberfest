@@ -291,3 +291,7 @@
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
+#### Name: [Simon Ilincev](https://github.com/Destaq)
+- Place: Prague, Czechia
+- Bio: Never not learning
+- GitHub: [AbbeyIT](https://github.com/Destaq)
