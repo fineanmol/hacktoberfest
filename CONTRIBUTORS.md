@@ -226,6 +226,11 @@
 - Bio: Final Year Computer Science Student from Nepal :)
 - GitHub: [Sambhav](https://github.com/LordSambhav/)
 
+#### Name: [Om Umrania](https://github.com/om-umrania/)
+- Place: Maharashtra, India
+- Bio: Life Long Learner
+- GitHub: [Om Umrania](https://github.com/om-umrania/)
+
 #### Name: [Aastha Kumari](https://github.com/aasthak108)
 
 - Place: NMIT, Bangalore
@@ -236,5 +241,6 @@
 - Place: Bangalore, Karnataka, India
 - Bio: ML Developer
 - GitHub: [Sooraj](https://github.com/soorajks2002/)
+
 
 
