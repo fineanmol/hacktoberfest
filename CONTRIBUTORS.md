@@ -42,6 +42,10 @@
 - Bio: Chionophile
 - GitHub: [Yathartha Rana](https://github.com/yathartha_rana)
 
+#### Name: [Rizqi Bagus Andrean](https://github.com/bagusok)
+- Place: Indonesia
+- Bio: Backend Developer
+- GitHub: [Rizqi Bagus Andrean](https://github.com/bagusok)
 
 
 #### Name: [Dixit Tilaji](https://github.com/dixitt5)
