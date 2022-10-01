@@ -1,8 +1,16 @@
+
+#### Name: [Jason Chen](https://github.com/jnchen12a)
+
+- Place: Gainesville, FL, USA
+- Bio: First-year college student
+- GitHib: [jnchen12a](https://github.com/jnchen12a)
+
 #### Name: [Moch Rizal Fadilah](https://github.com/papoy-xor)
 
 - Place: Indonesian
 - Bio: I love music
 - GitHub: [Moch Rizal Fadilah](https://github.com/papoy-xor)
+
 
 #### Name: [Aditya Nigam](https://github.com/adityanigam1)
 
