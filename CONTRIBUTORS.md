@@ -86,6 +86,11 @@
 - Bio: Student Engineer. Electrical, Electronics and Software
 - GitHub: [Ian Kisali](https://github.com/iankisali)
 
+#### Name: [Fazil](https://github.com/fazilakhtar)
+ - Place: Earth
+ - Bio: Software Engineer
+ - GitHub: [Fazil](https://github.com/fazilakhtar)
+
 #### Name: [प्रथमेश | Prathmesh](https://github.com/prathmesh-b)
 
 
@@ -98,7 +103,3 @@
 - Place: Mumbai, India
 - Bio: I love DOGS and FISH! :dog: :fish:
 - GitHub: [Prathmesh](https://github.com/prathmesh-b)
-
-
-
-
