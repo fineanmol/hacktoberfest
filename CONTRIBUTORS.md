@@ -397,6 +397,13 @@
 - GitHub: [agusardi](https://github.com/letdummy)
 
 
+#### Name: [Helton Teixeira](https://github.com/heltonteixeira92)
+
+- Place: São Paulo, SP, Brazil
+- Bio: python/django software developer
+- GitHub: [heltonteixeira92](https://github.com/heltonteixeira92)
+
+
 #### Name: [Garrett](https://github.com/0xGrizzly)
 
 - Place: Atlanta, Georgia
@@ -445,6 +452,7 @@
 - Place: westBengal, Kolkata, India
 - Bio: I am a Sportslover
 - GitHub: [debajyotig466](https://github.com/debajyotig466)
+
 
 
 
