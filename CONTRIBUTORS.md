@@ -227,6 +227,12 @@
 - GitHub: [Sambhav](https://github.com/LordSambhav/)
 
 
+#### Name: [Samir](https://github.com/SamirKaushik/)
+- Place: India
+- Bio: Prefinal Year ECE Student from India :)
+- GitHub: [Samir](https://github.com/SamirKaushik/)
+
+
 #### Name: [Sahitya](https://github.com/SahityaRoy/)
 - Place: Jaipur
 - Bio: Founder of Eduhub Community and a Community guy :)
@@ -248,6 +254,7 @@
 - Place: Bangalore, Karnataka, India
 - Bio: ML Developer
 - GitHub: [Sooraj](https://github.com/soorajks2002/)
+
 
 
 
