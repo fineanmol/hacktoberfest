@@ -23,6 +23,10 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
+#### Name: [Kunal Kumar Sahoo](https://github.com/Kunal-Kumar-Sahoo)
+- Place: India
+- Bio: Machine Learning Enthusiast
+- Github: [Kunal-Kumar-Sahoo](https://github.com/Kunal-Kumar-Sahoo)
 
 
 
