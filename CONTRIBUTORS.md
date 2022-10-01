@@ -12,6 +12,11 @@
  - Bio: 12 year old. Just chillin.
  - GitHub: [Ryan-techie](https://github.com/Ryan-techie)
 
+#### Name: [Ryan](https://github.com/Ryan-techie)
+- Place: INDIA
+- Bio: 12 Year Old Just Chillin
+- GitHub: [Ryan-techie](https://github.com/Ryan-techie)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
