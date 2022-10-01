@@ -95,6 +95,11 @@
 - Bio: Software Developer
 - GitHub: [Renzo Cabarios](https://github.com/renzocabarios)
 
+#### Name: [Kartikey Singh](https://github.com/noiceee)
+- Place: India
+- Bio: Fullstack Web Developer
+- GitHub: [Kartikey Singh](https://github.com/noiceee)
+
 
 
 #### Name: [Nalin Kashyap](https://github.com/Nkashyap-anand)
