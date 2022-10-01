@@ -1,3 +1,10 @@
+#### Name: [Valentina](https://github.com/vale-c)
+
+- Place: Parma, Italy 
+- Bio: Front-end Software Engineer 🤓 & Drummer 🥁
+- GitHub: [vale-c](https://github.com/vale-c)
+
+
 #### Name: [JATIN SAINI](https://github.com/yunocrown)
 - Place: Jaipur, Rajasthan
 - Bio: 3rd year Computer Science Student At Arya College of Engineering and I.T
