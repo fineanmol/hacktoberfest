@@ -23,10 +23,17 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
+
+#### Name: [Dixit Tilaji](https://github.com/dixitt5)
+- Place: India
+- Bio: Developer
+- GitHub: [Dixit Tilaji](https://github.com/dixitt5)
+
 #### Name: [Aditya More](https://github.com/AdityaMore7000/)
 - Place: India
 - Bio: Second Year Computer Engineering Student from Pune :)
 - GitHub: [Aditya More](https://github.com/AdityaMore7000/)
+
 
 
 
