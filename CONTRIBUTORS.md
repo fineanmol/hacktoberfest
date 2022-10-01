@@ -375,3 +375,9 @@
 - Place: Jogja, Jogja, Indonesia
 - Bio: I am a learner
 - GitHub: [agusardi](https://github.com/letdummy)
+
+#### Name: [Garrett](https://github.com/0xGrizzly)
+
+- Place: Atlanta, Georgia
+- Bio: software engineering and cyber security major.
+- GitHub: [0xGrizzly](https://github.com/0xGrizzly)
