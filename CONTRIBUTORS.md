@@ -131,6 +131,11 @@
 - Bio: Software Engineer 
 - Github: [socopoko](https://github.com/socopoko)
 
+#### Name: [Aditya Dwivedi](https://github.com/Lonewolf0502)
+- Place: Ghaziabad , India
+- Bio: Web Developer
+- GitHub: [Aditya Dwivedi](https://github.com/Lonewolf0502)
+
 
 
 #### Name: [Sainath](https://github.com/sainathd07)
