@@ -1,3 +1,9 @@
+#### Name: [Rohan Raju Meshram](https://github.com/RohanKGP)
+
+- Place: Nagpur, Maharashtra, India
+- Bio: I'm a third-year undergraduate student that loves open-source initiatives and is now learning about Web development.
+- GitHub: [RohanKGP](https://github.com/RohanKGP)
+
 #### Name: [Aditya Nigam](https://github.com/adityanigam1)
 
 - Place: Delhi, India
