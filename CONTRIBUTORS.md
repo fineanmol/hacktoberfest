@@ -1,3 +1,9 @@
+#### Name: [Moch Rizal Fadilah](https://github.com/papoy-xor)
+
+- Place: Indonesian
+- Bio: I love music
+- GitHub: [Moch Rizal Fadilah](https://github.com/papoy-xor)
+
 #### Name: [Aditya Nigam](https://github.com/adityanigam1)
 
 - Place: Delhi, India
@@ -27,6 +33,12 @@
 - Place: Jaipur, Rajasthan
 - Bio: 3rd year Computer Science Student At Arya College of Engineering and I.T
 - GitHub: [yunocrown](https://github.com/yunocrown)
+
+#### Name: [Oreoluwa Alaba](https://github.com/SanDiego2049)
+
+- Place: Lagos, Nigeria
+- Bio: https://twitter.com/Sandiego2049
+- GitHub: [SanDiego2049](https://github.com/SanDiego2049)
 
 #### Name: Vallenain
 
@@ -376,8 +388,26 @@
 - Bio: I am a learner
 - GitHub: [agusardi](https://github.com/letdummy)
 
+
 #### Name: [Sayak Mondal](https://github.com/isayakmondal)
 
 - Place: Kolkata, India
 - Bio: Passionate Programmer | CSE Undergrad
 - GitHub: [Sayak Mondal](https://github.com/isayakmondal)
+
+
+#### Name: [Moch Rizal Fadilah](https://github.com/papoy-xor)
+
+- Place: Bandung, Jawa Barat, Indonesia
+- Bio: I still learning programming
+- GitHub: [Moch Rizal Fadilah](https://github.com/papoy-xor)
+
+
+#### Name: [debajyoti ghosh](https://github.com/debajyotig466)
+
+- Place: westBengal, Kolkata, India
+- Bio: I am a Sportslover
+- GitHub: [debajyotig466](https://github.com/debajyotig466)
+
+
+
