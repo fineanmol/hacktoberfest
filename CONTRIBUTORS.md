@@ -1,3 +1,9 @@
+#### Name: [Valentina](https://github.com/vale-c)
+
+- Place: Parma, Italy 
+- Bio: Front-end Software Engineer 🤓 & Drummer 🥁
+- GitHub: [vale-c](https://github.com/vale-c)
+
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
 - Place: Old Street, UK,
