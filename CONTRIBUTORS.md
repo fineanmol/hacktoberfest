@@ -23,6 +23,10 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
+#### Name: [Abhay Raj Singh Rathore](https://github.com/srabhayraj)
+- Place: India
+- Bio: Software Developer
+- GitHub: [Abhay Raj Singh Rathore](https://github.com/srabhayraj)
 
 
 
