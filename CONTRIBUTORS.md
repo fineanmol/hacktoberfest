@@ -187,4 +187,9 @@
 - Bio: 5th semester undergrad IT student.I am a web development enthusiast
 - GitHub: [Sriver27](https://github.com/Sriver27)
 
+### Name: [Uma Dhatri](https://github.com/umadhatri)
+- Place: Hyderabad, Telangana, India
+- Bio: Just finished 1st year of engineering. Curious about tech and anything in general
+- GitHub: [umadhatri](https://github.com/umadhatri)
+
 
