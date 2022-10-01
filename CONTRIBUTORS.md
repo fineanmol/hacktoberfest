@@ -27,10 +27,17 @@
 
 
 
+
+#### Name: [Shivanshu Thakur](https://github.com/shivanshut105)
+- Place: Hamirpur, Himachal Pradesh, Inida
+- Bio: A passionate competitive programmer.
+- GitHub: [shivanshut105](https://github.com/shivanshut105)
+
 #### Name: [Ian Kisali](https://github.com/iankisali)
 - Place: Nairobi, Kenya
 - Bio: Student Engineer. Electrical, Electronics and Software
 - GitHub: [Ian Kisali](https://github.com/iankisali)
+
 
 
 
