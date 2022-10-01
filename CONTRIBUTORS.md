@@ -23,6 +23,11 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
+#### Name: [Daksh Kesarwani](https://github.com/InnocentDaksh63)
+- Place: India
+- Bio - Backend developer
+- Github:[Daksh kesarwani](https://github.com/InnocentDaksh63)
+
 
 
 
