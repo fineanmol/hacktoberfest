@@ -316,4 +316,7 @@
 - GitHub: [khushimarothi](https://github.com/khushimarothi)
 
 
-
+#### Name: [Pankaj Singh Sirari](https://github.com/pankajsirari222)
+- Place: Uttarakhand, India
+- Bio: Interested in DSA and Web development
+- GitHub: [pankajsirari222](https://github.com/pankajsirari222)
