@@ -205,6 +205,31 @@
 
 #### Name: [Zuzexx](https://github.com/Zuzexx)
 
+
 - Place: Slovenia
 - Bio: Learning Vue-js and Laravel, because I want to switch jobs.
 - GitHub: [Zuzexx](https://github.com/Zuzexx)
+
+### Name : [Uma Dhatri](https://githhub.com/umadhatri)
+- Place: Hyderabad, Telangana, India
+- Bio: Just finished my 1st year of Engineering 2 days ago. Curious Cat (lol)
+- Github: [umadhatri](https://github.com/umadhatri)
+
+
+#### Name: [Abhishek Prasad](https://github.com/abhishekprasad2384)
+- Place:  Kolkata, West Bengal, India
+- Bio: 8th semester undergrad IT student.I am a web development enthusiast
+- GitHub: [Abhishek Prasad](https://github.com/abhishekprasad2384)
+
+#### Name: [Sambhav](https://github.com/LordSambhav/)
+- Place: Nepal
+- Bio: Final Year Computer Science Student from Nepal :)
+- GitHub: [Sambhav](https://github.com/LordSambhav/)
+
+
+#### Name: [YOUR NAME](GitHub link)
+- Place: Bangalore, Karnataka, India
+- Bio: ML Developer
+- GitHub: [Sooraj](https://github.com/soorajks2002/)
+
+
