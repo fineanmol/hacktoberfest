@@ -24,7 +24,7 @@
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
 #### Name: [Gourav Saini](https://github.com/g7i)
-- Place: India
+- Place: London, UK
 - Bio: Software Developer
 - GitHub: [Gourav Saini](https://github.com/g7i)
 
