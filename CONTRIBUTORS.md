@@ -155,6 +155,12 @@
 - Bio: A Learner
 - GitHub: [Surajwakka](https://github.com/surajwakka)
 
+
+#### Name: [Nishant](https://github.com/Ordinary-droid)
+- Place: Jaipur, India
+- Bio: Student :D
+- GitHub: [Nishant Thottarath](https://github.com/Ordinary-droid)
+
 #### Name: [Nandini Gangadharan](https://github.com/Nandini-13)
 - Place: New Delhi, India
 - Bio: May the Force be with you.
@@ -164,4 +170,5 @@
 - Place: Gandhinagar, India
 - Bio: Always Learning :)
 - GitHub: [Surajwakka](https://github.com/Ayush-Khandelwal28)
+
 
