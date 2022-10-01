@@ -75,4 +75,7 @@
 - Bio: Computer Engineering Student,A passionate learner.
 - GitHub: [Sohil Pathan](https://github.com/SohilP25)
 
-
+#### Name: [Anushka](https://github.com/Anushka298)
+- Place: India
+- Bio: ML engineer
+- GitHub: [Anushka](https://github.com/Anushka298)
