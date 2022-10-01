@@ -198,3 +198,7 @@
 - Bio: Final Year Computer Science Student from Nepal :)
 - GitHub: [Sambhav](https://github.com/LordSambhav/)
 
+#### Name: [YOUR NAME](GitHub link)
+- Place: Bangalore, Karnataka, India
+- Bio: ML Developer
+- GitHub: [Sooraj](https://github.com/soorajks2002/)
