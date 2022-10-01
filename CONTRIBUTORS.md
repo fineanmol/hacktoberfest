@@ -148,3 +148,9 @@
 - Bio: A Learner
 - GitHub: [Surajwakka](https://github.com/surajwakka)
 
+
+#### Name: [Ayush Khandelwal](https://github.com/Ayush-Khandelwal28)
+- Place: Gandhinagar, India
+- Bio: Always Learning :)
+- GitHub: [Surajwakka](https://github.com/Ayush-Khandelwal28)
+
