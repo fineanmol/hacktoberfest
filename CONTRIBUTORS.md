@@ -1,3 +1,9 @@
+#### Name: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
+
+- Place: Delhi, India
+- Bio: Student
+- GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
+
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
 - Place: Old Street, UK,
@@ -188,4 +194,42 @@
 - Place: Portugal
 - Bio: Learning how to contribute to Hacktoberfest 
 - GitHub: [beatriz-sabino](https://github.com/beatriz-sabino)
+
+
+#### Name: [Aditya Rawat](https://github.com/tech-with-aditya)
+- Place: Dehradun, Uttarakhand, India
+- Bio: "B.Tech CSE Undergrad"
+- GitHub: [tech-with-aditya](https://github.com/tech-with-aditya)
+
+#### Name: [Pradeep Khatri](https://github.com/PradeepKhatri)
+- Place: Haryana, India
+- Bio: "Suiiiiii"
+- GitHub: [PradeepKhatri](https://github.com/PradeepKhatri)
+
+
+#### Name: [Sourav Kumar Bhunia](https://github.com/souravbhunia07)
+- Place: New Delhi, India
+- Bio: "No.1 knucklehead Programmer"
+- Github: [souravbhunia07](https://github.com/souravbhunia07)
+
+
+#### Name: [PunGrumpy](https://github.com/PunGrumpy)
+- Place: Bangkok, Thailand
+- Bio: College student
+- GitHub: [PunGrumpy](https://github.com/PunGrumpy)
+
+
+#### Name: [Udeet Mittal](https://github.com/udeet27)
+
+- Place: Pune, Maharashtra, India
+- Bio: Web-developer & UI/UX designer
+- GitHub: [Udeet Mittal](https://github.com/udeet27)
+
+
+#### Name: [Anns Shahbaz](https://github.com/Ansi007)
+- Place: Lahore, Punjab, Pakistan
+- Bio: "24/7 Student"
+- GitHub: [Ansi007](https://github.com/Ansi007)
+
+
 
