@@ -316,4 +316,8 @@
 - GitHub: [khushimarothi](https://github.com/khushimarothi)
 
 
+#### Name: [Tanishka Rao](https://github.com/tanishkarao16)
+- Place: Mumbai, India
+- Bio: Developer | Coder
+- GitHub: [tanishkarao16] (https://github.com/tanishkarao16)
 
