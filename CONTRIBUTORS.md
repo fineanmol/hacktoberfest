@@ -339,6 +339,12 @@
 - GitHub: [khushimarothi](https://github.com/khushimarothi)
 
 
+
+#### Name: [Tanishka Rao](https://github.com/tanishkarao16)
+- Place: Mumbai, India
+- Bio: Developer | Coder
+- GitHub: [tanishkarao16] (https://github.com/tanishkarao16)
+
 #### Name: [Tyler Bacon](https://github.com/tbacon781)
 
 -Place: Boston, Massachusetts
@@ -350,6 +356,7 @@
 - Place: Gorakhpur, UP, India
 - Bio: Coder and VLSI Enthusiasts
 - GitHub: [maazm007](https://github.com/maazm007)
+
 
 
 
