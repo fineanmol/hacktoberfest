@@ -32,5 +32,7 @@
 - Bio: Student Engineer. Electrical, Electronics and Software
 - GitHub: [Ian Kisali](https://github.com/iankisali)
 
-
-
+#### Name: [Divyanshu Modi](https://github.com/Divyanshu-Modi)
+- Place: Mumbai, India
+- Bio: Enjoying this wonderful hacktober
+- GitHub: [Divyanshu Modi](https://github.com/Divyanshu-Modi)
