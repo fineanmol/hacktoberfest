@@ -196,6 +196,12 @@
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
 
+#### Name: [Naufal Hisyam](https://github.com/naufalhisyam)
+- Place: West Java, Indonesia
+- Bio: A tech enthusiast
+- GitHub: [naufalhisyam](https://github.com/naufalhisyam)
+
+
 #### Name: [Shashank Singh](https://github.com/Shashank0271)
 - Place: Bengaluru, India
 - Bio: "// No comment"
@@ -247,6 +253,7 @@
 - Place: Bengaluru, India
 - Bio: Software Developer
 - Github: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
+
 
 
 
