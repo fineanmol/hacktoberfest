@@ -6,7 +6,7 @@ Chennai,Tamil Nadu, India (originally from Assam and living in Mumbai, studying 
 
 ### Academics
 
-2nd year student in B.Tech. (Bachelors in Computer Science and Engineering).
+2nd year student in B.Tech. (Bachelor of Technology in Computer Science and Engineering).
 
 ### Interests
 
