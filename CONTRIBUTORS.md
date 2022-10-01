@@ -74,6 +74,10 @@
 - Bio: Developer
 - GitHub: [Dixit Tilaji](https://github.com/dixitt5)
 
+#### Name: [Hardik Pratap Singh](https://github.com/hardik-pratap-singh)
+- Place: Allahabad, Uttar Pradesh, India
+- Bio: I am 2nd year BTech, CSE student from IIIT JABALPUR Madhya Pradesh
+- GitHub: [hardik-pratap-singh](https://github.com/hardik-pratap-singh)
 
 #### Name: [Chris](https://github.com/ChrisVo)
 - Place: Southern California
