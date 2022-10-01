@@ -4,6 +4,12 @@
 - Bio: Student
 - GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 
+#### Name: [Yaduttam Pareek](https://github.com/Yaduttam95)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: Computer science Student
+- GitHub: [Yaduttam Pareek](https://github.com/Yaduttam95)
+
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
 - Place: Old Street, UK,
