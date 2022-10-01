@@ -375,3 +375,9 @@
 - Place: Jogja, Jogja, Indonesia
 - Bio: I am a learner
 - GitHub: [agusardi](https://github.com/letdummy)
+
+#### Name: [Luqman Bello](https://github.com/ItzAboki)
+
+- Place: Abuja, Nigeria
+- Bio: I am an art, tech and design enthusiast
+- GitHub: [ItzAboki](https://github.com/ItzAboki)
