@@ -40,6 +40,11 @@
 - Bio: Software Engineer
 - GitHub: [avnishranwa7](https://github.com/avnishranwa7)
 
+#### Name: [Dev Kumar Gupta](https://github.com/DevGupta-ikr)
+- Place: Kolkata, West Bengal, India
+- Bio: Product Designer
+- GitHub: [DevGupta-ikr](https://github.com/DevGupta-ikr)
+
 #### Name: Ryan
 
 - Place: Kadiappatinam, India
@@ -190,6 +195,18 @@
 - Bio: "Live to dominate"
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
+
+#### Name: [Naufal Hisyam](https://github.com/naufalhisyam)
+- Place: West Java, Indonesia
+- Bio: A tech enthusiast
+- GitHub: [naufalhisyam](https://github.com/naufalhisyam)
+
+
+#### Name: [Shashank Singh](https://github.com/Shashank0271)
+- Place: Bengaluru, India
+- Bio: "// No comment"
+- GitHub: [Shashank0271](https://github.com/Shashank0271)
+
 #### Name: [Beatriz Sabino](https://github.com/beatriz-sabino)
 - Place: Portugal
 - Bio: Learning how to contribute to Hacktoberfest 
@@ -231,7 +248,19 @@
 - Bio: "24/7 Student"
 - GitHub: [Ansi007](https://github.com/Ansi007)
 
+<<<<<<< HEAD
 #### Name: [Kush Munot](https://github.com/Kush-munot)
 - Place: Nagpur, India
 - Bio: "24/7 Student"
 - GitHub: [Kush Munot](https://github.com/Kush-munot)
+=======
+
+#### Name: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
+- Place: Bengaluru, India
+- Bio: Software Developer
+- Github: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
+
+
+
+
+>>>>>>> 84a3c481b1beaa98e6c8e796db4611e2d9ec5e7a
