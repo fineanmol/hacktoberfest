@@ -1,5 +1,5 @@
 
-class HelloWorld
+class AasthaHelloWorld
 {
 	public static void main (String[]args)
 	{
