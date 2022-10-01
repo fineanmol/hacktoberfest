@@ -99,6 +99,12 @@
 - Bio: I love DOGS and FISH! :dog: :fish:
 - GitHub: [Prathmesh](https://github.com/prathmesh-b)
 
+#### Name: Rhythm Bhatia
+
+- Place: New Delhi, India
+- Bio: 21 year old, Information Technology Undergraduate
+- GitHub: [rhythm-28](https://github.com/rhythm-28)
+
 
 
 
