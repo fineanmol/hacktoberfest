@@ -291,8 +291,29 @@
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
+
 #### Name: [Preetraj Haldar](https://github.com/the-threshold-frequency)
 - Place: Kolkata, West Bengal, India
 - Bio: Third year CSE Undergrad, Blockchain Developer-in-the-making
 - GitHub: [the-threshold-frequency](https://github.com/the-threshold-frequency)
+
+
+#### Name: [Maglionaire](https://github.com/maglionaire)
+- Place: Bangkok, Thailand
+- Bio: Interesting in code
+- GitHub: [Maglionaire](https://github.com/maglionaire)
+
+
+#### Name: [Sachin Aghera](https://github.com/AgheraSachin)
+- Place: Karnataka, India
+- Bio: Open Source Enthusiast
+- GitHub: [Sachin Aghera](https://github.com/AgheraSachin)
+
+
+#### Name: [Khushi Marothi](https://github.com/khushimarothi)
+- Place: Bhopal, India
+- Bio: Developer | Coder
+- GitHub: [khushimarothi](https://github.com/khushimarothi)
+
+
 
