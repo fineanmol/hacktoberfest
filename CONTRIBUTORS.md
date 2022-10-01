@@ -299,10 +299,17 @@
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
 
+
+#### Name: [Rishi Goswami](https://github.com/rishig2003)
+- Place: Mumbai, India
+- Bio: Student, Coder, Budding Developer
+- GitHub: [rishig2003](https://github.com/rishig2003)
+
 #### Name: [Craig Wildhaber](https://github.com/Craig-Wildhaber)
 - Place: Missouri, United States
 - Bio: Beginner python programmer and pro linux user
 - GitHub: [Craig-Wildhaber](https://github.com/Craig-Wildhaber)
+
 
 
 
@@ -343,6 +350,7 @@
 - Place: Gorakhpur, UP, India
 - Bio: Coder and VLSI Enthusiasts
 - GitHub: [maazm007](https://github.com/maazm007)
+
 
 
 
