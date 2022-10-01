@@ -32,5 +32,8 @@
 - Bio: Student Engineer. Electrical, Electronics and Software
 - GitHub: [Ian Kisali](https://github.com/iankisali)
 
-
+#### Name: [Fazil](https://github.com/fazilakhtar)
+ - Place: Earth
+ - Bio: Software Engineer
+ - GitHub: [Fazil](https://github.com/fazilakhtar)
 
