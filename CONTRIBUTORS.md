@@ -1,3 +1,10 @@
+#### Name: [Valentina](https://github.com/vale-c)
+
+- Place: Parma, Italy 
+- Bio: Front-end Software Engineer 🤓 & Drummer 🥁
+- GitHub: [vale-c](https://github.com/vale-c)
+
+
 #### Name: [JATIN SAINI](https://github.com/yunocrown)
 - Place: Jaipur, Rajasthan
 - Bio: 3rd year Computer Science Student At Arya College of Engineering and I.T
@@ -40,6 +47,10 @@
 - GitHub: [Ryan-techie](https://github.com/Ryan-techie)
 
 
+#### Name: [Soham](https://github.com/sohamtembhurne)
+- Place: India
+- Bio: Computer Science Student
+- Github: [sohamtembhurne](https://github.com/sohamtembhurne)
 
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
@@ -147,4 +158,21 @@
 - Place: Banglore, India
 - Bio: A Learner
 - GitHub: [Surajwakka](https://github.com/surajwakka)
+
+
+#### Name: [Nishant](https://github.com/Ordinary-droid)
+- Place: Jaipur, India
+- Bio: Student :D
+- GitHub: [Nishant Thottarath](https://github.com/Ordinary-droid)
+
+#### Name: [Nandini Gangadharan](https://github.com/Nandini-13)
+- Place: New Delhi, India
+- Bio: May the Force be with you.
+- GitHub: [Nandini Gangadharan](https://github.com/Nandini-13)
+
+#### Name: [Ayush Khandelwal](https://github.com/Ayush-Khandelwal28)
+- Place: Gandhinagar, India
+- Bio: Always Learning :)
+- GitHub: [Surajwakka](https://github.com/Ayush-Khandelwal28)
+
 
