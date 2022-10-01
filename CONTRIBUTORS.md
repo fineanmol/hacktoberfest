@@ -47,6 +47,10 @@
 - GitHub: [Ryan-techie](https://github.com/Ryan-techie)
 
 
+#### Name: [Soham](https://github.com/sohamtembhurne)
+- Place: India
+- Bio: Computer Science Student
+- Github: [sohamtembhurne](https://github.com/sohamtembhurne)
 
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
@@ -170,5 +174,11 @@
 - Place: Gandhinagar, India
 - Bio: Always Learning :)
 - GitHub: [Surajwakka](https://github.com/Ayush-Khandelwal28)
+
+#### Name: [ProgrammerDG](https://github.com/ProgrammerDG)
+- Place: Sirsa, Haryana, India
+- Bio: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+- GitHub: [ProgrammerDG](https://github.com/ProgrammerDG)
+
 
 
