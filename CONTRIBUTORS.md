@@ -23,6 +23,9 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
-
+#### Name: [Ayush Rawat](https://github.com/Ayushrawat-cmd)
+- Place: Delhi, India
+- Bio: Web and software developer and ML/data scientist
+- Github: [Ayush Rawat](https://github.com/Ayushrawat-cmd)
 
 
