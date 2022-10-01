@@ -198,3 +198,10 @@
 - GitHub: [Ansi007](https://github.com/Ansi007)
 
 
+#### Name: [Nehal N Shet](https://github.com/hoplite2000)
+
+- Place: Bangalore, India
+- Bio: I love coding!
+- GitHub: [hoplite2000](https://github.com/hoplite2000)
+
+
