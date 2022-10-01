@@ -254,6 +254,9 @@
 - Bio: Software Developer
 - Github: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
 
-
+#### Name: [Kush Munot](https://github.com/Kush-munot)
+- Place: Nagpur, India
+- Bio: "24/7 Student"
+- GitHub: [Kush Munot](https://github.com/Kush-munot)
 
 
