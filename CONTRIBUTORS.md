@@ -184,3 +184,7 @@
 - Bio: "Live to dominate"
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
+#### Name: [Naufal Hisyam](https://github.com/naufalhisyam)
+- Place: West Java, Indonesia
+- Bio: A tech enthusiast
+- GitHub: [naufalhisyam](https://github.com/naufalhisyam)
