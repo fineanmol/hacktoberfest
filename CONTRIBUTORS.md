@@ -375,3 +375,10 @@
 - Place: Jogja, Jogja, Indonesia
 - Bio: I am a learner
 - GitHub: [agusardi](https://github.com/letdummy)
+
+
+#### Name: [Kunal Kaushik](https://github.com/Kunal-8789)
+
+- Place: Patna, Bihar, India
+- Bio: I am a problem solver and coder.
+- GitHub: [Kunal-8789](https://github.com/Kunal-8789)
