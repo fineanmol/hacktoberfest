@@ -397,6 +397,13 @@
 - GitHub: [agusardi](https://github.com/letdummy)
 
 
+#### Name: [lkmeta](https://github.com/lkmeta)
+
+- Place: Thessaloniki, Greece
+- Bio: I am a student
+- GitHub: [lkmeta](https://github.com/lkmeta)
+
+
 
 #### Name: [Dennis Jojo Kuriakose](https://github.com/atmozki)
 
@@ -431,6 +438,7 @@
 - Place: westBengal, Kolkata, India
 - Bio: I am a Sportslover
 - GitHub: [debajyotig466](https://github.com/debajyotig466)
+
 
 
 
