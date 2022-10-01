@@ -23,6 +23,11 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
+#### Name: [Vasundhara Shenoy](https://github.com/VasundharaShenoy)
+- Place: India
+- Bio: 4th year Information Science Student
+- GitHub: [Vasundhara Shenoy](https://github.com/VasundharaShenoy)
+
 
 
 
