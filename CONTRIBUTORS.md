@@ -141,6 +141,10 @@
 - Bio: Student
 - GitHub: [Vedant Sharma](https://github.com/Eatbullets)
 
+#### Name: [Abhay Raj Singh Rathore](https://github.com/srabhayraj)
+- Place: India
+- Bio: Software Developer
+- GitHub: [Abhay Raj Singh Rathore](https://github.com/srabhayraj)
 
 
 #### Name: [Sainath](https://github.com/sainathd07)
