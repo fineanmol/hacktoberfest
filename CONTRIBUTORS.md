@@ -191,6 +191,12 @@
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
 
+#### Name: [Pradeep Khatri](https://github.com/PradeepKhatri)
+- Place: Haryana, India
+- Bio: "Suiiiiii"
+- GitHub: [PradeepKhatri](https://github.com/PradeepKhatri)
+
+
 #### Name: [Sourav Kumar Bhunia](https://github.com/souravbhunia07)
 - Place: New Delhi, India
 - Bio: "No.1 knucklehead Programmer"
