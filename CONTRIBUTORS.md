@@ -49,6 +49,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [SATISH](https://github.com/GitSatishGarg)
+- Place: India
+- Bio: Self Taught Developer
+- GitHub: [GitSatishGarh](https://github.com/GitSatishGarg)
+
 
 #### Name: [Sayam Agarwal](https://github.com/Sayam241020)
 - Place: Lucknow, Uttar Pradesh, India
