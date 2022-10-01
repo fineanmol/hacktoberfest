@@ -1,3 +1,9 @@
+#### Name: [Moch Rizal Fadilah](https://github.com/papoy-xor)
+
+- Place: Indonesian
+- Bio: I love music
+- GitHub: [Moch Rizal Fadilah](https://github.com/papoy-xor)
+
 #### Name: [Aditya Nigam](https://github.com/adityanigam1)
 
 - Place: Delhi, India
