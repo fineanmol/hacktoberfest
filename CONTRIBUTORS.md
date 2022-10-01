@@ -23,6 +23,11 @@
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
 
+#### Name: [Aditya Dwivedi](https://github.com/Lonewolf0502)
+- Place: Ghaziabad , India
+- Bio: Web Developer
+- GitHub: [Aditya Dwivedi](https://github.com/Lonewolf0502)
+
 
 
 
