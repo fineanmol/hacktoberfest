@@ -248,6 +248,12 @@
 - Bio: "24/7 Student"
 - GitHub: [Ansi007](https://github.com/Ansi007)
 
+<<<<<<< HEAD
+#### Name: [Kush Munot](https://github.com/Kush-munot)
+- Place: Nagpur, India
+- Bio: "24/7 Student"
+- GitHub: [Kush Munot](https://github.com/Kush-munot)
+=======
 
 #### Name: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
 - Place: Bengaluru, India
@@ -260,3 +266,4 @@
 - GitHub: [Kush Munot](https://github.com/Kush-munot)
 
 
+>>>>>>> 84a3c481b1beaa98e6c8e796db4611e2d9ec5e7a
