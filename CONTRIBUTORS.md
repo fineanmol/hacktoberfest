@@ -5,16 +5,14 @@
 - GitHub: [Anmol Agarwal](https://github.com/fineanmol)
 
 
+#### Name: Vallenain
 
 - Place: Lyon, France
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
 
-- Place: Lyon, France
-- Bio: Software engineer. Graduated from INSA Lyon.
-- GitHub: [Vallenain](https://github.com/Vallenain)
 
- 
+
 #### Name: Ryan
  - Place: Kadiappatinam, India
  - Bio: 12 year old. Just chillin.
@@ -24,8 +22,6 @@
 - Place: INDIA
 - Bio: 12 Year Old Just Chillin
 - GitHub: [Ryan-techie](https://github.com/Ryan-techie)
-
-
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 
@@ -44,7 +40,7 @@
 - Place: Indonesia
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
-- 
+-
 #### Name: [Heru Hermawan](https://github.com/iamheru)
 - Place: Indonesia
 - Bio: Front End Web Developer
@@ -90,6 +86,26 @@
 - Bio: Front End Web Developer
 - GitHub: [Chris](https://github.com/Chrisvo)
 
+#### Name: [Renzo Cabarios](https://github.com/renzocabarios)
+- Place: Philippines
+- Bio: Software Developer
+- GitHub: [Renzo Cabarios](https://github.com/renzocabarios)
+
+#### Name: [Kartikey Singh](https://github.com/noiceee)
+- Place: India
+- Bio: Fullstack Web Developer
+- GitHub: [Kartikey Singh](https://github.com/noiceee)
+
+#### Name: [Vasundhara Shenoy](https://github.com/VasundharaShenoy)
+- Place: India
+- Bio: 4th year Information Science Student
+- GitHub: [Vasundhara Shenoy](https://github.com/VasundharaShenoy)
+
+#### Name: [Gourav Saini](https://github.com/g7i)
+- Place: London, UK
+- Bio: Software Developer
+- GitHub: [Gourav Saini](https://github.com/g7i)
+
 
 #### Name: [Nalin Kashyap](https://github.com/Nkashyap-anand)
 
@@ -128,7 +144,7 @@
 
 #### Name: [Swagat Panda](https://github.com/socopoko)
 - Place: India
-- Bio: Software Engineer 
+- Bio: Software Engineer
 - Github: [socopoko](https://github.com/socopoko)
 
 #### Name: [Aditya Dwivedi](https://github.com/Lonewolf0502)
@@ -141,6 +157,10 @@
 - Bio: Student
 - GitHub: [Vedant Sharma](https://github.com/Eatbullets)
 
+#### Name: [Abhay Raj Singh Rathore](https://github.com/srabhayraj)
+- Place: India
+- Bio: Software Developer
+- GitHub: [Abhay Raj Singh Rathore](https://github.com/srabhayraj)
 
 
 #### Name: [Sainath](https://github.com/sainathd07)
@@ -148,6 +168,13 @@
 - Place: India
 - Bio: Front End Web Developer
 - GitHub: [Sainath](https://github.com/sainathd07)
+
+
+#### Name: [Gabriel Mendoza](https://github.com/GabTheGreat25)
+
+- Place: Philippines
+- Bio: Front End Web Developer
+- GitHub: [Gabriel Mendoza](https://github.com/GabTheGreat25)
 
 #### Name: [Anish Mathakiya](https://github.com/iam-anish)
 - Place: Gujarat, India,
@@ -160,7 +187,14 @@
 - Bio: 5th semester undergrad IT student.I am a web development enthusiast
 - GitHub: [Sriver27](https://github.com/Sriver27)
 
+
 #### Name: [Abhishek Prasad](https://github.com/abhishekprasad2384)
 - Place:  Kolkata, West Bengal, India
 - Bio: 8th semester undergrad IT student.I am a web development enthusiast
 - GitHub: [Abhishek Prasad](https://github.com/abhishekprasad2384)
+
+#### Name: [Sambhav](https://github.com/LordSambhav/)
+- Place: Nepal
+- Bio: Final Year Computer Science Student from Nepal :)
+- GitHub: [Sambhav](https://github.com/LordSambhav/)
+
