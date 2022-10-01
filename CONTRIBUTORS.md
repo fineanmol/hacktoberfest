@@ -5,10 +5,21 @@
 - GitHub: [Anmol Agarwal](https://github.com/fineanmol)
 
 #### Name: Vallenain
-
 - Place: Lyon, France
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
+
+ 
+#### Name: Ryan
+ - Place: Kadiappatinam, India
+ - Bio: 12 year old. Just chillin.
+ - GitHub: [Ryan-techie](https://github.com/Ryan-techie)
+
+#### Name: [Ryan](https://github.com/Ryan-techie)
+- Place: INDIA
+- Bio: 12 Year Old Just Chillin
+- GitHub: [Ryan-techie](https://github.com/Ryan-techie)
+
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 
@@ -27,9 +38,64 @@
 - Place: Indonesia
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
+- 
+#### Name: [Heru Hermawan](https://github.com/iamheru)
+- Place: Indonesia
+- Bio: Front End Web Developer
+- GitHub: [Heru Hermawan](https://github.com/iamheru)
+
+#### Name: [Yathartha Rana](https://github.com/yathartha_rana)
+- Place: India
+- Bio: Chionophile
+- GitHub: [Yathartha Rana](https://github.com/yathartha_rana)
+
+#### Name: [Rizqi Bagus Andrean](https://github.com/bagusok)
+- Place: Indonesia
+- Bio: Backend Developer
+- GitHub: [Rizqi Bagus Andrean](https://github.com/bagusok)
+
+#### Name: [Chamod Nugekotuwa](https://github.com/c-koder)
+- Place: Ratnapura, Sri Lanka
+- Bio: Love gaming, mystery/comedy tv series and code!
+- GitHub: [c-koder](https://github.com/c-koder)
+
+
+#### Name: [Dixit Tilaji](https://github.com/dixitt5)
+- Place: India
+- Bio: Developer
+- GitHub: [Dixit Tilaji](https://github.com/dixitt5)
+
+
+#### Name: [Chris](https://github.com/ChrisVo)
+- Place: Southern California
+- Bio: Front End Web Developer
+- GitHub: [Chris](https://github.com/Chrisvo)
+
 
 #### Name: [Nalin Kashyap](https://github.com/Nkashyap-anand)
 
 - Place: Greater Noida, UP, India
 - Bio: Full Stack Developer
 - GitHub: [Nkashyap-anand](https://github.com/Nkashyap-anand)
+
+#### Name: [Aditya More](https://github.com/AdityaMore7000/)
+- Place: India
+- Bio: Second Year Computer Engineering Student from Pune :)
+- GitHub: [Aditya More](https://github.com/AdityaMore7000/)
+
+
+#### Name: [Sohil Pathan](https://github.com/SohilP25)
+- Place: Gujarat,India
+- Bio: Computer Engineering Student,A passionate learner.
+- GitHub: [Sohil Pathan](https://github.com/SohilP25)
+
+#### Name: [Anushka](https://github.com/Anushka298)
+- Place: India
+- Bio: ML engineer
+- GitHub: [Anushka](https://github.com/Anushka298)
+
+
+#### Name: [Anish Mathakiya](https://github.com/iam-anish)
+- Place: Gujarat, India,
+- Bio: Software Developer.
+- GitHub: [Anish Mathakiya](https://github.com/iam-anish)
