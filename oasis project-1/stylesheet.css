@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 100vh;
+   background:  linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.2)), url('/agency-3.jpg'); 
+    background-size: cover;
+    font-family: sans-serif;
+}
+nav{
+    width: 100%;
+    height: 100px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    font-size: 2em;
+    letter-spacing: 2px;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+
+}
+
+.menu a:hover{
+    /* background: #fb792b; */
+    text-decoration: underline;
+    color: #fb792b;
+    transition: 0.5sec;
+    
+    
+}
+.reg a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #fb792b;
+    border-radius: 8px;
+}
+.reg a:hover{
+    background: transparent;
+    border: 1px solid indianred;
+    transition: 0.4sec;
+    
+}
+.h-txt{
+    max-width: 650px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color: white;
+}
+.h-txt span{
+    letter-spacing: 5px;
+    font-family:  Body,Quicksand,sans-serif;
+    line-height: 1.42857143;
+
+}
+.h-txt h1{
+    font-size: 3.5em;
+
+}
+.h-txt a{
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #fb792b;
+    color:white;
+    padding: 10px 20px;
+    letter-spacing: 5px;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.h-txt a:hover{
+    letter-spacing: 4px;
+}
