@@ -1,16 +1,15 @@
-#### Name: [Anish Mathakiya](https://github.com/iam-anish)
-- Place: Gujarat, India,
-- Bio: Software Developer.
-- GitHub: [Anish Mathakiya](https://github.com/iam-anish)
-
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
+
 - Place: Old Street, UK,
 - Bio: I love DOGS! :dog:
 - GitHub: [Anmol Agarwal](https://github.com/fineanmol)
+
 #### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+- Place: Lyon, France
+- Bio: Software engineer. Graduated from INSA Lyon.
+- GitHub: [Vallenain](https://github.com/Vallenain)
+
+ 
 #### Name: Ryan
  - Place: Kadiappatinam, India
  - Bio: 12 year old. Just chillin.
@@ -21,17 +20,21 @@
 - Bio: 12 Year Old Just Chillin
 - GitHub: [Ryan-techie](https://github.com/Ryan-techie)
 
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
+
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
 #### Name: [Faiz Syahrullah](https://github.com/bersekerblade)
+
 - Place: Indonesia
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
@@ -68,6 +71,13 @@
 - Bio: Front End Web Developer
 - GitHub: [Chris](https://github.com/Chrisvo)
 
+
+#### Name: [Nalin Kashyap](https://github.com/Nkashyap-anand)
+
+- Place: Greater Noida, UP, India
+- Bio: Full Stack Developer
+- GitHub: [Nkashyap-anand](https://github.com/Nkashyap-anand)
+
 #### Name: [Aditya More](https://github.com/AdityaMore7000/)
 - Place: India
 - Bio: Second Year Computer Engineering Student from Pune :)
@@ -83,3 +93,9 @@
 - Place: India
 - Bio: ML engineer
 - GitHub: [Anushka](https://github.com/Anushka298)
+
+
+#### Name: [Anish Mathakiya](https://github.com/iam-anish)
+- Place: Gujarat, India,
+- Bio: Software Developer.
+- GitHub: [Anish Mathakiya](https://github.com/iam-anish)
