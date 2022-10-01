@@ -380,4 +380,4 @@
 
 - Place: Thessaloniki, Greece
 - Bio: I am a student
-- GitHub: [agusardi](https://github.com/lkmeta)
+- GitHub: [lkmeta](https://github.com/lkmeta)
