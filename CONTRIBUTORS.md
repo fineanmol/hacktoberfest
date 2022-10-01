@@ -7,6 +7,10 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+#### Name: Ryan
+ - Place: Kadiappatinam, India
+ - Bio: 12 year old. Just chillin.
+ - GitHub: [Ryan-techie](https://github.com/Ryan-techie)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
