@@ -100,6 +100,11 @@
 - Bio: Fullstack Web Developer
 - GitHub: [Kartikey Singh](https://github.com/noiceee)
 
+#### Name: [Vasundhara Shenoy](https://github.com/VasundharaShenoy)
+- Place: India
+- Bio: 4th year Information Science Student
+- GitHub: [Vasundhara Shenoy](https://github.com/VasundharaShenoy)
+
 
 
 #### Name: [Nalin Kashyap](https://github.com/Nkashyap-anand)
