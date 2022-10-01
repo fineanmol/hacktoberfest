@@ -375,3 +375,9 @@
 - Place: Jogja, Jogja, Indonesia
 - Bio: I am a learner
 - GitHub: [agusardi](https://github.com/letdummy)
+
+#### Name: [George Pires](https://github.com/GeorgePires)
+
+- Place: Teresina, Piauí, Brazil
+- Bio: Back-end Developer Jr
+- GitHub: [GeorgePires](https://github.com/GeorgePires)
