@@ -160,3 +160,7 @@
 - Bio: 5th semester undergrad IT student.I am a web development enthusiast
 - GitHub: [Sriver27](https://github.com/Sriver27)
 
+#### Name: [Abhishek Prasad](https://github.com/abhishekprasad2384)
+- Place:  Kolkata, West Bengal, India
+- Bio: 8th semester undergrad IT student.I am a web development enthusiast
+- GitHub: [Abhishek Prasad](https://github.com/abhishekprasad2384)
