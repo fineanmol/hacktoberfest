@@ -1,3 +1,7 @@
+#### Name: [JATIN SAINI](https://github.com/yunocrown)
+- Place: Jaipur, Rajasthan
+- Bio: 3rd year Computer Science Student At Arya College of Engineering and I.T
+- GitHub: [yunocrown](https://github.com/yunocrown)
 
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 - Place: Old Street, UK,
