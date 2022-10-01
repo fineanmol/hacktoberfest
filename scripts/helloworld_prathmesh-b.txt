@@ -1,0 +1,10 @@
+// LANGUAGE: Delphi
+// AUTHOR: प्रथमेश | Prathmesh
+// GITHUB: https://github.com/prathmesh-b
+
+
+
+procedure TForm1.ShowAMessage;
+begin
+  ShowMessage('Hello World!');
+end;
