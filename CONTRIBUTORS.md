@@ -198,3 +198,8 @@
 - Bio: Final Year Computer Science Student from Nepal :)
 - GitHub: [Sambhav](https://github.com/LordSambhav/)
 
+#### Name: [Samir](https://github.com/SamirKaushik/)
+- Place: India
+- Bio: Prefinal Year ECE Student from India :)
+- GitHub: [Samir](https://github.com/SamirKaushik/)
+
