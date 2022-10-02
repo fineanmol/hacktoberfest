@@ -22,6 +22,12 @@
 - Bio: Student
 - GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 
+#### Name: [Prashant Bhapkar](https://github.com/Prashant-Bhapkar)
+
+- Place: Pune, India
+- Bio: Student
+- GitHub: [Prashant Bhapkar](https://github.com/Prashant-Bhapkar)
+
 #### Name: [Ishan Katoch](https://github.com/ishan-1010)
 
 - Place: Dera Bassi, India
