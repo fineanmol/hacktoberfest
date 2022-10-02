@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Mihir Panchal](https://github.com/MihirRajeshPanchal)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: 5🌟HackerRank | Top 10 KJSCE HACK 6.0 | Diploma in IT at Shri Bhagubhai Mafatlal Polytechnic
+- GitHub: [MihirRajeshPanchal](https://github.com/MihirRajeshPanchal)
