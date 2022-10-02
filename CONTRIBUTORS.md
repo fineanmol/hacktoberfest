@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Jason Chen](https://github.com/jnchen12a)
+
+- Place: Jamtara, Jharkhand, India
+- Bio: 2nd year Btech student
+- GitHib: [aksharma27](https://github.com/aksharma27)
