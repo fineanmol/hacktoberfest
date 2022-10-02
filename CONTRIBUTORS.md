@@ -502,8 +502,17 @@
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
 
+<<<<<<< HEAD
+
+#### Name: [Ankit Pandey](https://github.com/pandey-ankit-22)
+
+- Place: Chhapra, Saran, Bihar
+- Bio: 2nd Year B.Tech Student, NIT DURGAPUR
+- GitHub: [Ankit Pandey](https://github.com/pandey-ankit-22)
+=======
 #### Name: [Shubh Rastogi](https://github.com/shubhrastogi07)
 
 - Place: Lucknow, Uttar Pradesh, India
 - Bio:Just a learner, exploring and experimenting with new things
 - GitHub: [shubhrastogi07](https://github.com/shubhrastogi07)
+>>>>>>> 8abba75a2718fdfa67dabe7345eca866dd9314ef
