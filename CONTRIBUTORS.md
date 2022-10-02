@@ -507,3 +507,9 @@
 - Place: Lucknow, Uttar Pradesh, India
 - Bio:Just a learner, exploring and experimenting with new things
 - GitHub: [shubhrastogi07](https://github.com/shubhrastogi07)
+
+#### Name: [Himanshu Gupta](https://github.com/himanshugupta11110000)
+
+- Place: Delhi, India
+- Bio: Data Structures & Algorithms Enthusiast
+- GitHub: [himanshugupta11110000](https://github.com/himanshugupta11110000)
