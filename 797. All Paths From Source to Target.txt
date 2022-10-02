@@ -1,0 +1,25 @@
+Leetcode - 797. All Paths From Source to Target
+https://leetcode.com/problems/all-paths-from-source-to-target/
+
+
+class Solution {
+    List<List<Integer>> arr=new LinkedList<List<Integer>>();
+    public List<List<Integer>> allPathsSourceTarget(int[][] g) {
+        List<Integer> ar=new ArrayList<Integer>();
+        ar.add(0);
+        traversal(g,ar,0);
+        return arr;
+    }
+    public void traversal(int[][] g, List<Integer> ar,int idx){
+        if(idx==g.length-1){
+            //System.out.println(ar);
+            arr.add(new ArrayList<>(ar));
+            return;
+        }
+        for(int i:g[idx]){
+            ar.add(i);
+            traversal(g,ar,i);
+            ar.remove(ar.size()-1);
+        }
+    }
+}

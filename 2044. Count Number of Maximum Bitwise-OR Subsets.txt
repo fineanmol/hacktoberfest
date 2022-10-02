@@ -1,0 +1,22 @@
+Leetcode - 2044. Count Number of Maximum Bitwise-OR Subsets
+https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/
+
+
+class Solution {
+    int m=0;
+    public int countMaxOrSubsets(int[] n) {
+        Map<Integer,Integer> ar=new HashMap<Integer,Integer>();
+        int a=0;
+        traversal(n,0,0,ar);
+        for(int i:ar.keySet()){
+            a=Math.max(a,i);
+        }
+        return ar.get(a);
+    }
+    public void traversal(int[] n,int s,int idx,Map<Integer,Integer> ar){
+        ar.put(s,ar.getOrDefault(s,0)+1);
+        for(int i=idx;i<n.length;i++){
+            traversal(n,s|n[i],i+1,ar);
+        }
+    }
+}
