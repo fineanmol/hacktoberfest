@@ -304,6 +304,14 @@
 - Bio: I love coding!
 - GitHub: [hoplite2000](https://github.com/hoplite2000)
 
+<<<<<<< HEAD
+>>>>>>> 84a3c481b1beaa98e6c8e796db4611e2d9ec5e7a
+
+#### Name: [Stephen Praise Agboola](GitHub link)
+- Place: Ilorin, Kwara, Nigeria
+- Bio: Software Developer, and Educational Technology Student
+- GitHub: [Devbysteph](https://github.com/Devbysteph)
+=======
 #### Name: [Dhruv Bhagatkar](https://github.com/yunocrown)
 
 - Place: Mumbai,Maharashtra
@@ -507,3 +515,4 @@
 - Place: Lucknow, Uttar Pradesh, India
 - Bio:Just a learner, exploring and experimenting with new things
 - GitHub: [shubhrastogi07](https://github.com/shubhrastogi07)
+>>>>>>> 8abba75a2718fdfa67dabe7345eca866dd9314ef
