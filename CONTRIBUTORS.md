@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Rajesh](https://github.com/rajeshds20)
+
+- Place: Anantapur, India
+- Bio: I am a 3rd Year UnderGraduate Student starting my interest into tech community. Presently working on Flutter and Web development.
+- GitHub: [Rajeshds20](https://github.com/rajeshds20)
