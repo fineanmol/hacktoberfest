@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Mueez Khan](https://github.com/rzmk)
+
+- Place: New Jersey, United States of America
+- Bio: Undergraduate student learning computer science
+- GitHub: [rzmk](https://github.com/rzmk)
