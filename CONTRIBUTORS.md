@@ -1,3 +1,8 @@
+#### Name: [Vaibhav Sharma](https://www.linkedin.com/in/vaibhav-sharma-17928b1a1/)
+
+- Place: Dehradun, India
+- Bio: Constantly evolving CSE Student
+- GitHib: [AlphaVS-76](https://github.com/AlphaVS-76)
 
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
