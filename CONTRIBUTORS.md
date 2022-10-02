@@ -510,6 +510,13 @@
 - GitHub: [debajyotig466](https://github.com/debajyotig466)
 
 
+#### Name: [Mayur Joshi](https://github.com/Mayur-Joshi3108)
+
+- Place: Mysuru, India
+- Bio: I'm an undergraduate student interested in web development
+- GitHub: [Mayur Joshi](https://github.com/Mayur-Joshi3108)
+
+
 #### Name: [Rohan Raju Meshram](https://github.com/RohanKGP)
 
 - Place: Nagpur, Maharashtra, India
