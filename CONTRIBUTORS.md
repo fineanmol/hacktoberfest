@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Nishanth K](https://github.com/Nishanthk10)
+
+- Place: Manglore, Karnataka, India
+- Bio: I am a undergraduate enginreeing student and a machine learning enthusiast
+- GitHub: [Nishanthk10](https://github.com/Nishanthk10)
+
