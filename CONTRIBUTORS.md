@@ -522,3 +522,11 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Ashwin Prasanth](https://github.com/ashwinpra)
+
+- Place: Kerala, India 
+- Bio: I am a second year CS undergraduate 
+- GitHub: [ashwinpra](https://github.com/ashwinpra)
+
+
