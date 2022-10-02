@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Harshit Kumar](https://github.com/harshitkumar77)
+
+- Place: Bangalore,India
+- Bio: I am a software developer
+- GitHub: [harshit kumar](https://github.com/harshitkumar77)
