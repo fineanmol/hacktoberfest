@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Craig Gehrig](https://github.com/CAG07)
+
+- Place: Illinois, USA
+- Bio: Hacktoberfest enthusiast
+- GitHub: [CAG07](https://github.com/CAG07)
