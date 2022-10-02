@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Sonya Nikiforova](https://github.com/sonniki)
+
+- Place: Utrecht, Netherlands
+- Bio: a PhD student
+- GitHub: [sonniki](https://github.com/sonniki)
