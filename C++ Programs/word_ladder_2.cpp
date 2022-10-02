@@ -1,3 +1,6 @@
+// LANGUAGE: C++
+// AUTHOR: Himanshu Gupta
+// GITHUB: https://github.com/himanshugupta11110000
 class Solution {
 public:
 
