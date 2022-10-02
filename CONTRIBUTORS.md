@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Dhravya Shah](https://github.com/dhravya)
+
+- Place: Mumbai
+- Bio: 17 year old student and freelance developer. Guitar, Memes and Tech is my life.
+- GitHub: [Dhravya](https://github.com/dhravya)
