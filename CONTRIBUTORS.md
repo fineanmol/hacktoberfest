@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Atinder Kumar](https://github.com/atinder11)
+
+- Place: Noida, Uttarpradesh, India
+- Bio: Second-year college student
+- GitHib: [atinder11](https://github.com/atinder11)
