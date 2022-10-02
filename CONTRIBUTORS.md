@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Dhyey Sampat](https://github.com/sjpulman)
+
+- Place: Mumbai, India
+- Bio: I am a Third year student
+- GitHub: [dhyeysampat](https://github.com/dhyeysampat)
