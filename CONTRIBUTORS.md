@@ -127,7 +127,7 @@
 - Place: Kolkata , West Bengal , India
 - Bio: Computer science 2nd year student
 - GitHub: [Chayandev](https://github.com/Chayandev)
-- 
+
 #### Name: Muhammad Noorani
 
 - Place: Gujarat, India
