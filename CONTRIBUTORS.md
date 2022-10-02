@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Shubham Dalmia](https://github.com/shubham-dalmia)
+
+- Place: Ranchi, Jharkhand, India
+- Bio: I'm an undergraduate curretly in my third year. I have worked in frontend and now looking forward to learn backend too.
+- GitHub: [shubham-dalmia](https://github.com/shubham-dalmia)
