@@ -1,4 +1,3 @@
-
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
 - Place: Gainesville, FL, USA
@@ -522,3 +521,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Shitij Agrawal](https://github.com/mr-shitij)
+
+- Place: Maharashtra, India
+- Bio: College Student
+- GitHub: [mr-shitij](https://github.com/mr-shitij)
