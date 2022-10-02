@@ -522,3 +522,8 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Aditya Chaplot](https://github.com/adielliot37)
+- Place: Bhilwara , Rajasthan ,India
+- Bio: 2nd year cse student at IIITV cyber-security enthusiast
+- GitHub: [adielliot37](https://github.com/adielliot37)
