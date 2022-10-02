@@ -1,3 +1,6 @@
+// LANGUAGE: C++
+// AUTHOR: Himanshu Gupta
+// GITHUB: https://github.com/himanshugupta11110000
 class Solution {
 public:
     bool match(string& s, string& p, int i, int j, vector<vector<int>>& v){
