@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Aditya Singh](https://github.com/TheGuyCheese)
+
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Second-year college student
+- GitHib: [TheGuyCheese](https://github.com/TheGuyCheese)
