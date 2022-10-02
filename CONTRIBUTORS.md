@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Himanshu](https://github.com/him2016)
+
+- Place: Delhi, India
+- Bio: Student
+- GitHib: [him2016](https://github.com/him2016)
