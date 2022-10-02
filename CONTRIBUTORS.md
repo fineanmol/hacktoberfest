@@ -507,3 +507,9 @@
 - Place: Lucknow, Uttar Pradesh, India
 - Bio:Just a learner, exploring and experimenting with new things
 - GitHub: [shubhrastogi07](https://github.com/shubhrastogi07)
+
+#### Name: [Rahul Roy](https://github.com/Rahul-Roy-21/)
+
+- Place: Kolkata, West Bengal, India
+- Bio: A Web Dev enthusiast, quick learner and an explorer of technology
+- GitHub: [Rahul-Roy-21](https://github.com/Rahul-Roy-21/)
