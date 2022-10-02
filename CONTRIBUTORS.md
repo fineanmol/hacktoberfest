@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Karan Mahajan](https://github.com/karan919)
+
+- Place: New Delhi, India
+- Bio: I am a frontend developer that specialises in React
+- GitHub: [karan919](https://github.com/karan919)
