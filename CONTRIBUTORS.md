@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Naman Manjkhola](https://github.com/NamanManjkhola)
+
+- Place: Dehradun, India
+- Bio: 3rd Year computer science undergrad at Graphic Era University
+- GitHub: [NamanManjkhola](https://github.com/NamanManjkhola)
