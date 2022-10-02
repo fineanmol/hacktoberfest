@@ -507,3 +507,9 @@
 - Place: Lucknow, Uttar Pradesh, India
 - Bio:Just a learner, exploring and experimenting with new things
 - GitHub: [shubhrastogi07](https://github.com/shubhrastogi07)
+
+#### Name: [Shashwat Awasthi](https://github.com/ShashwatAwasthi12)
+
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Final Year student at NIT, Patna in Electrical Engineering
+- GitHub: [Shashwat Awasthi](https://github.com/ShashwatAwasthi12)
