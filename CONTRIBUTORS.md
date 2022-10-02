@@ -1,3 +1,8 @@
+#### Name: [Kishan Kumar Rai](https://github.com/kishanrajput23)
+
+- Place: New Delhi, India
+- Bio: Final Year Student
+- GitHub: [kishanrajput23](https://github.com/kishanrajput23)
 
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
