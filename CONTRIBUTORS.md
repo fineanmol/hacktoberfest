@@ -1,3 +1,8 @@
+#### Name: [Manus Gupta](https://github.com/Manus-MG)
+-Lucknow, UttarPradesh, India
+-Pre-Final year Student -Do connect with me on LinkedIn https://www.linkedin.com/in/manus-gupta/
+-GitHub: [Manus Gupta](https://github.com/Manus-MG)
+
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
 - Place: Gainesville, FL, USA
