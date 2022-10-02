@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Amey Managute](https://github.com/ameymn)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: I'm an undergraduate student in my third year who enjoys open source and is presently interested in Web development.
+- GitHub: [ameymn](https://github.com/ameymn)
