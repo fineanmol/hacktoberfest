@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Tanay Dwivedi](https://github.com/Tanay-Dwivedi)
+
+- Place: Kanpur, Uttar Pradesh, INDIA
+- Bio: Pre-final year college student. A mobile application developer working with Java, Kotlin and Flutter.
+- GitHib: [Tanay-Dwivedi](https://github.com/Tanay-Dwivedi)
