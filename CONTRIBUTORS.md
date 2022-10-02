@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Samson](https://github.com/samelloyt)
+
+- Place: MV, Germany
+- Bio: I am a jung python developer my specefecations are make programms for solve my homework cause my techer gives the same homwork every time just with other numbers 
+- GitHub: [GitHub account name](GitHub link)
