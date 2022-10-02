@@ -522,3 +522,8 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Vicky Raghuwanshi](https://github.com/Vicky-Raghuwanshi07)
+- Place: Indore, Madhya Pradesh, India
+- Bio: I'm a 4th year college student pursuing Computer Science & Engineering
+- GitHub: [Vicky Raghuwanshi](https://github.com/Vicky-Raghuwanshi07)
