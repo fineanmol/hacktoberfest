@@ -122,6 +122,12 @@
 - Bio: Computer science final year student
 - GitHub: [Sayam241020](https://github.com/Sayam241020)
 
+#### Name: [Chayandev Bera](https://github.com/Chayandev)
+
+- Place: Kolkata , West Bengal , India
+- Bio: Computer science 2nd year student
+- GitHub: [Chayandev](https://github.com/Chayandev)
+- 
 #### Name: Muhammad Noorani
 
 - Place: Gujarat, India
