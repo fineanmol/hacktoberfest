@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Varshil Desai](https://github.com/Var5h1l/)
+
+- Place: Gujarat, India
+- Bio: I am a Cyber Security enthusiastic with interest in contributing toward Open-source communities.
+- GitHub: [Var5h1l](https://github.com/Var5h1l/)
