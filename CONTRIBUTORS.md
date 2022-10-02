@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Baibhav Tiwari](https://github.com/RohanKGP)
+
+- Place: Noida, Uttar Pradesh, India
+- Bio: UNIVERSE IS COOL.
+- GitHub: [baibhav-tiwari](https://github.com/baibhav-tiwari)
