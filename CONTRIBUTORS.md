@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Ankit Pandey](https://github.com/pandey-ankit-22)
+
+- Place: Chhapra, Saran, Bihar
+- Bio: 2nd Year B.Tech Student, NIT DURGAPUR
+- GitHub: [Ankit Pandey](https://github.com/pandey-ankit-22)
