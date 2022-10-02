@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Naman Mehta](https://github.com/naman1102)
+
+- Place: Indore, Madhya Pradesh, Indore
+- Bio: I am cyber security enthusiastic.
+- GitHub: [naman1102](https://github.com/naman1102)
