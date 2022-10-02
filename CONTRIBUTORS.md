@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Jason Boyle](https://github.com/jaace)
+
+- Place: Maine, United States
+- Bio: Software Engineer currently working with JavaScript and PHP
+- GitHub: [Jaace](https://github.com/jaace)
