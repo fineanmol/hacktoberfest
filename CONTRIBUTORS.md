@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Raj Majumdar](https://github.com/raj23689)
+
+- Place: WestBengal, INDIA
+- Bio: 2nd Year College Student
+- Github: [Raj Majumdar](https://github.com/raj23689)
