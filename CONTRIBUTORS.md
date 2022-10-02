@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Bhavil Ahuja](https://github.com/Bhavil-Ahuja)
+
+- Place: New Delhi, India
+- Bio: I am a backend developer and a coding enthusiast
+- GitHub: [Bhavil-Ahuja](https://github.com/Bhavil-Ahuja)
