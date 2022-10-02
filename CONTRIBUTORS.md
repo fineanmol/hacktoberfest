@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Ali Zain](https://github.com/zain2201)
+
+- Place: Lucknow, India
+- Bio: Final Year student at Integral University, 4-star codechef, 1851 on leetcode, starting with open source.
+- GitHub: [Ali Zain](https://github.com/zain2201)
