@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Jackson Roberio](https://jacksonroberio.com.br)
+
+- Place: Brasil, Rio Grande do Norte, Natal;
+- Bio: Develop Java web and Mobile, Kotlin too!
+- GitHub: [jackson-roberio](https://github.com/jackson-roberio)
