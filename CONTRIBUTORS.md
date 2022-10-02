@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Shubham Gupta](https://github.com/shubhamgupta2730)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: I'm a frontend web developer
+- Github: [Shubham Gupta](https://github.com/shubhamgupta2730)
