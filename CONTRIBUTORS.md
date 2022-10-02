@@ -507,3 +507,9 @@
 - Place: Lucknow, Uttar Pradesh, India
 - Bio:Just a learner, exploring and experimenting with new things
 - GitHub: [shubhrastogi07](https://github.com/shubhrastogi07)
+
+#### Name: [Douglas Evaristo](https://github.com/douglasevaristo)
+
+- Place: São Paulo, SP, Brazil
+- Bio:Working on Adtech Startup
+- GitHub: [douglasevaristo](https://github.com/douglasevaristo)
