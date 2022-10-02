@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Prity Dhara](https://github.com/preetidhara)
+
+- Place: Ahmedabad, India
+- Bio: I am a Webflow developer and UI/UX Designer
+- GitHub: [preetidhara](https://github.com/preetidhara)
