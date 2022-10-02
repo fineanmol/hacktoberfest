@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Harsh Ranjan](https://github.com/harshranjan63)
+
+- Place: Rourkela, Odisha, India
+- Bio: I am a Full stack developer. But more confined to Backed.
+- GitHub: [harshranjan63](https://github.com/harshranjan63)
