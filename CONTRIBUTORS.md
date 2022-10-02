@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Pedro](https://github.com/pedrodemargomes)
+
+- Place: Brazil
+- Bio: Passionate Programmer
+- GitHub: [pedrodemargomes](https://github.com/pedrodemargomes)
