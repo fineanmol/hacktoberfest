@@ -522,3 +522,11 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Saugat Rimal](https://github.com/saugat-rimal)
+
+- Place: Biratnagar, Nepal
+- Bio: I am a wordpress and frontend dev
+- GitHub: [Saugat Rimal](https://github.com/saugat-rimal)
+
