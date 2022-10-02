@@ -1,3 +1,8 @@
+#### Name: [Shitij Agrawal](https://github.com/mr-shitij)
+
+- Place: Maharashtra, India
+- Bio: College Student
+- GitHub: [mr-shitij]([GitHub link](https://github.com/mr-shitij))
 
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
