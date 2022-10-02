@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Asif Azad](https://github.com/BRAINIAC2677)
+
+- Place: Dhaka, Bangladesh 
+- Bio: I am an undergraduate student having an unending fascination for technologies. 
+- GitHub: [BRAINIAC2677](https://github.com/BRAINIAC2677)
