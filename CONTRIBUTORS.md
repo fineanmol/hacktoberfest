@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Chandan Pandey](https://github.com/ChandanP007)
+
+- Place: Kolkata, India
+- Bio: I am an UG student. Currently, i am learning web development.
+- GitHub: [Chandan](https://github.com/ChandanP007)
