@@ -522,3 +522,9 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Nihar Wadhwa](https://github.com/nihar-wadhwa)
+
+- Place: Punjab, India
+- Bio: 4th-year college student
+- GitHib: [niharwadhwa](https://github.com/nihar-wadhwa)
