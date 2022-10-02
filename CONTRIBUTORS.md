@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Aditya Arya](https://github.com/Aditya9111)
+
+- Place: Bangalore, India
+- Bio: I am a full stack web developer.
+- GitHub: [aditya9111](https://github.com/Aditya9111)
