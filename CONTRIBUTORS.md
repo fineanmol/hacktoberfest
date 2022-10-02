@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Xanthis](https://www.github.com/xanthisafk/)
+
+- Place: Delhi, India
+- Bio: Backend developer
+- Github: [xanthisafk](https://www.github.com/xanthisafk)
