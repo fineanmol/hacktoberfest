@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [NahushSingh](https://github.com/NahushSingh)
+
+- Place: Mau, Uttar Pradesh, India
+- Bio: I am a Computer Science and Engineering Student Final Year at KNIT, Sultanpur
+- GitHub: [NahushSingh](https://github.com/NahushSingh)
