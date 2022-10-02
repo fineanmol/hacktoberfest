@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+
+#### Name: [Hal]((https://github.com/sljtheultima))
+
+- Place: Malaysia
+- Bio: I am a backend developer
+- GitHub: [Hal](https://github.com/sljtheultima)
