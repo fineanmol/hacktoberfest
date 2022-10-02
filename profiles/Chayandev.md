@@ -33,6 +33,6 @@ Android Devlopment
 
 **Profile Link**
 
-https://github.com/Chayandev
+[jnchen12a] https://github.com/Chayandev
 
 
