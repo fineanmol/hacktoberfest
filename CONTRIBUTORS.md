@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Mohan Pradhan](https://github.com/emoueitchaien)
+
+- Place: Kathmandu, Nepal
+- Bio: I am a Software Developer that specialises in MERN Stack
+- GitHub: [emoueitchaien](https://github.com/emoueitchaien)
