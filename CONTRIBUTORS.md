@@ -508,6 +508,14 @@
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
 
+
+#### Name: [Saugat Rimal](https://github.com/saugat-rimal)
+
+- Place: Biratnagar, Nepal
+- Bio: I am a wordpress and frontend dev
+- GitHub: [Saugat Rimal](https://github.com/saugat-rimal)
+
+
 #### Name: [Shubh Rastogi](https://github.com/shubhrastogi07)
 
 - Place: Lucknow, Uttar Pradesh, India
@@ -519,3 +527,4 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
