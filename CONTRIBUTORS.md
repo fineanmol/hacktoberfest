@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Kevin Cho](https://github.com/KCho27)
+
+- Place: Boston, Massachusetts
+- Bio: Currently working full time as a Full Stack Software Engineer
+- GitHub: [KCho27](https://github.com/KCho27)
