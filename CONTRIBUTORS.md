@@ -1,3 +1,9 @@
+#### Name: [Stephen Nwankwo](https://github.com/stenwire)
+
+- Place: Lagos, LAG, NIGERIA
+- Bio: Software Engineering, AI enthusiats and Gamer.
+- GitHub: [stenwire](https://github.com/stenwire)
+
 #### Name: [Rudreshwar Baranwal](https://github.com/devrudra9)
 
 - Place: Pratapgarh, Uttar Pradesh, India
