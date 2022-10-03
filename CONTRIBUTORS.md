@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+### Name: [Ayush Kumar Nath](https://github.com/ayushknath)
+
+- Place: Baripada, Odisha, India
+- Bio: Senior year B.Tech student
+- Github: [ayushknath](https://github.com/ayushknath)
