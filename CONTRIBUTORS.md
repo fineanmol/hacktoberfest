@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+### Name: [Priyanshu Kumar](https://github.com/i-priyanshu)
+
+- Place : New Delhi, India
+- Bio : I am an undergraduate student in my second year who enjoys open source and still exploring..
+- GitHub : [i-priyanshu](https://github.com/i-priyanshu)
