@@ -539,3 +539,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Hussain Shaikh](https://github.com/hussainshaikh12)
+
+- Place: Vasai, Maharashtra, India
+- Bio: Fullstack Django developer currently in my final year degree
+- GitHub: [hussainshaikh12](https://github.com/hussainshaikh12)
