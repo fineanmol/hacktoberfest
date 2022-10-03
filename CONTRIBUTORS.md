@@ -513,3 +513,10 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Shuarya Vats](https://github.com/Jatayu-u)
+
+- Place: Jharkhand, India
+- Bio: IITian, Web Development, Python 
+- GitHub: [Jatayu-u](https://github.com/Jatayu-u)
+
