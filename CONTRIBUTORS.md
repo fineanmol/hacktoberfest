@@ -4,7 +4,7 @@
 - Bio: Aspiring Software Engineer
 - GitHib: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
-### Name: [Sujal Goswami](https://github.com/sujal-goswami)
+#### Name: [Sujal Goswami](https://github.com/sujal-goswami)
 
 - Place: Jaipur, India
 - Bio: Second-year college student
