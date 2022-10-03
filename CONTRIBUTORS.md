@@ -573,3 +573,9 @@
 - Place: Jaipur, Rajasthan, India
 - Bio: I am a Third Year CSE student, I am a technology enthusiast.
 - GitHub: [mansadixit](https://github.com/mansadixit)
+
+#### Name: [Randy Asuncion](https://github.com/ranasun)
+
+-  Place: LA, California
+-  Bio: Taking my first step into contributing to open source.
+-  GitHub: [ranasun](https://github.com/ranasun)
