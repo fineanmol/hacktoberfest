@@ -1,3 +1,9 @@
+#### Name: [Stephen Nwankwo](https://github.com/stenwire)
+
+- Place: Lagos, LAG, NIGERIA
+- Bio: Software Engineering, AI enthusiats and Gamer.
+- GitHub: [stenwire](https://github.com/stenwire)
+
 #### Name: [Jay Mehta](https://github.com/jaymehta002)
 
 - Place: Lagos, LAG, NIGERIA
