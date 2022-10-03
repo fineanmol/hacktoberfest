@@ -573,3 +573,9 @@
 - Place: Jaipur, Rajasthan, India
 - Bio: I am a Third Year CSE student, I am a technology enthusiast.
 - GitHub: [mansadixit](https://github.com/mansadixit)
+
+#### Name: [Sofiane Louchene](https://github.com/mrsofiane)
+
+- Place: Paris, France
+- Bio: Software Engineer | Computer Scientist.
+- GitHub: [mrsofiane](https://github.com/mrsofiane)
