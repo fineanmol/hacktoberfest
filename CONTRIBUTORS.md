@@ -502,14 +502,23 @@
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
 
+
+#### Name: [Jackson Roberio](https://jacksonroberio.com.br)
+
+- Place: Brasil, Rio Grande do Norte, Natal;
+- Bio: Develop Java web and Mobile, Kotlin too!
+- GitHub: [jackson-roberio](https://github.com/jackson-roberio)
+
 #### Name: [Shubh Rastogi](https://github.com/shubhrastogi07)
 
 - Place: Lucknow, Uttar Pradesh, India
 - Bio:Just a learner, exploring and experimenting with new things
 - GitHub: [shubhrastogi07](https://github.com/shubhrastogi07)
 
+
 #### Name: [Nurkholiq Agani Hafid](https://github.com/nurkholiqaganihafid)
 
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
