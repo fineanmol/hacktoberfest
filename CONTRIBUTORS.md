@@ -573,3 +573,10 @@
 - Place: Jaipur, Rajasthan, India
 - Bio: I am a Third Year CSE student, I am a technology enthusiast.
 - GitHub: [mansadixit](https://github.com/mansadixit)
+
+#### Name: [Ranjit Ranjan](https://github.com/ranjit7858)
+
+- Place: Bhilai, Chhattisgarh, India
+- Bio: I'm a college student currently learning full stack web development.
+- GitHub: [ranjit7858](https://github.com/ranjit7858)
+
