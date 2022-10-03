@@ -586,7 +586,7 @@
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
 
-#### Name: [Caio Ícaro](https://github.com/CaioIOX))
+#### Name: [Caio Ícaro](https://github.com/CaioIOX)
 
 - Place: Feira de Santana, Bahia, Brazil
 - Bio: Mobile Developer
