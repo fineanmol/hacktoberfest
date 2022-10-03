@@ -4,6 +4,12 @@
 - Bio: Aspiring Software Engineer
 - GitHib: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
+### Name: [Sujal Goswami](https://github.com/sujal-goswami)
+
+- Place: Jaipur, India
+- Bio: Second-year college student
+- GitHub: [Sujal Goswami](https://github.com/sujal-goswami)
+
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
 - Place: Gainesville, FL, USA
