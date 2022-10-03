@@ -1,0 +1,7 @@
+// LANGUAGE: Kotlin
+// AUTHOR: Chayandev Bera
+// GITHUB: https://github.com/Chayandev
+
+fun main() {
+    println("Hello, world!")
+}
