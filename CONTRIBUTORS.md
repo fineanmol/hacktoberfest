@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Aakash](https://github.com/aakash-taneja)
+
+- Place: Rajasthan, India
+- Bio: I'm a learner and still learning programming
+- GitHub: [aakash-taneja](https://github.com/aakash-taneja)
