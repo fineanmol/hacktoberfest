@@ -567,3 +567,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Mansa Dixit](https://github.com/mansadixit)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: I am a Third Year CSE student, I am a technology enthusiast.
+- GitHub: [mansadixit](https://github.com/mansadixit)
