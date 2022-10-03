@@ -1,4 +1,4 @@
-#### Name: [Jason Chen](https://github.com/jnchen12a)
+﻿#### Name: [Jason Chen](https://github.com/jnchen12a)
 
 - Place: Gainesville, FL, USA
 - Bio: First-year college student
@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Rifqi](https://github.com/rifqij)
+
+- Place: Pidie Jaya, Aceh, Indonesia
+- Bio: Freshgraduate Bachelor of Applied Statistics
+- GitHub: [rifqij](https://github.com/rifqij)
