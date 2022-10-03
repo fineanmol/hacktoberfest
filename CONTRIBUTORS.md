@@ -1,3 +1,9 @@
+#### Name: [Mohasin Haque](https://github.com/jnchen12a)
+
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Frontend Developer
+- GitHub: [Mohasin Haque](https://github.com/jnchen12a)
+
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
 - Place: Gainesville, FL, USA
