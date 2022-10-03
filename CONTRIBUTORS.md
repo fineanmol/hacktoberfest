@@ -573,3 +573,10 @@
 - Place: Jaipur, Rajasthan, India
 - Bio: I am a Third Year CSE student, I am a technology enthusiast.
 - GitHub: [mansadixit](https://github.com/mansadixit)
+
+#### Name: [Som Chandra](https://github.com/Somchandra17)
+
+- Place: Jalandhar, Punjab, India
+- Bio: Cybersecurity Red team enthusiast currently pursuing BTech CSE Second Year
+- Github: [somchandra17](https://github.com/Somchandra17)
+
