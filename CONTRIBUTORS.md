@@ -513,3 +513,10 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Aayush aka Cloudy](https://aayushakacloudy.is-a.dev/)
+
+- Place: Pune, India
+- Bio: I'm a Game Programmer(Job and a student - BE AI and Data Sci.) 
+- GitHub: [gamedevCloudy](https://github.com/gamedevCloudy)
+
