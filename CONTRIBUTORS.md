@@ -1,3 +1,9 @@
+#### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
+
+- Place: Lagos, LAG, NIGERIA
+- Bio: Aspiring Software Engineer
+- GitHib: [Oluwatomilola](https://github.com/DevTomilola-OS)
+
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
 - Place: Gainesville, FL, USA
