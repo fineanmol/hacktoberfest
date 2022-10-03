@@ -556,14 +556,14 @@
 - Bio:Just a learner, exploring and experimenting with new things
 - GitHub: [shubhrastogi07](https://github.com/shubhrastogi07)
 
-#### Name: [Nurkholiq Agani Hafid](https://github.com/nurkholiqaganihafid)
-
-- Place: Barru, South Sulawesi, Indonesia
-- Bio: I'm a student and I love programming world
-- GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
-
 #### Name: [Aditya Gaurav Bhagat](https://github.com/adityeah2k)
 
 - Place: Dhanbad, Jharkhand, India
 - Bio: I'm a college student currently learning full stack web development.
 - GitHub: [adityeah2k](https://github.com/adityeah2k)
+
+#### Name: [Nurkholiq Agani Hafid](https://github.com/nurkholiqaganihafid)
+
+- Place: Barru, South Sulawesi, Indonesia
+- Bio: I'm a student and I love programming world
+- GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
