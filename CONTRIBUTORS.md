@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Rosita Sikarwar](https://github.com/Rositasikarwar)
+
+- Place: Noida, Uttar Pradesh, India
+- Bio: I'm a student and I love programming world, exploring and experimenting with new things
+- GitHub: [Rosita Sikarwar](https://github.com/Rositasikarwar)
