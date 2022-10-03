@@ -1,3 +1,9 @@
+#### Name: Akshay
+
+- Place: Telangana, India
+- Bio: Student | Python Programmer 
+- GitHub: [Akshay-Arjun](https://github.com/Akshay-Arjun)
+
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
 - Place: Gainesville, FL, USA
