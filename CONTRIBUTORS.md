@@ -561,3 +561,10 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Marcelo Oliveira](https://github.com/marcelotk15)
+
+- Place: Seropédica, Rio de Janeiro, Brasil
+- Bio: I'm a fullstack developer
+- GitHub: [marcelotk15](https://github.com/marcelotk15)
+
