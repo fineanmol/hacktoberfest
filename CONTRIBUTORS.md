@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Mohd Affan Siddiqui](https://github.com/tu-faaaaan)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: A student with keen interest in open source.
+- GitHub: [tu-faaaaan](https://github.com/tu-faaaaan)
