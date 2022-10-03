@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Rahul](https://github.com/rahuldotbiz)
+
+- Place: Pune, India
+- Bio: I'm an 18-year-old hustler who loves reading, coding and running an agency. Currently I am working at Fueler and hustlingTech
+- GitHub: [rahuldotbiz](https://github.com/rahuldotbiz)
