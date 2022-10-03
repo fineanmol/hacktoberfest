@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Anurag Roy](https://github.com/AnuragRoy485)
+
+- Place: Kolkata,India
+- Bio: Programmer,Student
+- GitHub: [AnuragRoy485](https://github.com/AnuragRoy485)
