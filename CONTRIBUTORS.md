@@ -530,15 +530,13 @@
 
 - Place: Indore, Madhya Pradesh, Indore
 - Bio: I am cyber security enthusiastic.
-- GitHub: [naman1102](https://github.com/naman1102)
-=======
+- # GitHub: [naman1102](https://github.com/naman1102)
 
 #### Name: [Saugat Rimal](https://github.com/saugat-rimal)
 
 - Place: Biratnagar, Nepal
 - Bio: I am a wordpress and frontend dev
 - GitHub: [Saugat Rimal](https://github.com/saugat-rimal)
-
 
 #### Name: [Shubh Rastogi](https://github.com/shubhrastogi07)
 
