@@ -514,6 +514,12 @@
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
 
+#### Name: [Naman Mehta](https://github.com/naman1102)
+
+- Place: Indore, Madhya Pradesh, Indore
+- Bio: I am cyber security enthusiastic.
+- GitHub: [naman1102](https://github.com/naman1102)
+=======
 
 #### Name: [Saugat Rimal](https://github.com/saugat-rimal)
 
@@ -533,4 +539,3 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
-
