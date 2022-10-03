@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Daniel Jo](https://github.com/danielskjo)
+
+- Place: Long Beach, California, United States
+- Bio: Computer student passionate about back-end development
+- GitHub: [Daniel Jo](https://github.com/danielskjo)
