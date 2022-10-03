@@ -551,3 +551,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Chad](https://github.com/ichadhr)
+
+- Place: Bekasi, West Java, Indonesia
+- Bio: Gravity always wins..
+- GitHub: [ichadhr](https://github.com/ichadhr)
