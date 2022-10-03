@@ -88,6 +88,12 @@
 - Bio: 12 Year Old Just Chillin
 - GitHub: [Ryan-techie](https://github.com/Ryan-techie)
 
+#### Name: [Abhibhab Mitra Thakur](https://github.com/Abhibhab)
+
+- Place: INDIA
+- Bio: 3rd year student
+- GitHub: [Ryan-techie](https://github.com/Abhibhab)
+
 #### Name: [Soham](https://github.com/sohamtembhurne)
 
 - Place: India
