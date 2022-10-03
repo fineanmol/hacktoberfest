@@ -1,8 +1,20 @@
+#### Name: [Jay Mehta](https://github.com/jaymehta002)
+
+- Place: Lagos, LAG, NIGERIA
+- Bio: Aspiring Software Engineer
+- GitHib: [Jay Mehta](https://github.com/jaymehta002)
+
 #### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
 - Place: Lagos, LAG, NIGERIA
 - Bio: Aspiring Software Engineer
 - GitHib: [Oluwatomilola](https://github.com/DevTomilola-OS)
+
+#### Name: [Sujal Goswami](https://github.com/sujal-goswami)
+
+- Place: Jaipur, India
+- Bio: Second-year college student
+- GitHub: [Sujal Goswami](https://github.com/sujal-goswami)
 
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
@@ -27,6 +39,12 @@
 - Place: Delhi, India
 - Bio: Student
 - GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
+
+#### Name: [Prashant Bhapkar](https://github.com/Prashant-Bhapkar)
+
+- Place: Pune, India
+- Bio: Student
+- GitHub: [Prashant Bhapkar](https://github.com/Prashant-Bhapkar)
 
 #### Name: [Ishan Katoch](https://github.com/ishan-1010)
 
@@ -93,6 +111,12 @@
 - Place: INDIA
 - Bio: 12 Year Old Just Chillin
 - GitHub: [Ryan-techie](https://github.com/Ryan-techie)
+
+#### Name: [Abhibhab Mitra Thakur](https://github.com/Abhibhab)
+
+- Place: INDIA
+- Bio: 3rd year student
+- GitHub: [Ryan-techie](https://github.com/Abhibhab)
 
 #### Name: [Soham](https://github.com/sohamtembhurne)
 
@@ -518,15 +542,13 @@
 
 - Place: Indore, Madhya Pradesh, Indore
 - Bio: I am cyber security enthusiastic.
-- GitHub: [naman1102](https://github.com/naman1102)
-=======
+- # GitHub: [naman1102](https://github.com/naman1102)
 
 #### Name: [Saugat Rimal](https://github.com/saugat-rimal)
 
 - Place: Biratnagar, Nepal
 - Bio: I am a wordpress and frontend dev
 - GitHub: [Saugat Rimal](https://github.com/saugat-rimal)
-
 
 #### Name: [Shubh Rastogi](https://github.com/shubhrastogi07)
 
