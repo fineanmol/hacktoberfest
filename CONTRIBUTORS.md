@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Stevanus Christian](https://github.com/Stevanus-Christian)
+
+- Place: Palembang, Indonesia
+- Bio: Android and Web developer
+- GitHub: [Stevanus-Christian](https://github.com/Stevanus-Christian)
