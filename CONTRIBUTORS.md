@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Deepanshu Rawat](https://github.com/deepanshu-rawat6)
+
+- Place: Dehradun, Uttarakhand, India
+- Bio: Open Source and DevOps Enthusiast
+- GitHub: [Deepanshu Rawat](https://github.com/deepanshu-rawat6)
