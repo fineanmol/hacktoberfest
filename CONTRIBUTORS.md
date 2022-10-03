@@ -510,6 +510,11 @@
 
 #### Name: [Nurkholiq Agani Hafid](https://github.com/nurkholiqaganihafid)
 
-- Place: Barru, South Sulawesi, Indonesia
+- : Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+## Name: [Shubh Rastogi](https://github.com/shubhrastogi07)
+
+- Place: Noida, Uttar Pradesh, India
+- Bio:Think Different
+- GitHub: [SachinVardhan06](https://github.com/SachinVardhan06)
