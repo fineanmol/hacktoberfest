@@ -534,3 +534,9 @@
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
 
+#### Name: [Saloni Dwivedi](https://github.com/Saloni098)
+
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: Frontend devlepor and UI/UX Designer
+- GitHub: [Saloni098](https://github.com/Saloni098)
+
