@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Punyakrit Singh Makhni](https://github.com/punyakrit)
+
+- Place: Amritsar, Punjab, India
+- Bio: I'm a student and I love to code
+- GitHub: [punyakrit](https://github.com/punyakrit)
