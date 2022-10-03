@@ -1,0 +1,84 @@
+#include <iostream>
+using namespace std;
+
+ class node{
+ public:
+           int data;
+           node*next;
+           
+         node(int data){
+              this->data=data;
+              next=NULL;
+         }
+ };
+ 
+  node*takeinput(){
+             int data;
+             cin>>data;
+             node*head=NULL;
+             node*tail=NULL;
+             while(data!=-1){
+                 node*newnode=new node(data);
+                 if(head==NULL){
+                      head=newnode;
+                      tail=newnode;
+                 }
+                 else{
+                     tail->next=newnode;
+                     tail=newnode;
+                 }
+                 cin>>data;
+             }
+             return head;
+  }
+  
+   node*mid(node*head){
+            node*slow=head;
+            node*fast=head->next;
+         while(fast!=NULL && fast->next!=NULL){
+               slow=slow->next;
+               fast=fast->next->next;
+         }
+         return slow;
+   }
+   
+    node*reverse(node*head1){
+           if(head1==NULL || head1->next==NULL){
+               return head1;
+           }
+           node*smallans=reverse(head1->next);
+           node*tail=head1->next;
+           tail->next=head1;
+           head1->next=NULL;
+           return smallans;
+    }
+    
+     bool palindrome(node*head){
+             if(head==NULL){
+                 return true;
+             }
+            node*middle=mid(head);
+            node*head1=middle->next;
+            node*rev=reverse(head1);
+              while(head!=NULL && rev!=NULL){
+              if(head->data==rev->data){
+                  head=head->next;
+                  rev=rev->next;
+              }
+              else{
+                  return false;
+              }
+              }
+        return true;
+     }
+int main() {
+
+        node*head=takeinput();
+        if(palindrome(head)){
+            cout<<"True";
+        }
+        else{
+            cout<<"False";
+        }
+    return 0;
+}
