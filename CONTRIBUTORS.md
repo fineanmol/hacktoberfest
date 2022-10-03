@@ -513,3 +513,10 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+
+#### Name: [Sanjay Pradeep](https://github.com/sanjaypradeep)
+
+- Place: Toronto, Canada
+- Bio: https://twitter.com/tweet2sanjaydev
+- GitHub: [Aditya Nigam ](https://github.com/sanjaypradeep)
