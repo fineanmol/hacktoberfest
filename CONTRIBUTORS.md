@@ -1,3 +1,9 @@
+#### Name: [Abhijeet Sonawane](https://github.com/jacktherock)
+
+- Place: Pune, Maharashtra, India
+- Bio: Student
+- GitHub: [jacktherock](https://github.com/jacktherock)
+
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
 - Place: Gainesville, FL, USA
