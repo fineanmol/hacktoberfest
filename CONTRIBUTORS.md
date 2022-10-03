@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+### Name: [Rithas K](https://github.com/rithask)
+- Place: Kerala, India
+- Bio: I'm a sophomore student who is curious about upcoming technologies
+- GitHub: [rithask](https://github.com/rithask)
+- Gitea: [rithask](https://git.rithask.codes/rithask)
