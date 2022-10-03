@@ -1,3 +1,9 @@
+#### Name: [Rudreshwar Baranwal](https://github.com/devrudra9)
+
+- Place: Pratapgarh, Uttar Pradesh, India
+- Bio: I am a competitive programmer and a frontend web developer too.
+- GitHub: [devrudra9](https://github.com/devrudra9)
+
 #### Name: [Jay Mehta](https://github.com/jaymehta002)
 
 - Place: Lagos, LAG, NIGERIA
