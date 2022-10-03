@@ -1,3 +1,9 @@
+#### Name: [Jay Mehta](https://github.com/jaymehta002)
+
+- Place: Lagos, LAG, NIGERIA
+- Bio: Aspiring Software Engineer
+- GitHib: [Jay Mehta](https://github.com/jaymehta002)
+
 #### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
 - Place: Lagos, LAG, NIGERIA
