@@ -22,6 +22,12 @@
 - Bio: Student
 - GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 
+#### Name: [Ganesh Rahate](https://github.com/Ganeshsrahate)
+
+- Place: Maharashtra,india
+- Bio: Student
+- GitHub: [Ganesh Rahate](https://github.com/Ganeshsrahate)
+
 #### Name: [Ishan Katoch](https://github.com/ishan-1010)
 
 - Place: Dera Bassi, India
