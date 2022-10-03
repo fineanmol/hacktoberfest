@@ -573,3 +573,9 @@
 - Place: Jaipur, Rajasthan, India
 - Bio: I am a Third Year CSE student, I am a technology enthusiast.
 - GitHub: [mansadixit](https://github.com/mansadixit)
+
+#### Name: [Harshita Agrawal](https://github.com/harshi723)
+
+- Place: Gwalior, Madhya Pradesh, India
+- Bio: Student, Python programmer
+- GitHub: [harshi723](https://github.com/harshi723)
