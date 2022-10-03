@@ -513,3 +513,9 @@
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+
+#### Name: [Ru'fatiani](https://github.com/rufatiani)
+
+- Place: Cimahi, Jawa Barat, Indonesia
+- Bio: Backend Software Engineer (Java)
+- GitHub: [rufatiani](https://github.com/rufatiani)
