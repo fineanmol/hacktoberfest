@@ -1,3 +1,9 @@
+#### Name: [Aanya Kumari](https://github.com/Aanya9693)
+
+- Place: Kolkata, West Bengal
+- Bio: Second year College student
+- GitHib: [Aanya9693](https://github.com/Aanya9693)
+
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
 - Place: Gainesville, FL, USA
