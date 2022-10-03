@@ -4,6 +4,10 @@
 # GITHUB: https://github.com/Aayush-N
 
 def hello_world():
-	print('Hello, World!')
+	'''
+	args: NA
+	return: string
+	'''
+	return 'Hello, World!'
 
-hello_world()
+print(hello_world())
