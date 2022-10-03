@@ -5,4 +5,4 @@
 
 #!/bin/bash
 echo "Hello, World!"
-sleep(1)
+sleep 1
