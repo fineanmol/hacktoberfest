@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Rahul Jadav](https://github.com/rahuljadav21)
+
+-   Place: Surat, Gujarat, India
+-   Bio: Full-Stack Developer, Technology Enthusiast
+-   GitHub: [rahuljadav21](https://github.com/rahuljadav21)
