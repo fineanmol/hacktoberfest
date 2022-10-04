@@ -1,3 +1,9 @@
+#### Name: [Ujjwal Gupta](https://github.com/ujjwalgupta9125)
+
+- Place: Ghaziabad, INDIA
+- Bio: Software Engineer.
+- GitHub: [Ujjwal](https://github.com/ujjwalgupta9125)
+
 #### Name: [Stephen Nwankwo](https://github.com/stenwire)
 
 - Place: Lagos, LAG, NIGERIA
