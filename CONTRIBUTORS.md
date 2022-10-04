@@ -76,6 +76,12 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Anmol Agarwal](https://github.com/fineanmol)
 
+#### Name: [Achyut](https://github.com/axyut)
+
+- Place: Kathmandu, Nepal,
+- Bio: Contribute to Open Source
+- GitHub: [Achyut](https://github.com/axyut)
+
 #### Name: [Valentina](https://github.com/vale-c)
 
 - Place: Parma, Italy
