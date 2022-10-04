@@ -603,3 +603,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Felix Baron](https://github.com/KingofGnome)
+
+- Place: Essen, Germany
+- Bio: Full-Stack Dev
+- GitHub: [KingofGnome](https://github.com/KingofGnome)
