@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Yogesh Tumma](https://github.com/YogeshBabyOP)
+
+-   Place: Mangalagiri, AP, India
+-   Bio: I am a Third Year CSE student, I am a CP enthusiast.
+-   GitHub: [YogeshBabyOP](https://github.com/YogeshBabyOP)
