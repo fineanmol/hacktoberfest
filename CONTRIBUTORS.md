@@ -16,6 +16,12 @@
 - Bio: Aspiring Software Engineer
 - GitHib: [Jay Mehta](https://github.com/jaymehta002)
 
+#### Name: [Hamza Nawab](https://github.com/blazenn2)
+
+- Place: Karachi, Sindh, Pakistan
+- Bio: Chemical Engineer wanna be da best developer!!!
+- GitHib: [Hamza Nawab](https://github.com/blazenn2)
+
 #### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
 - Place: Lagos, LAG, NIGERIA
@@ -597,3 +603,10 @@
 -   Place: Indonesia
 -   Bio: Backend Developer
 -   GitHub: [abiyyu03](https://github.com/abiyyu03)
+
+#### Name: [Jesús Ángel Pérez-Roca Fernández](https://github.com/yisus82)
+
+- Place: A Coruña, Galicia, Spain
+- Bio: Professor at CPR Liceo La Paz
+- GitHub: [yisus82](https://github.com/yisus82)
+
