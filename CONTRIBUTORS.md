@@ -591,3 +591,10 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+
+#### Name: [Daniel Albarracín](https://github.com/danalmo)
+
+-   Place: Andalucía, España
+-   Bio: Full-Stack Developer
+-   GitHub: [danalmo](https://github.com/danalmo)
