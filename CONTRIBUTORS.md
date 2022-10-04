@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Chang Sheng](https://github.com/changsheng1239)
+
+- Place: Malaysia
+- Bio: A software developer
+- GitHub: [changsheng1239](https://github.com/changsheng1239)
