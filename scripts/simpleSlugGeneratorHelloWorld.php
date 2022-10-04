@@ -1,4 +1,10 @@
 <?php
+
+// LANGUAGE: PHP
+// ENV: -
+// AUTHOR: abiyyu03
+// GITHUB: https://github.com/abiyyu03
+
 $sentence = "Hello World !!";
 $stripedSentence = str_replace(' ','-',$sentence);
 
