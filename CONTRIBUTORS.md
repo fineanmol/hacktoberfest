@@ -16,6 +16,12 @@
 - Bio: Aspiring Software Engineer
 - GitHib: [Jay Mehta](https://github.com/jaymehta002)
 
+#### Name: [Osman Batur ÇELİK](https://github.com/osmnbtrclk)
+
+- Place: Yenimahalle, Ankara ,Türkiye
+- Bio: Ankara University MSc
+- GitHib: [Osman Batur ÇELİK](https://github.com/osmnbtrclk)
+
 #### Name: [Hamza Nawab](https://github.com/blazenn2)
 
 - Place: Karachi, Sindh, Pakistan
