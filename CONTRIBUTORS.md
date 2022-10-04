@@ -591,3 +591,10 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+
+#### Name: [Prannesh Sathyamoorthy](https://github.com/Prannesh45)
+
+- Place: Bangalore, Karnataka
+- Bio: I am an HPC Cloud Engineer
+- Github: [prannesh45](https://github.com/Prannesh45)
