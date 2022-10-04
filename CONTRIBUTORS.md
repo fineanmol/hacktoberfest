@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Gaurav Pratap Shrestha](https://github.com/gaurav-shrestha)
+
+-   Place: Birgunj, Parsa, Nepal
+-   Bio: Leapfrog Student Partner 2022
+-   GitHub: [gaurav-shrestha](https://github.com/gaurav-shrestha)
