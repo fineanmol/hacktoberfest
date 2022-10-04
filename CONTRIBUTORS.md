@@ -1,3 +1,9 @@
+#### Name: [Samman Sarkar](https://github.com/SammanSarkar)
+
+- Place: Delhi, India
+- Bio: Undergrad student
+- GitHub: [Samman Sarkar](https://github.com/SammanSarkar)
+
 #### Name: [Stephen Nwankwo](https://github.com/stenwire)
 
 - Place: Lagos, LAG, NIGERIA
