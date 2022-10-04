@@ -603,3 +603,10 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Mandeep Taneja](https://github.com/PerfectoZ)
+
+- Place: New Delhi, India
+- Bio: Leetcoder
+- GitHub: [PerfectoZ](https://github.com/PerfectoZ)
+
