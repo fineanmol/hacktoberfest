@@ -588,6 +588,12 @@
 
 #### Name: [Aman Sharma](https://github.com/amansharma703)
 
--   Place: Gorakhpur, UP, India
--   Bio: Full-Stack Developer
--   GitHub: [amansharma703](https://github.com/amansharma703)
+- Place: Gorakhpur, UP, India
+- Bio: Full-Stack Developer
+- GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Jesús Ángel Pérez-Roca Fernández](https://github.com/yisus82)
+
+- Place: A Coruña, Galicia, Spain
+- Bio: Professor at CPR Liceo La Paz
+- GitHub: [yisus82](https://github.com/yisus82)
