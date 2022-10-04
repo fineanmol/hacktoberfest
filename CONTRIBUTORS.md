@@ -1,4 +1,4 @@
-#### Name: [TheFallen-Cat](GitHub link)
+#### Name: [TheFallen-Cat](https://github.com/TheFallen-Cat)
 
 - Place: Mumbai, Maharashtra, India
 - Bio: Im Abhay. Python programmer, Loves making GUIs.
