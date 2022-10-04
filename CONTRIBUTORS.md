@@ -160,6 +160,11 @@
 - Bio: Computer science final year student
 - GitHub: [Sayam241020](https://github.com/Sayam241020)
 
+#### Name:  [Sofiyan](https://github.com/IamSofiyan)
+- Place: Beed, Maharashtra, India
+- Bio: B.Tech Student
+- GutHub:  [Sofiyan](https://github.com/IamSofiyan)
+
 #### Name: [Chayandev Bera](https://github.com/Chayandev)
 
 - Place: Kolkata , West Bengal , India
