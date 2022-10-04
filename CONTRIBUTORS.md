@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Shree](https://github.com/SHrEE-7)
+
+- Place: India, Maharashtra, kolhapur.
+- Bio: Curious 
+- GitHub: [SHrEE-7](https://github.com/SHrEE-7)
