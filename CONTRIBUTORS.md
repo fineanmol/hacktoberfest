@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Anurag Pandey](https://github.com/eagleanurag)
+
+-   Place: DevBhumi, Uttarakhand, India
+-   Bio: Electrical Engineer Playing with Hello World!
+-   GitHub: [eagleanurag](https://github.com/eagleanurag)
