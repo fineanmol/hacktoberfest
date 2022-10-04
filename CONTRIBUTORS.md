@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Hemant](https://github.com/hemant2801)
+
+- Place: Gurugram, Haryana, India
+- Bio: ML and DL enthusiast.
+- GitHub: [devrudra9](https://github.com/hemant2801)
