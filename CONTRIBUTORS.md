@@ -603,3 +603,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Rishi Kaushal](https://github.com/sagefell29)
+
+- Place: Vellore, Tamil Nadu, India
+- Bio: A student at VIT, Vellore in CSE with Bioinformatics
+- GitHub: [sagefell29](https://github.com/sagefell29)
