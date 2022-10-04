@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Victor Pinheiro](https://github.com/victorhpinheiro)
+
+-   Place: Sydney, NSW, Australia
+-   Bio: Data engineer
+-   GitHub: [victorhpinheiro](https://github.com/victorhpinheiro))
