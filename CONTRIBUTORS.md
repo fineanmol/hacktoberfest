@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [firejoust](https://github.com/firejoust)
+
+- Place: Perth, Australia
+- Bio: Student Engineer
+- GitHub: [firejoust](https://github.com/firejoust)
