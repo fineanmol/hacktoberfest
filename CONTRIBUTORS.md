@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [shrever](https://github.com/shreverr)
+
+- Place: Haridwar, Uttarakhand, India
+- Bio: Software Engineering and Gamer.
+- GitHub: [shrever](https://github.com/shreverr)
