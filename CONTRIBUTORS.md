@@ -603,3 +603,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Randy Hattab](https://github.com/randyh0120)
+
+- Place: Fort Myers, Florida, USA
+- Bio: Software Engineer, Full Stack and Mobile
+- GitHub: [randyh0120](https://github.com/randyh0120)
