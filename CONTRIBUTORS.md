@@ -1,3 +1,15 @@
+#### Name: [Stephen Nwankwo](https://github.com/stenwire)
+
+- Place: Lagos, LAG, NIGERIA
+- Bio: Software Engineering, AI enthusiats and Gamer.
+- GitHub: [stenwire](https://github.com/stenwire)
+
+#### Name: [Rudreshwar Baranwal](https://github.com/devrudra9)
+
+- Place: Pratapgarh, Uttar Pradesh, India
+- Bio: I am a competitive programmer and a frontend web developer too.
+- GitHub: [devrudra9](https://github.com/devrudra9)
+
 #### Name: [Jay Mehta](https://github.com/jaymehta002)
 
 - Place: Lagos, LAG, NIGERIA
@@ -579,3 +591,10 @@
 - Place: Paris, France
 - Bio: Software Engineer | Computer Scientist.
 - GitHub: [mrsofiane](https://github.com/mrsofiane)
+
+#### Name: [Aman Sharma](https://github.com/amansharma703)
+
+-   Place: Gorakhpur, UP, India
+-   Bio: Full-Stack Developer
+-   GitHub: [amansharma703](https://github.com/amansharma703)
+
