@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Wahid Ari](https://github.com/wahid-ari)
+
+-   Place: Surabaya, Indonesia
+-   Bio: Frontend Developer
+-   GitHub: [wahid-ari](https://github.com/wahid-ari)
