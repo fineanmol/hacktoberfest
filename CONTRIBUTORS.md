@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Swati Shikha](https://github.com/ShikhaSwati60)
+
+- Place: Bihar, India
+- Bio: Software Engineering, Coder
+- GitHub: [ShikhaSwati60](https://github.com/ShikhaSwati60)
