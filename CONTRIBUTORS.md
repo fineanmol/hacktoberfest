@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Amith Prasanth](https://github.com/amith2368)
+
+-   Place: Chennai, India
+-   Bio: Full-Stack Developer, Data Scientist
+-   GitHub: [amaith2368](https://github.com/amith2368)
