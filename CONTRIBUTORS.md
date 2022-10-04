@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [David Augusto](https://github.com/daviaugusto222)
+
+- Place: Fortaleza, Ceará, Brazil
+- Bio: I'm a student for code and design
+- GitHub: [daviaugusto222](https://github.com/daviaugusto222)
