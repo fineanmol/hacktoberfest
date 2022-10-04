@@ -550,6 +550,13 @@
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
 
+
+#### Name: [Rahul Vishwakarma](https://github.com/rahulssv)
+
+- Place: Ponda, Goa, India
+- Bio: I am a Computer Engineering Student
+- GitHub: [rahulssv](https://github.com/rahulssv)
+
 #### Name: [Naman Mehta](https://github.com/naman1102)
 
 - Place: Indore, Madhya Pradesh, Indore
@@ -591,3 +598,4 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
