@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Cesar Infante](https://github.com/Cesar-Infante)
+
+-   Place: Riverside, CA
+-   Bio: Software Engineer, My main approach is the 5 P's, "Proper Preparation Prevents Poor Performance".
+-   GitHub: [Cesar-Infante](https://github.com/Cesar-Infante)
