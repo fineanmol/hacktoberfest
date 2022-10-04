@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [撒冷才不是小小蒙](https://github.com/SalengNotLittleMeng)
+
+-   Place: Taiyuan, Shanxi, China
+-   Bio: College students who love JavaScript
+-   GitHub: [SalengNotLittleMeng](https://github.com/SalengNotLittleMeng)
