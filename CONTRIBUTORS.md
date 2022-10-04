@@ -604,7 +604,7 @@
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
 
-#### Name: [Jesús Ángel Pérez-Roca Fernández](https://github.com/yisus82)
+#### Name: [Koustubh Mane](https://github.com/Koustubh-Mane1)
 
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: Full Stack Developer
