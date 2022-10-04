@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Juliet Maria](https://github.com/JulietMaria)
+
+-   Place: Chennai,TN, India
+-   Bio: Full-Stack Developer
+-   GitHub: [JulietMaria](https://github.com/JulietMaria)
