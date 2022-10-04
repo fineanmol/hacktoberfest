@@ -588,6 +588,12 @@
 
 #### Name: [Aman Sharma](https://github.com/amansharma703)
 
--   Place: Gorakhpur, UP, India
--   Bio: Full-Stack Developer
--   GitHub: [amansharma703](https://github.com/amansharma703)
+- Place: Gorakhpur, UP, India
+- Bio: Full-Stack Developer
+- GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Jaguar_ek Was Here](https://github.com/GeraAlcantara)
+
+- Place: Playa del Carmen, QRO, México
+- Bio: Team Lead Developer
+- GitHub: [Jaguar_ek](https://github.com/GeraAlcantara)
