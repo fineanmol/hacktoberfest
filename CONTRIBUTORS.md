@@ -591,3 +591,9 @@
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
+#### Name: [Kashish Ahuja](https://github.com/kashishahuja2002)
+
+-   Place: Indore, MP, India
+-   Bio: Front-end Web Developer
+-   GitHub: [kashishahuja2002](https://github.com/kashishahuja2002)
