@@ -1,3 +1,9 @@
+#### Name: [Abhishek Kevin Gomes](https://github.com/TheCodeyWizard)
+
+- Place: Lucknow, UP, India
+- Bio: Student, Cloud Computing Enthusiast and Gamer.
+- GitHub: [TheCodeyWizard](https://github.com/TheCodeyWizard)
+
 #### Name: [Stephen Nwankwo](https://github.com/stenwire)
 
 - Place: Lagos, LAG, NIGERIA
