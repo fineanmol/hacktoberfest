@@ -16,6 +16,12 @@
 - Bio: Aspiring Software Engineer
 - GitHib: [Jay Mehta](https://github.com/jaymehta002)
 
+#### Name: [Hamza Nawab](https://github.com/blazenn2)
+
+- Place: Karachi, Sindh, Pakistan
+- Bio: Chemical Engineer wanna be da best developer!!!
+- GitHib: [Hamza Nawab](https://github.com/blazenn2)
+
 #### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
 - Place: Lagos, LAG, NIGERIA
