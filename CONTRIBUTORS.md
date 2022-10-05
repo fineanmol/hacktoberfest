@@ -610,6 +610,13 @@
 -   GitHub: [amansharma703](https://github.com/amansharma703)
 
 
+#### Name: [Rishi Pratap](https://github.com/RishiPratap)
+
+- Place: Singrauli, M.P, India
+- Bio: I am a student of CSE in Third Year from SRMIST
+- GitHub: [RishiPratap](https://github.com/RishiPratap)
+
+
 #### Name: [Cesar Infante](https://github.com/Cesar-Infante)
 
 -   Place: Riverside, CA
@@ -634,5 +641,6 @@
 -   Place: DevBhumi, Uttarakhand, India
 -   Bio: Electrical Engineer Playing with Hello World!
 -   GitHub: [eagleanurag](https://github.com/eagleanurag)
+
 
 
