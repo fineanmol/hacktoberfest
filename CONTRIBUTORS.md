@@ -276,6 +276,12 @@
 - Bio: A Learner
 - GitHub: [Surajwakka](https://github.com/surajwakka)
 
+#### Name: [Mervyn Singh](https://github.com/mervyns)
+
+- Place: Noida, India
+- Bio: Coder
+- GitHub: [Mervyns](https://github.com/mervyns)
+
 #### Name: [Nishant](https://github.com/Ordinary-droid)
 
 - Place: Jaipur, India
