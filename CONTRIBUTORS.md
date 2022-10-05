@@ -25,11 +25,13 @@
 - Bio: I am a competitive programmer and a frontend web developer too.
 - GitHub: [devrudra9](https://github.com/devrudra9)
 
+
 #### Name: [John Thummel](https://github.com/narkane)
 
 - Place: Dallas, Texas, USA
 - Bio: I am a Maker and Dev
 - GitHub: [narkane](https://github.com/narkane)
+
 
 #### Name: [Jay Mehta](https://github.com/jaymehta002)
 
