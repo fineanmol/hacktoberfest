@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Tolga Kurtulus](https://github.com/tolgakurtuluss)
+
+- Place: Istanbul, Turkey
+- Bio: Data Analyst/Scientist
+- GitHub: [tolgakurtuluss](https://github.com/tolgakurtuluss)
