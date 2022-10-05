@@ -16,6 +16,12 @@
 - Bio: I am a competitive programmer and a frontend web developer too.
 - GitHub: [devrudra9](https://github.com/devrudra9)
 
+#### Name: [Tushar Sinha](https://github.com/tusharsinha-2908)
+
+- Place: Dehradun, Uttarakhand, India
+- Bio: A Flutter Developer
+- GitHub: [Tushar Sinha](https://github.com/tusharsinha-2908)
+
 #### Name: [Jay Mehta](https://github.com/jaymehta002)
 
 - Place: Lagos, LAG, NIGERIA
