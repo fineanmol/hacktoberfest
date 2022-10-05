@@ -10,13 +10,13 @@ This repository is open to all members of the GitHub community. Any member may c
 
 ## What is Hacktoberfest?
 
-A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.com/) and [GitHub](https://dev.to/this-is-learning/hacktoberfest-2022-is-almost-there-get-ready-4ifb) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+Hacktoberfest is an event hosted by DigitalOcean [Digital Ocean](https://hacktoberfest.com/) and [GitHub](https://dev.to/this-is-learning/hacktoberfest-2022-is-almost-there-get-ready-4ifb) to get people involved in [Open Source](https://github.com/open-source). The goal is to give back and contribute to open-source projects. The organizers offer little incentives for a job well done, like a shirt and stickers. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 [https://hacktoberfest.com/](https://hacktoberfest.com/)
 
 ## How to contribute to this project
 
-Here are 3 quick and painless ways to contribute to this project:
+Here are 3 quick and easy ways to contribute to this project:
 
 - Add your name to the `CONTRIBUTORS.md` file
 - Add a profile page to the `profiles` directory
