@@ -783,3 +783,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Luzia Thomas](https://github.com/luziathomas)
+
+- Place: Memphis, Tennessee, USA
+- Bio: First year computer science student learning to use GitHub
+- GitHub: [luziathomas](https://github.com/luziathomas)
