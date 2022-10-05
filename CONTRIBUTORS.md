@@ -614,3 +614,9 @@
 -   Place: DevBhumi, Uttarakhand, India
 -   Bio: Electrical Engineer Playing with Hello World!
 -   GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Sabin Thapa](https://github.com/sabin-thapa)
+
+-   Place: Dhulikhel, Kavre, Nepal
+-   Bio: Computer Engineering Undergrad 
+-   GitHub: [eagleanurag](https://github.com/sabin-thapa)
