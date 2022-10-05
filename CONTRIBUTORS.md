@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Revati Deshmukh](https://github.com/revati-deshmukh)
+
+- Place: Singapore
+- Bio: Software Engineer and Open Source Enthusiast
+- GitHub: [Revati Deshmukh](https://github.com/revati-deshmukh)
