@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Pongsakorn Lertpiri](https://github.com/Bcepnez)
+
+- Place: Chatujak, Bangkok, Thailand
+- Bio: Just Bug why need to fix it?
+- GitHub: [Bcepnez](https://github.com/Bcepnez)
