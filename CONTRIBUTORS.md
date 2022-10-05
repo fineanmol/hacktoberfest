@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Abhijit Pattanaik](https://github.com/abhijit2410)
+
+- Place: Banglore , India
+- Bio: MERN Developer
+- GitHub: [abhijit2410](https://github.com/abhijit2410)
