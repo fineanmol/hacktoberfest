@@ -586,6 +586,13 @@
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
 
+#### Name: [Aayush aka Cloudy](https://aayushakacloudy.is-a.dev/)
+
+- Place: Pune, India
+- Bio: I'm a Game Programmer(Job and a student - BE AI and Data Sci.) 
+- GitHub: [gamedevCloudy](https://github.com/gamedevCloudy)
+
+=======
 #### Name: [Mansa Dixit](https://github.com/mansadixit)
 
 - Place: Jaipur, Rajasthan, India
@@ -603,3 +610,4 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
