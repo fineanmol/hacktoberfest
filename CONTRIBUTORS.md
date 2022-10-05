@@ -609,3 +609,10 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+
+#### Name: [atuikhar](https://github.com/atuikhar)
+
+- Place: Delhi, India
+- Bio: FullStack Developer
+- GitHub: [atuikhar](https://github.com/atuikhar)
