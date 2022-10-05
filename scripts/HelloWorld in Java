@@ -1,7 +1,0 @@
-class hello
-{ 
-  public static void main (tring args [])
-  {
-    system.out.println("Hello world");
-   }
- }
