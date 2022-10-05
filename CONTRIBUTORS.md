@@ -603,3 +603,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Najibullah Rizqy Fathoni](https://github.com/najibrizqy)
+
+- Place: Malang, East Java, Indonesia
+- Bio: Mobile Developer
+- GitHub: [najibrizqy](https://github.com/najibrizqy)
