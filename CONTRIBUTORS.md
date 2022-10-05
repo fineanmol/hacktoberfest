@@ -608,4 +608,10 @@
 
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
-- GitHub: [yisus82](https://github.com/yisus82)
+- GitHub: [yisus82](https://github.com/yisus82)\
+
+#### Name: [Mahir Jain](https://github.com/LordMahir)
+
+- Place: Jaipur, India
+- Bio: Second-year college student
+- GitHub: [LordMahir](https://github.com/LordMahir)
