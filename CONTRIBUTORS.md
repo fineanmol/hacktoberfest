@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+### Name: [Abhinav Kumar](https://github.com/abhinav2712)
+
+- Place: Manipal,Karnataka,India
+- Bio: Full-stack developer, DevOps Enthusiasts, MIT'24 
+- Github: [abhinav2712](https://github.com/abhinav2712) 
