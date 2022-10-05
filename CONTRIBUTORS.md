@@ -1,3 +1,9 @@
+#### Name: [Divyansh Jha](https://github.com/divyanshjha30)
+
+- Place: Delhi, India
+- Bio: Software Engineering, Avid coder and Gamer.
+- GitHub: [Divyansh Jha](https://github.com/divyanshjha30)
+
 #### Name: [Stephen Nwankwo](https://github.com/stenwire)
 
 - Place: Lagos, LAG, NIGERIA
