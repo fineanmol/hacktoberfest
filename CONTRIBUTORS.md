@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Júlio Mazotti](https://github.com/maztt)
+
+- Place: Goiás, Brazil
+- Bio: Original business management student willing to merge his knowledge with coding
+- GitHub: [maztt](https://github.com/maztt)
