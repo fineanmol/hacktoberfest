@@ -18,7 +18,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 Here are 3 quick and painless ways to contribute to this project:
 
-- Add your name to the `CONTRIBUTORS.md` file
+- Add your name to the `CONTRIBUTING.md` file
 - Add a profile page to the `profiles` directory
 - Create a simple "Hello, World" script in a language of your choice
 
