@@ -4,6 +4,12 @@
 - Bio: Software Engineering, AI enthusiats and Gamer.
 - GitHub: [stenwire](https://github.com/stenwire)
 
+#### Name: [Payal Jain](https://github.com/payal1206)
+
+- Place: Kota, Rajasthan, India
+- Bio: Software development Engineer 
+- GitHub: [Payal Jain](https://github.com/payal1206)
+
 #### Name: [Rudreshwar Baranwal](https://github.com/devrudra9)
 
 - Place: Pratapgarh, Uttar Pradesh, India
