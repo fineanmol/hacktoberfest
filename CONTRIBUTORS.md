@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Pratyaksha Newalkar](https://github.com/Pratyaksha462)
+
+- Place:Bhopal,India
+- Bio: Second Year Student
+- Github: [Pratyaksha462](https://github.com/Pratyaksha462)
