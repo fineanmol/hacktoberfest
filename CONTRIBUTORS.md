@@ -616,6 +616,13 @@
 -   GitHub: [amansharma703](https://github.com/amansharma703)
 
 
+#### Name: [Caio Ícaro](https://github.com/CaioIOX)
+
+- Place: Feira de Santana, Bahia, Brazil
+- Bio: Mobile Developer
+- GitHub: [CaioIOX](https://github.com/CaioIOX)
+
+
 
 #### Name: [Rishi Pratap](https://github.com/RishiPratap)
 
@@ -648,7 +655,4 @@
 -   Place: DevBhumi, Uttarakhand, India
 -   Bio: Electrical Engineer Playing with Hello World!
 -   GitHub: [eagleanurag](https://github.com/eagleanurag)
-
-
-
 
