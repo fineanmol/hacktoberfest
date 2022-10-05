@@ -49,6 +49,12 @@
 - Bio: Aspiring Software Engineer
 - GitHib: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
+#### Name: [Gaurav Kumar Verma](https://github.com/vgauravkumar)
+
+- Place: Singrauli, MP
+- Bio: Aspiring Software Engineer
+- GitHib: [vgauravkumar](https://github.com/vgauravkumar)
+
 #### Name: [Sujal Goswami](https://github.com/sujal-goswami)
 
 - Place: Jaipur, India
