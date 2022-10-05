@@ -1,3 +1,9 @@
+#### Name: [Andre Almeida](https://github.com/aalmeida00)
+
+- Place: São Paulo, Brazil
+- Bio: Frontend engineer, button painter and pet lover.
+- GitHub: [aalmeida00](https://github.com/aalmeida00)
+
 #### Name: [Stephen Nwankwo](https://github.com/stenwire)
 
 - Place: Lagos, LAG, NIGERIA
@@ -15,6 +21,12 @@
 - Place: Lagos, LAG, NIGERIA
 - Bio: Aspiring Software Engineer
 - GitHib: [Jay Mehta](https://github.com/jaymehta002)
+
+#### Name: [Hamza Nawab](https://github.com/blazenn2)
+
+- Place: Karachi, Sindh, Pakistan
+- Bio: Chemical Engineer wanna be da best developer!!!
+- GitHib: [Hamza Nawab](https://github.com/blazenn2)
 
 #### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
@@ -93,6 +105,12 @@
 - Place: Lyon, France
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
+
+#### Name: [Prachi Gupta](https://github.com/Prachi-22-81)
+
+- Place: Delhi, India
+- Bio: Student
+- GitHub: [Prachi-22-81](https://github.com/Prachi-22-81)
 
 #### Name: [Devesh](https://github.com/Devesh1602)
 
@@ -587,13 +605,34 @@
 - GitHub: [mansadixit](https://github.com/mansadixit)
 
 #### Name: [Aman Sharma](https://github.com/amansharma703)
-
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
 
 #### Name: [Cesar Infante](https://github.com/Cesar-Infante)
 
 -   Place: Riverside, CA
 -   Bio: Software Engineer, My main approach is the 5 P's, "Proper Preparation Prevents Poor Performance".
 -   GitHub: [Cesar-Infante](https://github.com/Cesar-Infante)
+
+
+#### Name: [Chang Sheng](https://github.com/changsheng1239)
+
+- Place: Malaysia
+- Bio: A software developer
+- GitHub: [changsheng1239](https://github.com/changsheng1239)
+
+#### Name: [Jesús Ángel Pérez-Roca Fernández](https://github.com/yisus82)
+
+- Place: A Coruña, Galicia, Spain
+- Bio: Professor at CPR Liceo La Paz
+- GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Anurag Pandey](https://github.com/eagleanurag)
+
+-   Place: DevBhumi, Uttarakhand, India
+-   Bio: Electrical Engineer Playing with Hello World!
+-   GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+
