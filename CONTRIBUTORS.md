@@ -604,10 +604,17 @@
 - Bio: I am a Third Year CSE student, I am a technology enthusiast.
 - GitHub: [mansadixit](https://github.com/mansadixit)
 
+#### Name: [Randy Asuncion](https://github.com/ranasun)
+
+-  Place: LA, California
+-  Bio: Taking my first step into contributing to open source.
+-  GitHub: [ranasun](https://github.com/ranasun)
+
 #### Name: [Aman Sharma](https://github.com/amansharma703)
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
 
 
 #### Name: [Rishi Pratap](https://github.com/RishiPratap)
@@ -641,6 +648,7 @@
 -   Place: DevBhumi, Uttarakhand, India
 -   Bio: Electrical Engineer Playing with Hello World!
 -   GitHub: [eagleanurag](https://github.com/eagleanurag)
+
 
 
 
