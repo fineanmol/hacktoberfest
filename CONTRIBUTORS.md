@@ -16,6 +16,12 @@
 - Bio: Aspiring Software Engineer
 - GitHib: [Jay Mehta](https://github.com/jaymehta002)
 
+#### Name: [Hamza Nawab](https://github.com/blazenn2)
+
+- Place: Karachi, Sindh, Pakistan
+- Bio: Chemical Engineer wanna be da best developer!!!
+- GitHib: [Hamza Nawab](https://github.com/blazenn2)
+
 #### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
 - Place: Lagos, LAG, NIGERIA
@@ -93,6 +99,12 @@
 - Place: Lyon, France
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
+
+#### Name: [Prachi Gupta](https://github.com/Prachi-22-81)
+
+- Place: Delhi, India
+- Bio: Student
+- GitHub: [Prachi-22-81](https://github.com/Prachi-22-81)
 
 #### Name: [Devesh](https://github.com/Devesh1602)
 
@@ -587,13 +599,26 @@
 - GitHub: [mansadixit](https://github.com/mansadixit)
 
 #### Name: [Aman Sharma](https://github.com/amansharma703)
-
 -   Place: Gorakhpur, UP, India
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
+
 
 #### Name: [Chang Sheng](https://github.com/changsheng1239)
 
 - Place: Malaysia
 - Bio: A software developer
 - GitHub: [changsheng1239](https://github.com/changsheng1239)
+
+#### Name: [Jesús Ángel Pérez-Roca Fernández](https://github.com/yisus82)
+
+- Place: A Coruña, Galicia, Spain
+- Bio: Professor at CPR Liceo La Paz
+- GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Anurag Pandey](https://github.com/eagleanurag)
+
+-   Place: DevBhumi, Uttarakhand, India
+-   Bio: Electrical Engineer Playing with Hello World!
+-   GitHub: [eagleanurag](https://github.com/eagleanurag)
+
