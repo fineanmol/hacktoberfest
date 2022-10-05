@@ -783,3 +783,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Amit Dave](https://github.com/AmitDave22)
+
+- Place: Tempe, AZ, United States
+- Bio: Software Engineering Grad at ASU
+- Github: [AmitDave22](https://github.com/AmitDave22)
