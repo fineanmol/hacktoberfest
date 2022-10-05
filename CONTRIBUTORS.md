@@ -440,7 +440,7 @@
 
 - Place: Mumbai, India
 - Bio: Developer | Coder
-- GitHub: [tanishkarao16] (https://github.com/tanishkarao16)
+- GitHub: [tanishkarao16](https://github.com/tanishkarao16)
 
 #### Name: [Tyler Bacon](https://github.com/tbacon781)
 
@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Manav Agarwal](https://github.com/Hadeso-0)
+
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: I am a Frontend Developer, proficient in React and also a UI/UX Designer.
+- GitHub: [Hadeso-0](https://github.com/Hadeso-0)
