@@ -618,6 +618,11 @@
 -   GitHub: [amansharma703](https://github.com/amansharma703)
 
 
+-   Place: Gorakhpur, UP, India
+-   Bio: Full-Stack Developer
+-   GitHub: [amansharma703](https://github.com/amansharma703)
+
+
 #### Name: [Anna Cheng] (https://github.com/bye818)
 
 - Place: United States
@@ -674,15 +679,229 @@
 - Bio: A software developer
 - GitHub: [changsheng1239](https://github.com/changsheng1239)
 
+
 #### Name: [Jesús Ángel Pérez-Roca Fernández](https://github.com/yisus82)
 
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Name: [Victor Pinheiro](https://github.com/victorhpinheiro)
+
+-   Place: Sydney, NSW, Australia
+-   Bio: Data engineer
+-   GitHub: [victorhpinheiro](https://github.com/victorhpinheiro))
+
 #### Name: [Anurag Pandey](https://github.com/eagleanurag)
 
 -   Place: DevBhumi, Uttarakhand, India
 -   Bio: Electrical Engineer Playing with Hello World!
 -   GitHub: [eagleanurag](https://github.com/eagleanurag)
+
 
