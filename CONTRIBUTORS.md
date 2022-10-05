@@ -608,5 +608,5 @@
 #### Name: [Duyen Le](https://github.com/duyenle1312)
 
 - Place: Ho Chi Minh, Vietnam
-- Bio: Software Engineer, AI Enthusiat & Blogger.
+- Bio: Software Engineer, AI Enthusiat & Blogger
 - GitHub: [duyenle1312](https://github.com/duyenle1312)
