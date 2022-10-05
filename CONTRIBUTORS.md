@@ -609,3 +609,10 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+
+#### Name: [Aditya Kumar Sahu](https://github.com/Aditya-Kumar-Sahu)
+
+- Place: Bilaspur, Chhattisgarh, India
+- Bio: B.Tech. Student
+- Github: [Aditya-Kumar-Sahu](https://github.com/Aditya-Kumar-Sahu)
