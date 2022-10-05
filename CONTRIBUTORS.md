@@ -1,3 +1,10 @@
+#### Name: [Abhash Chakraborty](https://github.com/aalmeida00)
+
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: First year student, AI enthusiastic and graphics designer.
+- GitHub: [Abhash-Chakraborty](https://github.com/aalmeida00)
+
+
 #### Name: [Andre Almeida](https://github.com/aalmeida00)
 
 - Place: São Paulo, Brazil
