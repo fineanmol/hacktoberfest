@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Kunal Patil](https://github.com/Kunalp02)
+
+- Place: Jalgoan, Maharashtra, India
+- Bio: Full-Stack Developer
+- GitHub: [Kunalp02](https://github.com/Kunalp02)
