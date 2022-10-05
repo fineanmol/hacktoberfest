@@ -603,3 +603,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Smit Vasoya](https://github.com/Smit-Vasoya-Tridhya)
+
+- Place: Ahmedabad
+- Bio: Student At V.V.P. Engineering College and Node js Developer
+- GitHub: [Smit-Vasoya-Tridhya](https://github.com/Smit-Vasoya-Tridhya)
