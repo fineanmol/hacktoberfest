@@ -1,3 +1,9 @@
+#### Name: [Glorious Elijah](https://github.com/glorious-elijah)
+
+- Place: Accra, GHANA
+- Bio: Entry-level software engineer.
+- GitHub: [glorious-elijah](https://github.com/glorious-elijah)
+- 
 #### Name: [Stephen Nwankwo](https://github.com/stenwire)
 
 - Place: Lagos, LAG, NIGERIA
