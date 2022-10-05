@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [DNI9](https://github.com/DNI9)
+
+- Place: Kolkata, India
+- Bio: Front-end developer
+- GitHub: [DNI9](https://github.com/DNI9)
