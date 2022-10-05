@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Luca Cossu](https://github.com/KingLudwig94)
+
+- Place: Padova, Italy
+- Bio: PhD student in Bioengineering
+- GitHub: [yisus82](https://github.com/KingLudwig94)
