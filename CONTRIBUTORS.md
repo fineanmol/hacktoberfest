@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Arjav Kanadia](https://github.com/DeadliestDemon)
+
+- Place: Prayagraj, UP, India
+- Bio: Android App Developer
+- GitHub: [DeadliestDemon](https://github.com/DeadliestDemon)
