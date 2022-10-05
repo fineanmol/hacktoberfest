@@ -733,6 +733,13 @@
 - GitHub: [yisus82](https://github.com/yisus82)
 
 
+#### Name: [Kunal Patil](https://github.com/Kunalp02)
+
+- Place: Jalgoan, Maharashtra, India
+- Bio: Full-Stack Developer
+- GitHub: [Kunalp02](https://github.com/Kunalp02)
+
+
 #### Name: [Epshita Chakravarty](https://github.com/docilefiasco)
 
 - Place: Vadodara, Gujarat, India
@@ -1043,5 +1050,6 @@
 -   Place: DevBhumi, Uttarakhand, India
 -   Bio: Electrical Engineer Playing with Hello World!
 -   GitHub: [eagleanurag](https://github.com/eagleanurag)
+
 
 
