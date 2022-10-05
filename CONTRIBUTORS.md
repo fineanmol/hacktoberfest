@@ -603,3 +603,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Aditya Raj](https://github.com/dhruvaditya)
+
+- Place: Patna, Bihar, India
+- Bio: I am a Third year CSE student, I am an Android Developer
+- GitHub: [dhruvaditya](https://github.com/dhruvaditya)
