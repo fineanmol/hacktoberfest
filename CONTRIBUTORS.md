@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Hasobi Radityo](https://github.com/hasobi)
+
+- Place: Jakarta, Indonesia
+- Bio: Jr Analyst at Indonesia Financial Service Authority
+- GitHub: [hasobi](https://github.com/hasobi)
