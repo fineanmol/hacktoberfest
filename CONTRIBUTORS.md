@@ -733,6 +733,13 @@
 - GitHub: [yisus82](https://github.com/yisus82)
 
 
+#### Name: [Epshita Chakravarty](https://github.com/docilefiasco)
+
+- Place: Vadodara, Gujarat, India
+- Bio: Student at NIT, Durgapur
+- GitHub: [yisus82](https://github.com/docilefiasco)
+
+
 #### Name: [Smit Vasoya](https://github.com/Smit-Vasoya-Tridhya)
 
 - Place: Ahmedabad
@@ -1036,4 +1043,5 @@
 -   Place: DevBhumi, Uttarakhand, India
 -   Bio: Electrical Engineer Playing with Hello World!
 -   GitHub: [eagleanurag](https://github.com/eagleanurag)
+
 
