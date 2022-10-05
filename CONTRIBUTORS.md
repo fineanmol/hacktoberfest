@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Urmi Jana](https://github.com/Urmi-Jana)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Final Year Computer Engineering student.
+- GitHub: [Urmi-Jana](https://github.com/Urmi-Jana)
