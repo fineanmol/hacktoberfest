@@ -603,3 +603,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Epshita Chakravarty](https://github.com/docilefiasco)
+
+- Place: Vadodara, Gujarat, India
+- Bio: Student at NIT, Durgapur
+- GitHub: [yisus82](https://github.com/docilefiasco)
