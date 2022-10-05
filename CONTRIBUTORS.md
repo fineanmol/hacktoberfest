@@ -783,3 +783,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Chip C.](https://github.com/ChippChirp)
+
+- Place: Ottawa, Ontario, Canada
+- Bio: Aerospace Engineering Student
+- Github: [ChippChirp](https://github.com/ChippChirp)
