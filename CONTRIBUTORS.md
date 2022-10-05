@@ -616,6 +616,13 @@
 -   GitHub: [amansharma703](https://github.com/amansharma703)
 
 
+#### Name: [Amith Prasanth](https://github.com/amith2368)
+
+-   Place: Chennai, India
+-   Bio: Full-Stack Developer, Data Scientist
+-   GitHub: [amaith2368](https://github.com/amith2368)
+
+
 #### Name: [Caio Ícaro](https://github.com/CaioIOX)
 
 - Place: Feira de Santana, Bahia, Brazil
@@ -655,4 +662,5 @@
 -   Place: DevBhumi, Uttarakhand, India
 -   Bio: Electrical Engineer Playing with Hello World!
 -   GitHub: [eagleanurag](https://github.com/eagleanurag)
+
 
