@@ -726,9 +726,11 @@
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
 
+#### Name: [Piyush Mohapatra](https://github.com/piyush-mk)
 
-
-
+- Place: Bangalore, Karnataka, India
+- Bio: Sophomore
+- GitHub: [piyush-mk](https://github.com/piyush-mk)
 
 
 
