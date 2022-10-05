@@ -1,3 +1,9 @@
+#### Name: [John Lawolf](https://github.com/law01f)
+
+- Place: Thailand
+- Bio: AI enthusiats and Gamer.
+- GitHub: [law01f](https://github.com/law01f)
+
 #### Name: [Stephen Nwankwo](https://github.com/stenwire)
 
 - Place: Lagos, LAG, NIGERIA
