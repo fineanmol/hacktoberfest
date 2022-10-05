@@ -1,8 +1,10 @@
+
 #### Name: [Andre Almeida](https://github.com/aalmeida00)
 
 - Place: São Paulo, Brazil
 - Bio: Frontend engineer, button painter and pet lover.
 - GitHub: [aalmeida00](https://github.com/aalmeida00)
+
 
 #### Name: [Stephen Nwankwo](https://github.com/stenwire)
 
