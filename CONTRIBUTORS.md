@@ -603,3 +603,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Ashwin Taras](https://github.com/BlackBolt2003)
+
+- Place: Pune, Maharashtra, India
+- Bio: SE Comp Engg Student
+- GitHub: [BlackBolt2003](https://github.com/BlackBolt2003)
