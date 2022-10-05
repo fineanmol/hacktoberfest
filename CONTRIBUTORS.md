@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Sushant Prasad Agawane](https://github.com/Sushant-1999)
+
+- Place: Pune, Maharashtra, India
+- Bio: Software Developer
+- GitHub: [Sushant-1999](https://github.com/Sushant-1999)
