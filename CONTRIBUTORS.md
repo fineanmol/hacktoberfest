@@ -610,6 +610,13 @@
 -   GitHub: [amansharma703](https://github.com/amansharma703)
 
 
+#### Name: [Cesar Infante](https://github.com/Cesar-Infante)
+
+-   Place: Riverside, CA
+-   Bio: Software Engineer, My main approach is the 5 P's, "Proper Preparation Prevents Poor Performance".
+-   GitHub: [Cesar-Infante](https://github.com/Cesar-Infante)
+
+
 #### Name: [Chang Sheng](https://github.com/changsheng1239)
 
 - Place: Malaysia
@@ -627,4 +634,5 @@
 -   Place: DevBhumi, Uttarakhand, India
 -   Bio: Electrical Engineer Playing with Hello World!
 -   GitHub: [eagleanurag](https://github.com/eagleanurag)
+
 
