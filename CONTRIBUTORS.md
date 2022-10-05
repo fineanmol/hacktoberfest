@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Chris Wang](https://github.com/wangchristine)
+
+- Place: Taiwan, Asia
+- Bio: Back-End Developer
+- GitHub: [wangchristine](https://github.com/wangchristine)
