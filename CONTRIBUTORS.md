@@ -744,6 +744,12 @@
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
 
+#### Name: [Piyush Mohapatra](https://github.com/piyush-mk)
+
+
+- Place: Bangalore, Karnataka, India
+- Bio: Sophomore
+- GitHub: [piyush-mk](https://github.com/piyush-mk)
 
 #### Name: [Sushant Prasad Agawane](https://github.com/Sushant-1999)
 
@@ -778,6 +784,7 @@
 - Place: Ahmedabad
 - Bio: Student At V.V.P. Engineering College and Node js Developer
 - GitHub: [Smit-Vasoya-Tridhya](https://github.com/Smit-Vasoya-Tridhya)
+
 
 
 
