@@ -733,6 +733,13 @@
 - GitHub: [yisus82](https://github.com/yisus82)
 
 
+#### Name: [Rohit Kumar](https://github.com/rohitverse)
+
+- Place: Jalandhar, Punjab, INDIA
+- Bio: A Web3-Blockchain Enthusiast
+- GitHub: [Rohit Kumar](https://github.com/rohitverse)
+
+
 #### Name: [Kunal Patil](https://github.com/Kunalp02)
 
 - Place: Jalgoan, Maharashtra, India
