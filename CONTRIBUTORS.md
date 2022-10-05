@@ -603,3 +603,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [VIKAS TRIPATHI](https://github.com/ervikasji)
+
+- Place: Lucknow,UP
+- Bio: Full Stack Developer
+- GitHub: [ervikasji](https://github.com/ervikasji)
