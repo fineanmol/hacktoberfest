@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Biswa Prakash Mishra](https://github.com/biswaone)
+
+- Place: Warangal, India
+- Bio: Student, Computers enthusiast
+- GitHub: [biswaone](https://github.com/biswaone)
