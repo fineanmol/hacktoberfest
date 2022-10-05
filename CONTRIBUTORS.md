@@ -618,6 +618,12 @@
 -   GitHub: [amansharma703](https://github.com/amansharma703)
 
 
+### Name: [Akshay Kumar Maurya] (https://github.com/Akshay-21)
+- Place: Varanasi, UP, India
+- Bio: Software Engineer | Android Developer
+- Github: [Akshay-21] (https://github.com/Akshay-21)
+
+
 #### Name: [Amith Prasanth](https://github.com/amith2368)
 
 -   Place: Chennai, India
