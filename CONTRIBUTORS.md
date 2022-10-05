@@ -13,11 +13,23 @@
 - Bio: Software Engineering, AI enthusiats and Gamer.
 - GitHub: [stenwire](https://github.com/stenwire)
 
+#### Name: [Payal Jain](https://github.com/payal1206)
+
+- Place: Kota, Rajasthan, India
+- Bio: Software development Engineer 
+- GitHub: [Payal Jain](https://github.com/payal1206)
+
 #### Name: [Rudreshwar Baranwal](https://github.com/devrudra9)
 
 - Place: Pratapgarh, Uttar Pradesh, India
 - Bio: I am a competitive programmer and a frontend web developer too.
 - GitHub: [devrudra9](https://github.com/devrudra9)
+
+#### Name: [John Thummel](https://github.com/narkane)
+
+- Place: Dallas, Texas, USA
+- Bio: I am a Maker and Dev
+- GitHub: [narkane](https://github.com/narkane)
 
 #### Name: [Jay Mehta](https://github.com/jaymehta002)
 
@@ -42,6 +54,12 @@
 - Place: Lagos, LAG, NIGERIA
 - Bio: Aspiring Software Engineer
 - GitHib: [Oluwatomilola](https://github.com/DevTomilola-OS)
+
+#### Name: [Gaurav Kumar Verma](https://github.com/vgauravkumar)
+
+- Place: Singrauli, MP
+- Bio: Aspiring Software Engineer
+- GitHib: [vgauravkumar](https://github.com/vgauravkumar)
 
 #### Name: [Sujal Goswami](https://github.com/sujal-goswami)
 
@@ -728,9 +746,49 @@
 
 #### Name: [Piyush Mohapatra](https://github.com/piyush-mk)
 
+
 - Place: Bangalore, Karnataka, India
 - Bio: Sophomore
 - GitHub: [piyush-mk](https://github.com/piyush-mk)
+
+#### Name: [Sushant Prasad Agawane](https://github.com/Sushant-1999)
+
+- Place: Pune, Maharashtra, India
+- Bio: Software Developer
+- GitHub: [Sushant-1999](https://github.com/Sushant-1999)
+
+
+#### Name: [Rohit Kumar](https://github.com/rohitverse)
+
+- Place: Jalandhar, Punjab, INDIA
+- Bio: A Web3-Blockchain Enthusiast
+- GitHub: [Rohit Kumar](https://github.com/rohitverse)
+
+
+#### Name: [Kunal Patil](https://github.com/Kunalp02)
+
+- Place: Jalgoan, Maharashtra, India
+- Bio: Full-Stack Developer
+- GitHub: [Kunalp02](https://github.com/Kunalp02)
+
+
+#### Name: [Epshita Chakravarty](https://github.com/docilefiasco)
+
+- Place: Vadodara, Gujarat, India
+- Bio: Student at NIT, Durgapur
+- GitHub: [yisus82](https://github.com/docilefiasco)
+
+
+#### Name: [Smit Vasoya](https://github.com/Smit-Vasoya-Tridhya)
+
+- Place: Ahmedabad
+- Bio: Student At V.V.P. Engineering College and Node js Developer
+- GitHub: [Smit-Vasoya-Tridhya](https://github.com/Smit-Vasoya-Tridhya)
+
+
+
+
+
 
 
 
@@ -1025,8 +1083,6 @@
 -   Place: DevBhumi, Uttarakhand, India
 -   Bio: Electrical Engineer Playing with Hello World!
 -   GitHub: [eagleanurag](https://github.com/eagleanurag)
-
-
 
 
 
