@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Manish Prajapati](https://github.com/pman47)
+
+- Place: Gujarat, India.
+- Bio: Software Developer
+- GitHub: [yisus82](https://github.com/pman47)
