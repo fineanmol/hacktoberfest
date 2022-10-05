@@ -609,3 +609,10 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+
+#### Name: [Duyen Le](https://github.com/duyenle1312)
+
+- Place: Ho Chi Minh, Vietnam
+- Bio: Software Engineer, AI Enthusiat & Blogger
+- GitHub: [duyenle1312](https://github.com/duyenle1312)
