@@ -1,1 +1,1 @@
-console.log("Hello, World! EC this side");
+console.log("hello world, ec this side!");
