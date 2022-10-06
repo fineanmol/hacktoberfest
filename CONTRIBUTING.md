@@ -1,3 +1,10 @@
+#### Name: [Soham Samantaray](https://github.com/SamSoham)
+
+- Place: Cuttack,Odisha,INDIA
+- Bio: Undergrad Student CSE, FrontEnd Web Dev
+- GitHub: [SamSoham](https://github.com/SamSoham)
+
+
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
