@@ -790,3 +790,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Rushikesh Malu](https://github.com/SadCato)
+
+- Place: Nagpur, Maharashtra, India
+- Bio: Computer Science Engineer!
+- GitHub: [SadCatto](https://github.com/SadCatto)
