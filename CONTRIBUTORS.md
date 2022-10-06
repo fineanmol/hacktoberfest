@@ -790,7 +790,7 @@
 - GitHub: [Smit-Vasoya-Tridhya](https://github.com/Smit-Vasoya-Tridhya)
 
 
-#### Name: [DIPANWITA DAS](GitHub link)
+#### Name: [DIPANWITA DAS](https://github.com/dipanwita1405)
 
 - Place: Kolkata, West Bengal, India
 - Bio: I am a student of CSE in Third Year from BPPIMT
