@@ -783,3 +783,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Jillian O'Keefe](https://github.com/JO-DEV-IL)
+
+- Place: Boston, MA
+- Bio: I used to work in manufacturing, but I've just started my journey into the tech world as a software engineer and I love it!
+- GitHub: [JO-DEV-IL](https://github.com/JO-DEV-IL)
