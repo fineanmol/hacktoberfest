@@ -16,6 +16,13 @@
 - Bio: Software development Engineer
 - GitHub: [Payal Jain](https://github.com/payal1206)
 
+#### Name: [bodhidoingcode](https://github.com/bodhicodewala)
+
+- Place: Purulia, WB
+- Bio: Going to get free T-Shirt!
+- GitHib: [bodhidoingcode](https://github.com/bodhicodewala)
+
+
 #### Name: [Rudreshwar Baranwal](https://github.com/devrudra9)
 
 - Place: Pratapgarh, Uttar Pradesh, India
