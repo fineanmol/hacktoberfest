@@ -790,3 +790,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Parmar Kirti](https://github.com/Kirti36)
+
+- Place: Anand,Gujarat,India
+- Bio: AI Engineering,ML enthusiat.
+- GitHub: [Kirti36](https://github.com/Kirti36)
