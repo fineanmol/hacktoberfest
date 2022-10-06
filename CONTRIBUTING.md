@@ -113,6 +113,14 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Anmol Agarwal](https://github.com/fineanmol)
 
+#### Name: [Vikash Kumar](https://github.com/vikashvsp)
+
+- Place: Bangalore, Karnataka, India
+- Bio: A BE undergrad?
+- GitHub: [Vikashvsp](https://github.com/vikashvsp)
+
+
+
 #### Name: [Valentina](https://github.com/vale-c)
 
 - Place: Parma, Italy
