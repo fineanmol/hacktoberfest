@@ -4,7 +4,6 @@
 - Bio: Undergrad Student
 - GitHub: [ABHINAV0307](https://github.com/ABHINAV0307)
 
-
 #### Name: [Andre Almeida](https://github.com/aalmeida00)
 
 - Place: São Paulo, Brazil
@@ -790,3 +789,15 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Anurag Pandey](https://github.com/eagleanurag)
+
+- Place: DevBhumi, Uttarakhand, India
+- Bio: Electrical Engineer Playing with Hello World!
+- GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Guru Pawar ](https://github.com/gurupawar)
+
+- Place: Pune,Maharashtra,INDIA
+- Bio: Full Stack Java Dev
+- GitHub: [gurupawar](https://github.com/gurupawar)
