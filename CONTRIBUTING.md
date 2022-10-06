@@ -4,7 +4,6 @@
 - Bio: Undergrad Student
 - GitHub: [ABHINAV0307](https://github.com/ABHINAV0307)
 
-
 #### Name: [Andre Almeida](https://github.com/aalmeida00)
 
 - Place: São Paulo, Brazil
@@ -790,3 +789,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Lakshya Dhawan](https://github.com/yolakshya19)
+
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: I am a sophomore, studying CSE with specialization in Data Science
+- GitHub: [yolakshya19](https://github.com/yolakshya19)
