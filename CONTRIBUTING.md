@@ -790,3 +790,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Mayank Thakur](https://github.com/mayankt18)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Computer Enthusiast
+- GitHub: [mayankt18](https://github.com/mayankt18)
