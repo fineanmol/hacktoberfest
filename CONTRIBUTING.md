@@ -790,3 +790,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Brian Mendes](https://github.com/Brianrmendes)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Developer
+- GitHub: [Brianrmendes](https://github.com/Brianrmendes)
