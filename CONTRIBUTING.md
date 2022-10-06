@@ -1,3 +1,9 @@
+#### Name: [Febriadji](https://github.com/febriadj)
+
+- Place: Jakarta, Indonesia
+- Bio: Fullstack Web Developer
+- GitHub: [Febriadji](https://github.com/febriadj)
+
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
