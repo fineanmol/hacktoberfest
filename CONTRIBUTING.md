@@ -783,3 +783,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Ritik Kumar Gupta](https://github.com/ritik-rkg)
+
+- Place: Bangalore, India
+- Bio: Computer Science Student
+- GitHub: [ritik-rkg](https://github.com/ritik-rkg)
