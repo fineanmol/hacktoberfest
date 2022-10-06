@@ -23,6 +23,13 @@
 - Bio: Software development Engineer
 - GitHub: [Payal Jain](https://github.com/payal1206)
 
+#### Name: [Soumya Deep Sarkar](https://github.com/siddoinghisjob)
+
+- Place: Purulia, WB
+- Bio: Software Engineering, AI enthusiats and Gamer.
+- GitHib: [siddoinghisdoingcode](https://github.com/siddoinghisjob)
+
+
 #### Name: [Rudreshwar Baranwal](https://github.com/devrudra9)
 
 - Place: Pratapgarh, Uttar Pradesh, India
