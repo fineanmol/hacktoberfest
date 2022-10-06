@@ -783,3 +783,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Abdallah Daiyan](https://github.com/coderDaiyan)
+
+- Place: Chattogram, Bangladesh
+- Bio: A Curious Software Developer!
+- GitHub: [coderDaiyan](https://github.com/coderDaiyan)
