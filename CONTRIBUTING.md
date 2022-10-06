@@ -34,6 +34,12 @@
 - Bio: Aspiring Software Engineer
 - GitHib: [Jay Mehta](https://github.com/jaymehta002)
 
+#### Name: [Abhigyan Jha](https://github.com/AJSteel01)
+
+- Place: Rajasthan,India
+- Bio: Aspiring Software Engineer
+- GitHib: [Abhigyan Jha](https://github.com/AJSteel01)
+
 #### Name: [Osman Batur ÇELİK](https://github.com/osmnbtrclk)
 
 - Place: Yenimahalle, Ankara ,Türkiye
