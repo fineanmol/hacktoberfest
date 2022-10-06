@@ -609,9 +609,3 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
-
-#### Name: [Álvaro Masanori Sato](https://github.com/AlvaroSato)
-
-- Place: Presidente Prudente, SP, Brazil
-- Bio: Fifth Year computer science student, and interested in FrontEnd
-- GitHub: [AlvaroSato](https://github.com/AlvaroSato)
