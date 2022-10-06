@@ -790,3 +790,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Zoe Blogg](https://github.com/ZoCodes/)
+
+- Place: Leeds, UK
+- Bio: Self-taught female Dev, breaking into the world of tefch
+- GitHub: [ZoCodes](https://github.com/ZoCodes/)
