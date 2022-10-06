@@ -783,3 +783,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Shabari S Nair](https://github.com/Killshot667)
+
+- Place: Bangalore, India
+- Bio: Final year, Competitive Programmer, Math lover
+- GitHub: [Killshot667](https://github.com/Killshot667)
