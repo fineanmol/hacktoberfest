@@ -790,3 +790,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Gem Schley(https://github.com/disabledandfab)
+
+- Place: Milwaukee, WI, USA
+- Bio: A polyglot learning the various languages of coding.
+- GitHub: [disabledandfab](https://github.com/disabledandfab)
