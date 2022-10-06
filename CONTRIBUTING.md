@@ -1,3 +1,9 @@
+#### Name: [David Ojeda](https://github.com/dojetin)
+
+- Place: Seville, Spain
+- Bio: Programing Student
+- GitHub: [dojetin](https://github.com/dojetin)
+
 #### Name: [Andre Almeida](https://github.com/aalmeida00)
 
 - Place: São Paulo, Brazil
