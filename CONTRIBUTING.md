@@ -19,7 +19,7 @@
 #### Name: [Soumya Deep Sarkar](https://github.com/siddoinghisjob)
 
 - Place: Purulia, WB
-- Bio: Going to get free T-Shirt!
+- Bio: Software Engineering, AI enthusiats and Gamer.
 - GitHib: [siddoinghisdoingcode](https://github.com/siddoinghisjob)
 
 
