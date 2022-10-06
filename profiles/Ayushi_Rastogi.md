@@ -16,7 +16,6 @@ Lucknow, India
 ### Development
 
 - Frontend Development
-- Python Development
 
 ### Projects
 

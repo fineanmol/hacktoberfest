@@ -613,5 +613,5 @@
 #### Name: [Ayushi Rastogi ](https://github.com/ayushi-ras)
 
 - Place: Lucknow, Uttar Pradesh, India
-- Bio: I am Third Year Student and a web developer
+- Bio: I am Third Year Student of Btech CSE and a web developer
 - GitHub: [ayushi-ras](https://github.com/ayushi-ras)
