@@ -42,7 +42,7 @@ while(True):
         num1 = int(input('>'))
         num2 = int(input('>'))
         s=sum(num1,num2)
-        print("The sun is : %s" %s)
+        print("The sum is : %s" %s)
         
 
     elif choice == 2:
