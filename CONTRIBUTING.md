@@ -783,3 +783,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Kumar Sambhav](https://github.com/krsambhav)
+
+- Place: Patna, Bihar
+- Bio: Software Engineering, AI enthusiats and Gamer.
+- GitHub: [krsambhav](https://github.com/krsambhav)
