@@ -760,6 +760,12 @@
 - Bio: Student at NIT, Durgapur
 - GitHub: [yisus82](https://github.com/docilefiasco)
 
+#### Name: [Megan Taylor](https://github.com/taylor-g592)
+
+- Place: Suffolk, United Kingdom
+- Bio: Student at University of Suffolk, UK
+- GitHub: [Meg Taylor](https://github.com/taylor-g592)
+
 #### Name: [Smit Vasoya](https://github.com/Smit-Vasoya-Tridhya)
 
 - Place: Ahmedabad
@@ -783,3 +789,5 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+
