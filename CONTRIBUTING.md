@@ -4,7 +4,6 @@
 - Bio: Undergrad Student
 - GitHub: [ABHINAV0307](https://github.com/ABHINAV0307)
 
-
 #### Name: [Andre Almeida](https://github.com/aalmeida00)
 
 - Place: São Paulo, Brazil
@@ -790,3 +789,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Amit Batra](https://github.com/amitbatra31)
+
+- Place: Gurgaon,Haryana,INDIA
+- Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
+- GitHub: [Amit Batra](https://github.com/amitbatra31)
