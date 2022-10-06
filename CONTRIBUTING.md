@@ -130,6 +130,12 @@
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Vivian
+
+- Place: Melbourne, Victoria, Australia
+- Bio: Fitness Instructor
+- GitHub: [Vivian Cao](https://github.com/caoviv)
+
 #### Name: [Prachi Gupta](https://github.com/Prachi-22-81)
 
 - Place: Delhi, India
