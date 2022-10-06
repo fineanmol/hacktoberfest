@@ -4,6 +4,12 @@
 - Bio: Undergrad Student
 - GitHub: [ABHINAV0307](https://github.com/ABHINAV0307)
 
+#### Name: [Aila Shreyas](https://github.com/shreyas-9)
+
+- Place: Hyderabad, Telangana, India
+- Bio: Undergrad Student
+- GitHub: [shreyas-9](https://github.com/shreyas-9)
+
 
 #### Name: [Andre Almeida](https://github.com/aalmeida00)
 
