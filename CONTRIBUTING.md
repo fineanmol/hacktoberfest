@@ -812,3 +812,10 @@
 - Place: Chennai,TamilNadu,INDIA
 - Bio: Web Developer from   Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+#### Name: [Nayaneeka Mahapatra](https://github.com/nexi9)
+
+- Place: Bhubaneswar, Odisha, India
+- Bio: B.Tech Student in Computer Science , currently studying at SOA University, Odisha.
+- GitHub: [Nayaneeka Mahapatra](https://github.com/nexi9)
+
