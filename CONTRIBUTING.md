@@ -812,3 +812,9 @@
 - Place: Chennai,TamilNadu,INDIA
 - Bio: Web Developer from   Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+#### Name: [Maxim L](https://github.com/tzAcee)
+
+- Place: Germany
+- Bio: Software Developer
+- GitHub: [Maxim L](https://github.com/tzAcee)
