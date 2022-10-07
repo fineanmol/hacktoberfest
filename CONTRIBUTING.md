@@ -812,3 +812,9 @@
 - Place: Chennai,TamilNadu,INDIA
 - Bio: Web Developer from   Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+#### Name: [Tushar Khatri](https://github.com/tusharkhatri12)
+
+- Place: New Delhi, Delhi,INDIA
+- Bio: Web developer and bca student at Jagan Institute Of Management Studies.
+- Github: [tusharkhatri12](https://github.com/tusharkhatri12)
