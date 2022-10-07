@@ -812,3 +812,9 @@
 - Place: Chennai,TamilNadu,INDIA
 - Bio: Web Developer from   Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+#### Name: [Priyanshu Mohanty](https://github.com/priyanshu68)
+
+- Place: Bhubaneswar,Odisha,INDIA
+- Bio: Flutter Developer and B.Tech Student at SOA University, Odisha.
+- GitHub: [Priyanshu Mohanty](https://github.com/priyanshu68)
