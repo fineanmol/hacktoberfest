@@ -34,6 +34,12 @@
 - Bio: Software development Engineer
 - GitHub: [Payal Jain](https://github.com/payal1206)
 
+#### Name: [Karamveer Singh](https://github.com/kzaildar26)
+
+- Place: Patiala, Punjab, India
+- Bio: MERN Stack developer.
+- GitHub: [kzaildar26](https://github.com/kzaildar26)
+
 #### Name: [Rudreshwar Baranwal](https://github.com/devrudra9)
 
 - Place: Pratapgarh, Uttar Pradesh, India
