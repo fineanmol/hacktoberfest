@@ -103,8 +103,8 @@
 #### Name: [Aditya Nigam](https://github.com/adityanigam1)
 
 - Place: Delhi, India
-- Bio: https://twitter.com/hinduism_reborn
-- GitHub: [Aditya Nigam ](https://github.com/adityanigam1)
+- Bio: <https://twitter.com/hinduism_reborn>
+- GitHub: [Aditya Nigam](https://github.com/adityanigam1)
 
 #### Name: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 
@@ -145,7 +145,7 @@
 #### Name: [Oreoluwa Alaba](https://github.com/SanDiego2049)
 
 - Place: Lagos, Nigeria
-- Bio: https://twitter.com/Sandiego2049
+- Bio: <https://twitter.com/Sandiego2049>
 - GitHub: [SanDiego2049](https://github.com/SanDiego2049)
 
 #### Name: Vallenain
@@ -506,7 +506,7 @@
 
 - Place: Mumbai, India
 - Bio: Developer | Coder
-- GitHub: [tanishkarao16] (https://github.com/tanishkarao16)
+- GitHub: [tanishkarao16] (<https://github.com/tanishkarao16>)
 
 #### Name: [Tyler Bacon](https://github.com/tbacon781)
 
@@ -565,7 +565,7 @@
 #### Name: [Devender Pal](https://github.com/devender15)
 
 - Place: Gurugram, India
-- Bio: https://twitter.com/0x15_dev
+- Bio: <https://twitter.com/0x15_dev>
 - GitHub: [Devender Pal](https://github.com/devender15)
 
 #### Name: [Helton Teixeira](https://github.com/heltonteixeira92)
@@ -632,6 +632,7 @@
 
 - Place: Indore, Madhya Pradesh, Indore
 - Bio: I am cyber security enthusiastic.
+
 - # GitHub: [naman1102](https://github.com/naman1102)
 
 #### Name: [Saugat Rimal](https://github.com/saugat-rimal)
@@ -686,11 +687,11 @@
 - Bio: A Software Engineer
 - Github: [songlim327](https://github.com/songlim327)
 
-#### Name: [Anna Cheng] (https://github.com/bye818)
+#### Name: [Anna Cheng] (<https://github.com/bye818>)
 
 - Place: United States
 - Bio:Just a learner, trying and exploring new things
-- Github: [bye818] (https://github.com/bye818)
+- Github: [bye818] (<https://github.com/bye818>)
 
 #### Name: [Wahid Ari](https://github.com/wahid-ari)
 
@@ -698,11 +699,11 @@
 - Bio: Frontend Developer
 - GitHub: [wahid-ari](https://github.com/wahid-ari)
 
-### Name: [Akshay Kumar Maurya] (https://github.com/Akshay-21)
+### Name: [Akshay Kumar Maurya] (<https://github.com/Akshay-21>)
 
 - Place: Varanasi, UP, India
 - Bio: Software Engineer | Android Developer
-- Github: [Akshay-21] (https://github.com/Akshay-21)
+- Github: [Akshay-21] (<https://github.com/Akshay-21>)
 
 #### Name: [Amith Prasanth](https://github.com/amith2368)
 
@@ -813,6 +814,7 @@
 - Place: Gurgaon,Haryana,INDIA
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
+
 #### Name: [Vivek S](https://github.com/amitbatra31)
 
 - Place: Chennai,TamilNadu,INDIA
@@ -824,3 +826,9 @@
 - Place: Pune, Maharashtra,INDIA
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
+
+#### Name: [Kewpie134134](https://github.com/kewpie134134)
+
+- Place: Yokohama, Japan
+- Bio: Web engineer/developer
+- GitHub: [Kewpie134134](https://github.com/kewpie134134)
