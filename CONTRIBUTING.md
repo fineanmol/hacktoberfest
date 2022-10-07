@@ -1,3 +1,9 @@
+#### Name: [Raksha Pahariya](https://github.com/RP2025)
+
+- Place: Chhatarpur,Madhya pradesh,INDIA
+- Bio: Undergrad Student
+- GitHub: [RP2025](https://github.com/2025)
+
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
