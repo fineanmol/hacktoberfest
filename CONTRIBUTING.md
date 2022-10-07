@@ -795,3 +795,9 @@
 - Place: Gurgaon,Haryana,INDIA
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
+- 
+#### Name: [Vaibhav Asawale](https://github.com/amitbatra31)
+
+- Place: Pune, India
+- Bio: Web-Developer and Cyber-Security Enthusiast
+- GitHub: [Vaibhav Asawale](https://github.com/vaibhav-87)
