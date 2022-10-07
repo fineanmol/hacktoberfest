@@ -795,3 +795,10 @@
 - Place: Gurgaon,Haryana,INDIA
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
+
+#### Name: [Eshaan Awasthi](https://github.com/eshaan-oreo)
+
+- Place: New Delhi, India
+- Bio: IT Undergrad at NSUT Delhi.
+- GitHub: [Eshaan Awasthi](https://github.com/eshaan-oreo)
+
