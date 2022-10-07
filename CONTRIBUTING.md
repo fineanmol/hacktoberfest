@@ -788,4 +788,4 @@
 
 - Place: Byron Bay, NSW, Australia
 - Bio: Learner
-- GitHub: [viv-nic](https://github.com/viv-nic))
+- GitHub: [viv-nic](https://github.com/viv-nic)
