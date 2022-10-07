@@ -795,3 +795,9 @@
 - Place: Gurgaon,Haryana,INDIA
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
+
+#### Name: [Aditya Yadav](https://github.com/AdityaYadav01)
+
+- Place: New Delhi, India
+- Bio: B.Tech CSE at Bennett University
+- GitHub: [AdityaYadav01](https://github.com/AdityaYadav01)
