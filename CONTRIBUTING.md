@@ -812,3 +812,10 @@
 - Place: Chennai,TamilNadu,INDIA
 - Bio: Web Developer from   Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+
+#### Name: [Ujjwal Paul](https://github.com/ujjwalpaul005)
+
+- Place: Kolkata, India
+- Bio: Aspiring Developer
+- GitHub: [Ujjwal Paul](https://github.com/ujjwalpaul005)
