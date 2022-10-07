@@ -1,3 +1,11 @@
+
+
+#### Name: [Sarthak Rajput](https://github.com/rsarthak)
+
+- Place: Shamli,Uttar pradesh,INDIA
+- Bio: Undergrad Student
+- GitHub: [rsarthak](https://github.com/rsarthak)
+
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
