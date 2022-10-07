@@ -1,3 +1,9 @@
+### Name: [Amogh Patel](https://github.com/AmoghPatel1)
+
+- Place: Sri City, Chittoor, Andhra Pradesh, India
+- Bio: Undergrad Student, full stack developer, open source enthusiast
+- GitHub: [AmoghPatel1](https://github.com/AmoghPatel1)
+
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
