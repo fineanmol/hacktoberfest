@@ -807,8 +807,15 @@
 - Place: Gurgaon,Haryana,INDIA
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
+
 #### Name: [Vivek S](https://github.com/amitbatra31)
 
 - Place: Chennai,TamilNadu,INDIA
-- Bio: Web Developer from   Anna Technological University, Chennai.
+- Bio: Web Developer from Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+#### Name: [Nitin Rana](https://github.com/NitinRana01125532553)
+
+- Place: New Delhi,Delhi,INDIA
+- Bio: High School Student, front end dev.
+- GitHub: [NitinRana01125532553](https://github.com/NitinRana01125532553)
