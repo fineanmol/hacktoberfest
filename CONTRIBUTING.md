@@ -160,6 +160,13 @@
 - Bio: Full Stack Developer
 - GitHub: [Devesh1602](https://github.com/Devesh1602)
 
+
+#### Name: [Janumala Akhilendra](https://github.com/JanumalaAkhilendra
+)
+- Place: Ongole, Andhra Pradesh,INDIA
+- Bio: Undergrad Student
+- GitHub: [Janumala Akhilendra](https://github.com/JanumalaAkhilendra)
+
 #### Name: [Avnish Ranwa](https://github.com/avnishranwa7)
 
 - Place: Jaipur, Rajasthan, India
