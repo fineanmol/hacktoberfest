@@ -1,14 +1,14 @@
-#### Name: [Raksha Pahariya](https://github.com/RP2025)
-
-- Place: Chhatarpur,Madhya pradesh,INDIA
-- Bio: Undergrad Student
-- GitHub: [RP2025](https://github.com/2025)
-
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
 - Bio: Undergrad Student
 - GitHub: [ABHINAV0307](https://github.com/ABHINAV0307)
+
+#### Name: [Ankit Kumar](https://github.com/codeburn12)
+
+- Place: Patna, Bihar,INDIA
+- Bio: Undergrad Student
+- GitHub: [codeburn12](https://github.com/codeburn12)
 
 #### Name: [Andre Almeida](https://github.com/aalmeida00)
 
@@ -801,3 +801,20 @@
 - Place: Gurgaon,Haryana,INDIA
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
+#### Name: [Vivek S](https://github.com/amitbatra31)
+
+- Place: Chennai,TamilNadu,INDIA
+- Bio: Web Developer from   Anna Technological University, Chennai.
+- GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+#### Name: [Raksha Pahariya](https://github.com/RP2025)
+
+- Place: Chhatarpur,Madhya pradesh,INDIA
+- Bio: Undergrad Student
+- GitHub: [RP2025](https://github.com/2025)
+
+### Name: [Amogh Patel](https://github.com/AmoghPatel1)
+
+- Place: Sri City, Chittoor, Andhra Pradesh, India
+- Bio: Undergrad Student, full stack developer, open source enthusiast
+- GitHub: [AmoghPatel1](https://github.om/AmoghPatel1)
