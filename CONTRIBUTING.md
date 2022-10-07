@@ -795,3 +795,9 @@
 - Place: Gurgaon,Haryana,INDIA
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
+
+#### Name: [Amit Das](https://github.com/das-amit)
+
+- Place: Kolkta, India
+- Bio: Pre-final year CS student at RCC Institute of Innformation Technology, Kolkata.
+- GitHub: [Amit Das](https://github.com/das-amit)
