@@ -795,3 +795,10 @@
 - Place: Gurgaon,Haryana,INDIA
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
+
+
+#### Name: [Dipesh Dev](https://github.com/Dipesh0-0)
+
+- Place: Biratnagar,province 1,Nepal
+- Bio: Undergrad Student
+- GitHub: [Dipesh0-0](https://github.com/Dipesh0-0)
