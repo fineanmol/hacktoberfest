@@ -812,3 +812,9 @@
 - Place: Chennai,TamilNadu,INDIA
 - Bio: Web Developer from   Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+#### Name: [Jotiraditya](https://github.com/JotiradityaB)
+
+- Place: Kolkata, West Bengal, INDIA
+- Bio: Computer Science Engineer from Government College Of Engineering And Ceramic Technology.
+- GitHub: [Jotiraditya](https://github.com/JotiradityaB)
