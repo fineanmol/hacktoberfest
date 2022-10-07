@@ -795,3 +795,9 @@
 - Place: Gurgaon,Haryana,INDIA
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
+
+#### Name: [Manav Sharma](https://github.com/vanam30)
+
+- Place: Kolkata,West Bengal,INDIA
+- Bio: FULL Stack Developer
+- GitHub: [Manav Sharma](https://github.com/vanam30)
