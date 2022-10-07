@@ -8,9 +8,8 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           issuesOpened: |
-            👋 @{{ author }}
-            Thank you for raising an issue. We will assign this issue to the right person.
-            Meanwhile if you feel, you can work on this issue, Please raise the PR and we will review and merge it.
+             @{{ author }} Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label for the event.
+             Meanwhile if you want to work on this issue, Please raise the PR and we will review and merge it.
        
 
           pullRequestOpened: |
