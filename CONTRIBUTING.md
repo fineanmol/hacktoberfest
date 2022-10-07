@@ -783,3 +783,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Vivian Nicholls](https://github.com/viv-nic)
+
+- Place: Byron Bay, NSW, Australia
+- Bio: Learner
+- GitHub: [viv-nic](https://github.com/viv-nic))
