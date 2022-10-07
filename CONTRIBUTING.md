@@ -812,3 +812,9 @@
 - Place: Chennai,TamilNadu,INDIA
 - Bio: Web Developer from   Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+#### Name: [Prasad Poojary](https://github.com/Prasadpoojary)
+
+- Place: Udupi, Karnataka, India
+- Bio: Fullstack developer with multiple tech stacks
+- GitHub: [Prasad Poojary](https://github.com/Prasadpoojary)
