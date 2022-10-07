@@ -161,8 +161,7 @@
 - GitHub: [Devesh1602](https://github.com/Devesh1602)
 
 
-#### Name: [Janumala Akhilendra](https://github.com/JanumalaAkhilendra
-)
+#### Name: [Janumala Akhilendra](https://github.com/JanumalaAkhilendra)
 - Place: Ongole, Andhra Pradesh,INDIA
 - Bio: Undergrad Student
 - GitHub: [Janumala Akhilendra](https://github.com/JanumalaAkhilendra)
