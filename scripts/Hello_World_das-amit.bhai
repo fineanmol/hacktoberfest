@@ -1,0 +1,9 @@
+# LANGUAGE: BhaiLang
+# AUTHOR: Amit Das
+# GITHUB: https://github.com/das-amit
+
+# See language here: https://github.com/DulLabs/bhai-lang
+
+hi bhai
+ bol bhai "Hello World";
+bye bhai
