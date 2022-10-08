@@ -839,6 +839,13 @@
 - GitHub: [Aviace](https://github.com/Aviace)
 
 
+#### Name: [Prasad Poojary](https://github.com/Prasadpoojary)
+
+- Place: Udupi, Karnataka, INDIA
+- Bio: Fullstack developer
+- GitHub: [Prasad Poojary](https://github.com/Prasadpoojary)
+
+
 #### Name: [Nagendra M](https://github.com/Nagendram399)
 
 - Place: Karnataka,INDIA
@@ -880,5 +887,4 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
-
 
