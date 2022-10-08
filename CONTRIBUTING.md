@@ -920,6 +920,13 @@
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
 
 
+#### Name: [Fabian Cristancho](https://github.com/FabianCristancho)
+
+- Place: Medellin, Antioquia, Colombia
+- Bio: I'm a Colombian software developer, graduated from UNAL
+- GitHub: [FabianCristancho](https://github.com/FabianCristancho)
+
+
 #### Name: [Lakshya Dhawan](https://github.com/yolakshya19)
 
 - Place: Ghaziabad, Uttar Pradesh, INDIA
