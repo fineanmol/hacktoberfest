@@ -88,16 +88,7 @@
         td_obj.taskname = td_name;
 
         td_obj.status = "planned";
-        /*
-        td_obj.Action =
-          "<button onClick='edit(" +
-          td_obj.id +
-          ")' class='btn btn-primary'> Edit ";
-        td_obj.Action +=
-          "<button  onClick='Dell(" +
-          td_obj.id +
-          ")' class='btn btn-danger'> Delete</button> ";
-*/
+     
         td_obj_arr.push(td_obj);
         td_obj = {};
         document.getElementById("txt_id").value = "";
@@ -115,16 +106,7 @@
         build_td_list();
       }
 
-      /*
-      var input = document.getElementById("txt_id");
-      input.addEventListener("keypress", function (event) {
-        alert("asdca");
-        if (event.key === "Enter") {
-          alert("called");
-          event.preventDefault();
-          document.getElementById("boton").click();
-        }
-      });*/
+    
     </script>
   </head>
   <body>
@@ -167,4 +149,3 @@
     </div>
   </body>
 </html>
-<!------------------------------------THE END-------------------------------------------------->>
