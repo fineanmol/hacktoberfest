@@ -851,6 +851,13 @@
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
 
 
+#### Name: [Amit Das](https://github.com/das-amit)
+
+- Place: Kolkta, India
+- Bio: Pre-final year CS student at RCC Institute of Innformation Technology, Kolkata.
+- GitHub: [Amit Das](https://github.com/das-amit)
+
+
 #### Name: [Vaibhav Asawale](https://github.com/amitbatra31)
 
 - Place: Pune, India
@@ -1023,5 +1030,6 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
+
 
 
