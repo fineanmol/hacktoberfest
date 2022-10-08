@@ -93,6 +93,12 @@
 - Bio: Chemical Engineer wanna be da best developer!!!
 - GitHib: [Hamza Nawab](https://github.com/blazenn2)
 
+#### Name: [Sayantan](https://github.com/Arbtrage)
+
+- Place: Chandigarh , Punjab , India
+- Bio: Computer Science Engineering undergrad
+- GitHub: [Sayantan](https://github.com/Arbtrage)
+
 #### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
 - Place: Lagos, LAG, NIGERIA
