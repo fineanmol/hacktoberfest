@@ -1372,4 +1372,9 @@
 - GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
 
+#### Name: [Shaswat Gupta](https://github.com/masterchief164)
+
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Undergrad Student
+- GitHub: [masterchief164](https://github.com/masterchief164)
 
