@@ -886,6 +886,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+
+#### Name: [Anmol Pal](https://github.com/anmol111pal)
+
+- Place: Dehradun, Uttarakhand, India
+- Bio: An aspiring software engineer, who loves web development.
+- GitHub: [anmol111pal](https://github.com/anmol111pal)
+
 #### Name: [Abhinav Kumar](https://github.com/abhinavk454)
 
 - Place: Kolkata, West Bengal, India
@@ -1216,7 +1223,5 @@
 - Place: Remote, Bihar, India
 - Bio:  FullStack Developer
 - GitHub: [Krishnapro](https://github.com/Krishnapro)
-
-
 
 
