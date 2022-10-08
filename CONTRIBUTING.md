@@ -824,3 +824,10 @@
 - Place: Pune, Maharashtra,INDIA
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
+
+#### Name: [Nagendra M](https://github.com/Nagendram399)
+
+- Place: Karnataka,INDIA
+- Bio: Undergrad student
+- GitHub: [Nagendra M](https://github.com/Nagendram399)
+
