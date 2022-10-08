@@ -1,0 +1,12 @@
+// LANGUAGE: Golang
+// ENV: go
+// AUTHOR: Codehola
+// GITHUB: https://github.com/codedhola
+// Twitter: https://twitter.com/codedhola_
+
+// Print hello world! From coded-hola
+package main
+import "fmt"
+func main() {
+    fmt.Println("hello world! From coded-hola")
+}
