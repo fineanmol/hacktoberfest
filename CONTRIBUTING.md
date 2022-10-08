@@ -845,6 +845,12 @@
 - GitHub: [Aviace](https://github.com/Aviace)
 
 
+#### Name: [Raghav Kumar Jha](https://github.com/jharaghav32)
+- Place: Delhi,INDIA
+- Bio: Undergrad Student 
+- GitHub: [jharaghav32](https://github.com/jharaghav32)
+
+
 #### Name: [Shivansh Bansal](https://github.com/CrazyYoungBroo)
 
 - Place: Mumbai, Maharashtra,INDIA
@@ -900,5 +906,3 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
-
-
