@@ -1324,12 +1324,20 @@
 - Bio:  FullStack Developer
 - GitHub: [Krishnapro](https://github.com/Krishnapro)
 
+
+#### Name: [Ram Ganesh K.R.](https://github.com/Ram-20062003)
+- Education: B.Tech in Instrumentation and control Enginerering,NIT Trichy,
+- Place: Trichy, Tamil Nadu, India
+- Bio: Undergrad Student
+- GitHub: [Ram-20062003](https://github.com/Ram-20062003)
+
 #### Name: [Fikri Khairul Shaleh](https://github.com/fikriks)
 
 - Education : Kuningan University , West Java, Indonesia
 - Place: Cirebon, West Java, Indonesia
 - Bio: Fullstack Developer
 - GitHub: [fikriks](https://github.com/fikriks)
+
 
 
 
