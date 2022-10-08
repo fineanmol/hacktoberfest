@@ -920,6 +920,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+#### Name: [Amit Dave](https://github.com/AmitDave22)
+
+- Place: Tempe, AZ, United States
+- Bio: Software Engineering Grad at ASU
+- Github: [AmitDave22](https://github.com/AmitDave22)
+
+
 
 #### Name: [Shubham](https://github.com/tiwarishubham635)
 
@@ -1329,3 +1336,4 @@
 - Place: Pune , maharashtra , INDIA
 - Bio: IT Undergrad Student
 - GitHub: [gajanansr](https://github.com/gajanansr)
+
