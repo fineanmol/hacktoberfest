@@ -865,6 +865,12 @@
 - Bio: Data engineer
 - GitHub: [victorhpinheiro](https://github.com/victorhpinheiro))
 
+#### Name: [Megan Taylor](https://github.com/taylor-g592)
+
+- Place: Ipswich, Suffolk, United Kingdom
+- Bio: 3rd year Software Engineering student at University of Suffolk, UK
+- GitHub: [taylor-g592](https://github.com/taylor-g592)
+
 #### Name: [Anurag Pandey](https://github.com/eagleanurag)
 
 - Place: DevBhumi, Uttarakhand, India
