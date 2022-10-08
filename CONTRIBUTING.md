@@ -103,7 +103,7 @@
 #### Name: [Aditya Nigam](https://github.com/adityanigam1)
 
 - Place: Delhi, India
-- Bio: <https://twitter.com/hinduism_reborn>
+- Bio: https://twitter.com/hinduism_reborn>
 - GitHub: [Aditya Nigam](https://github.com/adityanigam1)
 
 #### Name: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
@@ -145,7 +145,7 @@
 #### Name: [Oreoluwa Alaba](https://github.com/SanDiego2049)
 
 - Place: Lagos, Nigeria
-- Bio: <https://twitter.com/Sandiego2049>
+- Bio: https://twitter.com/Sandiego2049>
 - GitHub: [SanDiego2049](https://github.com/SanDiego2049)
 
 #### Name: Vallenain
@@ -205,7 +205,7 @@
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 
 - Place: Poland
-- Bio: second year Computer Science Student, in love with NYC <3
+- Bio: second year Computer Science Student, in love with NYC 3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
@@ -506,7 +506,7 @@
 
 - Place: Mumbai, India
 - Bio: Developer | Coder
-- GitHub: [tanishkarao16] (<https://github.com/tanishkarao16>)
+- GitHub: [tanishkarao16] (https://github.com/tanishkarao16>)
 
 #### Name: [Tyler Bacon](https://github.com/tbacon781)
 
@@ -565,7 +565,7 @@
 #### Name: [Devender Pal](https://github.com/devender15)
 
 - Place: Gurugram, India
-- Bio: <https://twitter.com/0x15_dev>
+- Bio: https://twitter.com/0x15_dev>
 - GitHub: [Devender Pal](https://github.com/devender15)
 
 #### Name: [Helton Teixeira](https://github.com/heltonteixeira92)
@@ -687,11 +687,11 @@
 - Bio: A Software Engineer
 - Github: [songlim327](https://github.com/songlim327)
 
-#### Name: [Anna Cheng] (<https://github.com/bye818>)
+#### Name: [Anna Cheng] (https://github.com/bye818>)
 
 - Place: United States
 - Bio:Just a learner, trying and exploring new things
-- Github: [bye818] (<https://github.com/bye818>)
+- Github: [bye818] (https://github.com/bye818>)
 
 #### Name: [Wahid Ari](https://github.com/wahid-ari)
 
@@ -699,11 +699,11 @@
 - Bio: Frontend Developer
 - GitHub: [wahid-ari](https://github.com/wahid-ari)
 
-### Name: [Akshay Kumar Maurya] (<https://github.com/Akshay-21>)
+### Name: [Akshay Kumar Maurya] (https://github.com/Akshay-21>)
 
 - Place: Varanasi, UP, India
 - Bio: Software Engineer | Android Developer
-- Github: [Akshay-21] (<https://github.com/Akshay-21>)
+- Github: [Akshay-21] (https://github.com/Akshay-21>)
 
 #### Name: [Amith Prasanth](https://github.com/amith2368)
 
