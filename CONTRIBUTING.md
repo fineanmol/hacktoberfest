@@ -911,6 +911,13 @@
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
 
+
+#### Name: [Pradhuman Goswami](https://github.com/goswamiprad)
+
+- Place: Bhopal,MP,INDIA
+- Bio: Python Developer and B.Tech Student at LNCT, Bhopal.
+- GitHub: [goswamiprad](https://github.com/goswamiprad)
+
 #### Name: [Hafizur Rahman](https://github.com/hafeez25)
 
 - Place: Gurgaon,Haryana,INDIA
@@ -1102,5 +1109,3 @@
 #### Name: [Mansi Yeole](https://github.com/mansiyeole67)
 - Education : YCCE , NAGPUR
 - Place: Nagpur , maharashtra , INDIA
-
-
