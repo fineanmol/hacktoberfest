@@ -471,6 +471,12 @@
 - Bio: College student
 - GitHub: [PunGrumpy](https://github.com/PunGrumpy)
 
+#### Name: [Temitope Agbaje](https://github.com/TemitopeAgbaje)
+
+- Place: Lagos State, Nigeria
+- Bio: I am a junior backend developer
+- GitHub: [TemitopeAgbaje](https://github.com/TemitopeAgbaje)
+
 #### Name: [Udeet Mittal](https://github.com/udeet27)
 
 - Place: Pune, Maharashtra, India
