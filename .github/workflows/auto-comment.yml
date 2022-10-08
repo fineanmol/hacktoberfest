@@ -21,3 +21,5 @@ jobs:
              @{{ author }} Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label to participate in the event.
           pullRequestClosed: |
              @{{ author }} As your PR is closed now, Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label to participate in the event.
+          pullRequestReopened: |
+             @{{ author }} As your PR is closed now, Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label to participate in the event.
