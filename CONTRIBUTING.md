@@ -1,3 +1,10 @@
+#### Name: [Sarthak Rajput](https://github.com/rsarthak)
+
+- Place: Shamli,Uttar pradesh,INDIA
+- Bio: Undergrad Student
+- GitHub: [rsarthak](https://github.com/rsarthak)
+
+
 ### Name: [Amogh Patel](https://github.com/AmoghPatel1)
 
 - Place: Sri City, Chittoor, Andhra Pradesh, India
@@ -9,6 +16,8 @@
 - Place:Chennai, Tamil Nadu, India
 - Bio: React and React Native developer, full stack developer, open source enthusiast
 - GitHub: [Guruvignesh](https://github.com/staticGuru)
+
+
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
@@ -819,17 +828,44 @@
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
+
+#### Name: [Vivian Nicholls](https://github.com/viv-nic)
+
+- Place: Byron Bay, NSW, Australia
+- Bio: Learner
+- GitHub: [viv-nic](https://github.com/viv-nic)
+
 #### Name: [Amit Batra](https://github.com/amitbatra31)
 
 - Place: Gurgaon,Haryana,INDIA
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
 
+
+#### Name: [Aditya Yadav](https://github.com/AdityaYadav01)
+
+- Place: New Delhi, India
+- Bio: B.Tech CSE at Bennett University
+- GitHub: [AdityaYadav01](https://github.com/AdityaYadav01)
+
 #### Name: [Vivek S](https://github.com/amitbatra31)
 
 - Place: Chennai,TamilNadu,INDIA
 - Bio: Web Developer from Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+
+#### Name: [Raksha Pahariya](https://github.com/RP2025)
+
+- Place: Chhatarpur,Madhya pradesh,INDIA
+- Bio: Undergrad Student
+- GitHub: [RP2025](https://github.com/2025)
+
+### Name: [Amogh Patel](https://github.com/AmoghPatel1)
+
+- Place: Sri City, Chittoor, Andhra Pradesh, India
+- Bio: Undergrad Student, full stack developer, open source enthusiast
+- GitHub: [AmoghPatel1](https://github.om/AmoghPatel1)
 
 #### Name: [Nitin Rana](https://github.com/NitinRana01125532553)
 
@@ -945,13 +981,11 @@
 - Bio: Just a B.Tech Student and a guitarist at heart?
 - GitHub: [darkghost33](https://github.com/darkghost33)
 
-
 #### Name: [Shruti](https://www.instagram.com/sabreenshruti/)
 
 - Place: Faridabad, India
 - Bio: BTECH CSE Undergraduate
 - Github: [shrutilicensed](https://github.com/shrutilicensed)
-
 
 #### Name: [Pradhyum Arora](https://github.com/PradhyumArora)
 
@@ -960,12 +994,9 @@
 - GitHub: [Pradhyum](https://github.com/PradhyumArora)
 
 
-
 #### Name: [Mansi Yeole](https://github.com/mansiyeole67)
 - Education : YCCE , NAGPUR
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
-
-
 
