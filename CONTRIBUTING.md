@@ -824,3 +824,9 @@
 - Place: Pune, Maharashtra,INDIA
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
+
+#### Name: [Aditya Mathur](https://github.com/AdityaMathur25)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: BCA Student
+- GitHub: [AdityaMathur25](https://github.com/AdityaMathur25)
