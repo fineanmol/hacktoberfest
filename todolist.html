@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      td_obj = {};
+      td_obj_arr = [];
+      edit_flag = false;
+      curr_id = 0;
+
+      function build_td_list() {
+        res = "<table class='table table-borderless'>";
+        res += "<th>id</th>";
+        res += "<th>taskname</th>";
+        res += "<th>status</th>";
+        res += "<th>Action</th>";
+
+        for (var i = 0; i < td_obj_arr.length; i++) {
+          if (td_obj_arr[i].status == "planned") checked_status = "";
+          else checked_status = "checked";
+
+          res =
+            res +
+            "<tr>" +
+            "<td>" +
+            td_obj_arr[i].id +
+            "</td>" +
+            "<td>" +
+            td_obj_arr[i].taskname +
+            "</td>" +
+            "<td>" +
+            td_obj_arr[i].status +
+            "</td>" +
+            "<td>" +
+            "<input name = '" +
+            i +
+            "' type = checkbox " +
+            checked_status +
+            " onClick='change_status(this)'>" +
+            "<button  onClick='edit(" +
+            i +
+            ")' class='btn btn-success'> Edit</button>" +
+            "<button  onClick='Dell(" +
+            i +
+            ")' class='btn btn-danger'> Delete</button>" +
+            "</td>" +
+            "</tr>";
+        }
+        res = res + "</table>";
+        document.getElementById("3").innerHTML = res;
+      }
+
+      function change_status(t) {
+        id = t.name;
+
+        if (t.checked) td_obj_arr[id].status = "Done";
+        else td_obj_arr[id].status = "planned";
+        //td_obj_arr.splice(id, 1);
+        build_td_list();
+      }
+      function add_todo(e) {
+        if (e.code != "Enter") {
+          return;
+        }
+
+        td_name = document.getElementById("txt_id").value;
+
+        if (edit_flag == true) {
+          td_obj_arr[curr_id].taskname = td_name;
+          edit_flag == false;
+          build_td_list();
+          document.getElementById("txt_id").value = "";
+          edit_flag = false;
+          return;
+        }
+
+        td_obj.id = td_obj_arr.length + 1;
+        td_obj.taskname = td_name;
+
+        td_obj.status = "planned";
+        /*
+        td_obj.Action =
+          "<button onClick='edit(" +
+          td_obj.id +
+          ")' class='btn btn-primary'> Edit ";
+        td_obj.Action +=
+          "<button  onClick='Dell(" +
+          td_obj.id +
+          ")' class='btn btn-danger'> Delete</button> ";
+*/
+        td_obj_arr.push(td_obj);
+        td_obj = {};
+        document.getElementById("txt_id").value = "";
+        build_td_list();
+      }
+
+      function edit(id) {
+        edit_flag = true;
+        curr_id = id;
+        curr_task = td_obj_arr[curr_id].taskname;
+        document.getElementById("txt_id").value = curr_task;
+      }
+      function Dell(id) {
+        td_obj_arr.splice(id, 1);
+        build_td_list();
+      }
+
+      /*
+      var input = document.getElementById("txt_id");
+      input.addEventListener("keypress", function (event) {
+        alert("asdca");
+        if (event.key === "Enter") {
+          alert("called");
+          event.preventDefault();
+          document.getElementById("boton").click();
+        }
+      });*/
+    </script>
+  </head>
+  <body>
+    <div class="container-fluid" id="1">
+      <div
+        style="
+          text-align: center;
+          border: solid 0px;
+          background-color: rgba(255, 255, 255, 0.583);
+
+          padding-top: 5px;
+          font-size: larger;
+        "
+        id="2"
+      >
+        <b><h1>TODOS</h1></b>
+      </div>
+      <div style="border: solid 1px; background-color: darkgrey">
+        <h3>ADD A TASK</h3>
+      </div>
+      <div
+        class="container-fluid"
+        style="border: solid 1px; background-color: white; padding: 5px"
+      >
+        <h4>ITEM</h4>
+        <br />
+        <input
+          type="text"
+          onkeypress="add_todo(event)"
+          style="width: 100%; font-size: 20px"
+          id="txt_id"
+          placeholder="What do you want to do?"
+        />
+        <p>Enter what you want to procastinate</p>
+        <button onClick="add_todo()" class="btn btn-primary" id="boton">
+          Submit</button
+        ><br />
+        <div id="3"><br /></div>
+      </div>
+    </div>
+  </body>
+</html>
+<!------------------------------------THE END-------------------------------------------------->>
