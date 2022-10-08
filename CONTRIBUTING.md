@@ -844,6 +844,13 @@
 - GitHub: [NitinRana01125532553](https://github.com/NitinRana01125532553)
 
 
+#### Name: [Tushar Khatri](https://github.com/tusharkhatri12)
+
+- Place: New Delhi, Delhi,INDIA
+- Bio: Web developer and bca student at Jagan Institute Of Management Studies.
+- Github: [tusharkhatri12](https://github.com/tusharkhatri12)
+
+
 #### Name: [Nayaneeka Mahapatra](https://github.com/nexi9)
 
 - Place: Bhubaneswar, Odisha, India
