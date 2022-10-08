@@ -1,6 +1,3 @@
-
-
-
 #### Name: [Sarthak Rajput](https://github.com/rsarthak)
 
 - Place: Shamli,Uttar pradesh,INDIA
@@ -19,6 +16,7 @@
 - Place:Chennai, Tamil Nadu, India
 - Bio: React and React Native developer, full stack developer, open source enthusiast
 - GitHub: [Guruvignesh](https://github.com/staticGuru)
+
 
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
@@ -849,6 +847,19 @@
 - Bio: Web Developer from Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
 
+
+#### Name: [Raksha Pahariya](https://github.com/RP2025)
+
+- Place: Chhatarpur,Madhya pradesh,INDIA
+- Bio: Undergrad Student
+- GitHub: [RP2025](https://github.com/2025)
+
+### Name: [Amogh Patel](https://github.com/AmoghPatel1)
+
+- Place: Sri City, Chittoor, Andhra Pradesh, India
+- Bio: Undergrad Student, full stack developer, open source enthusiast
+- GitHub: [AmoghPatel1](https://github.om/AmoghPatel1)
+
 #### Name: [Nitin Rana](https://github.com/NitinRana01125532553)
 
 - Place: New Delhi,Delhi,INDIA
@@ -974,5 +985,4 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
-
 
