@@ -832,6 +832,13 @@
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
 
 
+#### Name: [Priyanshu Mohanty](https://github.com/priyanshu68)
+
+- Place: Bhubaneswar,Odisha,INDIA
+- Bio: Flutter Developer and B.Tech Student at SOA University, Odisha.
+- GitHub: [Priyanshu Mohanty](https://github.com/priyanshu68)
+
+
 
 #### Name: [Harshit Gupta](https://github.com/harshit0015)
 
@@ -912,3 +919,4 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
+
