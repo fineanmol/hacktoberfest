@@ -825,6 +825,13 @@
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
 
+
+#### Name: [Aditya Yadav](https://github.com/AdityaYadav01)
+
+- Place: New Delhi, India
+- Bio: B.Tech CSE at Bennett University
+- GitHub: [AdityaYadav01](https://github.com/AdityaYadav01)
+
 #### Name: [Vivek S](https://github.com/amitbatra31)
 
 - Place: Chennai,TamilNadu,INDIA
@@ -938,20 +945,17 @@
 - Bio: Just a B.Tech Student and a guitarist at heart?
 - GitHub: [darkghost33](https://github.com/darkghost33)
 
-
 #### Name: [Shruti](https://www.instagram.com/sabreenshruti/)
 
 - Place: Faridabad, India
 - Bio: BTECH CSE Undergraduate
 - Github: [shrutilicensed](https://github.com/shrutilicensed)
 
-
 #### Name: [Pradhyum Arora](https://github.com/PradhyumArora)
 
 - Place: Ahmedabad, Gujarat,INDIA
 - Bio: Undergrad Student
 - GitHub: [Pradhyum](https://github.com/PradhyumArora)
-
 
 
 #### Name: [Mansi Yeole](https://github.com/mansiyeole67)
