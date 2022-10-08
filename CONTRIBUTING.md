@@ -851,6 +851,14 @@
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
 
 
+#### Name: [Vaibhav Asawale](https://github.com/amitbatra31)
+
+- Place: Pune, India
+- Bio: Web-Developer and Cyber-Security Enthusiast
+- GitHub: [Vaibhav Asawale](https://github.com/vaibhav-87)
+
+
+
 
 #### Name: [Dipesh Dev](https://github.com/Dipesh0-0)
 
