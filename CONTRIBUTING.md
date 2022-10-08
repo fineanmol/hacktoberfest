@@ -851,6 +851,13 @@
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
 
 
+
+#### Name: [Dipesh Dev](https://github.com/Dipesh0-0)
+
+- Place: Biratnagar,province 1,Nepal
+- Bio: Undergrad Student
+- GitHub: [Dipesh0-0](https://github.com/Dipesh0-0)
+
 #### Name: [Aditya Yadav](https://github.com/AdityaYadav01)
 
 - Place: New Delhi, India
@@ -1008,4 +1015,5 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
+
 
