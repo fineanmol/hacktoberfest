@@ -124,6 +124,12 @@
 - Bio: Student
 - GitHub: [Ishan](https://github.com/ishan-1010)
 
+#### Name: [Aditya Agrawal](https://github.com/adityaiiitL/)
+
+- Place: Patna, Bihar, India
+- Bio: Student
+- GitHub: [Aditya Agrawal](https://github.com/adityaiiitL/)
+
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
 - Place: Old Street, UK,
