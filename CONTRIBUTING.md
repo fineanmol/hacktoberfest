@@ -1,4 +1,11 @@
 
+#### Name: [David Ojeda](https://github.com/dojetin)
+
+- Place: Seville, Spain
+- Bio: Programing Student
+- GitHub: [dojetin](https://github.com/dojetin)
+
+
 #### Name: [Ashish Gupta](https://github.com/bigbskywalker)
 
 - Place: Delhi, India
@@ -68,6 +75,7 @@
 - Place: Patna, Bihar,INDIA
 - Bio: Undergrad Student
 - GitHub: [codeburn12](https://github.com/codeburn12)
+
 
 
 
