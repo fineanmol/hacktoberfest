@@ -1,4 +1,10 @@
 
+#### Name: [Abdulqoyyum Ibrahim](https://github.com/devbayo)
+
+- Place: Lagos, Nigera.
+- Bio: Frontend Developer, Mechanical Engineering Undergraduate.
+- GitHub: [devBayo](https://github.com/devbayo)
+
 #### Name : [Suraj Keshari](https://github.com/surajkeshari)
 
 - Place : Gangapur ,Varanasi , Uttar Pradesh ,India
@@ -17,6 +23,7 @@
 - Place: Shamli,Uttar pradesh,INDIA
 - Bio: Undergrad Student
 - GitHub: [rsarthak](https://github.com/rsarthak)
+
 
 
 ### Name: [Amogh Patel](https://github.com/AmoghPatel1)
@@ -41,12 +48,13 @@
 - GitHub: [ABHINAV0307](https://github.com/ABHINAV0307)
 
 
+
 #### Name: [Mahika Sharma](https://github.com/Mahika07)
 
 - Place: Indore,Madhya pradesh,INDIA
 - Bio: Undergrad Student
 - GitHub: [Mahika07](https://github.com/Mahika07)
-- 
+
 
 #### Name: [Ankit Kumar](https://github.com/codeburn12)
 
