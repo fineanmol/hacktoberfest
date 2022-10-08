@@ -883,6 +883,13 @@
 
 
 
+#### Name: [Flourish Oke](https://github.com/TimTemi)
+
+- Place: Jos, Plateau, Nigeria
+- Bio: Computer scientist, enthusiatic about Tech
+- GitHub: [Flourish Oke](https://github.com/TimTemi)
+
+
 ### Name: [Prashant](https://github.com/prashant5025)
 
 - Place: Hapur, Uttar Pradesh, India
@@ -986,6 +993,7 @@
 - Place: Byron Bay, NSW, Australia
 - Bio: Learner
 - GitHub: [viv-nic](https://github.com/viv-nic)
+
 
 
 #### Name: [Amit Batra](https://github.com/amitbatra31)
