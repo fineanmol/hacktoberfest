@@ -1372,4 +1372,9 @@
 - GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
 
+#### Name: [Lakshay Chauhan](https://github.com/imlakshaychauhan)
 
+- Education: BTech, Maharaja Surajmal Institute Of Technology, New Delhi, India
+- Place: New Delhi, India
+- Bio: IT Undergrad
+- GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
