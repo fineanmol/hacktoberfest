@@ -1345,5 +1345,9 @@
 - Bio: IT Undergrad Student
 - GitHub: [gajanansr](https://github.com/gajanansr)
 
+#### Name: [Om Aiholli](https://github.com/CAPTAINOM)
 
+-Education : IIT BOMBAY, Mumbai
+-Place: Mumbai,Maharastra,INDIA
+-Bio: CSE Undergrad
 
