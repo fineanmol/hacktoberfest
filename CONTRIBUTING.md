@@ -825,7 +825,7 @@
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
 
-#### Name: [Harshit Sharma ](https://github.com/HARSHITSHARMA18)
+#### Name: [Harshit_Sharma ](https://github.com/HARSHITSHARMA18)
 
 - Place: Delhi, Delhi, India
 - Bio: A Passionate Developer and Designer pursuing undergrad from Delhi Technological University
