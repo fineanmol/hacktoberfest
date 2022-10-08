@@ -1,4 +1,11 @@
 
+#### Name : [Suraj Keshari](https://github.com/surajkeshari)
+
+- Place : Gangapur ,Varanasi , Uttar Pradesh ,India
+- Bio: Frontend Engineer , codeforces pupil , Codechef 3star
+- GitHub: [surajkeshari](https://github.com/surajkeshari)
+
+
 #### Name: [Soham Samantaray](https://github.com/SamSoham)
 
 - Place: Cuttack,Odisha,INDIA
@@ -23,6 +30,7 @@
 - Place:Chennai, Tamil Nadu, India
 - Bio: React and React Native developer, full stack developer, open source enthusiast
 - GitHub: [Guruvignesh](https://github.com/staticGuru)
+
 
 
 
