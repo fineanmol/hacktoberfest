@@ -812,3 +812,10 @@
 - Place: Chennai,TamilNadu,INDIA
 - Bio: Web Developer from   Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+
+#### Name: [Harshit Gupta](https://github.com/harshit0015)
+
+- Place: New Delhi,INDIA
+- GitHub: [harshit0015](https://github.com/harshit0015)
+
