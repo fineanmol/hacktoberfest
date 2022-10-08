@@ -904,6 +904,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+#### Name: [Pietro Mezzadri](https://github.com/pietromezzadri)
+
+- Place: Curitiba, Brazil
+- Bio: Full-Stack Developer
+- Github: [pietromezzadri](https://github.com/pietromezzadri)
+
+
 #### Name: [Zoe Blogg](https://github.com/ZoCodes/)
 
 - Place: Leeds, UK
@@ -1269,5 +1276,4 @@
 - Place: Cirebon, West Java, Indonesia
 - Bio: Fullstack Developer
 - GitHub: [fikriks](https://github.com/fikriks)
-
 
