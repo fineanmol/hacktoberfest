@@ -904,6 +904,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+#### Name: [Marcos Messias](https://github.com/marcosmessias-src)
+
+- Place: Alagoas, Brazil
+- Bio: FullStack Developer, Laravue is life.
+- GitHub: [marcosmessias-src](https://github.com/marcosmessias-src)
+
+
 #### Name: [Pietro Mezzadri](https://github.com/pietromezzadri)
 
 - Place: Curitiba, Brazil
@@ -1276,4 +1283,5 @@
 - Place: Cirebon, West Java, Indonesia
 - Bio: Fullstack Developer
 - GitHub: [fikriks](https://github.com/fikriks)
+
 
