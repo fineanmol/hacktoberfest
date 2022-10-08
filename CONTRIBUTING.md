@@ -12,11 +12,11 @@
 - GitHub: [dojetin](https://github.com/dojetin)
 
 
-#### Name: [Ashish Gupta](https://github.com/bigbskywalker)
+#### Name: [Shubhanshu Gupta](https://github.com/Gptshubh)
 
 - Place: Delhi, India
 - Bio: Backend Developer, Gamer
-- GitHub: [bigbskywalker](https://github.com/bigbskywalker)
+- GitHub: [Gptshubh](https://github.com/Gptshubh)
 
 
 
