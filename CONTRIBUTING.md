@@ -1372,4 +1372,12 @@
 - GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
 
+#### Name: [Dharanash S](https://github.com/Dharanash)
+
+- Education : BE , Coimbatore
+- Place: Kovaipudur , Tamilnadu , INDIA
+- Bio:  Undergradute Student
+- GitHub: [Dharanash](https://github.com/Dharanash)
+
+
 
