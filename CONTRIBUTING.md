@@ -920,6 +920,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+
+#### Name: [Ritik Kumar Gupta](https://github.com/ritik-rkg)
+
+- Place: Bangalore, India
+- Bio: Computer Science Student
+- GitHub: [ritik-rkg](https://github.com/ritik-rkg)
+
 #### Name: [Amit Dave](https://github.com/AmitDave22)
 
 - Place: Tempe, AZ, United States
@@ -941,6 +948,7 @@
 - Place: Patna, Bihar
 - Bio: Software Engineering, AI enthusiats and Gamer.
 - GitHub: [krsambhav](https://github.com/krsambhav)
+
 
 
 #### Name: [Mitansh Kayathwal](https://github.com/Mitanshk01)
@@ -1328,12 +1336,11 @@
 - GitHub: [fikriks](https://github.com/fikriks)
 
 
-
-
 #### Name: [Gajanan Rathod](https://github.com/gajanansr)
 
 - Education : SCOE , Pune
 - Place: Pune , maharashtra , INDIA
 - Bio: IT Undergrad Student
 - GitHub: [gajanansr](https://github.com/gajanansr)
+
 
