@@ -856,6 +856,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+#### Name: [Mayank Thakur](https://github.com/mayankt18)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Computer Enthusiast
+- GitHub: [mayankt18](https://github.com/mayankt18)
+
+
 #### Name: [Parmar Kirti](https://github.com/Kirti36)
 
 - Place: Anand,Gujarat,India
@@ -1067,4 +1074,5 @@
 - Education : YCCE , NAGPUR
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
+
 
