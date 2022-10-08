@@ -24,11 +24,20 @@
 - Bio: Undergrad Student
 - GitHub: [ABHINAV0307](https://github.com/ABHINAV0307)
 
+
+#### Name: [Mahika Sharma](https://github.com/Mahika07)
+
+- Place: Indore,Madhya pradesh,INDIA
+- Bio: Undergrad Student
+- GitHub: [Mahika07](https://github.com/Mahika07)
+- 
+
 #### Name: [Ankit Kumar](https://github.com/codeburn12)
 
 - Place: Patna, Bihar,INDIA
 - Bio: Undergrad Student
 - GitHub: [codeburn12](https://github.com/codeburn12)
+
 
 #### Name: [Andre Almeida](https://github.com/aalmeida00)
 
