@@ -912,6 +912,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+#### Name: [Mitansh Kayathwal](https://github.com/Mitanshk01)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: B.Tech CSE Student,new to Open Source!
+- GutHub: [Sofiyan](https://github.com/Mitanshk01)
+
+
 #### Name: [Ahtesham Zaidi](https://github.com/ahtesham007)
 
 - Place: Delhi, India
@@ -1298,6 +1305,7 @@
 - Place: Cirebon, West Java, Indonesia
 - Bio: Fullstack Developer
 - GitHub: [fikriks](https://github.com/fikriks)
+
 
 
 
