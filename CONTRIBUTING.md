@@ -839,6 +839,13 @@
 - GitHub: [Aviace](https://github.com/Aviace)
 
 
+#### Name: [Shruti](https://www.instagram.com/sabreenshruti/)
+
+- Place: Faridabad, India
+- Bio: BTECH CSE Undergraduate
+- Github: [shrutilicensed](https://github.com/shrutilicensed)
+
+
 #### Name: [Pradhyum Arora](https://github.com/PradhyumArora)
 
 - Place: Ahmedabad, Gujarat,INDIA
@@ -852,3 +859,4 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
+
