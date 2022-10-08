@@ -921,6 +921,13 @@
 - GitHub: [Aviace](https://github.com/Aviace)
 
 
+#### Name: [Awosise Oluwaseun](https://github.com/jhhornn)
+
+- Place: Akobo, Ibadan, Nigeria.
+- Bio: Backend Developer(NodeJS) from Obafemi Awolowo University.
+- GitHub: [Awosise Oluwaseun](https://github.com/jhhornn)
+
+
 #### Name: [Harshit Sharma ](https://github.com/HARSHITSHARMA18)
 
 - Place: Delhi, Delhi, India
@@ -992,3 +999,4 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
+
