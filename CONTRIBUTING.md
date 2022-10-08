@@ -878,6 +878,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+#### Name: [Mujahid Ali](https://github.com/MujahidAli954)
+
+- Place: Islamabad, Punjab, Pakistan
+- Bio: Full Stack Web Developer
+- GitHub: [MujahidAli954](https://github.com/MujahidAli954)
+
+
 #### Name: [Gem Schley(https://github.com/disabledandfab)
 
 - Place: Milwaukee, WI, USA
@@ -1151,4 +1158,5 @@
 - Place: Remote, Bihar, India
 - Bio:  FullStack Developer
 - GitHub: [Krishnapro](https://github.com/Krishnapro)
+
 
