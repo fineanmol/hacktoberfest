@@ -856,6 +856,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+
+#### Name: [Shivam Agrahari](https://github.com/shivamagraharii)
+
+- Place: Jabalpurl, MP, India
+- Bio: I am a Btech Student
+- GitHub: [shivamagraharii](https://github.com/shivamagraharii)
+
 #### Name: [Mayank Thakur](https://github.com/mayankt18)
 
 - Place: Kolkata, West Bengal, India
@@ -1073,6 +1080,4 @@
 #### Name: [Mansi Yeole](https://github.com/mansiyeole67)
 - Education : YCCE , NAGPUR
 - Place: Nagpur , maharashtra , INDIA
-- Bio: Undergrad Student
-
 
