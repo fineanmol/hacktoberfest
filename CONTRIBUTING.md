@@ -824,3 +824,10 @@
 - Place: Pune, Maharashtra,INDIA
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
+
+
+#### Name: [Mansi Yeole](https://github.com/mansiyeole67)
+- Education : YCCE , NAGPUR
+- Place: Nagpur , maharashtra , INDIA
+- Bio: Undergrad Student
+- GitHub: [mansiyeole67](https://github.com/mansiyeole67)
