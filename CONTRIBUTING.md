@@ -1,3 +1,13 @@
+
+
+
+#### Name: [Sarthak Rajput](https://github.com/rsarthak)
+
+- Place: Shamli,Uttar pradesh,INDIA
+- Bio: Undergrad Student
+- GitHub: [rsarthak](https://github.com/rsarthak)
+
+
 ### Name: [Amogh Patel](https://github.com/AmoghPatel1)
 
 - Place: Sri City, Chittoor, Andhra Pradesh, India
@@ -9,6 +19,7 @@
 - Place:Chennai, Tamil Nadu, India
 - Bio: React and React Native developer, full stack developer, open source enthusiast
 - GitHub: [Guruvignesh](https://github.com/staticGuru)
+
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
