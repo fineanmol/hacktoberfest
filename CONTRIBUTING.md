@@ -13,6 +13,7 @@
 - GitHub: [bigbskywalker](https://github.com/bigbskywalker)
 
 
+
 #### Name: [Abdulqoyyum Ibrahim](https://github.com/devbayo)
 
 - Place: Lagos, Nigera.
@@ -30,6 +31,7 @@
 - Place : Gangapur ,Varanasi , Uttar Pradesh ,India
 - Bio: Frontend Engineer , codeforces pupil , Codechef 3star
 - GitHub: [surajkeshari](https://github.com/surajkeshari)
+
 
 
 #### Name: [Soham Samantaray](https://github.com/SamSoham)
@@ -1061,20 +1063,18 @@
 - GitHub: [MujahidAli954](https://github.com/MujahidAli954)
 
 
+
 #### Name: [Gem Schley(https://github.com/disabledandfab)
 
 - Place: Milwaukee, WI, USA
 - Bio: A polyglot learning the various languages of coding.
 - GitHub: [disabledandfab](https://github.com/disabledandfab)
 
-
 #### Name: [Rushikesh Malu](https://github.com/SadCato)
 
 - Place: Nagpur, Maharashtra, India
 - Bio: Computer Science Engineer!
 - GitHub: [SadCatto](https://github.com/SadCatto)
-
-
 
 #### Name: [Shivam Agrahari](https://github.com/shivamagraharii)
 
@@ -1089,15 +1089,11 @@
 - GitHub: [mayankt18](https://github.com/mayankt18)
 
 
-
 #### Name: [Parmar Kirti](https://github.com/Kirti36)
 
 - Place: Anand,Gujarat,India
 - Bio: AI Engineering,ML enthusiat.
 - GitHub: [Kirti36](https://github.com/Kirti36)
-
-
-
 
 #### Name: [Vivian Nicholls](https://github.com/viv-nic)
 
@@ -1235,7 +1231,6 @@
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
 
-
 #### Name: [Awosise Oluwaseun](https://github.com/jhhornn)
 
 - Place: Akobo, Ibadan, Nigeria.
@@ -1308,6 +1303,12 @@
 - Place: Nagpur , maharashtra , INDIA
 
 
+#### Name: [Lakshay Thakur](https://github.com/thakurlakshay2)
+
+- Place: Rani bagh, Delhi,INDIA
+- Bio: passout
+- GitHub: [thakurlakshay2][https://github.com/thakurlakshay2]
+
 
 #### Name: [Kiran Rai](https://github.com/mansiyeole67)
 - Education : Kaziranga University , ASSAM
@@ -1320,6 +1321,7 @@
 - Place: Remote, Bihar, India
 - Bio:  FullStack Developer
 - GitHub: [Krishnapro](https://github.com/Krishnapro)
+
 
 
 #### Name: [Ram Ganesh K.R.](https://github.com/Ram-20062003)
@@ -1342,5 +1344,6 @@
 - Place: Pune , maharashtra , INDIA
 - Bio: IT Undergrad Student
 - GitHub: [gajanansr](https://github.com/gajanansr)
+
 
 
