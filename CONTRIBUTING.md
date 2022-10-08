@@ -819,8 +819,16 @@
 - Bio: Web Developer from   Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
 
+
+#### Name: [Ashish](https://github.com/ashish3121990)
+
+- Place: Pune, Maharashtra, India
+- Bio: Technical Lead
+- GitHub: [ashish3121990](https://github.com/ashish3121990)
+
 #### Name: [Ayush Singh](https://github.com/Aviace)
 
 - Place: Pune, Maharashtra,INDIA
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
+
