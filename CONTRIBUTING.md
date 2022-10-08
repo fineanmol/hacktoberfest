@@ -824,3 +824,9 @@
 - Place: Pune, Maharashtra,INDIA
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
+
+#### Name: [Devesh Mukherjee](https://github.com/darkghost33)
+
+- Place: Prayagraj, Uttar Pradesh, India
+- Bio: Just a B.Tech Student and a guitarist at heart?
+- GitHub: [darkghost33](https://github.com/darkghost33)
