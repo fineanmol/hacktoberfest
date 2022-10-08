@@ -1372,4 +1372,10 @@
 - GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
 
+#### Name: [Shrishail Patil](https://github.com/shrishail356)
+
+- Place: Hubbli, Karnataka ,India
+- Bio: Student at Vellore Institute of Technology
+- GitHub: [shrishail356](https://github.com/shrishail356)
+
 
