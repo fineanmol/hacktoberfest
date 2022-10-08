@@ -4,6 +4,11 @@
 - Bio: Undergrad Student, full stack developer, open source enthusiast
 - GitHub: [AmoghPatel1](https://github.com/AmoghPatel1)
 
+### Name: [Guruvignesh](https://github.com/staticGuru)
+
+- Place:Chennai, Tamil Nadu, India
+- Bio: React and React Native developer, full stack developer, open source enthusiast
+- GitHub: [Guruvignesh](https://github.com/staticGuru)
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
