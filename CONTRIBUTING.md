@@ -32,6 +32,12 @@
 - Bio: Frontend Engineer , codeforces pupil , Codechef 3star
 - GitHub: [surajkeshari](https://github.com/surajkeshari)
 
+#### Name : [Aditya D](https://github.com/adi271001)
+
+- Place : JP Nagar ,Bengaluru , Karnataka ,India
+- Bio: AI-ML Developer , Hackerrank 5star
+- GitHub: [adi271001](https://github.com/adi271001)
+
 
 
 #### Name: [Soham Samantaray](https://github.com/SamSoham)
