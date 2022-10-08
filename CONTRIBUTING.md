@@ -1345,5 +1345,10 @@
 - Bio: IT Undergrad Student
 - GitHub: [gajanansr](https://github.com/gajanansr)
 
+#### Name: [Tanveer Singh](https://github.com/tanxveer)
 
+- Education : BBSBEC, FGS
+- Place: Mohali, Punjab, IN
+- Bio: Who are you? Human
+- GitHub: [tanxveer](https://github.com/tanxveer)
 
