@@ -832,6 +832,13 @@
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
 
 
+#### Name: [Nayaneeka Mahapatra](https://github.com/nexi9)
+
+- Place: Bhubaneswar, Odisha, India
+- Bio: B.Tech Student in Computer Science , currently studying at SOA University, Odisha.
+- GitHub: [Nayaneeka Mahapatra](https://github.com/nexi9)
+
+
 #### Name: [Priyanshu Mohanty](https://github.com/priyanshu68)
 
 - Place: Bhubaneswar,Odisha,INDIA
@@ -919,4 +926,5 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
+
 
