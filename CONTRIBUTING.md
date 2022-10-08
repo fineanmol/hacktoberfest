@@ -4,6 +4,12 @@
 - Bio: Undergrad Student, full stack developer, open source enthusiast
 - GitHub: [AmoghPatel1](https://github.com/AmoghPatel1)
 
+#### Name: [Devesh Mukherjee](https://github.com/darkghost33)
+
+- Place: Prayagraj, Uttar Pradesh, India
+- Bio: Just a B.Tech Student and a guitarist at heart?
+- GitHub: [darkghost33](https://github.com/darkghost33)
+
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
