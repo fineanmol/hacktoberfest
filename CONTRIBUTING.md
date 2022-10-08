@@ -1,9 +1,3 @@
-#### Name: [Aryan Sahoo](https://github.com/AryanSahoo-2003)
-
-- Place: Faridabad,Haryana,India
-- Bio: Undergrad Student in IIT Patna pursuing B.Tech in AI & DS
-- GitHub: [AryanSahoo-2003](https://github.com/AryanSahoo-2003)
-
 ### Name: [Amogh Patel](https://github.com/AmoghPatel1)
 
 - Place: Sri City, Chittoor, Andhra Pradesh, India
