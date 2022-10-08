@@ -1,3 +1,9 @@
+#### Name: [Harsh Shah](https://github.com/harsh-0986)
+
+- Place: Surat, India
+- Bio: Student, Web developer
+- GitHub: [Harsh-0986](https://github.com/Harsh-0986)
+
 
 #### Name: [David Ojeda](https://github.com/dojetin)
 
