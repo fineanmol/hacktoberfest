@@ -1348,7 +1348,7 @@
 
 #### Name: [Prashant Agheda](https://github.com/prashant-agheda/)
 
-- Education : MCA from DY Patil International University
+- Education: MCA from DY Patil International University
 - Place: Pune, Maharashtra, India
 - Bio: Post-Grad Student
 - GitHub: [prashant-agheda](https://github.com/prashant-agheda/)
