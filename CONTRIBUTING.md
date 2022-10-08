@@ -831,6 +831,12 @@
 - Bio: Student At V.V.P. Engineering College and Node js Developer
 - GitHub: [Smit-Vasoya-Tridhya](https://github.com/Smit-Vasoya-Tridhya)
 
+#### Name: [Pragati Gupta](https://github.com/Pragati-64)
+
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: MCA final year student , an Aspiring Software Engineer 
+- GitHub: [Pragati-64](https://github.com/Pragati-64)
+
 #### Name: [Victor Pinheiro](https://github.com/victorhpinheiro)
 
 - Place: Sydney, NSW, Australia
