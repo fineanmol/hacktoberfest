@@ -5,6 +5,12 @@
 - Bio: Frontend Developer, Mechanical Engineering Undergraduate.
 - GitHub: [devBayo](https://github.com/devbayo)
 
+#### Name: [Sai Rahul](https://github.com/Sai3Rahul)
+
+- Place: Hyderabad, Telangana, India
+- Bio: Fourth year Computer Science Student
+- GitHub: [Sai3Rahul](https://github.com/Sai3Rahul)
+
 #### Name : [Suraj Keshari](https://github.com/surajkeshari)
 
 - Place : Gangapur ,Varanasi , Uttar Pradesh ,India
