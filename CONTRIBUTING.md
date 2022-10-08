@@ -1347,7 +1347,7 @@
 
 #### Name: [Om Aiholli](https://github.com/CAPTAINOM)
 
--Education : IIT BOMBAY, Mumbai
--Place: Mumbai,Maharastra,INDIA
--Bio: CSE Undergrad
+- Education : IIT BOMBAY, Mumbai
+- Place: Mumbai,Maharastra,INDIA
+- Bio: CSE Undergrad
 
