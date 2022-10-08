@@ -824,3 +824,9 @@
 - Place: Pune, Maharashtra,INDIA
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
+
+#### Name: [Shivansh Bansal](https://github.com/CrazyYoungBroo)
+
+- Place: Mumbai, Maharashtra,INDIA
+- Bio: Python Coder
+- GitHub: [CrazyYoungBroo](https://github.com/CrazyYoungBroo)
