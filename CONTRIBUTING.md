@@ -1132,3 +1132,8 @@
 - Education : YCCE , NAGPUR
 - Place: Nagpur , maharashtra , INDIA
 
+#### Name: [YOUR NAME](GitHub link)
+
+- Place: Remote, Bihar, India
+- Bio:  FullStack Developer
+- GitHub: [Krishnapro](https://github.com/Krishnapro)
