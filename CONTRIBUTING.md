@@ -1,3 +1,9 @@
+### Name: [Hilal Yazbek](https://github.com/hyazbek)
+
+- Place: Doha, Qatar
+- Bio: Senior Software Engineer, c# developer, .Net
+- GitHub: [Hyazbek](https://github.com/hyazbek)
+- 
 ### Name: [Amogh Patel](https://github.com/AmoghPatel1)
 
 - Place: Sri City, Chittoor, Andhra Pradesh, India
@@ -839,27 +845,6 @@
 - GitHub: [Aviace](https://github.com/Aviace)
 
 
-#### Name: [Nagendra M](https://github.com/Nagendram399)
-
-- Place: Karnataka,INDIA
-- Bio: Undergrad student
-- GitHub: [Nagendra M](https://github.com/Nagendram399)
-
-
-#### Name: [Aditya Mathur](https://github.com/AdityaMathur25)
-
-- Place: Jaipur, Rajasthan, India
-- Bio: BCA Student
-- GitHub: [AdityaMathur25](https://github.com/AdityaMathur25)
-
-
-#### Name: [Devesh Mukherjee](https://github.com/darkghost33)
-
-- Place: Prayagraj, Uttar Pradesh, India
-- Bio: Just a B.Tech Student and a guitarist at heart?
-- GitHub: [darkghost33](https://github.com/darkghost33)
-
-
 #### Name: [Shruti](https://www.instagram.com/sabreenshruti/)
 
 - Place: Faridabad, India
@@ -880,5 +865,4 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
-
 
