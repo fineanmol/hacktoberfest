@@ -1,3 +1,9 @@
+#### Name: [Rahul Gupta](https://github.com/rahul8858)
+
+- Place: New Delhi, Delhi,India
+- Bio: Student at Delhi Technological University
+- GitHub: [rahul8858](https://github.com/rahul8858)
+
 
 #### Name: [David Ojeda](https://github.com/dojetin)
 
