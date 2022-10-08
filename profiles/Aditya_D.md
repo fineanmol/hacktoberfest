@@ -1,7 +1,7 @@
 # Aditya D
 
 # Location:
-Bengaluru, India
+Bengaluru, Karnataka,India
 
 # Academics:
   4th Year BE in Information Science and Engineering RNSIT
