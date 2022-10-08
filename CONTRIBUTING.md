@@ -839,6 +839,13 @@
 - GitHub: [Aviace](https://github.com/Aviace)
 
 
+#### Name: [Aditya Mathur](https://github.com/AdityaMathur25)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: BCA Student
+- GitHub: [AdityaMathur25](https://github.com/AdityaMathur25)
+
+
 #### Name: [Devesh Mukherjee](https://github.com/darkghost33)
 
 - Place: Prayagraj, Uttar Pradesh, India
@@ -866,4 +873,5 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
+
 
