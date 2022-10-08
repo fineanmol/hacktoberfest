@@ -1,4 +1,10 @@
 
+#### Name: [Arjun Prajapati ](https://github.com/prajapati-arjun)
+
+- Place: Indore , MP , India
+- Bio: Web Developer
+- GitHub: [Arjun Prajapati](https://github.com/prajapati-arjun)
+
 #### Name: [David Ojeda](https://github.com/dojetin)
 
 - Place: Seville, Spain
