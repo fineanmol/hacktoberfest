@@ -864,6 +864,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+#### Name: [Rushikesh Malu](https://github.com/SadCato)
+
+- Place: Nagpur, Maharashtra, India
+- Bio: Computer Science Engineer!
+- GitHub: [SadCatto](https://github.com/SadCatto)
+
+
 
 #### Name: [Shivam Agrahari](https://github.com/shivamagraharii)
 
