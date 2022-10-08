@@ -878,6 +878,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+#### Name: [Abdallah Daiyan](https://github.com/coderDaiyan)
+
+- Place: Chattogram, Bangladesh
+- Bio: A Curious Software Developer!
+- GitHub: [coderDaiyan](https://github.com/coderDaiyan)
+
+
 #### Name: [Abhishek Ratnam](https://github.com/abhishekratnam)
 - Place: New Delhi, Delhi, India
 - Bio: Member of Technical Staff, part time golang + python developer
@@ -937,6 +944,7 @@
 - Place: Byron Bay, NSW, Australia
 - Bio: Learner
 - GitHub: [viv-nic](https://github.com/viv-nic)
+
 
 #### Name: [Amit Batra](https://github.com/amitbatra31)
 
@@ -1080,6 +1088,7 @@
 - GitHub: [Aviace](https://github.com/Aviace)
 
 
+
 #### Name: [Awosise Oluwaseun](https://github.com/jhhornn)
 
 - Place: Akobo, Ibadan, Nigeria.
@@ -1170,4 +1179,5 @@
 - Place: Remote, Bihar, India
 - Bio:  FullStack Developer
 - GitHub: [Krishnapro](https://github.com/Krishnapro)
+
 
