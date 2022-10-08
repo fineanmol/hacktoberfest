@@ -80,6 +80,12 @@
 - Place: Lagos, LAG, NIGERIA
 - Bio: Aspiring Software Engineer
 - GitHib: [Jay Mehta](https://github.com/jaymehta002)
+  
+#### Name: [Olaitan Samuel](https://github.com/codedhola)
+
+- Place: Surulere, Lagos, Nigeria
+- Bio: A Backend Developer
+- GitHub: [coded hola](https://github.com/codedhola)
 
 #### Name: [Osman Batur ÇELİK](https://github.com/osmnbtrclk)
 
