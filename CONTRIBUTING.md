@@ -864,6 +864,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+#### Name: [Gem Schley(https://github.com/disabledandfab)
+
+- Place: Milwaukee, WI, USA
+- Bio: A polyglot learning the various languages of coding.
+- GitHub: [disabledandfab](https://github.com/disabledandfab)
+
+
 #### Name: [Rushikesh Malu](https://github.com/SadCato)
 
 - Place: Nagpur, Maharashtra, India
@@ -1095,4 +1102,5 @@
 #### Name: [Mansi Yeole](https://github.com/mansiyeole67)
 - Education : YCCE , NAGPUR
 - Place: Nagpur , maharashtra , INDIA
+
 
