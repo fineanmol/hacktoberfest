@@ -864,6 +864,13 @@
 - GitHub: [Amit Das](https://github.com/das-amit)
 
 
+#### Name: [Manav Sharma](https://github.com/vanam30)
+
+- Place: Kolkata,West Bengal,INDIA
+- Bio: FULL Stack Developer
+- GitHub: [Manav Sharma](https://github.com/vanam30)
+
+
 #### Name: [Vaibhav Asawale](https://github.com/amitbatra31)
 
 - Place: Pune, India
@@ -1036,7 +1043,6 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
-
 
 
 
