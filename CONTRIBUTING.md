@@ -117,6 +117,12 @@
 - Bio: Ankara University MSc
 - GitHib: [Osman Batur ÇELİK](https://github.com/osmnbtrclk)
 
+#### Name: [Anupesh Kumar Verma](https://github.com/anupeshverma)
+
+- Place: Barabanki, Uttar Pradesh
+- Bio: Aspiring Software Engineer
+- GitHib: [Anupesh](https://github.com/anupeshverma)
+
 #### Name: [Hamza Nawab](https://github.com/blazenn2)
 
 - Place: Karachi, Sindh, Pakistan
