@@ -1346,4 +1346,13 @@
 - GitHub: [gajanansr](https://github.com/gajanansr)
 
 
+#### Name: [Tejas Sheth](https://github.com/TejasSheth104)
+
+- Education : Mumbai University
+- Place: Mumbai, India
+- Bio: CS Undergraduate Student
+- GitHub: [TejasSheth104](https://github.com/TejasSheth104)
+
+
+
 
