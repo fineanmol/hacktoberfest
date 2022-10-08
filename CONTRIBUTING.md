@@ -912,6 +912,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+#### Name: [Kumar Sambhav](https://github.com/krsambhav)
+
+- Place: Patna, Bihar
+- Bio: Software Engineering, AI enthusiats and Gamer.
+- GitHub: [krsambhav](https://github.com/krsambhav)
+
+
 #### Name: [Mitansh Kayathwal](https://github.com/Mitanshk01)
 
 - Place: Mumbai, Maharashtra, India
@@ -1305,6 +1312,7 @@
 - Place: Cirebon, West Java, Indonesia
 - Bio: Fullstack Developer
 - GitHub: [fikriks](https://github.com/fikriks)
+
 
 
 
