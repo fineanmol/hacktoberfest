@@ -153,7 +153,7 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
 
-## Additional references cor Contributers
+## Additional references for Contributers
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
 - Any contributions you make are **truly appreciated**.
 - Check out our [contributiors](./CONTRIBUTING.md) for more information.
