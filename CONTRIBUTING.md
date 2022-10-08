@@ -1364,4 +1364,12 @@
 - GitHub: [gajanansr](https://github.com/gajanansr)
 
 
+#### Name: [Lavanya Lenka](https://github.com/Lavanyasuc31)
+
+- Education : BE , Bangalore
+- Place: Ballari , Karnataka , INDIA
+- Bio:  Undergrad Student
+- GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
+
+
 
