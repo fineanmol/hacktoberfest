@@ -878,6 +878,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+#### Name: [W.D. Snoeijer](https://github.com/dsnoeijer)
+
+- Place: Overijssel, the Netherlands
+- Bio: FS Developer
+- GitHub: [dsnoeijer](https://github.com/dsnoeijer)
+
+
 
 #### Name: [Binil Tom Jose](https://github.com/BinilTomJose1278)
 
@@ -1194,5 +1201,6 @@
 - Place: Remote, Bihar, India
 - Bio:  FullStack Developer
 - GitHub: [Krishnapro](https://github.com/Krishnapro)
+
 
 
