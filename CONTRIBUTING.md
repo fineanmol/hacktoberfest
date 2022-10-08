@@ -1377,5 +1377,11 @@
 - Bio:  Undergrad Student
 - GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
+#### Name: [Nathan Fiscus](https://github.com/nfiscus)
+
+- Place: Tuscumbia, Alabama, Unites States of America
+- Bio: QA Analyst
+- GitHub: [nfiscus](https://github.com/nfiscus)
+
 
 
