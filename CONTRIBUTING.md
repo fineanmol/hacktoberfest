@@ -1,4 +1,11 @@
 
+#### Name: [Ashish Gupta](https://github.com/bigbskywalker)
+
+- Place: Delhi, India
+- Bio: Backend Developer, Gamer
+- GitHub: [bigbskywalker](https://github.com/bigbskywalker)
+
+
 #### Name: [Abdulqoyyum Ibrahim](https://github.com/devbayo)
 
 - Place: Lagos, Nigera.
@@ -61,6 +68,7 @@
 - Place: Patna, Bihar,INDIA
 - Bio: Undergrad Student
 - GitHub: [codeburn12](https://github.com/codeburn12)
+
 
 
 #### Name: [Andre Almeida](https://github.com/aalmeida00)
