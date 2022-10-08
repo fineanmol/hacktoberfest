@@ -5,6 +5,12 @@
 - GitHub: [Harsh-0986](https://github.com/Harsh-0986)
 
 
+#### Name: [Arjun Prajapati ](https://github.com/prajapati-arjun)
+
+- Place: Indore , MP , India
+- Bio: Web Developer
+- GitHub: [Arjun Prajapati](https://github.com/prajapati-arjun)
+
 #### Name: [David Ojeda](https://github.com/dojetin)
 
 - Place: Seville, Spain
@@ -37,6 +43,12 @@
 - Place : Gangapur ,Varanasi , Uttar Pradesh ,India
 - Bio: Frontend Engineer , codeforces pupil , Codechef 3star
 - GitHub: [surajkeshari](https://github.com/surajkeshari)
+
+#### Name : [Aditya D](https://github.com/adi271001)
+
+- Place : JP Nagar ,Bengaluru , Karnataka ,India
+- Bio: AI-ML Developer , Hackerrank 5star
+- GitHub: [adi271001](https://github.com/adi271001)
 
 
 
