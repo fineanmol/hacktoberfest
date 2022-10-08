@@ -1000,3 +1000,9 @@
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
 
+
+#### Name: [Kiran Rai](https://github.com/mansiyeole67)
+- Education : Kaziranga University , ASSAM
+- Place: Jorhat , Assam , INDIA
+- Bio: Btech Computer Science final year student
+- GitHub: [mansiyeole67](https://github.com/raikiran07)
