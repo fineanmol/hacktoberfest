@@ -824,3 +824,8 @@
 - Place: Pune, Maharashtra,INDIA
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
+
+#### Name: [Raghav Kumar Jha](https://github.com/jharaghav32)
+- Place: Delhi,INDIA
+- Bio: Undergrad Student 
+- GitHub: [jharaghav32](https://github.com/jharaghav32)
