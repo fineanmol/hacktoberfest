@@ -4,6 +4,11 @@
 - Bio: Undergrad Student, full stack developer, open source enthusiast
 - GitHub: [AmoghPatel1](https://github.com/AmoghPatel1)
 
+### Name: [Guruvignesh](https://github.com/staticGuru)
+
+- Place:Chennai, Tamil Nadu, India
+- Bio: React and React Native developer, full stack developer, open source enthusiast
+- GitHub: [Guruvignesh](https://github.com/staticGuru)
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
@@ -165,6 +170,12 @@
 - Place: Pune, Maharashtra, INDIA
 - Bio: Full Stack Developer
 - GitHub: [Devesh1602](https://github.com/Devesh1602)
+
+
+#### Name: [Janumala Akhilendra](https://github.com/JanumalaAkhilendra)
+- Place: Ongole, Andhra Pradesh,INDIA
+- Bio: Undergrad Student
+- GitHub: [Janumala Akhilendra](https://github.com/JanumalaAkhilendra)
 
 #### Name: [Avnish Ranwa](https://github.com/avnishranwa7)
 
@@ -813,14 +824,107 @@
 - Place: Gurgaon,Haryana,INDIA
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
+
 #### Name: [Vivek S](https://github.com/amitbatra31)
 
 - Place: Chennai,TamilNadu,INDIA
-- Bio: Web Developer from   Anna Technological University, Chennai.
+- Bio: Web Developer from Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+
+#### Name: [Nayaneeka Mahapatra](https://github.com/nexi9)
+
+- Place: Bhubaneswar, Odisha, India
+- Bio: B.Tech Student in Computer Science , currently studying at SOA University, Odisha.
+- GitHub: [Nayaneeka Mahapatra](https://github.com/nexi9)
+
+
+#### Name: [Priyanshu Mohanty](https://github.com/priyanshu68)
+
+- Place: Bhubaneswar,Odisha,INDIA
+- Bio: Flutter Developer and B.Tech Student at SOA University, Odisha.
+- GitHub: [Priyanshu Mohanty](https://github.com/priyanshu68)
+
+
+
+#### Name: [Harshit Gupta](https://github.com/harshit0015)
+
+- Place: New Delhi,INDIA
+- GitHub: [harshit0015](https://github.com/harshit0015)
+
+#### Name: [Ashish](https://github.com/ashish3121990)
+
+- Place: Pune, Maharashtra, India
+- Bio: Technical Lead
+- GitHub: [ashish3121990](https://github.com/ashish3121990)
 
 #### Name: [Ayush Singh](https://github.com/Aviace)
 
 - Place: Pune, Maharashtra,INDIA
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
+
+
+#### Name: [Raghav Kumar Jha](https://github.com/jharaghav32)
+- Place: Delhi,INDIA
+- Bio: Undergrad Student 
+- GitHub: [jharaghav32](https://github.com/jharaghav32)
+
+
+#### Name: [Shivansh Bansal](https://github.com/CrazyYoungBroo)
+
+- Place: Mumbai, Maharashtra,INDIA
+- Bio: Python Coder
+- GitHub: [CrazyYoungBroo](https://github.com/CrazyYoungBroo)
+
+
+#### Name: [Prasad Poojary](https://github.com/Prasadpoojary)
+
+- Place: Udupi, Karnataka, INDIA
+- Bio: Fullstack developer
+- GitHub: [Prasad Poojary](https://github.com/Prasadpoojary)
+
+
+#### Name: [Nagendra M](https://github.com/Nagendram399)
+
+- Place: Karnataka,INDIA
+- Bio: Undergrad student
+- GitHub: [Nagendra M](https://github.com/Nagendram399)
+
+
+#### Name: [Aditya Mathur](https://github.com/AdityaMathur25)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: BCA Student
+- GitHub: [AdityaMathur25](https://github.com/AdityaMathur25)
+
+
+#### Name: [Devesh Mukherjee](https://github.com/darkghost33)
+
+- Place: Prayagraj, Uttar Pradesh, India
+- Bio: Just a B.Tech Student and a guitarist at heart?
+- GitHub: [darkghost33](https://github.com/darkghost33)
+
+
+#### Name: [Shruti](https://www.instagram.com/sabreenshruti/)
+
+- Place: Faridabad, India
+- Bio: BTECH CSE Undergraduate
+- Github: [shrutilicensed](https://github.com/shrutilicensed)
+
+
+#### Name: [Pradhyum Arora](https://github.com/PradhyumArora)
+
+- Place: Ahmedabad, Gujarat,INDIA
+- Bio: Undergrad Student
+- GitHub: [Pradhyum](https://github.com/PradhyumArora)
+
+
+
+#### Name: [Mansi Yeole](https://github.com/mansiyeole67)
+- Education : YCCE , NAGPUR
+- Place: Nagpur , maharashtra , INDIA
+- Bio: Undergrad Student
+- GitHub: [mansiyeole67](https://github.com/mansiyeole67)
+
+
