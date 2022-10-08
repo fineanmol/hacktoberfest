@@ -1132,8 +1132,17 @@
 - Education : YCCE , NAGPUR
 - Place: Nagpur , maharashtra , INDIA
 
+
+
+#### Name: [Kiran Rai](https://github.com/mansiyeole67)
+- Education : Kaziranga University , ASSAM
+- Place: Jorhat , Assam , INDIA
+- Bio: Btech Computer Science final year student
+- GitHub: [mansiyeole67](https://github.com/raikiran07)
+
 #### Name: [YOUR NAME](GitHub link)
 
 - Place: Remote, Bihar, India
 - Bio:  FullStack Developer
 - GitHub: [Krishnapro](https://github.com/Krishnapro)
+
