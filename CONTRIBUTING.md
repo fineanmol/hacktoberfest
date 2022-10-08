@@ -813,10 +813,11 @@
 - Place: Gurgaon,Haryana,INDIA
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
+
 #### Name: [Vivek S](https://github.com/amitbatra31)
 
 - Place: Chennai,TamilNadu,INDIA
-- Bio: Web Developer from   Anna Technological University, Chennai.
+- Bio: Web Developer from Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
 
 #### Name: [Ayush Singh](https://github.com/Aviace)
@@ -824,3 +825,9 @@
 - Place: Pune, Maharashtra,INDIA
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
+
+#### Name: [Shruti](https://www.instagram.com/sabreenshruti/)
+
+- Place: Faridabad, India
+- Bio: BTECH CSE Undergraduate
+- Github: [shrutilicensed](https://github.com/shrutilicensed)
