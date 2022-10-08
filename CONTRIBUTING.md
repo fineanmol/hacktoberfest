@@ -1,3 +1,9 @@
+#### Name: [Rahul Gupta](https://github.com/rahul8858)
+
+- Place: New Delhi, Delhi,India
+- Bio: Student at Delhi Technological University
+- GitHub: [rahul8858](https://github.com/rahul8858)
+
 
 #### Name: [Arjun Prajapati ](https://github.com/prajapati-arjun)
 
@@ -1356,6 +1362,14 @@
 - Place: Pune , maharashtra , INDIA
 - Bio: IT Undergrad Student
 - GitHub: [gajanansr](https://github.com/gajanansr)
+
+
+#### Name: [Lavanya Lenka](https://github.com/Lavanyasuc31)
+
+- Education : BE , Bangalore
+- Place: Ballari , Karnataka , INDIA
+- Bio:  Undergrad Student
+- GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
 
 
