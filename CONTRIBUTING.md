@@ -1,3 +1,15 @@
+#### Name: [Rahul Gupta](https://github.com/rahul8858)
+
+- Place: New Delhi, Delhi,India
+- Bio: Student at Delhi Technological University
+- GitHub: [rahul8858](https://github.com/rahul8858)
+
+
+#### Name: [Arjun Prajapati ](https://github.com/prajapati-arjun)
+
+- Place: Indore , MP , India
+- Bio: Web Developer
+- GitHub: [Arjun Prajapati](https://github.com/prajapati-arjun)
 
 #### Name: [David Ojeda](https://github.com/dojetin)
 
@@ -31,6 +43,12 @@
 - Place : Gangapur ,Varanasi , Uttar Pradesh ,India
 - Bio: Frontend Engineer , codeforces pupil , Codechef 3star
 - GitHub: [surajkeshari](https://github.com/surajkeshari)
+
+#### Name : [Aditya D](https://github.com/adi271001)
+
+- Place : JP Nagar ,Bengaluru , Karnataka ,India
+- Bio: AI-ML Developer , Hackerrank 5star
+- GitHub: [adi271001](https://github.com/adi271001)
 
 
 
@@ -1351,5 +1369,14 @@
 - Place: Pune , maharashtra , INDIA
 - Bio: IT Undergrad Student
 - GitHub: [gajanansr](https://github.com/gajanansr)
+
+
+
+#### Name: [Lavanya Lenka](https://github.com/Lavanyasuc31)
+
+- Education : BE , Bangalore
+- Place: Ballari , Karnataka , INDIA
+- Bio:  Undergrad Student
+- GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
 
