@@ -1,3 +1,10 @@
+
+#### Name: [Soham Samantaray](https://github.com/SamSoham)
+
+- Place: Cuttack,Odisha,INDIA
+- Bio: Undergrad Student CSE, FrontEnd Web Dev
+- GitHub: [SamSoham](https://github.com/SamSoham)
+
 #### Name: [Sarthak Rajput](https://github.com/rsarthak)
 
 - Place: Shamli,Uttar pradesh,INDIA
@@ -16,6 +23,7 @@
 - Place:Chennai, Tamil Nadu, India
 - Bio: React and React Native developer, full stack developer, open source enthusiast
 - GitHub: [Guruvignesh](https://github.com/staticGuru)
+
 
 
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
