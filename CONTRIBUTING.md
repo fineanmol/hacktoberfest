@@ -856,6 +856,13 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+#### Name: [Parmar Kirti](https://github.com/Kirti36)
+
+- Place: Anand,Gujarat,India
+- Bio: AI Engineering,ML enthusiat.
+- GitHub: [Kirti36](https://github.com/Kirti36)
+
+
 #### Name: [Vivian Nicholls](https://github.com/viv-nic)
 
 - Place: Byron Bay, NSW, Australia
@@ -1060,7 +1067,4 @@
 - Education : YCCE , NAGPUR
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
-- GitHub: [mansiyeole67](https://github.com/mansiyeole67)
-
-
 
