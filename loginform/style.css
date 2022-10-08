@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("bg.jpg.jpg")  ;
+    background-size: cover;
+  
+    
+}
+.container{
+    text-align: center;
+    /* border: solid black 10px; */
+   position: absolute;
+   top: 20%;
+   left: 28%;
+}
+.container h1{
+   font-size: 5rem;
+    border-bottom: black solid 4px;
+    margin-bottom: 42px;
+}
+.box{
+    width: 100%;
+    border-bottom: solid red 2px;
+}
+.box input{
+    color:white;
+    background: none;
+   width:  90%;
+   border: none;
+   font-size: 25px;
+   outline: none;
+   text-align: center;
+   margin: 12px 1px 12px 1px;
+}
+.btn{
+    width: 15%;
+    background-color: red;
+    border-radius: 5px;
+    font-size: 25px;
+    margin: 56px 10px 10px 5px;
+    font-weight: bold;
+    /* background: none; */
+}
+.box i{
+    margin: 0px 6px 6px 6px;
+}
+::placeholder{
+    color: rgb(216, 63, 216);
+}
+.btn:hover{
+    width: 15%;
+    background-color: rgb(122, 78, 180);
+    border-radius: 5px;
+    font-size: 25px;
+    margin: 56px 10px 10px 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
