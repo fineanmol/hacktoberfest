@@ -1,9 +1,20 @@
+### Name: [Amogh Patel](https://github.com/AmoghPatel1)
+
+- Place: Sri City, Chittoor, Andhra Pradesh, India
+- Bio: Undergrad Student, full stack developer, open source enthusiast
+- GitHub: [AmoghPatel1](https://github.com/AmoghPatel1)
+
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
 - Bio: Undergrad Student
 - GitHub: [ABHINAV0307](https://github.com/ABHINAV0307)
 
+#### Name: [Ankit Kumar](https://github.com/codeburn12)
+
+- Place: Patna, Bihar,INDIA
+- Bio: Undergrad Student
+- GitHub: [codeburn12](https://github.com/codeburn12)
 
 #### Name: [Andre Almeida](https://github.com/aalmeida00)
 
@@ -22,6 +33,12 @@
 - Place: Kota, Rajasthan, India
 - Bio: Software development Engineer
 - GitHub: [Payal Jain](https://github.com/payal1206)
+
+#### Name: [Karamveer Singh](https://github.com/kzaildar26)
+
+- Place: Patiala, Punjab, India
+- Bio: MERN Stack developer.
+- GitHub: [kzaildar26](https://github.com/kzaildar26)
 
 #### Name: [Rudreshwar Baranwal](https://github.com/devrudra9)
 
@@ -796,3 +813,21 @@
 - Place: Chattogram, Bangladesh
 - Bio: A Curious Software Developer!
 - GitHub: [coderDaiyan](https://github.com/coderDaiyan)
+
+#### Name: [Amit Batra](https://github.com/amitbatra31)
+
+- Place: Gurgaon,Haryana,INDIA
+- Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
+- GitHub: [Amit Batra](https://github.com/amitbatra31)
+#### Name: [Vivek S](https://github.com/amitbatra31)
+
+- Place: Chennai,TamilNadu,INDIA
+- Bio: Web Developer from   Anna Technological University, Chennai.
+- GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+#### Name: [Ayush Singh](https://github.com/Aviace)
+
+- Place: Pune, Maharashtra,INDIA
+- Bio: Undergrad Student
+- GitHub: [Aviace](https://github.com/Aviace)
+
