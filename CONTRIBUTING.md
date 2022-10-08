@@ -826,6 +826,12 @@
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
 
 
+
+#### Name: [Harshit Gupta](https://github.com/harshit0015)
+
+- Place: New Delhi,INDIA
+- GitHub: [harshit0015](https://github.com/harshit0015)
+
 #### Name: [Ashish](https://github.com/ashish3121990)
 
 - Place: Pune, Maharashtra, India
@@ -887,4 +893,5 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
+
 
