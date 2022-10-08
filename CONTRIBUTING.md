@@ -824,3 +824,9 @@
 - Place: Pune, Maharashtra,INDIA
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
+
+#### Name: [Swapnil Singh](https://github.com/Swapnil-Singh-99)
+
+- Place: Kanpur, Uttar Pradesh, INDIA
+- Bio: Learning Open Source Contributions
+- GitHub: [Swapnil Singh](https://github.com/Swapnil-Singh-99)
