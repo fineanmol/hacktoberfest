@@ -837,6 +837,12 @@
 - Bio: Web Developer from Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
 
+#### Name: [Nitin Rana](https://github.com/NitinRana01125532553)
+
+- Place: New Delhi,Delhi,INDIA
+- Bio: High School Student, front end dev.
+- GitHub: [NitinRana01125532553](https://github.com/NitinRana01125532553)
+
 
 #### Name: [Nayaneeka Mahapatra](https://github.com/nexi9)
 
