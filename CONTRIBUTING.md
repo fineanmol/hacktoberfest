@@ -1371,5 +1371,9 @@
 - Bio:  Undergrad Student
 - GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
+#### Name: [Breindy](https://github.com/breindy)
 
-
+- Education : City College of New York, New York, NY
+- Place: United States of America
+- Bio:  Software Engineer
+- GitHub: [breindy](https://github.com/breindy)
