@@ -34,6 +34,12 @@
 - Bio: Software development Engineer
 - GitHub: [Payal Jain](https://github.com/payal1206)
 
+#### Name: [Karamveer Singh](https://github.com/kzaildar26)
+
+- Place: Patiala, Punjab, India
+- Bio: MERN Stack developer.
+- GitHub: [kzaildar26](https://github.com/kzaildar26)
+
 #### Name: [Rudreshwar Baranwal](https://github.com/devrudra9)
 
 - Place: Pratapgarh, Uttar Pradesh, India
@@ -813,6 +819,12 @@
 - Place: Chennai,TamilNadu,INDIA
 - Bio: Web Developer from   Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+#### Name: [Ayush Singh](https://github.com/Aviace)
+
+- Place: Pune, Maharashtra,INDIA
+- Bio: Undergrad Student
+- GitHub: [Aviace](https://github.com/Aviace)
 
 #### Name: [Awosise Oluwaseun](https://github.com/jhhornn)
 
