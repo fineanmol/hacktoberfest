@@ -864,6 +864,12 @@
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
 
+#### Name: [Kewpie134134](https://github.com/kewpie134134)
+
+- Place: Yokohama, Japan
+- Bio: Web engineer/developer
+- GitHub: [Kewpie134134](https://github.com/kewpie134134)
+
 
 #### Name: [Raghav Kumar Jha](https://github.com/jharaghav32)
 - Place: Delhi,INDIA
@@ -926,5 +932,4 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
-
 
