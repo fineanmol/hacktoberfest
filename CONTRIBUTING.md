@@ -828,6 +828,13 @@
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
+
+#### Name: [Vivian Nicholls](https://github.com/viv-nic)
+
+- Place: Byron Bay, NSW, Australia
+- Bio: Learner
+- GitHub: [viv-nic](https://github.com/viv-nic)
+
 #### Name: [Amit Batra](https://github.com/amitbatra31)
 
 - Place: Gurgaon,Haryana,INDIA
@@ -985,4 +992,3 @@
 - Place: Nagpur , maharashtra , INDIA
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
-
