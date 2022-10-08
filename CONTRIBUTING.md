@@ -824,3 +824,9 @@
 - Place: Pune, Maharashtra,INDIA
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
+
+#### Name: [Prasad Poojary](https://github.com/Prasadpoojary)
+
+- Place: Udupi, Karnataka, INDIA
+- Bio: Fullstack developer
+- GitHub: [Prasad Poojary](https://github.com/Prasadpoojary)
