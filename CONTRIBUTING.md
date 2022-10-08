@@ -878,6 +878,11 @@
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
 
+#### Name: [Abhishek Ratnam](https://github.com/abhishekratnam)
+- Place: New Delhi, Delhi, India
+- Bio: Member of Technical Staff, part time golang + python developer
+
+
 #### Name: [Anubhav Jain](https://github.com/anubhav823)
 
 - Place: Pune, Maharashtra, India
@@ -1165,6 +1170,4 @@
 - Place: Remote, Bihar, India
 - Bio:  FullStack Developer
 - GitHub: [Krishnapro](https://github.com/Krishnapro)
-
-
 
