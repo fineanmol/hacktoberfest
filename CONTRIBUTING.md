@@ -912,6 +912,13 @@
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
 
 
+#### Name: [Lakshya Dhawan](https://github.com/yolakshya19)
+
+- Place: Ghaziabad, Uttar Pradesh, INDIA
+- Bio: I am a sophomore pursuing Bachelors in CSE with specialization in Data Science
+- GitHub: [Lakshya Dhawan](https://github.com/yolakshya19)
+
+
 #### Name: [Pradhuman Goswami](https://github.com/goswamiprad)
 
 - Place: Bhopal,MP,INDIA
@@ -1109,3 +1116,4 @@
 #### Name: [Mansi Yeole](https://github.com/mansiyeole67)
 - Education : YCCE , NAGPUR
 - Place: Nagpur , maharashtra , INDIA
+
