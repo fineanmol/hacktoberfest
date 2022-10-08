@@ -1219,6 +1219,13 @@
 - Place: New Delhi,INDIA
 - GitHub: [harshit0015](https://github.com/harshit0015)
 
+#### Name: [Riya Dhami](https://github.com/riyadhami)
+
+- Education : Ip university
+- Place: New Delhi , INDIA
+- Bio: Undergrad Student
+- GitHub: [riyadhami](https://github.com/riyadhami)
+
 #### Name: [Ashish](https://github.com/ashish3121990)
 
 - Place: Pune, Maharashtra, India
@@ -1344,6 +1351,5 @@
 - Place: Pune , maharashtra , INDIA
 - Bio: IT Undergrad Student
 - GitHub: [gajanansr](https://github.com/gajanansr)
-
 
 
