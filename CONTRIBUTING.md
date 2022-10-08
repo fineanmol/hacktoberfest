@@ -845,6 +845,13 @@
 - Github: [tusharkhatri12](https://github.com/tusharkhatri12)
 
 
+#### Name: [Jotiraditya](https://github.com/JotiradityaB)
+
+- Place: Kolkata, West Bengal, INDIA
+- Bio: Computer Science Engineer from Government College Of Engineering And Ceramic Technology.
+- GitHub: [Jotiraditya](https://github.com/JotiradityaB)
+
+
 #### Name: [Nayaneeka Mahapatra](https://github.com/nexi9)
 
 - Place: Bhubaneswar, Odisha, India
