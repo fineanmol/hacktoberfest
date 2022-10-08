@@ -1377,4 +1377,4 @@
 - Education : BE , Pune 
 - Place: Pimpri Chinchwad, Pune, India
 - Bio: Student at Dr. D. Y. Patil Institure of Technology, Pimpri, Pune
-- GitHub: [rahul8858](https://github.com/notcostheta)
+- GitHub: [notcostheta](https://github.com/notcostheta)
