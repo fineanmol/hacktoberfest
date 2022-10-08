@@ -1195,4 +1195,11 @@
 - Bio:  FullStack Developer
 - GitHub: [Krishnapro](https://github.com/Krishnapro)
 
+#### Name: [Fikri Khairul Shaleh](https://github.com/fikriks)
+
+- Education : Kuningan University , West Java, Indonesia
+- Place: Cirebon, West Java, Indonesia
+- Bio: Fullstack Developer
+- GitHub: [fikriks](https://github.com/fikriks)
+
 
