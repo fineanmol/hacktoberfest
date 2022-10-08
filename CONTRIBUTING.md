@@ -879,12 +879,6 @@
 
 
 
-#### Name: [Binil Tom Jose](https://github.com/BinilTomJose1278)
-
-- Place: Kottayam, Kerala,India
-- Bio: Student at Rajagiri School of Engineering and Technology
-- GitHub: [BinilTomJose1278](https://github.com/BinilTomJose1278)
-
 #### Name: [Shabari S Nair](https://github.com/Killshot667)
 
 - Place: Bangalore, India
@@ -1194,5 +1188,9 @@
 - Place: Remote, Bihar, India
 - Bio:  FullStack Developer
 - GitHub: [Krishnapro](https://github.com/Krishnapro)
+#### Name: [Binil Tom Jose](https://github.com/BinilTomJose1278)
 
+- Place: Kottayam, Kerala,India
+- Bio: Student at Rajagiri School of Engineering and Technology
+- GitHub: [BinilTomJose1278](https://github.com/BinilTomJose1278)
 
