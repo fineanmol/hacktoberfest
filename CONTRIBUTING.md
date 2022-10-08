@@ -1345,5 +1345,13 @@
 - Bio: IT Undergrad Student
 - GitHub: [gajanansr](https://github.com/gajanansr)
 
+#### Name: [choirulhafifi](https://github.com/choirulhafifi)
+
+- Education : Instute Bina Sarana Global , Tangerang-Banten, Indonesia
+- Place: Tangerang , Banten , Indonesia
+- Bio: UI/UX Designer
+- GitHub: [choirulhafifi](https://github.com/choirulhafifi)
+
+
 
 
