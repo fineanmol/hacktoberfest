@@ -4,6 +4,11 @@
 - Bio: Undergrad Student, full stack developer, open source enthusiast
 - GitHub: [AmoghPatel1](https://github.com/AmoghPatel1)
 
+### Name: [Guruvignesh](https://github.com/staticGuru)
+
+- Place:Chennai, Tamil Nadu, India
+- Bio: React and React Native developer, full stack developer, open source enthusiast
+- GitHub: [Guruvignesh](https://github.com/staticGuru)
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
@@ -820,14 +825,38 @@
 - Bio: Web Developer from Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
 
+
+#### Name: [Ashish](https://github.com/ashish3121990)
+
+- Place: Pune, Maharashtra, India
+- Bio: Technical Lead
+- GitHub: [ashish3121990](https://github.com/ashish3121990)
+
 #### Name: [Ayush Singh](https://github.com/Aviace)
 
 - Place: Pune, Maharashtra,INDIA
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
 
+
 #### Name: [Shruti](https://www.instagram.com/sabreenshruti/)
 
 - Place: Faridabad, India
 - Bio: BTECH CSE Undergraduate
 - Github: [shrutilicensed](https://github.com/shrutilicensed)
+
+
+#### Name: [Pradhyum Arora](https://github.com/PradhyumArora)
+
+- Place: Ahmedabad, Gujarat,INDIA
+- Bio: Undergrad Student
+- GitHub: [Pradhyum](https://github.com/PradhyumArora)
+
+
+
+#### Name: [Mansi Yeole](https://github.com/mansiyeole67)
+- Education : YCCE , NAGPUR
+- Place: Nagpur , maharashtra , INDIA
+- Bio: Undergrad Student
+- GitHub: [mansiyeole67](https://github.com/mansiyeole67)
+
