@@ -4,6 +4,11 @@
 - Bio: Undergrad Student, full stack developer, open source enthusiast
 - GitHub: [AmoghPatel1](https://github.com/AmoghPatel1)
 
+### Name: [Guruvignesh](https://github.com/staticGuru)
+
+- Place:Chennai, Tamil Nadu, India
+- Bio: React and React Native developer, full stack developer, open source enthusiast
+- GitHub: [Guruvignesh](https://github.com/staticGuru)
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
@@ -813,11 +818,19 @@
 - Place: Gurgaon,Haryana,INDIA
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
+
 #### Name: [Vivek S](https://github.com/amitbatra31)
 
 - Place: Chennai,TamilNadu,INDIA
-- Bio: Web Developer from   Anna Technological University, Chennai.
+- Bio: Web Developer from Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
+
+
+#### Name: [Ashish](https://github.com/ashish3121990)
+
+- Place: Pune, Maharashtra, India
+- Bio: Technical Lead
+- GitHub: [ashish3121990](https://github.com/ashish3121990)
 
 #### Name: [Ayush Singh](https://github.com/Aviace)
 
@@ -825,8 +838,32 @@
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
 
+
 #### Name: [Devesh Mukherjee](https://github.com/darkghost33)
 
 - Place: Prayagraj, Uttar Pradesh, India
 - Bio: Just a B.Tech Student and a guitarist at heart?
 - GitHub: [darkghost33](https://github.com/darkghost33)
+
+
+#### Name: [Shruti](https://www.instagram.com/sabreenshruti/)
+
+- Place: Faridabad, India
+- Bio: BTECH CSE Undergraduate
+- Github: [shrutilicensed](https://github.com/shrutilicensed)
+
+
+#### Name: [Pradhyum Arora](https://github.com/PradhyumArora)
+
+- Place: Ahmedabad, Gujarat,INDIA
+- Bio: Undergrad Student
+- GitHub: [Pradhyum](https://github.com/PradhyumArora)
+
+
+
+#### Name: [Mansi Yeole](https://github.com/mansiyeole67)
+- Education : YCCE , NAGPUR
+- Place: Nagpur , maharashtra , INDIA
+- Bio: Undergrad Student
+- GitHub: [mansiyeole67](https://github.com/mansiyeole67)
+
