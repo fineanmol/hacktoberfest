@@ -1547,6 +1547,14 @@
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
 
+#### Name: [Arghyadev Sarkar](https://github.com/harshavar1)
+
+- Education : BTech , Cooch Behar, WB
+- Place: Barasat , WEST BENGAL , INDIA
+- Bio:  Fresher
+- GitHub: [Into-Y0u](https://github.com/Into-Y0u)
+
+
 
 #### Name: [Nitish Singh](https://github.com/Singh26Nitish)
 
@@ -1704,4 +1712,5 @@
 - Place: New Delhi, India
 - Bio: IT Undergrad
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
+
 
