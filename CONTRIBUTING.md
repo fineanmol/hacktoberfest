@@ -1400,3 +1400,9 @@
 - Bio:  Undergrad Student
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
+#### Name: [PARAVPREET SINGH](https://github.com/PARAVPREET17)
+
+- Education : BTech , Patiala
+- Place: Patiala, Punjab, INDIA
+- Bio:  Undergrad Student
+- GitHub: [PARAVPTREEt17](https://github.com/PARAVPREET17)
