@@ -411,6 +411,12 @@
 - Bio: I love DOGS and FISH! :dog: :fish:
 - GitHub: [Prathmesh](https://github.com/prathmesh-b)
 
+#### Name: [ESHAAN ANAND](eshaananand)
+
+- Place: Ranchi, India
+- Bio: 21 yr boy from kiit
+- GitHub: [eshaananand](https://github.com/eshaananand)
+
 #### Name: Rhythm Bhatia
 
 - Place: New Delhi, India
