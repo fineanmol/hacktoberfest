@@ -1698,12 +1698,12 @@
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
 
 
-#### Name: [Sanyam Aggarwal](https://github.com/MasterofDeath0)
+#### Name: [Abhinav Tiwary](https://github.com/abhinavtiwary04)
 
-- Education : BTech, Netaji Subhas University of Technology
-- Place: New Delhi, India
-- Bio: Hey! Sanyam here. Wanna connect <3
-- GitHub: [Sanyam Aggarwal](https://github.com/)
+- Place: Bangalore, Karnataka, India
+- Bio: Full Stack Engineer
+- GitHub: [abhinavtiwary04](https://github.com/abhinavtiwary04)
+
 
 
 #### Name: [Rishi Mathur](https://github.com/skyrunner360)
@@ -1742,6 +1742,7 @@
 - Place: New Orleans, Louisiana, United States
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
+
 
 
 
