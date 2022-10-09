@@ -1400,3 +1400,11 @@
 - Bio:  Undergrad Student
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
+
+#### Name: [Yash Kharche](https://github.com/Yash-KK)
+
+- Education : BTech , Hyderabad Institute of Information and Technology
+- Place: Hyderabad, Telangana, INDIA
+- Bio:  Undergrad Student
+- GitHub: [Yash Kharche](https://github.com/Yash-KK)
+
