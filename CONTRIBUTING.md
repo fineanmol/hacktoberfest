@@ -1424,6 +1424,14 @@
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
 
+#### Name: [Akash Gautam](https://github.com/geekblower)
+
+- Education: BCA , Motihari
+- Place: Motihari , Bihar , India
+- Bio: Undergrad Student
+- GitHub: [Geekblower](https://github.com/geekblower)
+
+
 #### Name: [Shivendoo Deshmukh](https://github.com/shivendoodeshmukh)
 
 - Education : Government College of Engineering, Amravati, Maharashtra
@@ -1466,7 +1474,4 @@
 - Place: Udaipur, Rajasthan, INDIA
 - Bio:  CS Undergrad Student,Tech Enthusiast and Competitive coding
 - GitHub: [soniyash9000](https://github.com/soniyash9000)
-
-
-
 
