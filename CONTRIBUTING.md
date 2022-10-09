@@ -1,3 +1,9 @@
+#### Name: [Madhumitha R](https://github.com/madhu-ram2012)
+
+- Place: Bangalore,India
+- Bio: Student at NMIT
+- GitHub: [madhu-ram2012](https://github.com/madhu-ram2012)
+
 #### Name: [Rahul Gupta](https://github.com/rahul8858)
 
 - Place: New Delhi, Delhi,India
