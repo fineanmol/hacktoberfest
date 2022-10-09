@@ -1424,6 +1424,14 @@
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
 
+#### Name: [Prahen Parija](https://github.com/prahenstark)
+
+- Education : BTech , ITER Bhubaneswar
+- Place: Bhubaneswar, Odisha, INDIA
+- Bio:  Undergrad Student
+- GitHub: [prahenstark](https://github.com/prahenstark)
+
+
 #### Name: [Khushi Tayal](https://github.com/KhushiTayal)
 
 - Place: Sendhwa, Madhya Pradesh, INDIA
@@ -1436,5 +1444,6 @@
 - Place: Udaipur, Rajasthan, INDIA
 - Bio:  CS Undergrad Student,Tech Enthusiast and Competitive coding
 - GitHub: [soniyash9000](https://github.com/soniyash9000)
+
 
 
