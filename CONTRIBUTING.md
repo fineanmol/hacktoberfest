@@ -171,6 +171,12 @@
 - Bio: Computer Science Engineering undergrad
 - GitHub: [Sayantan](https://github.com/Arbtrage)
 
+#### Name: [Shivam Garg](https://github.com/Shivam311201)
+
+- Place: Delhi, India
+- Bio: Computer Science Engineering undergrad
+- GitHub: [Shivam Garg](https://github.com/Shivam311201)
+
 #### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
 - Place: Lagos, LAG, NIGERIA
