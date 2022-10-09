@@ -1349,6 +1349,14 @@
 - GitHub: [gajanansr](https://github.com/gajanansr)
 
 
+#### Name: [siddhesh dhumal](https://github.com/siddhesh1133)
+- Education: SCOE ,PUNE
+- Place: Pune , maharashtra , INDIA
+- Bio: CS Undergrad Student
+- GitHub: [siddhesh dhumal](https://github.com/siddhesh1133)
+ 
+
+
 #### Name: [Om Aiholli](https://github.com/CAPTAINOM)
 
 - Education : IIT BOMBAY, Mumbai
@@ -1516,11 +1524,5 @@
 - Bio:  Undergradute Student
 - GitHub: [Dharanash](https://github.com/Dharanash)
 
-
-#### Name: [Shaswat Gupta](https://github.com/masterchief164)
-
-- Place: Lucknow, Uttar Pradesh, India
-- Bio: Undergrad Student
-- GitHub: [masterchief164](https://github.com/masterchief164)
 
 
