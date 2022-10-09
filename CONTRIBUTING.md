@@ -1683,3 +1683,10 @@
 - Place: New Delhi, India
 - Bio: IT Undergrad
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
+
+#### Name: [Sanyam Aggarwal](https://github.com/MasterofDeath0)
+
+- Education : BTech, Netaji Subhas University of Technology
+- Place: New Delhi, India
+- Bio: Hey! Sanyam here. Wanna connect <3
+- GitHub: [Sanyam Aggarwal](https://github.com/)
