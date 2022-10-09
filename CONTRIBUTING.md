@@ -1400,3 +1400,10 @@
 - Bio:  Undergrad Student
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
+#### Name: [Arghyadev Sarkar](https://github.com/harshavar1)
+
+- Education : BTech , Cooch Behar, WB
+- Place: Barasat , WEST BENGAL , INDIA
+- Bio:  Fresher
+- GitHub: [Into-Y0u](https://github.com/Into-Y0u)
+
