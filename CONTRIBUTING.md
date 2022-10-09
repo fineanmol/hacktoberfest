@@ -1,9 +1,97 @@
+#### Name: [Harsh Shah](https://github.com/harsh-0986)
+
+- Place: Surat, India
+- Bio: Student, Web developer
+- GitHub: [Harsh-0986](https://github.com/Harsh-0986)
+
+#### Name: [Madhumitha R](https://github.com/madhu-ram2012)
+
+- Place: Bangalore,India
+- Bio: Student at NMIT
+- GitHub: [madhu-ram2012](https://github.com/madhu-ram2012)
+
+#### Name: [Rahul Gupta](https://github.com/rahul8858)
+
+- Place: New Delhi, Delhi,India
+- Bio: Student at Delhi Technological University
+- GitHub: [rahul8858](https://github.com/rahul8858)
+
+#### Name: [Abhishek Jindal](https://github.com/Abhishek-0001)
+
+- Place: Patiala, Punjab,India
+- Bio: Student at Thapar University
+- GitHub: [Abhishek-0001](https://github.com/Abhishek-0001)
+-
+
+#### Name: [eshaananand](https://github.com/eshaananand)
+
+- Place: Ranchi, India
+- GitHub: [eshaananand](https://github.com/eshaananand)
+
+#### Name: [Arjun Prajapati ](https://github.com/prajapati-arjun)
+
+- Place: Indore , MP , India
+- Bio: Web Developer
+- GitHub: [Arjun Prajapati](https://github.com/prajapati-arjun)
+
+#### Name: [David Ojeda](https://github.com/dojetin)
+
+- Place: Seville, Spain
+- Bio: Programing Student
+- GitHub: [dojetin](https://github.com/dojetin)
+
+#### Name: [Muhammad Usman Ghani](https://github.com/usmanghanidev)
+
+- Place: Karachi, Pakistan
+- Bio: React Developer
+- GitHub: [usmanghanidev](https://github.com/usmanghanidev)
+
+#### Name: [Shubhanshu Gupta](https://github.com/Gptshubh)
+
+#### Name: [Ashish Gupta](https://github.com/bigbskywalker)
+
+- Place: Delhi, India
+- Bio: Backend Developer, Gamer
+
+- GitHub: [bigbskywalker](https://github.com/bigbskywalker)
+
+- GitHub: [Gptshubh](https://github.com/Gptshubh)
+
+#### Name: [Abdulqoyyum Ibrahim](https://github.com/devbayo)
+
+- Place: Lagos, Nigera.
+- Bio: Frontend Developer, Mechanical Engineering Undergraduate.
+- GitHub: [devBayo](https://github.com/devbayo)
+
+#### Name: [Sai Rahul](https://github.com/Sai3Rahul)
+
+- Place: Hyderabad, Telangana, India
+- Bio: Fourth year Computer Science Student
+- GitHub: [Sai3Rahul](https://github.com/Sai3Rahul)
+
+#### Name : [Suraj Keshari](https://github.com/surajkeshari)
+
+- Place : Gangapur ,Varanasi , Uttar Pradesh ,India
+- Bio: Frontend Engineer , codeforces pupil , Codechef 3star
+- GitHub: [surajkeshari](https://github.com/surajkeshari)
+
+#### Name : [Aditya D](https://github.com/adi271001)
+
+- Place : JP Nagar ,Bengaluru , Karnataka ,India
+- Bio: AI-ML Developer , Hackerrank 5star
+- GitHub: [adi271001](https://github.com/adi271001)
+
+#### Name: [Soham Samantaray](https://github.com/SamSoham)
+
+- Place: Cuttack,Odisha,INDIA
+- Bio: Undergrad Student CSE, FrontEnd Web Dev
+- GitHub: [SamSoham](https://github.com/SamSoham)
+
 #### Name: [Sarthak Rajput](https://github.com/rsarthak)
 
 - Place: Shamli,Uttar pradesh,INDIA
 - Bio: Undergrad Student
 - GitHub: [rsarthak](https://github.com/rsarthak)
-
 
 ### Name: [Amogh Patel](https://github.com/AmoghPatel1)
 
@@ -17,27 +105,23 @@
 - Bio: React and React Native developer, full stack developer, open source enthusiast
 - GitHub: [Guruvignesh](https://github.com/staticGuru)
 
-
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
 - Bio: Undergrad Student
 - GitHub: [ABHINAV0307](https://github.com/ABHINAV0307)
 
-
 #### Name: [Mahika Sharma](https://github.com/Mahika07)
 
 - Place: Indore,Madhya pradesh,INDIA
 - Bio: Undergrad Student
 - GitHub: [Mahika07](https://github.com/Mahika07)
-- 
 
 #### Name: [Ankit Kumar](https://github.com/codeburn12)
 
 - Place: Patna, Bihar,INDIA
 - Bio: Undergrad Student
 - GitHub: [codeburn12](https://github.com/codeburn12)
-
 
 #### Name: [Andre Almeida](https://github.com/aalmeida00)
 
@@ -80,7 +164,7 @@
 - Place: Lagos, LAG, NIGERIA
 - Bio: Aspiring Software Engineer
 - GitHib: [Jay Mehta](https://github.com/jaymehta002)
-  
+
 #### Name: [Olaitan Samuel](https://github.com/codedhola)
 
 - Place: Surulere, Lagos, Nigeria
@@ -93,6 +177,12 @@
 - Bio: Ankara University MSc
 - GitHib: [Osman Batur ÇELİK](https://github.com/osmnbtrclk)
 
+#### Name: [Anupesh Kumar Verma](https://github.com/anupeshverma)
+
+- Place: Barabanki, Uttar Pradesh
+- Bio: Aspiring Software Engineer
+- GitHib: [Anupesh](https://github.com/anupeshverma)
+
 #### Name: [Hamza Nawab](https://github.com/blazenn2)
 
 - Place: Karachi, Sindh, Pakistan
@@ -104,6 +194,12 @@
 - Place: Chandigarh , Punjab , India
 - Bio: Computer Science Engineering undergrad
 - GitHub: [Sayantan](https://github.com/Arbtrage)
+
+#### Name: [Shivam Garg](https://github.com/Shivam311201)
+
+- Place: Delhi, New Delhi, India
+- Bio: Computer Science Engineering undergrad
+- GitHub: [Shivam Garg](https://github.com/Shivam311201)
 
 #### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
@@ -189,6 +285,12 @@
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Vivian
+
+- Place: Melbourne, Victoria, Australia
+- Bio: Fitness Instructor
+- GitHub: [Vivian Cao](https://github.com/caoviv)
+
 #### Name: [Prachi Gupta](https://github.com/Prachi-22-81)
 
 - Place: Delhi, India
@@ -201,8 +303,8 @@
 - Bio: Full Stack Developer
 - GitHub: [Devesh1602](https://github.com/Devesh1602)
 
-
 #### Name: [Janumala Akhilendra](https://github.com/JanumalaAkhilendra)
+
 - Place: Ongole, Andhra Pradesh,INDIA
 - Bio: Undergrad Student
 - GitHub: [Janumala Akhilendra](https://github.com/JanumalaAkhilendra)
@@ -246,7 +348,7 @@
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 
 - Place: Poland
-- Bio: second year Computer Science Student, in love with NYC <3
+- Bio: second year Computer Science Student, in love with NYC
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
@@ -434,6 +536,12 @@
 - Place: Bangkok, Thailand
 - Bio: College student
 - GitHub: [PunGrumpy](https://github.com/PunGrumpy)
+
+#### Name: [Temitope Agbaje](https://github.com/TemitopeAgbaje)
+
+- Place: Lagos State, Nigeria
+- Bio: I am a junior backend developer
+- GitHub: [TemitopeAgbaje](https://github.com/TemitopeAgbaje)
 
 #### Name: [Udeet Mittal](https://github.com/udeet27)
 
@@ -834,7 +942,7 @@
 #### Name: [Pragati Gupta](https://github.com/Pragati-64)
 
 - Place: Lucknow, Uttar Pradesh, India
-- Bio: MCA final year student , an Aspiring Software Engineer 
+- Bio: MCA final year student , an Aspiring Software Engineer
 - GitHub: [Pragati-64](https://github.com/Pragati-64)
 
 #### Name: [Victor Pinheiro](https://github.com/victorhpinheiro)
@@ -849,12 +957,168 @@
 - Bio: Data engineer
 - GitHub: [victorhpinheiro](https://github.com/victorhpinheiro))
 
+#### Name: [Megan Taylor](https://github.com/taylor-g592)
+
+- Place: Ipswich, Suffolk, United Kingdom
+- Bio: 3rd year Software Engineering student at University of Suffolk, UK
+- GitHub: [taylor-g592](https://github.com/taylor-g592)
+
 #### Name: [Anurag Pandey](https://github.com/eagleanurag)
 
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
+#### Name: [Ritik Kumar Gupta](https://github.com/ritik-rkg)
+
+- Place: Bangalore, India
+- Bio: Computer Science Student
+- GitHub: [ritik-rkg](https://github.com/ritik-rkg)
+
+#### Name: [Amit Dave](https://github.com/AmitDave22)
+
+- Place: Tempe, AZ, United States
+- Bio: Software Engineering Grad at ASU
+- Github: [AmitDave22](https://github.com/AmitDave22)
+
+#### Name: [Shubham](https://github.com/tiwarishubham635)
+
+- Place: New Delhi, Delhi, India
+- Bio: CSE Undergrad
+- GitHub: [tiwarishubham635](https://github.com/tiwarishubham635)
+
+#### Name: [Kumar Sambhav](https://github.com/krsambhav)
+
+- Place: Patna, Bihar
+- Bio: Software Engineering, AI enthusiats and Gamer.
+- GitHub: [krsambhav](https://github.com/krsambhav)
+
+#### Name: [Mitansh Kayathwal](https://github.com/Mitanshk01)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: B.Tech CSE Student,new to Open Source!
+- GutHub: [Sofiyan](https://github.com/Mitanshk01)
+
+#### Name: [Ahtesham Zaidi](https://github.com/ahtesham007)
+
+- Place: Delhi, India
+- Bio: Full Stack Developer
+- GitHub: [ahtesham007](https://github.com/ahtesham007)
+
+#### Name: [Marcos Messias](https://github.com/marcosmessias-src)
+
+- Place: Alagoas, Brazil
+- Bio: FullStack Developer, Laravue is life.
+- GitHub: [marcosmessias-src](https://github.com/marcosmessias-src)
+
+#### Name: [Pietro Mezzadri](https://github.com/pietromezzadri)
+
+- Place: Curitiba, Brazil
+- Bio: Full-Stack Developer
+- Github: [pietromezzadri](https://github.com/pietromezzadri)
+
+#### Name: [Zoe Blogg](https://github.com/ZoCodes/)
+
+- Place: Leeds, UK
+- Bio: Self-taught female Dev, breaking into the world of tefch
+- GitHub: [ZoCodes](https://github.com/ZoCodes/)
+
+#### Name: [Flourish Oke](https://github.com/TimTemi)
+
+- Place: Jos, Plateau, Nigeria
+- Bio: Computer scientist, enthusiatic about Tech
+- GitHub: [Flourish Oke](https://github.com/TimTemi)
+
+### Name: [Prashant](https://github.com/prashant5025)
+
+- Place: Hapur, Uttar Pradesh, India
+- Bio: Web Developer
+- Github: [psinght5025](https://github.com/prashant5025)
+
+#### Name: [Anmol Pal](https://github.com/anmol111pal)
+
+- Place: Dehradun, Uttarakhand, India
+- Bio: An aspiring software engineer, who loves web development.
+- GitHub: [anmol111pal](https://github.com/anmol111pal)
+
+#### Name: [Abhinav Kumar](https://github.com/abhinavk454)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Developer At ATPL
+- GitHub: [abhinavk454](https://github.com/abhinavk454)
+
+#### Name: [W.D. Snoeijer](https://github.com/dsnoeijer)
+
+- Place: Overijssel, the Netherlands
+- Bio: FS Developer
+- GitHub: [dsnoeijer](https://github.com/dsnoeijer)
+
+#### Name: [Binil Tom Jose](https://github.com/BinilTomJose1278)
+
+- Place: Kottayam, Kerala,India
+- Bio: Student at Rajagiri School of Engineering and Technology
+- GitHub: [BinilTomJose1278](https://github.com/BinilTomJose1278)
+
+#### Name: [Shabari S Nair](https://github.com/Killshot667)
+
+- Place: Bangalore, India
+- Bio: Final year, Competitive Programmer, Math lover
+- GitHub: [Killshot667](https://github.com/Killshot667)
+
+#### Name: [Abdallah Daiyan](https://github.com/coderDaiyan)
+
+- Place: Chattogram, Bangladesh
+- Bio: A Curious Software Developer!
+- GitHub: [coderDaiyan](https://github.com/coderDaiyan)
+
+#### Name: [Abhishek Ratnam](https://github.com/abhishekratnam)
+
+- Place: New Delhi, Delhi, India
+- Bio: Member of Technical Staff, part time golang + python developer
+
+#### Name: [Anubhav Jain](https://github.com/anubhav823)
+
+- Place: Pune, Maharashtra, India
+- Bio: Software Engineer Playing with Hello World!
+- GitHub: [anubhav823](https://github.com/anubhav823)
+
+#### Name: [Mujahid Ali](https://github.com/MujahidAli954)
+
+- Place: Islamabad, Punjab, Pakistan
+- Bio: Full Stack Web Developer
+- GitHub: [MujahidAli954](https://github.com/MujahidAli954)
+
+#### Name: [Tanmay Roy](https://github.com/roytanmay)
+
+- Education : Jadavpur University , West Bengal
+- Place: Jalpaiguri , West Bengal , INDIA
+- Bio: IT Undergrad Student and Web Developer
+- GitHub: [roytanmay](https://github.com/roytanmay)
+
+#### Name: [Tanmay Roy](https://github.com/roytanmay)
+
+- Education : Jadavpur University , West Bengal
+- Place: Jalpaiguri , West Bengal , INDIA
+- Bio: IT Undergrad Student and Web Developer
+- GitHub: [roytanmay](https://github.com/roytanmay)
+
+#### Name: [Gem Schley(https://github.com/disabledandfab)
+
+- Place: Milwaukee, WI, USA
+- Bio: A polyglot learning the various languages of coding.
+- GitHub: [disabledandfab](https://github.com/disabledandfab)
+
+#### Name: [Rushikesh Malu](https://github.com/SadCato)
+
+- Place: Nagpur, Maharashtra, India
+- Bio: Computer Science Engineer!
+- GitHub: [SadCatto](https://github.com/SadCatto)
+
+#### Name: [Shivam Agrahari](https://github.com/shivamagraharii)
+
+- Place: Jabalpurl, MP, India
+- Bio: I am a Btech Student
+- GitHub: [shivamagraharii](https://github.com/shivamagraharii)
 
 #### Name: [Mayank Thakur](https://github.com/mayankt18)
 
@@ -862,13 +1126,101 @@
 - Bio: Computer Enthusiast
 - GitHub: [mayankt18](https://github.com/mayankt18)
 
+#### Name: [Ritik Kumar Gupta](https://github.com/ritik-rkg)
+
+- Place: Bangalore, India
+- Bio: Computer Science Student
+- GitHub: [ritik-rkg](https://github.com/ritik-rkg)
+
+#### Name: [Amit Dave](https://github.com/AmitDave22)
+
+- Place: Tempe, AZ, United States
+- Bio: Software Engineering Grad at ASU
+- Github: [AmitDave22](https://github.com/AmitDave22)
+
+#### Name: [Shubham](https://github.com/tiwarishubham635)
+
+- Place: New Delhi, Delhi, India
+- Bio: CSE Undergrad
+- GitHub: [tiwarishubham635](https://github.com/tiwarishubham635)
+
+#### Name: [Kumar Sambhav](https://github.com/krsambhav)
+
+- Place: Patna, Bihar
+- Bio: Software Engineering, AI enthusiats and Gamer.
+- GitHub: [krsambhav](https://github.com/krsambhav)
+
+#### Name: [Mitansh Kayathwal](https://github.com/Mitanshk01)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: B.Tech CSE Student,new to Open Source!
+- GutHub: [Sofiyan](https://github.com/Mitanshk01)
+
+#### Name: [Ahtesham Zaidi](https://github.com/ahtesham007)
+
+- Place: Delhi, India
+- Bio: Full Stack Developer
+- GitHub: [ahtesham007](https://github.com/ahtesham007)
+
+#### Name: [Marcos Messias](https://github.com/marcosmessias-src)
+
+- Place: Alagoas, Brazil
+- Bio: FullStack Developer, Laravue is life.
+- GitHub: [marcosmessias-src](https://github.com/marcosmessias-src)
+
+#### Name: [Pietro Mezzadri](https://github.com/pietromezzadri)
+
+- Place: Curitiba, Brazil
+- Bio: Full-Stack Developer
+- Github: [pietromezzadri](https://github.com/pietromezzadri)
+
+#### Name: [Zoe Blogg](https://github.com/ZoCodes/)
+
+- Place: Leeds, UK
+- Bio: Self-taught female Dev, breaking into the world of tefch
+- GitHub: [ZoCodes](https://github.com/ZoCodes/)
+
+#### Name: [Flourish Oke](https://github.com/TimTemi)
+
+- Place: Jos, Plateau, Nigeria
+- Bio: Computer scientist, enthusiatic about Tech
+- GitHub: [Flourish Oke](https://github.com/TimTemi)
+
+### Name: [Prashant](https://github.com/prashant5025)
+
+- Place: Hapur, Uttar Pradesh, India
+- Bio: Web Developer
+- Github: [psinght5025](https://github.com/prashant5025)
+
+#### Name: [Anmol Pal](https://github.com/anmol111pal)
+
+- Place: Dehradun, Uttarakhand, India
+- Bio: An aspiring software engineer, who loves web development.
+- GitHub: [anmol111pal](https://github.com/anmol111pal)
+
+#### Name: [Abhinav Kumar](https://github.com/abhinavk454)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Developer At ATPL
+- GitHub: [abhinavk454](https://github.com/abhinavk454)
+
+#### Name: [W.D. Snoeijer](https://github.com/dsnoeijer)
+
+- Place: Overijssel, the Netherlands
+- Bio: FS Developer
+- GitHub: [dsnoeijer](https://github.com/dsnoeijer)
+
+#### Name: [Binil Tom Jose](https://github.com/BinilTomJose1278)
+
+- Place: Kottayam, Kerala,India
+- Bio: Student at Rajagiri School of Engineering and Technology
+- GitHub: [BinilTomJose1278](https://github.com/BinilTomJose1278)
 
 #### Name: [Parmar Kirti](https://github.com/Kirti36)
 
 - Place: Anand,Gujarat,India
 - Bio: AI Engineering,ML enthusiat.
 - GitHub: [Kirti36](https://github.com/Kirti36)
-
 
 #### Name: [Vivian Nicholls](https://github.com/viv-nic)
 
@@ -882,12 +1234,29 @@
 - Bio: Web Developer and B.Tech Student at Delhi Technological University, Delhi.
 - GitHub: [Amit Batra](https://github.com/amitbatra31)
 
+#### Name: [Fabian Cristancho](https://github.com/FabianCristancho)
+
+- Place: Medellin, Antioquia, Colombia
+- Bio: I'm a Colombian software developer, graduated from UNAL
+- GitHub: [FabianCristancho](https://github.com/FabianCristancho)
+
+#### Name: [Lakshya Dhawan](https://github.com/yolakshya19)
+
+- Place: Ghaziabad, Uttar Pradesh, INDIA
+- Bio: I am a sophomore pursuing Bachelors in CSE with specialization in Data Science
+- GitHub: [Lakshya Dhawan](https://github.com/yolakshya19)
+
+#### Name: [Pradhuman Goswami](https://github.com/goswamiprad)
+
+- Place: Bhopal,MP,INDIA
+- Bio: Python Developer and B.Tech Student at LNCT, Bhopal.
+- GitHub: [goswamiprad](https://github.com/goswamiprad)
+
 #### Name: [Hafizur Rahman](https://github.com/hafeez25)
 
 - Place: Gurgaon,Haryana,INDIA
 - Bio: Web Developer and MCA Student at Maharishi University, Lucknow.
 - GitHub: [Hafizur Rahman](https://github.com/hafeez25)
-
 
 #### Name: [Amit Das](https://github.com/das-amit)
 
@@ -895,22 +1264,17 @@
 - Bio: Pre-final year CS student at RCC Institute of Innformation Technology, Kolkata.
 - GitHub: [Amit Das](https://github.com/das-amit)
 
-
 #### Name: [Manav Sharma](https://github.com/vanam30)
 
 - Place: Kolkata,West Bengal,INDIA
 - Bio: FULL Stack Developer
 - GitHub: [Manav Sharma](https://github.com/vanam30)
 
-
 #### Name: [Vaibhav Asawale](https://github.com/amitbatra31)
 
 - Place: Pune, India
 - Bio: Web-Developer and Cyber-Security Enthusiast
 - GitHub: [Vaibhav Asawale](https://github.com/vaibhav-87)
-
-
-
 
 #### Name: [Dipesh Dev](https://github.com/Dipesh0-0)
 
@@ -930,7 +1294,6 @@
 - Bio: Web Developer from Anna Technological University, Chennai.
 - GitHub: [Vivek S](https://github.com/viveksoundrapandi)
 
-
 #### Name: [Raksha Pahariya](https://github.com/RP2025)
 
 - Place: Chhatarpur,Madhya pradesh,INDIA
@@ -949,13 +1312,11 @@
 - Bio: High School Student, front end dev.
 - GitHub: [NitinRana01125532553](https://github.com/NitinRana01125532553)
 
-
 #### Name: [Tushar Khatri](https://github.com/tusharkhatri12)
 
 - Place: New Delhi, Delhi,INDIA
 - Bio: Web developer and bca student at Jagan Institute Of Management Studies.
 - Github: [tusharkhatri12](https://github.com/tusharkhatri12)
-
 
 #### Name: [Jotiraditya](https://github.com/JotiradityaB)
 
@@ -963,21 +1324,17 @@
 - Bio: Computer Science Engineer from Government College Of Engineering And Ceramic Technology.
 - GitHub: [Jotiraditya](https://github.com/JotiradityaB)
 
-
 #### Name: [Nayaneeka Mahapatra](https://github.com/nexi9)
 
 - Place: Bhubaneswar, Odisha, India
 - Bio: B.Tech Student in Computer Science , currently studying at SOA University, Odisha.
 - GitHub: [Nayaneeka Mahapatra](https://github.com/nexi9)
 
-
 #### Name: [Priyanshu Mohanty](https://github.com/priyanshu68)
 
 - Place: Bhubaneswar,Odisha,INDIA
 - Bio: Flutter Developer and B.Tech Student at SOA University, Odisha.
 - GitHub: [Priyanshu Mohanty](https://github.com/priyanshu68)
-
-
 
 #### Name: [Harshit Gupta](https://github.com/harshit0015)
 
@@ -996,13 +1353,11 @@
 - Bio: Undergrad Student
 - GitHub: [Aviace](https://github.com/Aviace)
 
-
 #### Name: [Awosise Oluwaseun](https://github.com/jhhornn)
 
 - Place: Akobo, Ibadan, Nigeria.
 - Bio: Backend Developer(NodeJS) from Obafemi Awolowo University.
 - GitHub: [Awosise Oluwaseun](https://github.com/jhhornn)
-
 
 #### Name: [Harshit Sharma ](https://github.com/HARSHITSHARMA18)
 
@@ -1016,12 +1371,11 @@
 - Bio: Web engineer/developer
 - GitHub: [Kewpie134134](https://github.com/kewpie134134)
 
-
 #### Name: [Raghav Kumar Jha](https://github.com/jharaghav32)
-- Place: Delhi,INDIA
-- Bio: Undergrad Student 
-- GitHub: [jharaghav32](https://github.com/jharaghav32)
 
+- Place: Delhi,INDIA
+- Bio: Undergrad Student
+- GitHub: [jharaghav32](https://github.com/jharaghav32)
 
 #### Name: [Shivansh Bansal](https://github.com/CrazyYoungBroo)
 
@@ -1029,13 +1383,11 @@
 - Bio: Python Coder
 - GitHub: [CrazyYoungBroo](https://github.com/CrazyYoungBroo)
 
-
 #### Name: [Prasad Poojary](https://github.com/Prasadpoojary)
 
 - Place: Udupi, Karnataka, INDIA
 - Bio: Fullstack developer
 - GitHub: [Prasad Poojary](https://github.com/Prasadpoojary)
-
 
 #### Name: [Nagendra M](https://github.com/Nagendram399)
 
@@ -1043,13 +1395,11 @@
 - Bio: Undergrad student
 - GitHub: [Nagendra M](https://github.com/Nagendram399)
 
-
 #### Name: [Aditya Mathur](https://github.com/AdityaMathur25)
 
 - Place: Jaipur, Rajasthan, India
 - Bio: BCA Student
 - GitHub: [AdityaMathur25](https://github.com/AdityaMathur25)
-
 
 #### Name: [Devesh Mukherjee](https://github.com/darkghost33)
 
@@ -1069,15 +1419,267 @@
 - Bio: Undergrad Student
 - GitHub: [Pradhyum](https://github.com/PradhyumArora)
 
-
 #### Name: [Mansi Yeole](https://github.com/mansiyeole67)
+
 - Education : YCCE , NAGPUR
 - Place: Nagpur , maharashtra , INDIA
-- Bio: Undergrad Student
 
+#### Name: [Lakshay Thakur](https://github.com/thakurlakshay2)
+
+- Place: Rani bagh, Delhi,INDIA
+- Bio: passout
+- GitHub: [thakurlakshay2][https://github.com/thakurlakshay2]
+
+#### Name: [Kiran Rai](https://github.com/mansiyeole67)
+
+- Education : Kaziranga University , ASSAM
+- Place: Jorhat , Assam , INDIA
+- Bio: Btech Computer Science final year student
+- GitHub: [mansiyeole67](https://github.com/raikiran07)
 
 #### Name: [Krishna Kumar](https://github.com/Krishnapro)
 
 - Place: Remote, Bihar, India
-- Bio:  FullStack Developer
+- Bio: FullStack Developer
 - GitHub: [Krishnapro](https://github.com/Krishnapro)
+
+#### Name: [Binil Tom Jose](https://github.com/BinilTomJose1278)
+
+- Place: Kottayam, Kerala,India
+- Bio: Student at Rajagiri School of Engineering and Technology
+- GitHub: [BinilTomJose1278](https://github.com/BinilTomJose1278)
+
+#### Name: [Ram Ganesh K.R.](https://github.com/Ram-20062003)
+
+- Education: B.Tech in Instrumentation and control Enginerering,NIT Trichy,
+- Place: Trichy, Tamil Nadu, India
+- Bio: Undergrad Student
+- GitHub: [Ram-20062003](https://github.com/Ram-20062003)
+
+#### Name: [Fikri Khairul Shaleh](https://github.com/fikriks)
+
+- Education : Kuningan University , West Java, Indonesia
+- Place: Cirebon, West Java, Indonesia
+- Bio: Fullstack Developer
+- GitHub: [fikriks](https://github.com/fikriks)
+
+#### Name: [Gajanan Rathod](https://github.com/gajanansr)
+
+- Education : SCOE , Pune
+- Place: Pune , maharashtra , INDIA
+- Bio: IT Undergrad Student
+- GitHub: [gajanansr](https://github.com/gajanansr)
+
+#### Name: [Prashant Agheda](https://github.com/prashant-agheda/)
+
+#### Name: [siddhesh dhumal](https://github.com/siddhesh1133)
+
+- Education: SCOE ,PUNE
+- Place: Pune , maharashtra , INDIA
+- Bio: CS Undergrad Student
+- GitHub: [siddhesh dhumal](https://github.com/siddhesh1133)
+
+#### Name: [Om Aiholli](https://github.com/CAPTAINOM)
+
+- Education : IIT BOMBAY, Mumbai
+- Place: Mumbai,Maharastra,INDIA
+- Bio: CSE Undergrad
+
+#### Name: [Tamil Bharathi](https://github.com/tamil-code)
+
+- Education : KSRCT , Namakkal
+- Place: Karur , Tamilnadu , INDIA
+- Bio: CSE Undergrad Student
+- GitHub: [tamil-code](https://github.com/tamil-code)
+
+#### Name: [Lavanya Lenka](https://github.com/Lavanyasuc31)
+
+- Education : BE , Bangalore
+- Place: Ballari , Karnataka , INDIA
+- Bio: Undergrad Student
+- GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
+
+#### Name: [Surahmat](https://github.com/soerahmat69)
+
+- Education : ULBI, west Java, Indoneisa
+- Place: Bandung, West Java, Indonesia
+- Bio: Frontend Developer
+- GitHub: [Soerahmat69](https://github.com/soerahmat69)
+
+#### Name: [Nathan Fiscus](https://github.com/nfiscus)
+
+- Place: Tuscumbia, Alabama, Unites States of America
+- Bio: QA Analyst
+- GitHub: [nfiscus](https://github.com/nfiscus)
+
+#### Name: [Anirban Dey](https://github.com/anirbandey303)
+
+- Place: Kolkata, India.
+- Bio: Developer
+- GitHub: [anirbandey303](https://github.com/anirbandey303)
+
+#### Name: [Saloni Kansal](https://github.com/saloship)
+
+- Education : Btech , Delhi
+- Place: Delhi , INDIA
+- Bio: Undergrad Student
+- GitHub: [saloship](https://github.com/saloship)
+
+#### Name: [Harsha Vardhan](https://github.com/harshavar1)
+
+- Education : BTech , Thiruvananthapuram
+- Place: Thiruvananthapuram, Kerala, INDIA
+- Bio: Undergrad Student
+- GitHub: [harshavar1](https://github.com/harshavar1)
+
+#### Name: [PARAVPREET SINGH](https://github.com/PARAVPREET17)
+
+- Education : BTech , Patiala
+- Place: Patiala, Punjab, INDIA
+- Bio: Undergrad Student
+- GitHub: [PARAVPTREEt17](https://github.com/PARAVPREET17)
+
+#### Name: [Arghyadev Sarkar](https://github.com/harshavar1)
+
+- Education : BTech , Cooch Behar, WB
+- Place: Barasat , WEST BENGAL , INDIA
+- Bio: Fresher
+- GitHub: [Into-Y0u](https://github.com/Into-Y0u)
+
+#### Name: [Nitish Singh](https://github.com/Singh26Nitish)
+
+- Place: Faridabad, Haryana, India
+- Bio: Hey i m a student persuing engineering in computer science
+- GitHub: [Singh26Nitish](https://github.com/Singh26Nitish)
+
+#### Name: [deesclouds](https://github.com/deesclouds)
+
+- Place: Long Beach, California, USA
+- Bio: Software Engineer
+- GitHub: [deesclouds](https://github.com/deesclouds)
+
+#### Name: [Shrishail Patil](https://github.com/shrishail356)
+
+- Place: Hubbli, Karnataka ,India
+- Bio: Student at Vellore Institute of Technology
+- GitHub: [shrishail356](https://github.com/shrishail356)
+
+#### Name: [Harshit Sharma ](https://github.com/HARSHITSHARMA18)
+
+- Place: Delhi, Delhi, India
+- Bio: A Passionate Developer and Designer pursuing undergrad from Delhi Technological University
+- GitHub: [HARSHITSHARMA18](https://github.com/HARSHITSHARMA18)
+
+#### Name: [Sanket Upadhyay](https://github.com/SanketUpadhyay01)
+
+- Education: BTech, Jabalpur
+- Place: Jabalpur, Madhya Pradesh, INDIA
+- Bio: Undergrad Student
+- GitHub: [SanketUpadhyay01](https://github.com/SanketUpadhyay01)
+
+#### Name: [YOUR NAME](https://github.com/yogeshwari-20000609)
+
+- Place: Pune, Maharashtra, India
+- Bio: Undergrad student
+- GitHub: [Yogeshwari Bahiram](https://github.com/yogeshwari-20000609)
+
+#### Name: [ABHISHEK KAYAL](https://github.com/Drako-Rexon)
+
+- Place: New Delhi, Delhi, INDIA
+- Bio: Flutter Developer and B. Tech. pursuing student
+- GitHub: [Abhishek Kayal](https://github.com/Drako-Rexon)
+
+#### Name: [Utsav Rai](https://github.com/Utsavrai1)
+
+- Education : BTech , Ranchi
+- Place: Ranchi, INDIA
+- Bio: Undergrad Student
+- GitHub: [Utsavrai1](https://github.com/Utsavrai1)
+
+#### Name: [Shivam Pathak](https://github.com/ShivamPathak99)
+
+- Education : B.Tech , Kanpur
+- Place: Uttar Pradesh , INDIA
+- Bio: Undergrad Student
+- GitHub: [Shivam Pathak](https://github.com/ShivamPathak99)
+
+#### Name: [Annie Treasa Sabu](https://github.com/AnnieTreasa)
+
+- Education : BTech , Kottayam
+- Place: Kottayam, Kerala, India
+- Bio: Undergrad Student
+- GitHub: [AnnieTreasa](https://github.com/AnnieTreasa)
+
+#### Name: [Moukhik Gupta](https://github.com/moukhikgupta5)
+
+- Education : BE , Thapar University
+- Place: Rohtak, Haryana, INDIA
+- Bio: Undergrad Student
+- GitHub: [moukhikgupta5](https://github.com/moukhikgupta5)
+
+#### Name: [Akash Gautam](https://github.com/geekblower)
+
+- Education: BCA , Motihari
+- Place: Motihari , Bihar , India
+- Bio: Undergrad Student
+- GitHub: [Geekblower](https://github.com/geekblower)
+
+#### Name: [Shivendoo Deshmukh](https://github.com/shivendoodeshmukh)
+
+- Education : Government College of Engineering, Amravati, Maharashtra
+- Place: Amravati, Maharashtra, INDIA
+- Bio: Full Stack Developer
+- GitHub: [shivendoodeshmukh](https://github.com/shivendoodeshmukh)
+
+#### Name: [Kunal Gupta](<(https://github.com/kunalgupta557a)>)
+
+- Education : BTech , RTU Kota
+- Place: kota INDIA
+- Bio: Undergrad Student
+- GitHub: [kunalgupta557a](https://github.com/kunalgupta557a)
+
+#### Name: [Tham MK](https://github.com/thammk)
+
+- Education : Software Engineering, Campbell University
+- Place: Selangor, Malaysia
+- Bio: Software Consultant / Developer
+- GitHub: [thammk](https://github.com/thammk)
+
+#### Name: [Prahen Parija](https://github.com/prahenstark)
+
+- Education : BTech , ITER Bhubaneswar
+- Place: Bhubaneswar, Odisha, INDIA
+- Bio: Undergrad Student
+- GitHub: [prahenstark](https://github.com/prahenstark)
+
+#### Name: [Khushi Tayal](https://github.com/KhushiTayal)
+
+- Place: Sendhwa, Madhya Pradesh, INDIA
+- Bio: College student
+- GitHub: [KhushiTayal](https://github.com/KhushiTayal)
+
+#### Name: [Yash Soni](https://github.com/soniyash9000)
+
+- Education : BTech , Udaipur
+- Place: Udaipur, Rajasthan, INDIA
+- Bio: CS Undergrad Student,Tech Enthusiast and Competitive coding
+- GitHub: [soniyash9000](https://github.com/soniyash9000)
+
+#### Name: [Dharanash S](https://github.com/Dharanash)
+
+- Education : BE , Coimbatore
+- Place: Kovaipudur , Tamilnadu , INDIA
+- Bio: Undergradute Student
+- GitHub: [Dharanash](https://github.com/Dharanash)
+
+- Education: MCA from DY Patil International University
+- Place: Pune, Maharashtra, India
+- Bio: Post-Grad Student
+- GitHub: [prashant-agheda](https://github.com/prashant-agheda/)
+
+#### Name: [Lakshay Chauhan](https://github.com/imlakshaychauhan)
+
+- Education: BTech, Maharaja Surajmal Institute Of Technology, New Delhi, India
+- Place: New Delhi, India
+- Bio: IT Undergrad
+- GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
