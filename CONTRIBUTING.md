@@ -1400,3 +1400,9 @@
 - Bio:  Undergrad Student
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
+#### Name: [Nitish Singh](https://github.com/Singh26Nitish)
+
+- Place: Faridabad, Haryana, India
+- Bio: Hey i m a student persuing engineering in computer science
+- GitHub: [Singh26Nitish](https://github.com/Singh26Nitish)
+
