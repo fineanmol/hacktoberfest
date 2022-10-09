@@ -1,9 +1,21 @@
+#### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
+
+- Place: Faisalabad, Punjab, Pakistan
+- Bio: Machine Learning Engineer
+- GitHub: [Muaaz Ahmad](https://github.com/muaazahmad00)
+
 #### Name: [Harsh Shah](https://github.com/harsh-0986)
 
 - Place: Surat, India
 - Bio: Student, Web developer
 - GitHub: [Harsh-0986](https://github.com/Harsh-0986)
 
+#### Name: [Aditya_Arora](https://github.com/Adityaarora08)
+
+- Place: Chandigarh, India
+- Bio: Student, Full-Stack Web developer
+- GitHub: [Adityaarora08](https://github.com/Adityaarora08)
+- 
 #### Name: [Madhumitha R](https://github.com/madhu-ram2012)
 
 - Place: Bangalore,India
@@ -21,12 +33,11 @@
 - Place: Patiala, Punjab,India
 - Bio: Student at Thapar University
 - GitHub: [Abhishek-0001](https://github.com/Abhishek-0001)
--
 
-#### Name: [eshaananand](https://github.com/eshaananand)
-
-- Place: Ranchi, India
-- GitHub: [eshaananand](https://github.com/eshaananand)
+#### Name: [Ruchir AGarwal] (https://github.com/Ruchir17-cmd)
+- Place: Nioda, UP
+- Bio: AR/VR developer
+- Github: [Ruchir AGARwal](https://github.com/Ruchir17-cmd)
 
 #### Name: [Arjun Prajapati ](https://github.com/prajapati-arjun)
 
@@ -46,16 +57,12 @@
 - Bio: React Developer
 - GitHub: [usmanghanidev](https://github.com/usmanghanidev)
 
-#### Name: [Shubhanshu Gupta](https://github.com/Gptshubh)
-
 #### Name: [Ashish Gupta](https://github.com/bigbskywalker)
 
 - Place: Delhi, India
 - Bio: Backend Developer, Gamer
 
 - GitHub: [bigbskywalker](https://github.com/bigbskywalker)
-
-- GitHub: [Gptshubh](https://github.com/Gptshubh)
 
 #### Name: [Abdulqoyyum Ibrahim](https://github.com/devbayo)
 
@@ -243,8 +250,6 @@
 - Bio: Student
 - GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 
-#### Name: [Prashant Bhapkar](https://github.com/Prashant-Bhapkar)
-
 - Place: Pune, India
 - Bio: Student
 - GitHub: [Prashant Bhapkar](https://github.com/Prashant-Bhapkar)
@@ -429,13 +434,13 @@
 - Bio: Enjoying this wonderful hacktober
 - GitHub: [Divyanshu Modi](https://github.com/Divyanshu-Modi)
 
-#### Name: [प्रथमेश | Prathmesh](https://github.com/prathmesh-b)
-
 #### Name: [Chirag Arora](https://github.com/Chirag8023)
 
 - Place: City, State, Country
 - Bio: Who are you?
 - GitHub: [Chirag8023](https://github.com/Chirag8023)
+
+#### Name: [प्रथमेश | Prathmesh](https://github.com/prathmesh-b)
 
 - Place: Mumbai, India
 - Bio: I love DOGS and FISH! :dog: :fish:
@@ -969,6 +974,13 @@
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
+
+#### Name: [Bagas Saputro Adi Priyanto](https://github.com/bagasprynt)
+
+- Place: Semarang, Jawa Tengah, Indonesia
+- Bio: Just a college student at UNDIP
+- GitHub: [bagasprynt](https://github.com/bagasprynt)
+
 #### Name: [Ritik Kumar Gupta](https://github.com/ritik-rkg)
 
 - Place: Bangalore, India
@@ -1437,7 +1449,7 @@
 - Bio: Btech Computer Science final year student
 - GitHub: [mansiyeole67](https://github.com/raikiran07)
 
-#### Name: [YOUR NAME](GitHub link)
+#### Name: [Krishna Kumar](https://github.com/Krishnapro)
 
 - Place: Remote, Bihar, India
 - Bio: FullStack Developer
@@ -1682,10 +1694,55 @@
 - Education: BTech, Maharaja Surajmal Institute Of Technology, New Delhi, India
 - Place: New Delhi, India
 - Bio: IT Undergrad
+
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
+
 
 #### Name: [Abhinav Tiwary](https://github.com/abhinavtiwary04)
 
 - Place: Bangalore, Karnataka, India
 - Bio: Full Stack Engineer
 - GitHub: [abhinavtiwary04](https://github.com/abhinavtiwary04)
+
+
+
+#### Name: [Rishi Mathur](https://github.com/skyrunner360)
+
+- Education: BCA, Ajeenkya DY Patil University, Pune, India
+- Place: Ajmer,Rajasthan, India
+- Bio: Frontend Web Developer
+- GitHib: [skyrunner360](https://github.com/skyrunner360)
+
+
+#### Name: [Mihir Saini](https://github.com/mihir224)
+
+- Place: Haridwar, Uttarakhand, India
+- Bio: Undergrad
+- GitHub: [mihir224](https://github.com/mihir224)
+
+#### Name: [Ajdin Mesic](https://github.com/AjdinTM)
+
+- Education: Online courses
+- Place: Sarajevo, Bosnia and Herzegovina
+- Bio: Student
+- GitHib: [AjdinTM](https://github.com/AjdinTM)
+
+- GitHub: [imlakshaychauhan](https://github.com/imlakshaychauhan)
+
+
+#### Name: [Ishu Raj](https://github.com/RajIshu)
+
+- Education: B.Tech., University of Petroleum and Energy Studies
+- Place: Dehradun, Uttrakhand, India
+- Bio: Undergraduate Student
+- GitHub: [RajIshu](https://github.com/RajIshu)
+
+#### Name: [Owen Gaspard](https://github.com/owengaspard)
+
+- Place: New Orleans, Louisiana, United States
+- Bio: Developer, student
+- GitHub: [owengaspard](https://github.com/owengaspard)
+
+
+
+
