@@ -1383,6 +1383,13 @@
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
 
+#### Name: [Harshit Sharma ](https://github.com/HARSHITSHARMA18)
+
+- Place: Delhi, Delhi, India
+- Bio: A Passionate Developer and Designer pursuing undergrad from Delhi Technological University
+- GitHub: [HARSHITSHARMA18](https://github.com/HARSHITSHARMA18)
+
+
 #### Name: [Sanket Upadhyay](https://github.com/SanketUpadhyay01)
 
 - Education: BTech, Jabalpur
@@ -1487,5 +1494,6 @@
 - Place: Udaipur, Rajasthan, INDIA
 - Bio:  CS Undergrad Student,Tech Enthusiast and Competitive coding
 - GitHub: [soniyash9000](https://github.com/soniyash9000)
+
 
 
