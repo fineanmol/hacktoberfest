@@ -17,12 +17,20 @@
 - Bio: Student at Delhi Technological University
 - GitHub: [rahul8858](https://github.com/rahul8858)
 
+#### Name: [Abhishek Jindal](https://github.com/Abhishek-0001)
+
+
+- Place: Patiala, Punjab,India
+- Bio: Student at Thapar University
+- GitHub: [Abhishek-0001](https://github.com/Abhishek-0001)
+- 
 
 
 #### Name: [eshaananand](https://github.com/eshaananand)
 
 - Place: Ranchi, India
 - GitHub: [eshaananand](https://github.com/eshaananand)
+
 
 
 
