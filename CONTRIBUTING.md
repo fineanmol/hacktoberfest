@@ -1424,6 +1424,14 @@
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
 
+
+#### Name: [Moukhik Gupta](https://github.com/moukhikgupta5)
+
+- Education : BE , Thapar University
+- Place: Rohtak, Haryana, INDIA
+- Bio:  Undergrad Student
+- GitHub: [moukhikgupta5](https://github.com/moukhikgupta5)
+
 #### Name: [Akash Gautam](https://github.com/geekblower)
 
 - Education: BCA , Motihari
@@ -1474,4 +1482,5 @@
 - Place: Udaipur, Rajasthan, INDIA
 - Bio:  CS Undergrad Student,Tech Enthusiast and Competitive coding
 - GitHub: [soniyash9000](https://github.com/soniyash9000)
+
 
