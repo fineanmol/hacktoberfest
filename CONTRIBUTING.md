@@ -790,3 +790,9 @@
 - Place: DevBhumi, Uttarakhand, India
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
+
+#### Name: [Bagas Saputro Adi Priyanto](https://github.com/bagasprynt)
+
+- Place: Semarang, Jawa Tengah, Indonesia
+- Bio: Just a college student at UNDIP
+- GitHub: [bagasprynt](https://github.com/bagasprynt)
