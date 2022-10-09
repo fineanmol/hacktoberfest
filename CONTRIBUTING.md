@@ -1682,6 +1682,7 @@
 - Education: BTech, Maharaja Surajmal Institute Of Technology, New Delhi, India
 - Place: New Delhi, India
 - Bio: IT Undergrad
+
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
 
 #### Name: [Ajdin Mesic](https://github.com/AjdinTM)
@@ -1690,3 +1691,14 @@
 - Place: Sarajevo, Bosnia and Herzegovina
 - Bio: Student
 - GitHib: [AjdinTM](https://github.com/AjdinTM)
+
+- GitHub: [imlakshaychauhan](https://github.com/imlakshaychauhan)
+
+
+#### Name: [Ishu Raj](https://github.com/RajIshu)
+
+- Education: B.Tech., University of Petroleum and Energy Studies
+- Place: Dehradun, Uttrakhand, India
+- Bio: Undergraduate Student
+- GitHub: [RajIshu](https://github.com/RajIshu)
+
