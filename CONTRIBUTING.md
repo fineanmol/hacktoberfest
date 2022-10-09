@@ -1683,3 +1683,9 @@
 - Place: New Delhi, India
 - Bio: IT Undergrad
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
+
+#### Name: [Mihir Saini](https://github.com/mihir224)
+
+- Place: Haridwar, Uttarakhand, India
+- Bio: Undergrad
+- GitHub: [mihir224](https://github.com/mihir224)
