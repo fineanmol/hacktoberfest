@@ -1423,6 +1423,14 @@
 - Bio:  Undergrad Student
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
+
+#### Name: [Kunal Gupta]((https://github.com/kunalgupta557a))
+
+- Education : BTech , RTU Kota
+- Place: kota INDIA
+- Bio:  Undergrad Student
+- GitHub: [kunalgupta557a](https://github.com/kunalgupta557a)
+
 #### Name: [Tham MK](https://github.com/thammk)
 - Education : Software Engineering, Campbell University
 - Place: Selangor, Malaysia
@@ -1450,6 +1458,7 @@
 - Place: Udaipur, Rajasthan, INDIA
 - Bio:  CS Undergrad Student,Tech Enthusiast and Competitive coding
 - GitHub: [soniyash9000](https://github.com/soniyash9000)
+
 
 
 
