@@ -1424,6 +1424,14 @@
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
 
+#### Name: [Shivam Pathak](https://github.com/ShivamPathak99)
+
+- Education : B.Tech , Kanpur
+- Place: Uttar Pradesh , INDIA
+- Bio:  Undergrad Student
+- GitHub: [Shivam Pathak](https://github.com/ShivamPathak99)
+
+
 #### Name: [Annie Treasa Sabu](https://github.com/AnnieTreasa)
 
 - Education : BTech , Kottayam
@@ -1490,6 +1498,7 @@
 - Place: Udaipur, Rajasthan, INDIA
 - Bio:  CS Undergrad Student,Tech Enthusiast and Competitive coding
 - GitHub: [soniyash9000](https://github.com/soniyash9000)
+
 
 
 
