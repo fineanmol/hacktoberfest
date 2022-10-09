@@ -1,3 +1,4 @@
+
 #### Name: [Madhumitha R](https://github.com/madhu-ram2012)
 
 - Place: Bangalore,India
@@ -24,12 +25,18 @@
 - Bio: Web Developer
 - GitHub: [Arjun Prajapati](https://github.com/prajapati-arjun)
 
+
 #### Name: [David Ojeda](https://github.com/dojetin)
 
 - Place: Seville, Spain
 - Bio: Programing Student
 - GitHub: [dojetin](https://github.com/dojetin)
 
+#### Name: [Muhammad Usman Ghani](https://github.com/usmanghanidev)
+
+- Place: Karachi, Pakistan
+- Bio: React Developer
+- GitHub: [usmanghanidev](https://github.com/usmanghanidev)
 
 
 #### Name: [Shubhanshu Gupta](https://github.com/Gptshubh)
@@ -39,7 +46,11 @@
 
 - Place: Delhi, India
 - Bio: Backend Developer, Gamer
+
+- GitHub: [bigbskywalker](https://github.com/bigbskywalker)
+
 - GitHub: [Gptshubh](https://github.com/Gptshubh)
+
 
 #### Name: [Abdulqoyyum Ibrahim](https://github.com/devbayo)
 
@@ -59,11 +70,13 @@
 - Bio: Frontend Engineer , codeforces pupil , Codechef 3star
 - GitHub: [surajkeshari](https://github.com/surajkeshari)
 
+
 #### Name : [Aditya D](https://github.com/adi271001)
 
 - Place : JP Nagar ,Bengaluru , Karnataka ,India
 - Bio: AI-ML Developer , Hackerrank 5star
 - GitHub: [adi271001](https://github.com/adi271001)
+
 
 #### Name: [Soham Samantaray](https://github.com/SamSoham)
 
@@ -1072,14 +1085,16 @@
 - Bio: Full Stack Web Developer
 - GitHub: [MujahidAli954](https://github.com/MujahidAli954)
 
+
 #### Name: [Tanmay Roy](https://github.com/roytanmay)
 
 - Education : Jadavpur University , West Bengal
 - Place: Jalpaiguri , West Bengal , INDIA
 - Bio: IT Undergrad Student and Web Developer
 - GitHub: [roytanmay](https://github.com/roytanmay)
--
--
+
+
+
 
 #### Name: [Gem Schley(https://github.com/disabledandfab)
 
@@ -1355,6 +1370,7 @@
 
 
 
+
 #### Name: [Prashant Agheda](https://github.com/prashant-agheda/)
 
 #### Name: [siddhesh dhumal](https://github.com/siddhesh1133)
@@ -1539,3 +1555,4 @@
 - Place: Pune, Maharashtra, India
 - Bio: Post-Grad Student
 - GitHub: [prashant-agheda](https://github.com/prashant-agheda/)
+
