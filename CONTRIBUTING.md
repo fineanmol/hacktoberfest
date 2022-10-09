@@ -1054,6 +1054,15 @@
 - Bio: IT Undergrad Student and Web Developer
 - GitHub: [roytanmay](https://github.com/roytanmay)
 
+#### Name: [Tanmay Roy](https://github.com/roytanmay)
+
+- Education : Jadavpur University , West Bengal
+- Place: Jalpaiguri , West Bengal , INDIA
+- Bio: IT Undergrad Student and Web Developer
+- GitHub: [roytanmay](https://github.com/roytanmay)
+- 
+- 
+
 #### Name: [Gem Schley(https://github.com/disabledandfab)
 
 - Place: Milwaukee, WI, USA
@@ -1340,6 +1349,7 @@
 - Bio: Undergrad Student
 - GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
+
 #### Name: [Surahmat](https://github.com/soerahmat69)
 
 - Education : ULBI, west Java, Indoneisa
@@ -1351,13 +1361,12 @@
 
 - Education : Btech , Delhi
 - Place: Delhi , INDIA
-- Bio: Undergrad Student
+- Bio:  Undergrad Student
 - GitHub: [saloship](https://github.com/saloship)
 
 #### Name: [Harsha Vardhan](https://github.com/harshavar1)
 
 - Education : BTech , Thiruvananthapuram
 - Place: Thiruvananthapuram, Kerala, INDIA
-- Bio: Undergrad Student
+- Bio:  Undergrad Student
 - GitHub: [harshavar1](https://github.com/harshavar1)
-git 
