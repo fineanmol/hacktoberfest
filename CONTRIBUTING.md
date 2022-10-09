@@ -1400,3 +1400,10 @@
 - Bio:  Undergrad Student
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
+#### Name: [Shivam Pathak](https://github.com/ShivamPathak99)
+
+- Education : Btech , Kanpur
+- Place: Uttar Pradesh , INDIA
+- Bio:  Undergrad Student
+- GitHub: [Shivam Pathak](https://github.com/ShivamPathak99)
+
