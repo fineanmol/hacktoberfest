@@ -1437,7 +1437,7 @@
 - Bio: Btech Computer Science final year student
 - GitHub: [mansiyeole67](https://github.com/raikiran07)
 
-#### Name: [YOUR NAME](GitHub link)
+#### Name: [Krishna Kumar](https://github.com/Krishnapro)
 
 - Place: Remote, Bihar, India
 - Bio: FullStack Developer
