@@ -1400,3 +1400,9 @@
 - Bio:  Undergrad Student
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
+#### Name: [Sanket Upadhyay](https://github.com/SanketUpadhyay01)
+
+- Education: BTech, Jabalpur
+- Place: Jabalpur, Madhya Pradesh, INDIA
+- Bio: Undergrad Student
+- GitHub: [SanketUpadhyay01](https://github.com/SanketUpadhyay01)
