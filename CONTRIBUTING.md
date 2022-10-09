@@ -30,11 +30,16 @@
 - Bio: Programing Student
 - GitHub: [dojetin](https://github.com/dojetin)
 
+
+
+#### Name: [Shubhanshu Gupta](https://github.com/Gptshubh)
+
 #### Name: [Ashish Gupta](https://github.com/bigbskywalker)
+
 
 - Place: Delhi, India
 - Bio: Backend Developer, Gamer
-- GitHub: [bigbskywalker](https://github.com/bigbskywalker)
+- GitHub: [Gptshubh](https://github.com/Gptshubh)
 
 #### Name: [Abdulqoyyum Ibrahim](https://github.com/devbayo)
 
