@@ -41,6 +41,7 @@
 - GitHub: [avnishranwa7](https://github.com/avnishranwa7)
 
 #### Name: [Dev Kumar Gupta](https://github.com/DevGupta-ikr)
+
 - Place: Kolkata, West Bengal, India
 - Bio: Product Designer
 - GitHub: [DevGupta-ikr](https://github.com/DevGupta-ikr)
@@ -189,52 +190,53 @@
 - Bio: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 - GitHub: [ProgrammerDG](https://github.com/ProgrammerDG)
 
-
 #### Name: [Shivam Kumar Padney](https://github.com/Shivam164)
+
 - Place: New Delhi, India
 - Bio: "Live to dominate"
 - GitHub: [Shivam164](https://github.com/Shivam164)
 
-
 #### Name: [Naufal Hisyam](https://github.com/naufalhisyam)
+
 - Place: West Java, Indonesia
 - Bio: A tech enthusiast
 - GitHub: [naufalhisyam](https://github.com/naufalhisyam)
 
-
 #### Name: [Shashank Singh](https://github.com/Shashank0271)
+
 - Place: Bengaluru, India
 - Bio: "// No comment"
 - GitHub: [Shashank0271](https://github.com/Shashank0271)
 
 #### Name: [Beatriz Sabino](https://github.com/beatriz-sabino)
+
 - Place: Portugal
-- Bio: Learning how to contribute to Hacktoberfest 
+- Bio: Learning how to contribute to Hacktoberfest
 - GitHub: [beatriz-sabino](https://github.com/beatriz-sabino)
 
-
 #### Name: [Aditya Rawat](https://github.com/tech-with-aditya)
+
 - Place: Dehradun, Uttarakhand, India
 - Bio: "B.Tech CSE Undergrad"
 - GitHub: [tech-with-aditya](https://github.com/tech-with-aditya)
 
 #### Name: [Pradeep Khatri](https://github.com/PradeepKhatri)
+
 - Place: Haryana, India
 - Bio: "Suiiiiii"
 - GitHub: [PradeepKhatri](https://github.com/PradeepKhatri)
 
-
 #### Name: [Sourav Kumar Bhunia](https://github.com/souravbhunia07)
+
 - Place: New Delhi, India
 - Bio: "No.1 knucklehead Programmer"
 - Github: [souravbhunia07](https://github.com/souravbhunia07)
 
-
 #### Name: [PunGrumpy](https://github.com/PunGrumpy)
+
 - Place: Bangkok, Thailand
 - Bio: College student
 - GitHub: [PunGrumpy](https://github.com/PunGrumpy)
-
 
 #### Name: [Udeet Mittal](https://github.com/udeet27)
 
@@ -242,24 +244,26 @@
 - Bio: Web-developer & UI/UX designer
 - GitHub: [Udeet Mittal](https://github.com/udeet27)
 
-
 #### Name: [Anns Shahbaz](https://github.com/Ansi007)
+
 - Place: Lahore, Punjab, Pakistan
 - Bio: "24/7 Student"
 - GitHub: [Ansi007](https://github.com/Ansi007)
 
-
 #### Name: [Kush Munot](https://github.com/Kush-munot)
+
 - Place: Nagpur, India
 - Bio: "24/7 Student"
 - GitHub: [Kush Munot](https://github.com/Kush-munot)
 
 #### Name: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
+
 - Place: Bengaluru, India
 - Bio: Software Developer
 - Github: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
 
 #### Name: [Kush Munot](https://github.com/Kush-munot)
+
 - Place: Nagpur, India
 - Bio: "24/7 Student"
 - GitHub: [Kush Munot](https://github.com/Kush-munot)
@@ -270,14 +274,11 @@
 - Bio: I love coding!
 - GitHub: [hoplite2000](https://github.com/hoplite2000)
 
-
 #### Name: [Dhruv Bhagatkar](https://github.com/yunocrown)
 
 - Place: Mumbai,Maharashtra
 - Bio: 2nd Year EXTC student in KJSCE
 - GitHub: [dhruv2003](https://github.com/dhruv2003)
-
-
 
 #### Name: [Siddhesh Khandagale](https://github.com/Siddheshk02)
 
@@ -285,21 +286,26 @@
 - Bio: Student
 - GitHub: [Siddhesh Khandagale](https://github.com/Siddheshk02)
 
-
 #### Name: [Abbey Santos](https://github.com/AbbeyIT)
+
 - Place: Manila, Philippines
 - Bio: Open Source Enthusiast
 - GitHub: [AbbeyIT](https://github.com/AbbeyIT)
 
-
 #### Name: [Sachin Aghera](https://github.com/AgheraSachin)
+
 - Place: Karnataka, India
 - Bio: Open Source Enthusiast
 - GitHub: [Sachin Aghera](https://github.com/AgheraSachin)
 
-
 #### Name: [Khushi Marothi](https://github.com/khushimarothi)
+
 - Place: Bhopal, India
 - Bio: Developer | Coder
 - GitHub: [khushimarothi](https://github.com/khushimarothi)
 
+#### Name: [Tyler Bacon](https://github.com/tbacon781)
+
+- Place: Boston, USA
+- Bio: developer
+- GitHub: [tbacon781](https://github.com/tbacon781)
