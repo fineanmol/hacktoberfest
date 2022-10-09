@@ -1047,6 +1047,13 @@
 - Bio: Full Stack Web Developer
 - GitHub: [MujahidAli954](https://github.com/MujahidAli954)
 
+#### Name: [Tanmay Roy](https://github.com/roytanmay)
+
+- Education : Jadavpur University , West Bengal
+- Place: Jalpaiguri , West Bengal , INDIA
+- Bio: IT Undergrad Student and Web Developer
+- GitHub: [roytanmay](https://github.com/roytanmay)
+
 #### Name: [Gem Schley(https://github.com/disabledandfab)
 
 - Place: Milwaukee, WI, USA
@@ -1319,6 +1326,13 @@
 - Bio: IT Undergrad Student
 - GitHub: [gajanansr](https://github.com/gajanansr)
 
+#### Name: [Tamil Bharathi](https://github.com/tamil-code)
+
+- Education : KSRCT , Namakkal
+- Place: Karur , Tamilnadu , INDIA
+- Bio: CSE Undergrad Student
+- GitHub: [tamil-code](https://github.com/tamil-code)
+
 #### Name: [Lavanya Lenka](https://github.com/Lavanyasuc31)
 
 - Education : BE , Bangalore
@@ -1332,3 +1346,17 @@
 - Place: Bandung, West Java, Indonesia
 - Bio: Frontend Developer
 - GitHub: [Soerahmat69](https://github.com/soerahmat69)
+
+#### Name: [Saloni Kansal](https://github.com/saloship)
+
+- Education : Btech , Delhi
+- Place: Delhi , INDIA
+- Bio: Undergrad Student
+- GitHub: [saloship](https://github.com/saloship)
+
+#### Name: [Harsha Vardhan](https://github.com/harshavar1)
+
+- Education : BTech , Thiruvananthapuram
+- Place: Thiruvananthapuram, Kerala, INDIA
+- Bio: Undergrad Student
+- GitHub: [harshavar1](https://github.com/harshavar1)
