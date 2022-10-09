@@ -1382,6 +1382,12 @@
 - Bio: Undergrad Student
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
+#### Name: [Shrishail Patil](https://github.com/shrishail356)
+
+- Place: Hubbli, Karnataka ,India
+- Bio: Student at Vellore Institute of Technology
+- GitHub: [shrishail356](https://github.com/shrishail356)
+
 
 #### Name: [Harshit Sharma ](https://github.com/HARSHITSHARMA18)
 
