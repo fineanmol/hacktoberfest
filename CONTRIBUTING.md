@@ -1383,6 +1383,13 @@
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
 
+#### Name: [YOUR NAME](https://github.com/yogeshwari-20000609)
+
+- Place: Pune, Maharashtra, India
+- Bio: Undergrad student
+- GitHub: [Yogeshwari Bahiram](https://github.com/yogeshwari-20000609)
+
+
 #### Name: [ABHISHEK KAYAL](https://github.com/Drako-Rexon)
 
 - Place: New Delhi, Delhi, INDIA
@@ -1472,5 +1479,4 @@
 - Place: Udaipur, Rajasthan, INDIA
 - Bio:  CS Undergrad Student,Tech Enthusiast and Competitive coding
 - GitHub: [soniyash9000](https://github.com/soniyash9000)
-
 
