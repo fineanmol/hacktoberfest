@@ -1,3 +1,9 @@
+#### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
+
+- Place: Faisalabad, Punjab, Pakistan
+- Bio: Machine Learning Engineer
+- GitHub: [Muaaz Ahmad](https://github.com/muaazahmad00)
+
 #### Name: [Harsh Shah](https://github.com/harsh-0986)
 
 - Place: Surat, India
