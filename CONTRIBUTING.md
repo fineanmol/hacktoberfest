@@ -1683,3 +1683,10 @@
 - Place: New Delhi, India
 - Bio: IT Undergrad
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
+
+#### Name: [Rishi Mathur](https://github.com/skyrunner360)
+
+- Education: BCA, Ajeenkya DY Patil University, Pune, India
+- Place: Ajmer,Rajasthan, India
+- Bio: Frontend Web Developer
+- GitHib: [skyrunner360](https://github.com/skyrunner360)
