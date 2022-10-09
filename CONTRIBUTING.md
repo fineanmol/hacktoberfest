@@ -1000,7 +1000,7 @@
 - Bio: Undergrad Student
 - GitHub: [mansiyeole67](https://github.com/mansiyeole67)
 
-#### Name: [YOUR NAME](GitHub link)
+#### Name: [Krishna Kumar](https://github.com/Krishnapro)
 
 - Place: Remote, Bihar, India
 - Bio:  FullStack Developer
