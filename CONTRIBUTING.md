@@ -1082,6 +1082,15 @@
 
 
 
+#### Name: [Tanmay Roy](https://github.com/roytanmay)
+
+- Education : Jadavpur University , West Bengal
+- Place: Jalpaiguri , West Bengal , INDIA
+- Bio: IT Undergrad Student and Web Developer
+- GitHub: [roytanmay](https://github.com/roytanmay)
+- 
+- 
+
 #### Name: [Gem Schley(https://github.com/disabledandfab)
 
 - Place: Milwaukee, WI, USA
