@@ -4,6 +4,12 @@
 - Bio: Student, Web developer
 - GitHub: [Harsh-0986](https://github.com/Harsh-0986)
 
+#### Name: [Aditya_Arora](https://github.com/Adityaarora08)
+
+- Place: Chandigarh, India
+- Bio: Student, Full-Stack Web developer
+- GitHub: [Adityaarora08](https://github.com/Adityaarora08)
+- 
 #### Name: [Madhumitha R](https://github.com/madhu-ram2012)
 
 - Place: Bangalore,India
