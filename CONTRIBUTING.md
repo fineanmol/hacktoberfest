@@ -4,6 +4,11 @@
 - Bio: Student at Delhi Technological University
 - GitHub: [rahul8858](https://github.com/rahul8858)
 
+#### Name: [eshaananand](https://github.com/eshaananand)
+
+- Place: Ranchi, India
+- GitHub: [eshaananand](https://github.com/eshaananand)
+
 
 #### Name: [Arjun Prajapati ](https://github.com/prajapati-arjun)
 
