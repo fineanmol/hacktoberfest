@@ -1402,6 +1402,6 @@
 
 #### Name: [Khushi Tayal](https://github.com/KhushiTayal)
 
-- Place: Sendhwa, INDIA
+- Place: Sendhwa, Madhya Pradesh, INDIA
 - Bio: College student
 - GitHub: [KhushiTayal](https://github.com/KhushiTayal)
