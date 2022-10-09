@@ -1702,3 +1702,8 @@
 - Bio: Undergraduate Student
 - GitHub: [RajIshu](https://github.com/RajIshu)
 
+#### Name: [Owen Gaspard](https://github.com/owengaspard)
+
+- Place: New Orleans, Louisiana, United States
+- Bio: Developer, student
+- GitHub: [owengaspard](https://github.com/owengaspard)
