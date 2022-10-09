@@ -1402,6 +1402,6 @@
 
 #### Name: [deesclouds](https://github.com/deesclouds)
 
-- Place: Long Beach, California, USa
+- Place: Long Beach, California, USA
 - Bio: Software Engineer
 - GitHub: [deesclouds](https://github.com/deesclouds)
