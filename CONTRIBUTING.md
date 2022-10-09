@@ -1378,4 +1378,10 @@
 - GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
 
+#### Name: [Harsha Vardhan](https://github.com/harshavar1)
+
+- Education : BTech , Thiruvananthapuram
+- Place: Thiruvananthapuram, Kerala, INDIA
+- Bio:  Undergrad Student
+- GitHub: [harshavar1](https://github.com/harshavar1)
 
