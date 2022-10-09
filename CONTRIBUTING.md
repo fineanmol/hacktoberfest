@@ -1386,6 +1386,12 @@
 - Bio:  Undergrad Student
 - GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
+#### Name: [Saloni Kansal](https://github.com/saloship)
+
+- Education : Btech , Delhi
+- Place: Delhi , INDIA
+- Bio:  Undergrad Student
+- GitHub: [saloship](https://github.com/saloship)
 
 #### Name: [Harsha Vardhan](https://github.com/harshavar1)
 
