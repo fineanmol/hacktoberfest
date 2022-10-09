@@ -1354,6 +1354,9 @@
 - GitHub: [gajanansr](https://github.com/gajanansr)
 
 
+
+#### Name: [Prashant Agheda](https://github.com/prashant-agheda/)
+
 #### Name: [siddhesh dhumal](https://github.com/siddhesh1133)
 - Education: SCOE ,PUNE
 - Place: Pune , maharashtra , INDIA
@@ -1531,3 +1534,8 @@
 
 
 
+
+- Education: MCA from DY Patil International University
+- Place: Pune, Maharashtra, India
+- Bio: Post-Grad Student
+- GitHub: [prashant-agheda](https://github.com/prashant-agheda/)
