@@ -1383,6 +1383,14 @@
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
 
+#### Name: [Sanket Upadhyay](https://github.com/SanketUpadhyay01)
+
+- Education: BTech, Jabalpur
+- Place: Jabalpur, Madhya Pradesh, INDIA
+- Bio: Undergrad Student
+- GitHub: [SanketUpadhyay01](https://github.com/SanketUpadhyay01)
+
+
 #### Name: [YOUR NAME](https://github.com/yogeshwari-20000609)
 
 - Place: Pune, Maharashtra, India
@@ -1479,4 +1487,5 @@
 - Place: Udaipur, Rajasthan, INDIA
 - Bio:  CS Undergrad Student,Tech Enthusiast and Competitive coding
 - GitHub: [soniyash9000](https://github.com/soniyash9000)
+
 
