@@ -173,7 +173,7 @@
 
 #### Name: [Shivam Garg](https://github.com/Shivam311201)
 
-- Place: Delhi, India
+- Place: Delhi, New Delhi, India
 - Bio: Computer Science Engineering undergrad
 - GitHub: [Shivam Garg](https://github.com/Shivam311201)
 
