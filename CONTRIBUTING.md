@@ -1698,6 +1698,14 @@
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
 
 
+#### Name: [Sanyam Aggarwal](https://github.com/MasterofDeath0)
+
+- Education : BTech, Netaji Subhas University of Technology
+- Place: New Delhi, India
+- Bio: Hey! Sanyam here. Wanna connect <3
+- GitHub: [Sanyam Aggarwal](https://github.com/)
+
+
 #### Name: [Rishi Mathur](https://github.com/skyrunner360)
 
 - Education: BCA, Ajeenkya DY Patil University, Pune, India
@@ -1734,5 +1742,6 @@
 - Place: New Orleans, Louisiana, United States
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
+
 
 
