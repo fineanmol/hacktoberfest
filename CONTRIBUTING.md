@@ -1581,6 +1581,14 @@
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
 
+#### Name: [PARAVPREET SINGH](https://github.com/PARAVPREET17)
+
+- Education : BTech , Patiala
+- Place: Patiala, Punjab, INDIA
+- Bio:  Undergrad Student
+- GitHub: [PARAVPTREEt17](https://github.com/PARAVPREET17)
+
+
 
 #### Name: [Arghyadev Sarkar](https://github.com/harshavar1)
 
@@ -1747,6 +1755,7 @@
 - Place: New Delhi, India
 - Bio: IT Undergrad
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
+
 
 
 
