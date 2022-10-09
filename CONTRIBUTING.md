@@ -1400,3 +1400,10 @@
 - Bio:  Undergrad Student
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
+
+#### Name: [Moukhik Gupta](https://github.com/moukhikgupta5)
+
+- Education : BE , Thapar University
+- Place: Rohtak, Haryana, INDIA
+- Bio:  Undergrad Student
+- GitHub: [moukhikgupta5](https://github.com/moukhikgupta5)
