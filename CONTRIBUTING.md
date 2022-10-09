@@ -1402,7 +1402,7 @@
 
 #### Name: [Shivam Pathak](https://github.com/ShivamPathak99)
 
-- Education : Btech , Kanpur
+- Education : B.Tech , Kanpur
 - Place: Uttar Pradesh , INDIA
 - Bio:  Undergrad Student
 - GitHub: [Shivam Pathak](https://github.com/ShivamPathak99)
