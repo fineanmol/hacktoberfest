@@ -1,9 +1,21 @@
+#### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
+
+- Place: Faisalabad, Punjab, Pakistan
+- Bio: Machine Learning Engineer
+- GitHub: [Muaaz Ahmad](https://github.com/muaazahmad00)
+
 #### Name: [Harsh Shah](https://github.com/harsh-0986)
 
 - Place: Surat, India
 - Bio: Student, Web developer
 - GitHub: [Harsh-0986](https://github.com/Harsh-0986)
 
+#### Name: [Aditya_Arora](https://github.com/Adityaarora08)
+
+- Place: Chandigarh, India
+- Bio: Student, Full-Stack Web developer
+- GitHub: [Adityaarora08](https://github.com/Adityaarora08)
+- 
 #### Name: [Madhumitha R](https://github.com/madhu-ram2012)
 
 - Place: Bangalore,India
@@ -21,12 +33,6 @@
 - Place: Patiala, Punjab,India
 - Bio: Student at Thapar University
 - GitHub: [Abhishek-0001](https://github.com/Abhishek-0001)
--
-
-#### Name: [eshaananand](https://github.com/eshaananand)
-
-- Place: Ranchi, India
-- GitHub: [eshaananand](https://github.com/eshaananand)
 
 #### Name: [Arjun Prajapati ](https://github.com/prajapati-arjun)
 
@@ -46,16 +52,12 @@
 - Bio: React Developer
 - GitHub: [usmanghanidev](https://github.com/usmanghanidev)
 
-#### Name: [Shubhanshu Gupta](https://github.com/Gptshubh)
-
 #### Name: [Ashish Gupta](https://github.com/bigbskywalker)
 
 - Place: Delhi, India
 - Bio: Backend Developer, Gamer
 
 - GitHub: [bigbskywalker](https://github.com/bigbskywalker)
-
-- GitHub: [Gptshubh](https://github.com/Gptshubh)
 
 #### Name: [Abdulqoyyum Ibrahim](https://github.com/devbayo)
 
@@ -243,8 +245,6 @@
 - Bio: Student
 - GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 
-#### Name: [Prashant Bhapkar](https://github.com/Prashant-Bhapkar)
-
 - Place: Pune, India
 - Bio: Student
 - GitHub: [Prashant Bhapkar](https://github.com/Prashant-Bhapkar)
@@ -429,13 +429,13 @@
 - Bio: Enjoying this wonderful hacktober
 - GitHub: [Divyanshu Modi](https://github.com/Divyanshu-Modi)
 
-#### Name: [प्रथमेश | Prathmesh](https://github.com/prathmesh-b)
-
 #### Name: [Chirag Arora](https://github.com/Chirag8023)
 
 - Place: City, State, Country
 - Bio: Who are you?
 - GitHub: [Chirag8023](https://github.com/Chirag8023)
+
+#### Name: [प्रथमेश | Prathmesh](https://github.com/prathmesh-b)
 
 - Place: Mumbai, India
 - Bio: I love DOGS and FISH! :dog: :fish:
@@ -1702,3 +1702,8 @@
 - Bio: Undergraduate Student
 - GitHub: [RajIshu](https://github.com/RajIshu)
 
+#### Name: [Owen Gaspard](https://github.com/owengaspard)
+
+- Place: New Orleans, Louisiana, United States
+- Bio: Developer, student
+- GitHub: [owengaspard](https://github.com/owengaspard)
