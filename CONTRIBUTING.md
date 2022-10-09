@@ -1690,6 +1690,13 @@
 
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
 
+
+#### Name: [Mihir Saini](https://github.com/mihir224)
+
+- Place: Haridwar, Uttarakhand, India
+- Bio: Undergrad
+- GitHub: [mihir224](https://github.com/mihir224)
+
 #### Name: [Ajdin Mesic](https://github.com/AjdinTM)
 
 - Education: Online courses
@@ -1712,3 +1719,4 @@
 - Place: New Orleans, Louisiana, United States
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
+
