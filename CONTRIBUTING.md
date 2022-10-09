@@ -974,6 +974,13 @@
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
+
+#### Name: [Bagas Saputro Adi Priyanto](https://github.com/bagasprynt)
+
+- Place: Semarang, Jawa Tengah, Indonesia
+- Bio: Just a college student at UNDIP
+- GitHub: [bagasprynt](https://github.com/bagasprynt)
+
 #### Name: [Ritik Kumar Gupta](https://github.com/ritik-rkg)
 
 - Place: Bangalore, India
@@ -1719,4 +1726,5 @@
 - Place: New Orleans, Louisiana, United States
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
+
 
