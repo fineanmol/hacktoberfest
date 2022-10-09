@@ -1400,3 +1400,10 @@
 - Bio:  Undergrad Student
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
+#### Name: [Yash Soni](https://github.com/soniyash9000)
+
+- Education : BTech , Udaipur 
+- Place: Udaipur, Rajasthan, INDIA
+- Bio:  CS Undergrad Student,Tech Enthusiast and Competitive coding
+- GitHub: [soniyash9000](https://github.com/soniyash9000)
+
