@@ -1424,6 +1424,14 @@
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
 
+#### Name: [Annie Treasa Sabu](https://github.com/AnnieTreasa)
+
+- Education : BTech , Kottayam
+- Place: Kottayam, Kerala, India
+- Bio: Undergrad Student
+- GitHub: [AnnieTreasa](https://github.com/AnnieTreasa)
+
+
 
 #### Name: [Moukhik Gupta](https://github.com/moukhikgupta5)
 
@@ -1482,5 +1490,6 @@
 - Place: Udaipur, Rajasthan, INDIA
 - Bio:  CS Undergrad Student,Tech Enthusiast and Competitive coding
 - GitHub: [soniyash9000](https://github.com/soniyash9000)
+
 
 
