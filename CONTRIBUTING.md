@@ -1400,3 +1400,9 @@
 - Bio:  Undergrad Student
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
+#### Name: [Akash Gautam](https://github.com/geekblower)
+
+- Education: BCA , Motihari
+- Place: Motihari , Bihar , India
+- Bio: Undergrad Student
+- GitHub: [Geekblower](https://github.com/geekblower)
