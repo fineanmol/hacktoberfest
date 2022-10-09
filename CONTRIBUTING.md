@@ -1673,4 +1673,9 @@
 - Bio: Post-Grad Student
 - GitHub: [prashant-agheda](https://github.com/prashant-agheda/)
 
+#### Name: [Lakshay Chauhan](https://github.com/imlakshaychauhan)
 
+- Education: BTech, Maharaja Surajmal Institute Of Technology, New Delhi, India
+- Place: New Delhi, India
+- Bio: IT Undergrad
+- GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
