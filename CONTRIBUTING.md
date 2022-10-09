@@ -1518,6 +1518,14 @@
 - Bio: Undergrad Student
 - GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
+
+#### Name: [Nathan Fiscus](https://github.com/nfiscus)
+
+- Place: Tuscumbia, Alabama, Unites States of America
+- Bio: QA Analyst
+- GitHub: [nfiscus](https://github.com/nfiscus)
+
+
 #### Name: [Anirban Dey](https://github.com/anirbandey303)
 
 - Place: Kolkata, India.
@@ -1539,6 +1547,7 @@
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
 #### Name: [Shrishail Patil](https://github.com/shrishail356)
+
 
 - Place: Hubbli, Karnataka ,India
 - Bio: Student at Vellore Institute of Technology
