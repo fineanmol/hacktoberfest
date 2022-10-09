@@ -28,6 +28,11 @@
 - Place: Ranchi, India
 - GitHub: [eshaananand](https://github.com/eshaananand)
 
+#### Name: [Ruchir AGarwal] (https://github.com/Ruchir17-cmd)
+- Place: Nioda, UP
+- Bio: AR/VR developer
+- Github: [Ruchir AGARwal](https://github.com/Ruchir17-cmd)
+
 #### Name: [Arjun Prajapati ](https://github.com/prajapati-arjun)
 
 - Place: Indore , MP , India
