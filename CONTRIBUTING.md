@@ -1751,6 +1751,12 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Rjndrkha](https://github.com/rjndrkha)
+
+- Place: Jatim , Indonesia
+- Bio: Developer, student
+- GitHub: [Rjndrkha](https://github.com/rjndrkha)
+
 
 
 
