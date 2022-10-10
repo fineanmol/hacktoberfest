@@ -1752,5 +1752,10 @@
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
 
+#### Name: [Rizky Purba Dharmawan](https://github.com/rizkypur)
+
+- Place: Bogor, West Java, Indonesia
+- Bio: QA Engineer, JS Developer 
+- GitHub: [rizkypur](https://github.com/rizkypur)
 
 
