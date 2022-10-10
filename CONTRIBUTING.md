@@ -1752,5 +1752,9 @@
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
 
+#### Name: [Aarushi](https://github.com/aarushiksk)
 
+-Place: Lucknow, Uttar Pradesh, India
+-Bio: Computer Science Undergraduate
+-Github: [aarushiksk](https://github.com/aarushiksk)
 
