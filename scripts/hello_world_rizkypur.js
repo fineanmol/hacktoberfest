@@ -1,6 +1,6 @@
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Shivam Garg
+// AUTHOR: Rizky Purba Dharmawan
 // GITHUB: https://github.com/rizkypur
 
 
