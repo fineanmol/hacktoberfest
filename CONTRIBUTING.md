@@ -1803,6 +1803,13 @@
 - GitHub: [rizkypur](https://github.com/rizkypur)
 
 
+#### Name: [Anish Goyal](https://github.com/Anish-Goyal)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Information science Engineer
+- GitHub: [Anish Goyal](https://github.com/Anish-Goyal)
+
+
 
 - Education : Teerthankar Mahaveer University
 - Place: Moradabad
