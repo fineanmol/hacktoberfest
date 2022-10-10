@@ -1801,6 +1801,13 @@
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
 
+
+#### Name: [Shashwat Singh](https://github.com/hzshashwat)
+
+- Place: New Delhi, India
+- Bio: Ethical Hacker, Django Developer
+- GitHub: [Shashwat Singh](https://github.com/hzshashwat)
+
 #### Name: [Ahsan J. Butt](https://github.com/ahsanwtc)
 
 - Place: Bonn, NRW, Germany
@@ -1941,3 +1948,4 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
