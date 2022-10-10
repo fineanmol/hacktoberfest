@@ -1,4 +1,4 @@
-#### Name: [Muaaz Ahmad](https://github.com/Anish-Goyal)
+#### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
 
 - Place: Faisalabad, Punjab, Pakistan
 - Bio: Machine Learning Engineer
