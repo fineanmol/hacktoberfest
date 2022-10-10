@@ -34,6 +34,12 @@
 - Bio: Student at Delhi Technological University
 - GitHub: [rahul8858](https://github.com/rahul8858)
 
+#### Name: [Mihir Shinde](https://github.com/MihirShinde-29)
+
+- Place: Mumbai ,India
+- Bio: Student at Mumbai University
+- GitHub: [MihirShinde-29](https://github.com/MihirShinde-29)
+
 #### Name: [Abhishek Jindal](https://github.com/Abhishek-0001)
 
 - Place: Patiala, Punjab,India
