@@ -1751,6 +1751,12 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [D3nn7](https://github.com/D3nn7)
+
+- Place: Bavaria, Germany
+- Bio: Fullstack-Developer, Student
+- GitHub: [D3nn7](https://github.com/D3nn7)
+
 
 
 
