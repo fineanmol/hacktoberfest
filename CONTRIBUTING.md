@@ -1791,6 +1791,12 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [ADARSH PRADHAN](https://github.com/AdarshPradhan1508)
+
+
+- Place: New Delhi, Delhi, INDIA
+- Bio: Web Developer and B.Tech. pursuing student
+- GitHub: [Adarsh Pradhan](https://github.com/AdarshPradhan1508)
 
 #### Name: [Pravunath Singh](https://github.com/PravunathSingh)
 
@@ -1875,6 +1881,7 @@
 - Place: Moradabad
 - Bio: Developer, student
 - GitHub: [tusharjain01](https://github.com/tusharjain01)
+
 
 
 
