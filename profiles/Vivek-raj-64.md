@@ -7,14 +7,14 @@ Bhubaneswar, Odisha, India.
   3rd Year BTech in Information Technology from KIIT University
   
 # Skills:
+* C
 * C++
 * Java
 * HTML-CSS
 * Javascript
-* Video Editing
-* C
 * App development (java)
 * UI/UX
+* Video Editing
 
 # Profile:
 
