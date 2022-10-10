@@ -1751,6 +1751,10 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Gaurav Sharma](https://github.com/grvsh02)
 
+- Place: Delhi, India
+- Bio: Developer, student
+- GitHub: [Gaurav Sharma](https://github.com/grvsh02)
 
 
