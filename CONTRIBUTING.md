@@ -1400,3 +1400,8 @@
 - Bio:  Undergrad Student
 - GitHub: [harshavar1](https://github.com/harshavar1)
 
+#### Name: [Harshit Sharma ](https://github.com/HARSHITSHARMA18)
+
+- Place: Delhi, Delhi, India
+- Bio: A Passionate Developer and Designer pursuing undergrad from Delhi Technological University
+- GitHub: [HARSHITSHARMA18](https://github.com/HARSHITSHARMA18)
