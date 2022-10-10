@@ -1751,6 +1751,11 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Omm Pani](https://github.com/Omm-Pani)
+
+- Place: Keonjhar, Odisha, India
+- Bio: I am a Btech undergrad at VSSUT.
+- GitHub: [Omm-Pani](https://github.com/Omm-Pani)
 
 
 
