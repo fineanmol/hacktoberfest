@@ -1752,5 +1752,8 @@
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
 
+#### Name: [Shashwat Singh](https://github.com/hzshashwat)
 
-
+- Place: New Delhi, India
+- Bio: Ethical Hacker, Django Developer
+- GitHub: [Shashwat Singh](https://github.com/hzshashwat)
