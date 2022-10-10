@@ -1775,6 +1775,12 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Shashwat Poudel](https://github.com/shashwat-pd)
+
+- Place: Biratnagar, Province-1, Nepal
+- Bio: Developer, student
+- GitHub: [shashwat-pd](https://github.com/shashwat-pd)
+
 
 #### Name: [Tushar Jain](https://github.com/tusharjain01)
 
