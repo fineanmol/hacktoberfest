@@ -15,7 +15,8 @@
 - Place: Chandigarh, India
 - Bio: Student, Full-Stack Web developer
 - GitHub: [Adityaarora08](https://github.com/Adityaarora08)
-- 
+-
+
 #### Name: [Madhumitha R](https://github.com/madhu-ram2012)
 
 - Place: Bangalore,India
@@ -35,6 +36,7 @@
 - GitHub: [Abhishek-0001](https://github.com/Abhishek-0001)
 
 #### Name: [Ruchir AGarwal] (https://github.com/Ruchir17-cmd)
+
 - Place: Nioda, UP
 - Bio: AR/VR developer
 - Github: [Ruchir AGARwal](https://github.com/Ruchir17-cmd)
@@ -974,7 +976,6 @@
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
-
 #### Name: [Bagas Saputro Adi Priyanto](https://github.com/bagasprynt)
 
 - Place: Semarang, Jawa Tengah, Indonesia
@@ -1697,14 +1698,12 @@
 
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
 
-
 #### Name: [Parmar Kirti](https://github.com/kirti36)
 
-- Education : B.Tech, A.D. Patel Institute of Technology, India 
+- Education : B.Tech, A.D. Patel Institute of Technology, India
 - Place: Anand, Gujarat, India
 - Bio: Student, Web Developer
 - GitHub: [kirti36](https://github.com/kirti36)
-
 
 #### Name: [Abhinav Tiwary](https://github.com/abhinavtiwary04)
 
@@ -1712,15 +1711,12 @@
 - Bio: Full Stack Engineer
 - GitHub: [abhinavtiwary04](https://github.com/abhinavtiwary04)
 
-
-
 #### Name: [Rishi Mathur](https://github.com/skyrunner360)
 
 - Education: BCA, Ajeenkya DY Patil University, Pune, India
 - Place: Ajmer,Rajasthan, India
 - Bio: Frontend Web Developer
 - GitHib: [skyrunner360](https://github.com/skyrunner360)
-
 
 #### Name: [Mihir Saini](https://github.com/mihir224)
 
@@ -1737,7 +1733,6 @@
 
 - GitHub: [imlakshaychauhan](https://github.com/imlakshaychauhan)
 
-
 #### Name: [Ishu Raj](https://github.com/RajIshu)
 
 - Education: B.Tech., University of Petroleum and Energy Studies
@@ -1751,6 +1746,8 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Abhishek Anand](https://github.com/picturepatch07)
 
-
-
+- Place: Pune, Maharashtra, India
+- Bio: Undergraduate Student
+- GitHub: [picturepatch07](https://github.com/picturepatch07)
