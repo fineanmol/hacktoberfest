@@ -10,6 +10,12 @@
 - Bio: Student, Web developer
 - GitHub: [Harsh-0986](https://github.com/Harsh-0986)
 
+#### Name: [Paras Agarwal](https://github.com/Paras-5)
+
+- Place: Ghaziabad, U.P, INDIA
+- Bio: 3rd year Engineering Student
+- GitHub: [Paras-5](https://github.com/Paras-5)
+
 #### Name: [Aditya_Arora](https://github.com/Adityaarora08)
 
 - Place: Chandigarh, India
@@ -1751,7 +1757,16 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+
 #### Name: [Tushar Jain](https://github.com/tusharjain01)
+
+#### Name: [Rjndrkha](https://github.com/rjndrkha)
+
+- Place: Jatim , Indonesia
+- Bio: Developer, student
+- GitHub: [Rjndrkha](https://github.com/rjndrkha)
+
+
 
 
 - Education : Teerthankar Mahaveer University
