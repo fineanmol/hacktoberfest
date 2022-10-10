@@ -1798,6 +1798,11 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Ina Uosovic](https://github.com/ibrouos)
+
+- Place: Warwickshire, United Kingdom
+- Bio: Developer, Student
+- GitHub: [ibrouos](https://github.com/ibrouos)
 
 ### Name: [Aman Singh](https://github.com/Aman1919)
 
