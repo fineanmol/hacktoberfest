@@ -1,4 +1,4 @@
-#### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
+#### Name: [Muaaz Ahmad](https://github.com/Anish-Goyal)
 
 - Place: Faisalabad, Punjab, Pakistan
 - Bio: Machine Learning Engineer
@@ -1751,6 +1751,13 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+
+
+#### Name: [Anish Goyal](https://github.com/Anish-Goyal)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Information science Engineer
+- GitHub: [Anish Goyal](https://github.com/Anish-Goyal)
 
 
 
