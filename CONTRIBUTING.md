@@ -39,6 +39,13 @@
 - Bio: AR/VR developer
 - Github: [Ruchir AGARwal](https://github.com/Ruchir17-cmd)
 
+#### Name: [Avnesh Kumar](https://github.com/avnesh141)
+
+- Place: Bareilly, Uttar Pradesh INDIA
+- Bio: Developer, student
+- GitHub: [avnesh141](https://github.com/avnesh141)
+
+
 #### Name: [Arjun Prajapati ](https://github.com/prajapati-arjun)
 
 - Place: Indore , MP , India
