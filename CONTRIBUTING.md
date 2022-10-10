@@ -41,7 +41,8 @@
 - Place: Chandigarh, India
 - Bio: Student, Full-Stack Web developer
 - GitHub: [Adityaarora08](https://github.com/Adityaarora08)
-- 
+-
+
 #### Name: [Madhumitha R](https://github.com/madhu-ram2012)
 
 - Place: Bangalore,India
@@ -67,6 +68,7 @@
 - GitHub: [Abhishek-0001](https://github.com/Abhishek-0001)
 
 #### Name: [Ruchir AGarwal] (https://github.com/Ruchir17-cmd)
+
 - Place: Nioda, UP
 - Bio: AR/VR developer
 - Github: [Ruchir AGARwal](https://github.com/Ruchir17-cmd)
@@ -1018,7 +1020,6 @@
 - Bio: Electrical Engineer Playing with Hello World!
 - GitHub: [eagleanurag](https://github.com/eagleanurag)
 
-
 #### Name: [Bagas Saputro Adi Priyanto](https://github.com/bagasprynt)
 
 - Place: Semarang, Jawa Tengah, Indonesia
@@ -1741,14 +1742,12 @@
 
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
 
-
 #### Name: [Parmar Kirti](https://github.com/kirti36)
 
-- Education : B.Tech, A.D. Patel Institute of Technology, India 
+- Education : B.Tech, A.D. Patel Institute of Technology, India
 - Place: Anand, Gujarat, India
 - Bio: Student, Web Developer
 - GitHub: [kirti36](https://github.com/kirti36)
-
 
 #### Name: [Abhinav Tiwary](https://github.com/abhinavtiwary04)
 
@@ -1763,7 +1762,6 @@
 - Place: Ajmer,Rajasthan, India
 - Bio: Frontend Web Developer
 - GitHib: [skyrunner360](https://github.com/skyrunner360)
-
 
 #### Name: [Mihir Saini](https://github.com/mihir224)
 
@@ -1780,7 +1778,6 @@
 
 - GitHub: [imlakshaychauhan](https://github.com/imlakshaychauhan)
 
-
 #### Name: [Ishu Raj](https://github.com/RajIshu)
 
 - Education: B.Tech., University of Petroleum and Energy Studies
@@ -1793,6 +1790,14 @@
 - Place: New Orleans, Louisiana, United States
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
+
+
+#### Name: [Pravunath Singh](https://github.com/PravunathSingh)
+
+- Education: B.Tech., Academy of Technology, West Bengal, India.
+- Place: Kolkata, West Bengal, India
+- Bio: Software Development Engineer || Fullstack Developer
+- GitHub: [Pravunath Singh](https://github.com/PravunathSingh)
 
 #### Name: [Ishan Mishra](https://github.com/legitishan)
 
@@ -1870,5 +1875,6 @@
 - Place: Moradabad
 - Bio: Developer, student
 - GitHub: [tusharjain01](https://github.com/tusharjain01)
+
 
 
