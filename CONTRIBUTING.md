@@ -1791,6 +1791,9 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+
+#### Name: [Rohit Chowdhury](https://github.com/Rohit-1706)
+
 #### Name: [ADARSH PRADHAN](https://github.com/AdarshPradhan1508)
 
 
@@ -1883,5 +1886,9 @@
 - GitHub: [tusharjain01](https://github.com/tusharjain01)
 
 
+
+- Place: Kolkata, West Bengal, India
+- Bio: Developer, Undergraduate student
+- GitHub: [Rohit Chowdhury](https://github.com/Rohit-1706)
 
 
