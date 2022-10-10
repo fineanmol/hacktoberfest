@@ -1743,7 +1743,6 @@
 - GitHub: [abhinavtiwary04](https://github.com/abhinavtiwary04)
 
 
-
 #### Name: [Rishi Mathur](https://github.com/skyrunner360)
 
 - Education: BCA, Ajeenkya DY Patil University, Pune, India
@@ -1809,7 +1808,11 @@
 - Bio: Information science Engineer
 - GitHub: [Anish Goyal](https://github.com/Anish-Goyal)
 
+#### Name: [Tarun Mankar](https://github.com/tarunmankar)
 
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: Full Stack Web Developer 
+- GitHub: [tarunmankar](https://github.com/tarunmankar)
 
 - Education : Teerthankar Mahaveer University
 - Place: Moradabad
