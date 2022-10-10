@@ -1807,6 +1807,13 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+
+#### Name: [Idisi Efezino Endurance](https://github.com/efezinoidisi)
+
+- Place: Delta state, Nigeria
+- Bio: Frontend developer
+- GitHub: [efezinoidisi](https://github.com/efezinoidisi)
+
 #### Name: [Abhishek Anand](https://github.com/picturepatch07)
 
 
@@ -1975,5 +1982,6 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
 
 
