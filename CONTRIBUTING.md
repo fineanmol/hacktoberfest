@@ -1794,6 +1794,12 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Ishan Mishra](https://github.com/legitishan)
+
+
+- Place: Bangalore, Karnataka, India
+- Bio: Machine Learning Engineer, Student
+- GitHub: [Ishan Mishra](https://github.com/legitishan)
 
 #### Name: [Mayank Kumar](https://github.com/mayank-del)
 
@@ -1864,4 +1870,5 @@
 - Place: Moradabad
 - Bio: Developer, student
 - GitHub: [tusharjain01](https://github.com/tusharjain01)
+
 
