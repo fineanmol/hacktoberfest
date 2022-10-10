@@ -1,3 +1,9 @@
+#### Name: [Akhil Rawat](https://github.com/akhilrawat001)
+
+- Place: India
+- Bio: Full Stack Developer
+- Github: [Akhil Rawat](https://github.com/akhilrawat001)
+
 #### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
 
 - Place: Faisalabad, Punjab, Pakistan
