@@ -4,6 +4,12 @@
 - Bio: Machine Learning Engineer
 - GitHub: [Muaaz Ahmad](https://github.com/muaazahmad00)
 
+#### Name: [Subhash Karthik](https://github.com/Karthik-59)
+
+- Place: AP, India
+- Bio: Student
+- GitHub: [Karthik-59](https://github.com/Karthik-59)
+
 #### Name: [Harsh Shah](https://github.com/harsh-0986)
 
 - Place: Surat, India
