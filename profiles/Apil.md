@@ -6,7 +6,7 @@ KTM/NEPAL
 
 ### Academics
 
-BSc.Csit
+BSc.Csit, Nepal
 
 ### Profile Link
 
