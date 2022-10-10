@@ -93,6 +93,11 @@
 - Place: Cuttack,Odisha,INDIA
 - Bio: Undergrad Student CSE, FrontEnd Web Dev
 - GitHub: [SamSoham](https://github.com/SamSoham)
+#### Name: [Ajay Bairwa](https://github.com/bairwa25)
+
+- Place: Abu Road, Rajasthan, India
+- Bio: Student, Web Developer
+- GitHub: [bairwa25](https://github.com/bairwa25)
 
 #### Name: [Sarthak Rajput](https://github.com/rsarthak)
 
