@@ -1842,4 +1842,13 @@
 - Bio: Developer, student
 - GitHub: [tusharjain01](https://github.com/tusharjain01)
 
+#### Name: [Rohan Gope](https://github.com/Darkrider0007)
+
+- Place: Durgapur, West Bangal, India
+- Bio: Full Stack Web Developer 
+- GitHub: [Darkrider0007](https://github.com/Darkrider0007)
+- Education : Jalpaiguri Government Engineering College
+- Place: Jalpaiguri
+- Bio: Developer, student
+
 
