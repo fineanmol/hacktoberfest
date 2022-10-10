@@ -1,18 +1,14 @@
-
 #### Name: [Omm Pani](https://github.com/Omm-Pani)
 
 - Place: Keonjhar, Odisha, India
 - Bio: I am a Btech undergrad at VSSUT.
 - GitHub: [GitHub account name](https://github.com/Omm-Pani)
 
-
-
 ### Name: [Franklin Mensah](https://github.com/fiificode)
 
 - Place: Accra, Ghana
 - Bio: Frontend Web developer
 - Github: [fiificode](https://github.com/fiificode)
-
 
 #### Name: [Aarushi](https://github.com/aarushiksk)
 
@@ -25,9 +21,6 @@
 - Place: Greater Noida, India
 - Bio: Android Developer
 - GitHub: [Ashutosh Sharma]([https://github.com/ashutosh-buku])
-
-
-
 
 #### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
 
@@ -96,7 +89,6 @@
 - Bio: Developer, student
 - GitHub: [avnesh141](https://github.com/avnesh141)
 
-
 #### Name: [Arjun Prajapati ](https://github.com/prajapati-arjun)
 
 - Place: Indore , MP , India
@@ -151,6 +143,7 @@
 - Place: Cuttack,Odisha,INDIA
 - Bio: Undergrad Student CSE, FrontEnd Web Dev
 - GitHub: [SamSoham](https://github.com/SamSoham)
+
 #### Name: [Ajay Bairwa](https://github.com/bairwa25)
 
 - Place: Abu Road, Rajasthan, India
@@ -1807,7 +1800,6 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
-
 #### Name: [Idisi Efezino Endurance](https://github.com/efezinoidisi)
 
 - Place: Delta state, Nigeria
@@ -1815,7 +1807,6 @@
 - GitHub: [efezinoidisi](https://github.com/efezinoidisi)
 
 #### Name: [Abhishek Anand](https://github.com/picturepatch07)
-
 
 - Place: Pune, Maharashtra, India
 - Bio: Undergraduate Student
@@ -1833,8 +1824,6 @@
 - Bio: I am a Btech undergrad at VSSUT.
 - GitHub: [Omm-Pani](https://github.com/Omm-Pani)
 
-
-
 #### Name: [Shashwat Singh](https://github.com/hzshashwat)
 
 - Place: New Delhi, India
@@ -1847,14 +1836,11 @@
 - Bio: Software Engineer
 - GitHub: [ahsanwtc](https://github.com/ahsanwtc)
 
-
-
 #### Name: [Devashish Sarmah](https://github.com/devashishSarmah)
 
 - Place: Six mile, Guwahati, Assam, India
 - Bio: Developer
 - GitHub: [devashishSarmah](https://github.com/devashishSarmah)
-
 
 #### Name: [Rizki Octora Ramadhan](https://github.com/rizzyneck)
 
@@ -1872,7 +1858,6 @@
 
 #### Name: [Julio Alfian](https://github.com/julioalfian)
 
-
 - Place: Surabaya, Indonesia
 - Bio: Developer, student
 - GitHub: [Julio Alfian](https://github.com/julioalfian)
@@ -1880,7 +1865,6 @@
 #### Name: [Rohit Chowdhury](https://github.com/Rohit-1706)
 
 #### Name: [ADARSH PRADHAN](https://github.com/AdarshPradhan1508)
-
 
 - Place: New Delhi, Delhi, INDIA
 - Bio: Web Developer and B.Tech. pursuing student
@@ -1895,8 +1879,6 @@
 
 #### Name: [Ishan Mishra](https://github.com/legitishan)
 
-
-
 - Place: Bangalore, Karnataka, India
 - Bio: Machine Learning Engineer, Student
 - GitHub: [Ishan Mishra](https://github.com/legitishan)
@@ -1909,7 +1891,6 @@
 
 #### Name: [Gaurav Sharma](https://github.com/grvsh02)
 
-
 - Place: Delhi, India
 - Bio: Developer, student
 - GitHub: [Gaurav Sharma](https://github.com/grvsh02)
@@ -1920,9 +1901,7 @@
 - Bio: SDE at SAAS(startup), forever-student
 - GitHub: [Abhi16DTU](https://github.com/Abhi16DTU)
 
-
 #### Name: [Shashwat Poudel](https://github.com/shashwat-pd)
-
 
 - Place: Biratnagar, Province-1, Nepal
 - Bio: Developer, student
@@ -1930,14 +1909,10 @@
 
 #### Name: [Isha Sharma](https://github.com/ishyyyy)
 
-
 - Education: B.Tech., University of Petroleum and Energy Studies
 - Place: Dehradun, Uttrakhand, India
 - Bio: Undergraduate Student
 - GitHub: [ishyyyy](https://github.com/ishyyyy)
-
-
-
 
 #### Name: [Tushar Jain](https://github.com/tusharjain01)
 
@@ -1950,10 +1925,8 @@
 #### Name: [Rizky Purba Dharmawan](https://github.com/rizkypur)
 
 - Place: Bogor, West Java, Indonesia
-- Bio: QA Engineer, JS Developer 
+- Bio: QA Engineer, JS Developer
 - GitHub: [rizkypur](https://github.com/rizkypur)
-
-
 
 #### Name: [Anish Goyal](https://github.com/Anish-Goyal)
 
@@ -1964,7 +1937,7 @@
 #### Name: [Tarun Mankar](https://github.com/tarunmankar)
 
 - Place: Bhopal, Madhya Pradesh, India
-- Bio: Full Stack Web Developer 
+- Bio: Full Stack Web Developer
 - GitHub: [tarunmankar](https://github.com/tarunmankar)
 
 - Education : Teerthankar Mahaveer University
@@ -1972,16 +1945,10 @@
 - Bio: Developer, student
 - GitHub: [tusharjain01](https://github.com/tusharjain01)
 
-
-
 - Place: Kolkata, West Bengal, India
 - Bio: Developer, Undergraduate student
 - GitHub: [Rohit Chowdhury](https://github.com/Rohit-1706)
 
-
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
-
-
-
