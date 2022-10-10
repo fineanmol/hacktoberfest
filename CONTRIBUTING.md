@@ -1791,6 +1791,12 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Julio Alfian](https://github.com/julioalfian)
+
+
+- Place: Surabaya, Indonesia
+- Bio: Developer, student
+- GitHub: [Julio Alfian](https://github.com/julioalfian)
 
 #### Name: [Rohit Chowdhury](https://github.com/Rohit-1706)
 
@@ -1890,5 +1896,6 @@
 - Place: Kolkata, West Bengal, India
 - Bio: Developer, Undergraduate student
 - GitHub: [Rohit Chowdhury](https://github.com/Rohit-1706)
+
 
 
