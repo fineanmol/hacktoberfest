@@ -10,6 +10,12 @@
 - Bio: Student, Web developer
 - GitHub: [Harsh-0986](https://github.com/Harsh-0986)
 
+#### Name: [Paras Agarwal](https://github.com/Paras-5)
+
+- Place: Ghaziabad, U.P, INDIA
+- Bio: 3rd year Engineering Student
+- GitHub: [Paras-5](https://github.com/Paras-5)
+
 #### Name: [Aditya_Arora](https://github.com/Adityaarora08)
 
 - Place: Chandigarh, India
