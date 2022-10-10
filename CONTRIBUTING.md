@@ -1792,6 +1792,14 @@
 - Bio: Developer, student
 - GitHub: [shashwat-pd](https://github.com/shashwat-pd)
 
+#### Name: [Isha Sharma](https://github.com/ishyyyy)
+
+- Education: B.Tech., University of Petroleum and Energy Studies
+- Place: Dehradun, Uttrakhand, India
+- Bio: Undergraduate Student
+- GitHub: [ishyyyy](https://github.com/ishyyyy)
+
+
 
 #### Name: [Tushar Jain](https://github.com/tusharjain01)
 
