@@ -1751,6 +1751,8 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Ishan Mishra](https://github.com/legitishan)
 
-
-
+- Place: Bangalore, Karnataka, India
+- Bio: Machine Learning Engineer, Student
+- GitHub: [Ishan Mishra](https://github.com/legitishan)
