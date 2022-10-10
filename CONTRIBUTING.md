@@ -1794,6 +1794,12 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Gaurav Sharma](https://github.com/grvsh02)
+
+
+- Place: Delhi, India
+- Bio: Developer, student
+- GitHub: [Gaurav Sharma](https://github.com/grvsh02)
 
 #### Name: [Abhinav Singh](https://github.com/Abhi16DTU)
 
@@ -1803,6 +1809,7 @@
 
 
 #### Name: [Shashwat Poudel](https://github.com/shashwat-pd)
+
 
 - Place: Biratnagar, Province-1, Nepal
 - Bio: Developer, student
