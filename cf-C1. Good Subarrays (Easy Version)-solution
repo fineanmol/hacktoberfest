@@ -1,0 +1,264 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+using namespace __gnu_pbds;
+
+template <class T> using Tree = tree<T, null_type, less<T>,
+    rb_tree_tag, tree_order_statistics_node_update>;
+
+
+
+
+#define ll long long
+#define ld long double
+#define rep(i,a,b) for(ll i=a;i<b;i++)
+#define repb(i,a,b) for(ll i=a;i>=b;i--)
+#define err() cout<<"--------------------------"<<endl; 
+#define errA(A) for(auto i:A)   cout<<i<<" ";cout<<endl;
+#define err1(a) cout<<#a<<" "<<a<<endl
+
+void dbg_out() { cerr << endl; }
+template<typename Head, typename... Tail> void dbg_out(Head H, Tail... T) { cerr << ' ' << H; dbg_out(T...); }
+
+#define dbg(...) cerr << "(" << #__VA_ARGS__ << "):", dbg_out(__VA_ARGS__)
+
+
+#define err2(a,b) cout<<#a<<" "<<a<<" "<<#b<<" "<<b<<endl
+#define err3(a,b,c) cout<<#a<<" "<<a<<" "<<#b<<" "<<b<<" "<<#c<<" "<<c<<endl
+#define err4(a,b,c,d) cout<<#a<<" "<<a<<" "<<#b<<" "<<b<<" "<<#c<<" "<<c<<" "<<#d<<" "<<d<<endl
+#define pb push_back
+#define all(A)  A.begin(),A.end()
+#define allr(A)    A.rbegin(),A.rend()
+#define ft first
+#define sd second
+
+#define pii pair<int,int>
+#define pll pair<ll,ll>
+#define V vector<ll>
+#define S set<ll>
+#define VV vector<V>
+#define Vpll vector<pll>
+ 
+#define endl "\n"
+bool sortbysec(const pair<int,int> &a,const pair<int,int> &b) 
+{ 
+    return (a.second < b.second); 
+} 
+int parent(int i,V &a)
+{
+    if(a[i]==i)
+        return i;
+    return parent(a[i],a);
+}
+void make_par(V &a,int x,int y)
+{
+    int para=parent(x,a);
+    int parb=parent(y,a);
+    a[parb]=para;
+}
+ll jjjj(ll j)
+{
+    ll c=0;
+    while(j!=0)
+    {
+        j/=2;
+        ++c;
+    }
+    return c;
+}
+ll maxi(ll a, ll b)
+{
+    return (a>b)?a:b;
+}
+int rminutil(V &a,int si,int sj,int i,int j,int k)
+{
+    if(si>=i && sj<=j)
+    {
+        return a[k];
+    }
+    if(sj<i || si>j)
+    {
+        return INT_MAX;
+    }
+    int mid=si+(sj-si)/2;
+    return min(rminutil(a,si,mid,i,j,2*k),rminutil(a,mid+1,sj,i,j,2*k+1));
+}
+int rmin(V &a,int n,int i,int j)
+{
+    if(i<0 || j>n-1 || i>j)
+    {
+        cout<<"invalid";
+        return -1;
+
+    }
+    return rminutil(a,0,n-1,i,j,1);
+}
+void RMQ(V &a,int b[],int i,int j,int n,int k)
+{
+    if(i==j)
+    {
+        a[k]=b[i]; 
+    }
+    int mid=i+(j-i)/2;
+    if(a[k]==-1)
+    {
+        if(a[2*k]==-1)
+        {
+            RMQ(a,b,i,mid,n,2*k);
+        }
+        if(a[2*k+1]==-1)
+        {
+            RMQ(a,b,mid+1,j,n,2*k+1);
+        }
+        a[k]=min(a[2*k],a[2*k+1]);
+    }
+}
+void minupdate(V &a,int si,int sj,int i,int old,int ne, int k)
+{
+    if(i<si || i>sj)
+    {
+        return;
+    }
+    if(si==sj)
+    {
+        a[k]=ne;
+    }
+    if(si!=sj)
+    {
+        int mid=si+(sj-si)/2;
+        if(i<=mid)
+        {
+            minupdate(a,si,mid,i,old,ne,2*k);
+        }
+        else
+        {
+            minupdate(a,mid+1,sj,i,old,ne,2*k+1);
+        }
+        a[k]=min(a[2*k],a[2*k+1]);
+    }
+}
+void sumupdate(V &a,int si,int sj,int i,int old,int ne,int k)
+{   
+    if(i<si || i>sj)
+    {
+        return;
+    }
+    a[k]=a[k]+ne-old;
+    if(si!=sj)
+    {
+        int mid=si+(sj-si)/2;
+        sumupdate(a,si,mid,i,old,ne,2*k);
+        sumupdate(a,mid+1,sj,i,old,ne,2*k+1);
+    }
+}
+ll rsumutil(V &a,int si,int sj,int i,int j,int k)
+{
+    if(si>=i && sj<=j)
+    {
+        return a[k];
+    }
+    if(sj<i || si>j)
+    {
+        return 0;
+    }
+    int mid=si+(sj-si)/2;
+    return rsumutil(a,si,mid,i,min(j,mid),2*k)+rsumutil(a,mid+1,sj,max(i,mid+1),j,2*k+1);
+}
+ll rsum(V &a,int n,int i,int j)
+{
+    if(i<0 || j>=n || i>j)
+    {
+        cout<<"invalid";
+        return -1;
+    }
+    return rsumutil(a,0,n-1,i,j,1);
+}
+void RSQ(V &a,int b[],int i,int j,int n,int k)
+{
+    if(i==j)
+    {
+        a[k]=b[i];
+    }
+    int mid=i+(j-i)/2;
+    if(a[k]==-1)
+    {
+        if(a[2*k]==-1)
+        {
+            RSQ(a,b,i,mid,n,2*k);
+        }
+        if(a[2*k+1]==-1)
+        {
+            RSQ(a,b,mid+1,j,n,2*k+1);
+        }
+        a[k]=a[2*k]+a[2*k+1];
+    }
+}
+ll binaryexp(ll a,ll b,ll i)
+{
+    if(b==0)
+        return 1LL;
+    if(b==1)
+        return a;
+    ll k=binaryexp(a,b/2,i);
+    if(b&1)
+    {
+        return (((k*k)%i)*a)%i;
+    }
+    else
+        return (k*k)%i;
+}
+int main()
+    {
+    string file_name="";
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL); cout.tie(NULL);
+        #ifndef ONLINE_JUDGE
+         clock_t tStart = clock();
+        //freopen("input.txt","r",stdin);
+        //freopen("output.txt","w",stdout);
+        #endif
+
+        int t;
+        cin>>t;
+        //t=1;
+        /*
+    for Tree<ll>
+    cout << *(o_set.find_by_order(1)) ;
+        
+    cout << o_set.order_of_key(4) ;
+        
+    */   
+    file_name="";
+        while(t--)
+        {
+
+            ll n;
+            cin>>n;
+            V a(n);
+            rep(i,0,n)
+            {
+                cin>>a[i];
+            }
+
+            ll r= 0;
+            ll ans=0;
+            rep(i,0,n)
+            {
+                r = max(r,i);
+                while(r<n && a[r]>=r+1-i)
+                {
+                    ++r;
+                }
+                // err2(i,r);
+                ans += (r-i);
+            }
+            cout<<ans<<'\n';
+
+        }
+        #ifndef ONLINE_JUDGE
+            printf("\nRun Time -> %.10fs\n", (double)(clock()-tStart) / CLOCKS_PER_SEC);
+            #endif
+} 
+ 
