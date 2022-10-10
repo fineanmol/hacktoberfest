@@ -1,3 +1,9 @@
+#### Name: [Salil Gupta](https://github.com/salilgupta2510)
+
+- Place: Gurugram, Haryana, India
+- Bio: Mobile Application Lead
+- GitHub: [Salil Gupta](https://github.com/salilgupta2510)
+
 #### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
 
 - Place: Faisalabad, Punjab, Pakistan
