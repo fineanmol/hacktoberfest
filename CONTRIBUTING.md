@@ -1800,6 +1800,12 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Devashish Sarmah](https://github.com/devashishSarmah)
+
+- Place: Six mile, Guwahati, Assam, India
+- Bio: Developer
+- GitHub: [devashishSarmah](https://github.com/devashishSarmah)
+
 
 #### Name: [Rizki Octora Ramadhan](https://github.com/rizzyneck)
 
