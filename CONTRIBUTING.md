@@ -1751,6 +1751,12 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Tushar Jain](https://github.com/tusharjain01)
 
+
+- Education : Teerthankar Mahaveer University
+- Place: Moradabad
+- Bio: Developer, student
+- GitHub: [tusharjain01](https://github.com/tusharjain01)
 
 
