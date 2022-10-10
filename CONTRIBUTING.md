@@ -1,3 +1,9 @@
+### Name: [Franklin Mensah](https://github.com/fiificode)
+
+- Place: Accra, Ghana
+- Bio: Frontend Web developer
+- Github: [fiificode](https://github.com/fiificode)
+
 #### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
 
 - Place: Faisalabad, Punjab, Pakistan
