@@ -1751,6 +1751,10 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [ADARSH PRADHAN](https://github.com/AdarshPradhan1508)
 
+- Place: New Delhi, Delhi, INDIA
+- Bio: Web Developer and B.Tech. pursuing student
+- GitHub: [Adarsh Pradhan](https://github.com/AdarshPradhan1508)
 
 
