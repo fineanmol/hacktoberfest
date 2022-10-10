@@ -1800,6 +1800,13 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+
+#### Name: [Rizki Octora Ramadhan](https://github.com/rizzyneck)
+
+- Place: Bangkok, Thailand
+- Bio: Web Developer
+- GitHub: [rizzyneck](https://github.com/rizzyneck)
+
 #### Name: [Ina Uosovic](https://github.com/ibrouos)
 
 - Place: Warwickshire, United Kingdom
@@ -1832,6 +1839,7 @@
 - GitHub: [Pravunath Singh](https://github.com/PravunathSingh)
 
 #### Name: [Ishan Mishra](https://github.com/legitishan)
+
 
 
 - Place: Bangalore, Karnataka, India
