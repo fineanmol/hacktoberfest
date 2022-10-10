@@ -1798,6 +1798,9 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+
+### Name: [Aman Singh](https://github.com/Aman1919)
+
 #### Name: [Julio Alfian](https://github.com/julioalfian)
 
 
@@ -1905,4 +1908,6 @@
 - GitHub: [Rohit Chowdhury](https://github.com/Rohit-1706)
 
 
-
+- Place: New Delhi, Delhi, India
+- Bio: Undergraduate Student
+- Github: [Aman1919](https://github.com/Aman1919)
