@@ -1751,6 +1751,10 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Rohit Chowdhury](https://github.com/Rohit-1706)
 
+- Place: Kolkata, West Bengal, India
+- Bio: Developer, Undergraduate student
+- GitHub: [Rohit Chowdhury](https://github.com/Rohit-1706)
 
 
