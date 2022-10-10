@@ -1790,6 +1790,11 @@
 - Bio: Developer, student
 - GitHub: [Rjndrkha](https://github.com/rjndrkha)
 
+#### Name: [Rizky Purba Dharmawan](https://github.com/rizkypur)
+
+- Place: Bogor, West Java, Indonesia
+- Bio: QA Engineer, JS Developer 
+- GitHub: [rizkypur](https://github.com/rizkypur)
 
 
 
