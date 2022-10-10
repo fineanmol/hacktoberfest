@@ -1,4 +1,11 @@
 
+### Name: [Franklin Mensah](https://github.com/fiificode)
+
+- Place: Accra, Ghana
+- Bio: Frontend Web developer
+- Github: [fiificode](https://github.com/fiificode)
+
+
 #### Name: [Aarushi](https://github.com/aarushiksk)
 
 -Place: Lucknow, Uttar Pradesh, India
