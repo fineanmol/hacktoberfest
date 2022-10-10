@@ -1,4 +1,12 @@
 
+
+### Name: [Franklin Mensah](https://github.com/fiificode)
+
+- Place: Accra, Ghana
+- Bio: Frontend Web developer
+- Github: [fiificode](https://github.com/fiificode)
+
+
 #### Name: [Aarushi](https://github.com/aarushiksk)
 
 -Place: Lucknow, Uttar Pradesh, India
@@ -10,6 +18,7 @@
 - Place: Greater Noida, India
 - Bio: Android Developer
 - GitHub: [Ashutosh Sharma]([https://github.com/ashutosh-buku])
+
 
 
 #### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
@@ -1791,6 +1800,21 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+
+#### Name: [Rizki Octora Ramadhan](https://github.com/rizzyneck)
+
+- Place: Bangkok, Thailand
+- Bio: Web Developer
+- GitHub: [rizzyneck](https://github.com/rizzyneck)
+
+#### Name: [Ina Uosovic](https://github.com/ibrouos)
+
+- Place: Warwickshire, United Kingdom
+- Bio: Developer, Student
+- GitHub: [ibrouos](https://github.com/ibrouos)
+
+### Name: [Aman Singh](https://github.com/Aman1919)
+
 #### Name: [Julio Alfian](https://github.com/julioalfian)
 
 
@@ -1815,6 +1839,7 @@
 - GitHub: [Pravunath Singh](https://github.com/PravunathSingh)
 
 #### Name: [Ishan Mishra](https://github.com/legitishan)
+
 
 
 - Place: Bangalore, Karnataka, India
@@ -1898,4 +1923,6 @@
 - GitHub: [Rohit Chowdhury](https://github.com/Rohit-1706)
 
 
-
+- Place: New Delhi, Delhi, India
+- Bio: Undergraduate Student
+- Github: [Aman1919](https://github.com/Aman1919)
