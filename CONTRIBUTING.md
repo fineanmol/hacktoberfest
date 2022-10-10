@@ -1751,6 +1751,12 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Abhinav Singh](https://github.com/Abhi16DTU)
+
+- Place: Bangalore, India
+- Bio: SDE at SAAS(startup), forever-student
+- GitHub: [Abhi16DTU](https://github.com/Abhi16DTU)
+
 
 
 
