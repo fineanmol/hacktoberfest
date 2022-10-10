@@ -1,0 +1,146 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	min-height: 100vh;
+	display: grid;
+	justify-items: center;
+	align-content: center;
+	position: relative;
+	background-color: rgb(51, 53, 54);
+	padding-block: 1.5em;
+}
+
+h1 {
+	text-align: center;
+	color: #ddd;
+}
+
+h1 + p {
+	margin-bottom: 1.5em;
+	color: #aaa;
+}
+
+.circle-container {
+	display: flex;
+	gap: 0.5em;
+	position: relative;
+	width: 60vmin;
+	height: 60vmin;
+	min-width: 10rem;
+	min-height: 10rem;
+}
+
+.circle {
+	border: 0.2em solid #bbb;
+	height: 30%;
+	width: 30%;
+	cursor: pointer;
+	position: absolute;
+	transition: background-color 300ms ease-in-out, border 300ms ease-in-out;
+}
+
+.circle:hover {
+	border-color: gray;
+}
+
+.red {
+	background-color: red;
+}
+.yellow {
+	background-color: yellow;
+}
+.blue {
+	background-color: blue;
+}
+.green {
+	background-color: green;
+}
+
+.cyan {
+	background-color: cyan;
+}
+.crimson {
+	background-color: crimson;
+}
+
+.black {
+	background-color: black;
+}
+
+.coral {
+	background-color: coral;
+}
+
+.circle1 {
+	top: 0;
+	translate: -50% 0;
+	left: 50%;
+}
+
+.circle2 {
+	top: 0;
+	right: 0;
+	border-radius: 0 50% 0 0;
+}
+
+.circle3 {
+	top: 50%;
+	right: 0;
+	translate: 0 -50%;
+}
+
+.circle4 {
+	bottom: 0;
+	right: 0;
+	border-radius: 0 0 50% 0;
+}
+
+.circle5 {
+	bottom: 0;
+	translate: -50% 0;
+	left: 50%;
+}
+
+.circle6 {
+	bottom: 0;
+	left: 0;
+	border-radius: 0 0 0 50%;
+}
+
+.circle7 {
+	top: 50%;
+	left: 0;
+	translate: 0 -50%;
+}
+
+.circle8 {
+	top: 0;
+	left: 0;
+	border-radius: 50% 0 0 0;
+}
+
+.queue-table {
+	margin-top: 1.5em;
+	border-collapse: collapse;
+	border: 0.15em solid #bbb;
+}
+
+.queue-table td {
+	width: 2rem;
+	height: 2rem;
+	border: 0.15em solid #bbb;
+}
+
+.queue-table caption {
+	font-weight: bold;
+	font-size: 0.85rem;
+	color: #ddd;
+}
+
+.queue-table td {
+	transition: background-color 300ms ease-in-out;
+}
