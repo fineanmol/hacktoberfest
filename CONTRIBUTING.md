@@ -1,3 +1,9 @@
+#### Name: [Aarushi](https://github.com/aarushiksk)
+
+-Place: Lucknow, Uttar Pradesh, India
+-Bio: Computer Science Undergraduate
+-Github: [aarushiksk](https://github.com/aarushiksk)
+
 #### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
 
 - Place: Faisalabad, Punjab, Pakistan
@@ -1752,9 +1758,4 @@
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
 
-#### Name: [Aarushi](https://github.com/aarushiksk)
-
--Place: Lucknow, Uttar Pradesh, India
--Bio: Computer Science Undergraduate
--Github: [aarushiksk](https://github.com/aarushiksk)
 
