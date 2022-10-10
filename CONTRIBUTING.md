@@ -1,4 +1,11 @@
 
+#### Name: [Omm Pani](https://github.com/Omm-Pani)
+
+- Place: Keonjhar, Odisha, India
+- Bio: I am a Btech undergrad at VSSUT.
+- GitHub: [GitHub account name](https://github.com/Omm-Pani)
+
+
 
 ### Name: [Franklin Mensah](https://github.com/fiificode)
 
@@ -18,6 +25,7 @@
 - Place: Greater Noida, India
 - Bio: Android Developer
 - GitHub: [Ashutosh Sharma]([https://github.com/ashutosh-buku])
+
 
 
 
@@ -1764,7 +1772,6 @@
 - Bio: Full Stack Engineer
 - GitHub: [abhinavtiwary04](https://github.com/abhinavtiwary04)
 
-
 #### Name: [Rishi Mathur](https://github.com/skyrunner360)
 
 - Education: BCA, Ajeenkya DY Patil University, Pune, India
@@ -1799,6 +1806,7 @@
 - Place: New Orleans, Louisiana, United States
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
+
 
 
 
@@ -1948,4 +1956,5 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
 
