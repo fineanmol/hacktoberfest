@@ -1807,6 +1807,13 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+
+#### Name: [Amogh K Umesh](https://github.com/Amogh1001)
+
+- Place: West Bengal, India
+- Bio: CS Undergrad
+- GitHub: [Amogh1001](https://github.com/Amogh1001)
+
 #### Name: [Omm Pani](https://github.com/Omm-Pani)
 
 - Place: Keonjhar, Odisha, India
@@ -1826,6 +1833,7 @@
 - Place: Bonn, NRW, Germany
 - Bio: Software Engineer
 - GitHub: [ahsanwtc](https://github.com/ahsanwtc)
+
 
 
 #### Name: [Devashish Sarmah](https://github.com/devashishSarmah)
