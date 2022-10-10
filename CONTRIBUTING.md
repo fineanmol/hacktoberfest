@@ -1748,7 +1748,6 @@
 
 #### Name: [Idisi Efezino Endurance](https://github.com/efezinoidisi)
 
-- Education: B.Sc., University of Benin
 - Place: Delta state, Nigeria
 - Bio: Frontend developer
 - GitHub: [efezinoidisi](https://github.com/efezinoidisi)
