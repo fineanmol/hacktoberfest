@@ -1,8 +1,16 @@
+
+#### Name: [Aarushi](https://github.com/aarushiksk)
+
+-Place: Lucknow, Uttar Pradesh, India
+-Bio: Computer Science Undergraduate
+-Github: [aarushiksk](https://github.com/aarushiksk)
+
 #### Name: [Ashutosh Sharma]([https://github.com/ashutosh-buku])
 
 - Place: Greater Noida, India
 - Bio: Android Developer
 - GitHub: [Ashutosh Sharma]([https://github.com/ashutosh-buku])
+
 
 #### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
 
@@ -1841,5 +1849,4 @@
 - Place: Moradabad
 - Bio: Developer, student
 - GitHub: [tusharjain01](https://github.com/tusharjain01)
-
 
