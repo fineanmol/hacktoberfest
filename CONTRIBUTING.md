@@ -1794,6 +1794,13 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+
+#### Name: [Mayank Kumar](https://github.com/mayank-del)
+
+- Place: Sonpur, Saran, Bihar,India
+- Bio: Developer, student
+- GitHub: [mayank-del](https://github.com/mayank-del)
+
 #### Name: [Gaurav Sharma](https://github.com/grvsh02)
 
 
@@ -1822,6 +1829,7 @@
 - Place: Dehradun, Uttrakhand, India
 - Bio: Undergraduate Student
 - GitHub: [ishyyyy](https://github.com/ishyyyy)
+
 
 
 
