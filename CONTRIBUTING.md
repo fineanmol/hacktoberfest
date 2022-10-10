@@ -1751,6 +1751,12 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Enoque Tembe](https://github.com/enoquetembe)
+
+- Place: Maputo, Mozambique
+- Bio: Web Developer, student
+- GitHub: [enoquetembe](https://github.com/owengaspard)
+
 
 
 
