@@ -1757,6 +1757,9 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+
+#### Name: [Tushar Jain](https://github.com/tusharjain01)
+
 #### Name: [Rjndrkha](https://github.com/rjndrkha)
 
 - Place: Jatim , Indonesia
@@ -1764,5 +1767,11 @@
 - GitHub: [Rjndrkha](https://github.com/rjndrkha)
 
 
+
+
+- Education : Teerthankar Mahaveer University
+- Place: Moradabad
+- Bio: Developer, student
+- GitHub: [tusharjain01](https://github.com/tusharjain01)
 
 
