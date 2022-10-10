@@ -1751,6 +1751,8 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Mandeep Patwa](https://github.com/mpatwa98)
 
-
-
+- Place: Gaya, Bihar, India
+- Bio: Developer, Student at IITBHU
+- GitHub: [mpatwa98](https://github.com/mpatwa98)
