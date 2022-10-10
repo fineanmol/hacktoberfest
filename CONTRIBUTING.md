@@ -1807,6 +1807,12 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Abhishek Anand](https://github.com/picturepatch07)
+
+
+- Place: Pune, Maharashtra, India
+- Bio: Undergraduate Student
+- GitHub: [picturepatch07](https://github.com/picturepatch07)
 
 #### Name: [Amogh K Umesh](https://github.com/Amogh1001)
 
