@@ -1786,6 +1786,14 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+
+#### Name: [Abhinav Singh](https://github.com/Abhi16DTU)
+
+- Place: Bangalore, India
+- Bio: SDE at SAAS(startup), forever-student
+- GitHub: [Abhi16DTU](https://github.com/Abhi16DTU)
+
+
 #### Name: [Shashwat Poudel](https://github.com/shashwat-pd)
 
 - Place: Biratnagar, Province-1, Nepal
@@ -1793,6 +1801,7 @@
 - GitHub: [shashwat-pd](https://github.com/shashwat-pd)
 
 #### Name: [Isha Sharma](https://github.com/ishyyyy)
+
 
 - Education: B.Tech., University of Petroleum and Energy Studies
 - Place: Dehradun, Uttrakhand, India
