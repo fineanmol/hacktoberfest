@@ -4,6 +4,12 @@
 - Bio: I am a Btech undergrad at VSSUT.
 - GitHub: [GitHub account name](https://github.com/Omm-Pani)
 
+### Name: [Pravin](https://github.com/pravinkori)
+
+- Place: Mumbai, Ghana
+- Bio: Web developer
+- Github: [pravinkori](https://github.com/pravinkori)
+
 ### Name: [Franklin Mensah](https://github.com/fiificode)
 
 - Place: Accra, Ghana
