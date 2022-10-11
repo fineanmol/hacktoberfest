@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [yodifm](https://github.com/yodifm)
+
+- Place: Jakarta, Indonesia
+- Bio: I'm a website developer and mobile developer
+- GitHub: [yodifm](https://github.com/yodifm)
