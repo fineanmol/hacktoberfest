@@ -1,3 +1,9 @@
+#### Name: [Md Ruhin Mia](https://github.com/me-ruhin)
+
+- Place: Dhaka Bangladesh 
+- Bio: I am a Professional Software Engineer.
+- GitHub: [GitHub account name](https://github.com/me-ruhin)
+
 #### Name: [Omm Pani](https://github.com/Omm-Pani)
 
 - Place: Keonjhar, Odisha, India
