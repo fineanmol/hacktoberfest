@@ -1,3 +1,7 @@
+// LANGUAGE: C++
+// AUTHOR: Aishwarya Mirashi
+// GITHUB: https://github.com/Aishwarya-Mirashi
+
 #include<iostream>
 using namespace std;
 
