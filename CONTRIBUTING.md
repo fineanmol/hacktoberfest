@@ -10,6 +10,12 @@
 - Bio: Frontend Web developer
 - Github: [fiificode](https://github.com/fiificode)
 
+#### Name: [Harshita Gupta](https://github.com/harshitacodes)
+
+- Place: Bangalore ,India
+- Bio: Software Developer at Unacademy
+- GitHub: [harshitacodes](https://github.com/harshitacodes)
+
 #### Name: [Aarushi](https://github.com/aarushiksk)
 
 -Place: Lucknow, Uttar Pradesh, India
