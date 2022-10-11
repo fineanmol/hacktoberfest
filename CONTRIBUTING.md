@@ -1,3 +1,9 @@
+#### Name: [Sampan Acharya](https://github.com/sampanacharya)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: I am a BTech Undergrad at JECRC
+- GitHub: [Sampan Acharya](https://github.com/sampanacharya)
+
 #### Name: [Omm Pani](https://github.com/Omm-Pani)
 
 - Place: Keonjhar, Odisha, India
