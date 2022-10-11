@@ -1952,3 +1952,7 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+- Place: Howrah, West Bengal, India
+- Bio: Developer, School student
+- Github: [Debayan Kar](https://github.com/kardebayan)
