@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+### Name: [Kunal Pitale](https://github.com/iamkunalpitale)
+
+- Place: Indore, Madhya Pradesh
+- Bio: Flutter developer
+- Github: [iamkunalpitale](https://github.com/iamkunalpitale)
