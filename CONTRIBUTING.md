@@ -1956,4 +1956,4 @@
 #### Name: [Common Khadka](https://github.com/SilentCoder52626)
 
 - Place: Birtamode, Jhapa, Nepal
-- Bio: Undergraduate Student
+- Bio: Developer, Undergraduate Student
