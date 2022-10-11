@@ -1952,3 +1952,23 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+
+#### Name: [Rahul Paul](https://github.com/RahulPaul12)
+
+- Place: Dhaka, Bangladesh
+- Bio: Frontend Web Developer
+- GitHub: [Rahul Paul](https://github.com/RahulPaul12)
+
+- Education : Teerthankar Mahaveer University
+- Place: Moradabad
+- Bio: Developer, student
+- GitHub: [tusharjain01](https://github.com/tusharjain01)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Developer, Undergraduate student
+- GitHub: [Rohit Chowdhury](https://github.com/Rohit-1706)
+
+- Place: New Delhi, Delhi, India
+- Bio: Undergraduate Student
+- Github: [Aman1919](https://github.com/Aman1919)
