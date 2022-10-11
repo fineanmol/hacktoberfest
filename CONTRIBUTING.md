@@ -1952,3 +1952,7 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+- 
+- Place: sehore, Madhya Pradesh, India
+- Bio: Undergraduate Student
+- Github: [visheshind](https://github.com/visheshind)
