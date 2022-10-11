@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Ahmad Rio](https://github.com/ahmadrio)
+
+- Place: Malang, Jawa Timur, Indonesia
+- Bio: Laravel Framework + ReactJS Developer
+- Github: [ahmadrio](https://github.com/ahmadrio)
