@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+### Name: [Yodi Fakhri](https://github.com/yodifm)
+
+- Place: Jakarta, Indonesia
+- Bio: Frontend Web developer and mobile developer
+- Github: [yodifm](https://github.com/yodifm)
