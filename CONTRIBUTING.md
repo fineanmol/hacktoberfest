@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Aditya Ashvin](https://github.com/AdityaAshvin)
+
+- Place: Visakhapatnam, Andhra Pradesh, India
+- Bio: Undergrad student
+- GitHub: [Aditya Ashvin](https://github.com/AdityaAshvin)
