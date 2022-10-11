@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Kushagra Mathur](https://github.com/CoderGhost37)
+
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: Fullstack web developer, Web3 developer
+- GitHub: [Kushagra Mathur](https://github.com/CoderGhost37)
