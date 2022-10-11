@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+### Name: [Mauro Quinteros](https://github.com/mauroquinteroos)
+
+- Place: Lima, Peru
+- Bio: Backend Developer
+- GitHub: [Mauro Quinteros](https://github.com/mauroquinteroos)
