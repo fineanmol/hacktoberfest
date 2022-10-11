@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Anthony T](https://github.com/freshairr)
+
+- Place: Chicago, IL, USA
+- Bio: Full Stack Software Developer
+- GitHub: [freshairr](https://github.com/freshairr)
