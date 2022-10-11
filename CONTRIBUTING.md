@@ -28,6 +28,13 @@
 - Bio: Machine Learning Engineer
 - GitHub: [Muaaz Ahmad](https://github.com/muaazahmad00)
 
+#### Name: [Dhruv Saini](https://github.com/DS-73)
+
+- Place: Delhi, India
+- Bio: Student/ Machine Learning Engineer
+
+- GitHub: [Dhruv Saini](https://github.com/DS-73)
+
 #### Name: [Subhash Karthik](https://github.com/Karthik-59)
 
 - Place: AP, India
