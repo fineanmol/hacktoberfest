@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+### Name: [Ednelson Júnior](https://github.com/Cyberleitor)
+
+- Place: Maceió, Alagoas, Brazil
+- Bio: Hacker
+- Github: [Cyberleitor](https://github.com/Cyberleitor)
