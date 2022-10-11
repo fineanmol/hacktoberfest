@@ -1952,3 +1952,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+
+#### Name: [Suraj Kumar](https://github.com/surajkumar345678/)
+
+- Place: South West Delhi, Delhi, India
+- Bio: 4th year undergraduate student, Aspiring developer, preparing for placements.
+- GitHub: [Suraj Kumar](https://github.com/surajkumar345678/)
