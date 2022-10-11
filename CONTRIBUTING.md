@@ -1955,6 +1955,9 @@
 
 #### Name: [Mochamad Sofyan](https://github.com/sofyanmoch)
 
-- Place: Tegal , Indonesia
+- Place: Tegal, Indonesia
+- Bio: Full Stack Web Developer 
+- GitHub: [sofyanmoch](https://github.com/sofyanmoch)
+- Education : SMK N 1 Adiwerna
+- Place: Tegal
 - Bio: Developer, student
-- GitHub: [Mochamad Sofyan](https://github.com/sofyanmoch)
