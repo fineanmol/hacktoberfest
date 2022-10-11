@@ -4,6 +4,12 @@
 - Bio: I am a Btech undergrad at VSSUT.
 - GitHub: [GitHub account name](https://github.com/Omm-Pani)
 
+#### Name: [Mithun S](https://github.com/mithun-srinivas)
+
+- Place: KBengaluru, Karnataka, India
+- Bio: Developer who loves to Teach.
+- GitHub: [GitHub account name](https://github.com/mithun-srinivas)
+
 ### Name: [Franklin Mensah](https://github.com/fiificode)
 
 - Place: Accra, Ghana
