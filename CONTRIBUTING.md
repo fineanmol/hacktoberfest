@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Smit Patel](https://github.com/smitatgithub)
+
+- Place: Gujarat, Gujarat, India
+- Bio: Full Stack Web Developer
+- GitHub: [smitatgithub](https://github.com/smitatgithub)
