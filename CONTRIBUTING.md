@@ -34,6 +34,12 @@
 - Bio: Student, Web developer
 - GitHub: [Karthik-59](https://github.com/Karthik-59)
 
+#### Name: [Ricktho Sarkar](https://github.com/Ricktho1)
+
+- Place: West Bengal, India
+- Bio: IIT BHU- First year student
+- Github: [Ricktho Sarkar](https://github.com/Ricktho1)
+
 #### Name: [Harsh Shah](https://github.com/harsh-0986)
 
 - Place: Surat, India
