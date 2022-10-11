@@ -1952,3 +1952,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+
+#### Name: [Amit Barman](https://github.com/AmitBarman99)
+
+- Place: Coochbehar, West Bengal, INDIA
+- Bio: Sophomore at Indian Institute of Engineering science & Technology,web developer,SSI IC designer,PCB designer
+- GitHub: [Amit Barman](https://github.com/AmitBarman99)
