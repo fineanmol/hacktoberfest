@@ -1,3 +1,7 @@
+// LANGUAGE: C++
+// AUTHOR: Arnab Nandi
+// GITHUB: https://github.com/arnab7070
+
 #include <iostream>
 using namespace std;
 
