@@ -1952,3 +1952,8 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Common Khadka](https://github.com/SilentCoder52626)
+
+- Place: Birtamode, Jhapa, Nepal
+- Bio: Undergraduate Student
