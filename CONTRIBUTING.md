@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Mochamad Sofyan](https://github.com/sofyanmoch)
+
+- Place: Tegal , Indonesia
+- Bio: Developer, student
+- GitHub: [Mochamad Sofyan](https://github.com/sofyanmoch)
