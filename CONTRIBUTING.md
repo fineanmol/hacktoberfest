@@ -1952,3 +1952,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Syed Hassan](https://github.com/Syed007Hassan)
+
+- Place: Karachi, Pakistan
+- Bio: Software Engineer
+- GitHub: [Syed007Hassan](https://github.com/Syed007Hassan)
+
