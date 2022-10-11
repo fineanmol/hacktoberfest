@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Sarah Alli](https://github.com/se7en-illa)
+
+- Place: New York, New York, USA
+- Bio: Filmmaker + Creative Software Developer
+- GitHub: [Sarah Alli](https://github.com/se7en-illa)
