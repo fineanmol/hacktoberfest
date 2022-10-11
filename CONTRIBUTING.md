@@ -16,6 +16,12 @@
 -Bio: Computer Science Undergraduate
 -Github: [aarushiksk](https://github.com/aarushiksk)
 
+#### Name: [Ricktho Sarkar](https://github.com/Ricktho1)
+
+-Place: Siliguri, West bengal, India
+-Bio: Computer Science Undergraduate First year
+-Github: [Ricktho Sarkar](https://github.com/Ricktho1)
+
 #### Name: [Ashutosh Sharma]([https://github.com/ashutosh-buku])
 
 - Place: Greater Noida, India
