@@ -880,6 +880,12 @@
 - Bio: Taking my first step into contributing to open source.
 - GitHub: [ranasun](https://github.com/ranasun)
 
+#### Name: [Sakshi Kanwar](https://github.com/sakshian)
+
+- Place: Chandigarh, India
+- Bio: Software Developer
+- Github: [Abhishek Gaurav](https://github.com/sakshian)
+
 #### Name: [Aman Sharma](https://github.com/amansharma703)
 
 - Place: Gorakhpur, UP, India
