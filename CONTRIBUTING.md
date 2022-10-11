@@ -28,6 +28,12 @@
 - Bio: Machine Learning Engineer
 - GitHub: [Muaaz Ahmad](https://github.com/muaazahmad00)
 
+#### Name: [Amolika Bhasin](https://github.com/bhasinamolika)
+
+-Place: Amritsar,Punjab,India
+-Bio: Web Developer
+-Github: [Amolika Bhasin](https://github.com/bhasinamolika)
+
 #### Name: [Subhash Karthik](https://github.com/Karthik-59)
 
 - Place: AP, India
