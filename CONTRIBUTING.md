@@ -2,6 +2,7 @@
 
 - Place: Jaipur, Rajasthan, India
 - Bio: I am a BTech Undergrad at JECRC
+- Education: JECRC
 - GitHub: [Sampan Acharya](https://github.com/sampanacharya)
 
 #### Name: [Omm Pani](https://github.com/Omm-Pani)

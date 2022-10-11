@@ -30,4 +30,4 @@ B.Tech in Computer Science & Engg. from JECRC(Japiur Engineering College and Res
 
 ### Profile Link
 
--   [abishekdevendran](https://github.com/sampanacharya)
+-   [sampanacharya](https://github.com/sampanacharya)
