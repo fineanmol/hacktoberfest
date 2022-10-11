@@ -1,3 +1,9 @@
+#### Name: [Pavan Pakhare](https://github.com/pavanpakhare)
+
+- Place: pune, maharashtra, India
+- Bio: I am a student.
+- GitHub: [GitHub account name](https://github.com/pavanpakhare)
+
 #### Name: [Omm Pani](https://github.com/Omm-Pani)
 
 - Place: Keonjhar, Odisha, India
