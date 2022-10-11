@@ -34,6 +34,12 @@
 - Bio: Student, Web developer
 - GitHub: [Karthik-59](https://github.com/Karthik-59)
 
+#### Name: [Amolika Bhasin](https://github.com/bhasinamolika)
+
+- Place: Punjab, India
+- Bio: Student, Web developer
+- GitHub: [bhasinamolika](https://github.com/bhasinamolika)
+
 #### Name: [Harsh Shah](https://github.com/harsh-0986)
 
 - Place: Surat, India
