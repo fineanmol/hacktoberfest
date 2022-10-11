@@ -1952,3 +1952,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+
+#### Name: [Ashish Jose](https://github.com/ashish2675)
+
+- Place: Guna[M.P], India
+- Bio: I am a Btech undergrad at VIT.
+- GitHub: [Ashish Jose](https://github.com/ashish2675)
