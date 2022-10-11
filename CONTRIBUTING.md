@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Jitesh Jayaraman](https://github.com/hyascavefire)
+
+- Place: Gold Coast
+- Bio: Media
+- GitHub: [Jitesh Jayaraman](https://github.com/hyascavefire)
