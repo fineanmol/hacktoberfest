@@ -1,0 +1,9 @@
+// LANGUAGE: C++
+// AUTHOR: Sayantan Naskar
+// GITHUB: https://github.com/Arbtrage
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    cout<<"Hello World";
+}
