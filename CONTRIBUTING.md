@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Namit Dasappanavar](https://github.com/namit343)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Information Technology Student
+- GitHub: [namit343](https://github.com/namit343)
