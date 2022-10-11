@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Usenmfon Uko](https://github.com/Usenmfon)
+
+- Place: Ikot Ekpene, Akwa Ibom, Nigeria
+- Bio: Software Engineer
+- GitHub: [Usenmfon](https://github.com/Usenmfon)
