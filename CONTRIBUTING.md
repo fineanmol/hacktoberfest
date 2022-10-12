@@ -1966,6 +1966,12 @@
 - Github: [Aman1919](https://github.com/Aman1919)
 
 
+#### Name: [Common Khadka](https://github.com/SilentCoder52626)
+
+- Place: Birtamode, Jhapa, Nepal
+- Bio: Developer, Undergraduate Student
+
+
 #### Name: [Sarah Alli](https://github.com/se7en-illa)
 
 - Place: New York, New York, USA
@@ -1977,4 +1983,5 @@
 - Place: Surabaya, East Java, Indonesia
 - Bio: 3rd year Engineering Student at UPN "Veteran" East Java
 - GitHub: [abilsabili50](https://github.com/abilsabili50)
+
 
