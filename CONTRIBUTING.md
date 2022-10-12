@@ -1,4 +1,4 @@
-#### Name: [Omm Pani](https://github.com/Omm-Pani)
+﻿#### Name: [Omm Pani](https://github.com/Omm-Pani)
 
 - Place: Keonjhar, Odisha, India
 - Bio: I am a Btech undergrad at VSSUT.
@@ -161,6 +161,12 @@
 - Place: Sri City, Chittoor, Andhra Pradesh, India
 - Bio: Undergrad Student, full stack developer, open source enthusiast
 - GitHub: [AmoghPatel1](https://github.com/AmoghPatel1)
+
+### Name: [Reet](https://github.com/RaniK27)
+
+- Place: Pune, Maharashtra, India
+- Bio: Undergrad Student
+- GitHub: [RaniK27](https://github.com/RaniK27)
 
 ### Name: [Guruvignesh](https://github.com/staticGuru)
 
