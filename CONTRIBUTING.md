@@ -1,3 +1,10 @@
+#### Name: [chandan-r](https://github.com/chandan-r)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Currently working as a Software Engineer. Graduated as an Electrical and Electronics Engineer from MSRIT
+- GitHub: [chandan-r](https://github.com/chandan-r)
+
+
 #### Name: [Omm Pani](https://github.com/Omm-Pani)
 
 - Place: Keonjhar, Odisha, India
