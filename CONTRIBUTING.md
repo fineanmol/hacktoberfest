@@ -1,3 +1,9 @@
+#### Name: [Harshit Gulgulia](https://github.com/HarshitGulgulia)
+
+- Place: Bengaluru, Karnataka, India
+- Bio: B.E. Undergrad at Sir M. Visvesvaraya Institute of Technology
+- GitHub: [HarshitGulgulia](https://github.com/HarshitGulgulia)
+
 #### Name: [Omm Pani](https://github.com/Omm-Pani)
 
 - Place: Keonjhar, Odisha, India
