@@ -10,6 +10,12 @@
 - Bio: Frontend Web developer
 - Github: [fiificode](https://github.com/fiificode)
 
+#### Name: [Aryan Panchal](https://github.com/Aryan-26)
+
+-Place: Gurgaon, Haryana
+-Bio: Computer Science Engineering Student
+-Github: [Aryan-26](https://github.com/Aryan-26)
+
 #### Name: [Aarushi](https://github.com/aarushiksk)
 
 -Place: Lucknow, Uttar Pradesh, India
