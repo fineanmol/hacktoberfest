@@ -14,4 +14,4 @@ Presently pursuing Btech, IIIT Lucknow
 
 ### Profile Link
 
-[Ankit kumar](https://github.com/Traveller_08)
+[Ankit kumar](https://github.com/Traveller08)
