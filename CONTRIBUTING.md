@@ -165,7 +165,11 @@
 ### Name: [Reet](https://github.com/RaniK27)
 
 - Place: Pune, Maharashtra, India
+<<<<<<< HEAD
 - Bio: Undergrad Student
+=======
+- Bio: Undergrad Student, Open Source Enthusiast
+>>>>>>> d28c5b11fbdc2e67a3b477971105ef46d894af66
 - GitHub: [RaniK27](https://github.com/RaniK27)
 
 ### Name: [Guruvignesh](https://github.com/staticGuru)
