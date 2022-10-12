@@ -4,11 +4,19 @@
 - Bio: I am a Btech undergrad at VSSUT.
 - GitHub: [GitHub account name](https://github.com/Omm-Pani)
 
+
+#### Name: [Jayavardhan](https://github.com/eddejayaklu)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Computer Science Undergraduate .
+- GitHub: [GitHub account name](hhttps://github.com/eddejayaklu)
+
 #### Name: [Mithun S](https://github.com/mithun-srinivas)
 
 - Place: KBengaluru, Karnataka, India
 - Bio: Developer who loves to Teach.
 - GitHub: [GitHub account name](https://github.com/mithun-srinivas)
+
 
 ### Name: [Franklin Mensah](https://github.com/fiificode)
 
