@@ -1,3 +1,4 @@
+
 #### Name: [Omm Pani](https://github.com/Omm-Pani)
 
 - Place: Keonjhar, Odisha, India
@@ -1952,3 +1953,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Samrat Khan](https://github.com/Samrat-Khan)
+
+- Place: Bidhannagar, Kolkata, India
+- Bio: Computer science and Technology
+- GitHub: [Samrat Khan](https://github.com/Samrat-Khan)
