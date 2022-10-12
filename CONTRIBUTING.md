@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Vijay Adhikari](https://github.com/17vijay2002)
+
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Computer Science (AI/ML)
+- GitHub: [17vijay2002](https://github.com/17vijay2002)
