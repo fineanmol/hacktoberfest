@@ -1979,6 +1979,13 @@
 - Github: [Aman1919](https://github.com/Aman1919)
 
 
+### NAME: [Luciane Fernandes Roque](https://github.com/LucianeFernandesRoque)
+
+- Place: Sao Paulo, Sao Paulo, Brazil
+- Bio: Software Development, Ruby on Rails
+- GitHub: [Luciane Fernandes Roque](https://github.com/LucianeFernandesRoque)
+
+
 #### Name: [Ahmad Rio](https://github.com/ahmadrio)
 
 - Place: Malang, Jawa Timur, Indonesia
@@ -2009,6 +2016,7 @@
 - Place: Vancouver, British Columbia, Canada
 - Bio: 1st year undergraduate at The University of British Columbia
 - GitHub: [BrianAnakPintar](https://github.com/BrianAnakPintar)
+
 
 
 
