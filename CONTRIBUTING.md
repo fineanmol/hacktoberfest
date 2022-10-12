@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Divyam Jain](https://github.com/divyam29)
+
+- Place: Ambala, Haryana, India
+- Bio: Full Stack Web Developer, Undergrad
+- GitHub: [divyam29](https://github.com/divyam29)
