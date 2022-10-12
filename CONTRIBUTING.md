@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Jennifer Bolarinwa](https://github.com/2kjen)
+
+- Place: London, England
+- Bio: Junior Frontend Web Developer
+- GitHub: [2kjen](https://github.com/2kjen)
