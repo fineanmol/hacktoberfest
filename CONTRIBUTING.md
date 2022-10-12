@@ -1952,3 +1952,11 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+
+- Place: Lucknow, UP, India
+- Bio: Undergraduate Student
+- Github: [Ankit Kumar](https://github.com/Traveller_08)
+
+
+
