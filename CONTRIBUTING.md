@@ -1940,6 +1940,12 @@
 - Bio: Full Stack Web Developer
 - GitHub: [tarunmankar](https://github.com/tarunmankar)
 
+#### Name: [Harsh Walia](https://github.com/waliaharsh74)
+
+- Place: Haridwar, Uttarakhand, India
+- Bio: Full Stack Web Developer
+- GitHub: [Harsh Walia](https://github.com/waliaharsh74)
+
 - Education : Teerthankar Mahaveer University
 - Place: Moradabad
 - Bio: Developer, student
