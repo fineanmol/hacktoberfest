@@ -1952,3 +1952,7 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+- Place: Fountain Valley, California, United States
+- Bio: Undergraduate Student
+- GitHub: [pmpham](https://github.com/pmpham)
