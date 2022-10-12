@@ -1,8 +1,42 @@
+
+#### Name: [Raghav Bajaj](https://github.com/Raghav-Bajaj)
+
+- Place: Noida, UP, India
+- Bio: Computer Science Undergraduate
+- GitHub: [Raghav-Bajaj](https://github.com/Raghav-Bajaj)
+- 
+#### Name: [Omm Pani](https://github.com/Omm-Pani)
+
+- Place: Keonjhar, Odisha, India
+- Bio: I am a Btech undergrad at VSSUT.
+- GitHub: [GitHub account name](https://github.com/Omm-Pani)
+
+
+#### Name: [Jayavardhan](https://github.com/eddejayaklu)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Computer Science Undergraduate .
+- GitHub: [GitHub account name](hhttps://github.com/eddejayaklu)
+
+#### Name: [Mithun S](https://github.com/mithun-srinivas)
+
+- Place: KBengaluru, Karnataka, India
+- Bio: Developer who loves to Teach.
+- GitHub: [GitHub account name](https://github.com/mithun-srinivas)
+
+
+
 ### Name: [Franklin Mensah](https://github.com/fiificode)
 
 - Place: Accra, Ghana
 - Bio: Frontend Web developer
 - Github: [fiificode](https://github.com/fiificode)
+
+#### Name: [Harshita Gupta](https://github.com/harshitacodes)
+
+- Place: Bangalore ,India
+- Bio: Software Developer at Unacademy
+- GitHub: [harshitacodes](https://github.com/harshitacodes)
 
 #### Name: [Aarushi](https://github.com/aarushiksk)
 
@@ -16,6 +50,12 @@
 - Bio: Android Developer
 - GitHub: [Ashutosh Sharma]([https://github.com/ashutosh-buku])
 
+#### Name: [Vedangi  Bhujang]([https://github.com/VEDANGIBHUJANG])
+
+- Place: Pune , Maharashtra , India
+- Bio: B.Tech CSE Graduate
+- GitHub: [VEDANGIBHUJANG]([https://github.com/VEDANGIBHUJANG])
+
 #### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
 
 - Place: Faisalabad, Punjab, Pakistan
@@ -27,6 +67,12 @@
 - Place: AP, India
 - Bio: Student, Web developer
 - GitHub: [Karthik-59](https://github.com/Karthik-59)
+
+#### Name: [Amolika Bhasin](https://github.com/bhasinamolika)
+
+- Place: Punjab, India
+- Bio: Student, Web developer
+- GitHub: [bhasinamolika](https://github.com/bhasinamolika)
 
 #### Name: [Harsh Shah](https://github.com/harsh-0986)
 
@@ -338,6 +384,12 @@
 - Place: Lyon, France
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
+
+## Name: [Anisha Nayaju](https://github.com/anishaxtha)
+
+- Place: Kathmandu, Nepal 
+- Bio: Student. Learning Backend Web development(Python/Django)
+- Github: [anishaxtha](https://github.com/anishaxtha)
 
 #### Name: Vivian
 
@@ -1889,8 +1941,76 @@
 - Bio: Full Stack Web Developer
 - GitHub: [tarunmankar](https://github.com/tarunmankar)
 
+
 #### Name: [Moitreyo Chakraborty](https://github.com/MoitreyoChak)
 
+#### Name: [Harsh Walia](https://github.com/waliaharsh74)
+
+- Place: Haridwar, Uttarakhand, India
+- Bio: Full Stack Web Developer
+- GitHub: [Harsh Walia](https://github.com/waliaharsh74)
+
+- Education : Teerthankar Mahaveer University
+- Place: Moradabad
+- Bio: Developer, student
+- GitHub: [tusharjain01](https://github.com/tusharjain01)
+
+
+
+#### Name: [Rohan Gope](https://github.com/Darkrider0007)
+
+- Place: Durgapur, West Bangal, India
+- Bio: Full Stack Web Developer 
+- GitHub: [Darkrider0007](https://github.com/Darkrider0007)
+- Education : Jalpaiguri Government Engineering College
+- Place: Jalpaiguri
+- Bio: Developer, student
+
 - Place: Kolkata, West Bengal, India
+
 - Bio: Full Stack Web Developer
 - GitHub: [MoitreyoChak](https://github.com/MoitreyoChak)
+
+- Bio: Developer, Undergraduate student
+- GitHub: [Rohit Chowdhury](https://github.com/Rohit-1706)
+
+- Place: New Delhi, Delhi, India
+- Bio: Undergraduate Student
+- Github: [Aman1919](https://github.com/Aman1919)
+
+
+#### Name: [Ahmad Rio](https://github.com/ahmadrio)
+
+- Place: Malang, Jawa Timur, Indonesia
+- Bio: Laravel Framework + ReactJS Developer
+- Github: [ahmadrio](https://github.com/ahmadrio)
+
+
+#### Name: [Common Khadka](https://github.com/SilentCoder52626)
+
+- Place: Birtamode, Jhapa, Nepal
+- Bio: Developer, Undergraduate Student
+
+
+#### Name: [Sarah Alli](https://github.com/se7en-illa)
+
+- Place: New York, New York, USA
+- Bio: Filmmaker + Creative Software Developer
+- GitHub: [Sarah Alli](https://github.com/se7en-illa)
+
+#### Name: [Muhammad Sabili Nurilhaq](https://github.com/abilsabili50)
+
+- Place: Surabaya, East Java, Indonesia
+- Bio: 3rd year Engineering Student at UPN "Veteran" East Java
+- GitHub: [abilsabili50](https://github.com/abilsabili50)
+
+#### Name: [Brian Fransis Moniaga](https://github.com/BrianAnakPintar)
+
+- Place: Vancouver, British Columbia, Canada
+- Bio: 1st year undergraduate at The University of British Columbia
+- GitHub: [BrianAnakPintar](https://github.com/BrianAnakPintar)
+
+
+
+
+
