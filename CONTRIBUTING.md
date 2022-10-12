@@ -1888,3 +1888,9 @@
 - Place: Bhopal, Madhya Pradesh, India
 - Bio: Full Stack Web Developer
 - GitHub: [tarunmankar](https://github.com/tarunmankar)
+
+#### Name: [Moitreyo Chakraborty](https://github.com/MoitreyoChak)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Full Stack Web Developer
+- GitHub: [MoitreyoChak](https://github.com/MoitreyoChak)
