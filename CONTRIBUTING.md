@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+### NAME: [Luciane Fernandes Roque](https://github.com/LucianeFernandesRoque)
+
+- Place: Sao Paulo, Sao Paulo, Brazil
+- Bio: Software Development, Ruby on Rails
+- GitHub: [Luciane Fernandes Roque](https://github.com/LucianeFernandesRoque)
