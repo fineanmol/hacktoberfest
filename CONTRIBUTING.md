@@ -346,6 +346,12 @@
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
 
+## Name: [Anisha Nayaju](https://github.com/anishaxtha)
+
+- Place: Kathmandu, Nepal 
+- Bio: Student. Learning Backend Web development(Python/Django)
+- Github: [anishaxtha](https://github.com/anishaxtha)
+
 #### Name: Vivian
 
 - Place: Melbourne, Victoria, Australia
