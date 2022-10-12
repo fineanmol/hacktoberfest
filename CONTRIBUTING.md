@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Harshit Gulgulia](https://github.com/HarshitGulgulia)
+
+- Place: Bengaluru, Karnataka, India
+- Bio: B.E. Undergrad at Sir M. Visvesvaraya Institute of Technology, Bengaluru
+- GitHub: [HarshitGulgulia](https://github.com/HarshitGulgulia)
