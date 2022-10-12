@@ -2033,6 +2033,12 @@
 - Bio: 3rd year Engineering Student at UPN "Veteran" East Java
 - GitHub: [abilsabili50](https://github.com/abilsabili50)
 
+#### Name: [Brian Fransis Moniaga](https://github.com/BrianAnakPintar)
+
+- Place: Vancouver, British Columbia, Canada
+- Bio: 1st year undergraduate at The University of British Columbia
+- GitHub: [BrianAnakPintar](https://github.com/BrianAnakPintar)
+
 
 
 
