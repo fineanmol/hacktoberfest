@@ -1952,3 +1952,7 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+- Place: Bangkok, Thailand
+- Bio: Developer
+- Github: [keRLos](https://github.com/kerlos)
