@@ -1956,7 +1956,7 @@
 
 - Place: Lucknow, UP, India
 - Bio: Undergraduate Student
-- Github: [Ankit Kumar](https://github.com/Traveller_08)
+- Github: [Ankit Kumar](https://github.com/Traveller08)
 
 
 
