@@ -1,3 +1,6 @@
+# Hacktoberfest Project 2 : [Annoying Button](https://github.com/fineanmol/Annoying-submit-button) 🎉.
+Contribute here to Complete your HacktoberFest Event. 
+
 # 🎃 HacktoberFest Starter Project 🎃
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
@@ -149,4 +152,10 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 ## Additional references added by contributors
 
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+
+## Additional references for Contributors
+- Contributions make the open source community such an amazing place to learn, inspire, and create.
+- Any contributions you make are **truly appreciated**.
+- Check out our [contributiors](./CONTRIBUTING.md) for more information.
+
 
