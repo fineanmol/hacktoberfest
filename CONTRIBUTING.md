@@ -2,7 +2,7 @@
 
 - Place: Kaithal, Haryana, India
 - Bio: I am a Btech CS(Data Science) undergrad at J.C. Bose University of Science and Technology, YMCA, Faridabad.
-- GitHub: [bhavya-sharam26](https://github.com/bhavya-sharma26)
+- GitHub: [bhavya-sharma26](https://github.com/bhavya-sharma26)
 
 #### Name: [Omm Pani](https://github.com/Omm-Pani)
 
