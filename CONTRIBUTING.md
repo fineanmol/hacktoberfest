@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Edqe14](https://github.com/Edqe14)
+
+- Place: Pontianak, Indonesia
+- Bio: Highschool Student
+- GitHub: [Edqe14](https://github.com/Edqe14)
