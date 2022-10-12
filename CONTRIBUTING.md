@@ -1749,5 +1749,5 @@
 #### Name: [Osiris Corker](https://github.com/owengaspard)
 
 - Place: Atlanta, Georgia, United States
-- Bio: Software Developer, Georgia Southern University
+- Bio: Software Developer, Georgia Southern University, 
 - GitHub: [Osiris34](https://github.com/Osiris34)
