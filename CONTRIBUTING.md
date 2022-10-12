@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Chantae](https://github.com/taepal467)
+
+- Place: California, USA
+- Bio: Web Developer
+- GitHub: [taepal467](https://github.com/taepal467)
