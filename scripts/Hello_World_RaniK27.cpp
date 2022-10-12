@@ -9,6 +9,6 @@ using namespace std;
 int main()
 {
    cout<<"Hello World!";
-   cout<<"Hacktoberfest 2022 ";
+   cout<<"\nHacktoberfest 2022\n ";
    return 0;
 }
