@@ -1952,3 +1952,8 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Shehroz Irfan](https://github.com/ShehrozIrfan)
+- Place: Lahore, Pakistan
+- Bio: Ruby on Rails
+- Github: [Shehroz Irfan](https://github.com/ShehrozIrfan)
