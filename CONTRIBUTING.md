@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+### Name: [Souvik Banerjee](https://github.com/Souvik2376)
+
+- Place: Kolkata, India
+- Bio: AI & ML
+- Github: [Souvik2376](https://github.com/Souvik2376)
