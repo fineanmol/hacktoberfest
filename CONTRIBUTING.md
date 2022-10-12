@@ -1974,6 +1974,13 @@
 - Github: [Aman1919](https://github.com/Aman1919)
 
 
+#### Name: [Ahmad Rio](https://github.com/ahmadrio)
+
+- Place: Malang, Jawa Timur, Indonesia
+- Bio: Laravel Framework + ReactJS Developer
+- Github: [ahmadrio](https://github.com/ahmadrio)
+
+
 #### Name: [Common Khadka](https://github.com/SilentCoder52626)
 
 - Place: Birtamode, Jhapa, Nepal
@@ -1991,5 +1998,6 @@
 - Place: Surabaya, East Java, Indonesia
 - Bio: 3rd year Engineering Student at UPN "Veteran" East Java
 - GitHub: [abilsabili50](https://github.com/abilsabili50)
+
 
 
