@@ -4,6 +4,12 @@
 - Bio: I am a Btech undergrad at VSSUT.
 - GitHub: [GitHub account name](https://github.com/Omm-Pani)
 
+#### Name: [Mithun S](https://github.com/mithun-srinivas)
+
+- Place: KBengaluru, Karnataka, India
+- Bio: Developer who loves to Teach.
+- GitHub: [GitHub account name](https://github.com/mithun-srinivas)
+
 ### Name: [Franklin Mensah](https://github.com/fiificode)
 
 - Place: Accra, Ghana
@@ -33,6 +39,12 @@
 - Place: AP, India
 - Bio: Student, Web developer
 - GitHub: [Karthik-59](https://github.com/Karthik-59)
+
+#### Name: [Amolika Bhasin](https://github.com/bhasinamolika)
+
+- Place: Punjab, India
+- Bio: Student, Web developer
+- GitHub: [bhasinamolika](https://github.com/bhasinamolika)
 
 #### Name: [Harsh Shah](https://github.com/harsh-0986)
 
@@ -1953,7 +1965,23 @@
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
 
+
 #### Name: [Common Khadka](https://github.com/SilentCoder52626)
 
 - Place: Birtamode, Jhapa, Nepal
 - Bio: Developer, Undergraduate Student
+
+
+#### Name: [Sarah Alli](https://github.com/se7en-illa)
+
+- Place: New York, New York, USA
+- Bio: Filmmaker + Creative Software Developer
+- GitHub: [Sarah Alli](https://github.com/se7en-illa)
+
+#### Name: [Muhammad Sabili Nurilhaq](https://github.com/abilsabili50)
+
+- Place: Surabaya, East Java, Indonesia
+- Bio: 3rd year Engineering Student at UPN "Veteran" East Java
+- GitHub: [abilsabili50](https://github.com/abilsabili50)
+
+
