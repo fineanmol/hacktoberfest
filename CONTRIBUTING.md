@@ -1,3 +1,9 @@
+#### Name: [mete23](https://github.com/mete23)
+- Place: Germany
+- Bio: Student
+- GitHub: [GitHub account name](https://github.com/mete23)
+
+
 #### Name: [Omm Pani](https://github.com/Omm-Pani)
 
 - Place: Keonjhar, Odisha, India
