@@ -1952,3 +1952,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Madalena Rocha](https://github.com/madalena-rocha)
+
+- Place: Juazeiro, Bahia, Brazil
+- Bio: Front-end Developer
+- GitHub: [madalena-rocha](https://github.com/madalena-rocha)
