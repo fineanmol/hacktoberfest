@@ -1965,8 +1965,16 @@
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
 
+
+#### Name: [Sarah Alli](https://github.com/se7en-illa)
+
+- Place: New York, New York, USA
+- Bio: Filmmaker + Creative Software Developer
+- GitHub: [Sarah Alli](https://github.com/se7en-illa)
+
 #### Name: [Muhammad Sabili Nurilhaq](https://github.com/abilsabili50)
 
 - Place: Surabaya, East Java, Indonesia
 - Bio: 3rd year Engineering Student at UPN "Veteran" East Java
 - GitHub: [abilsabili50](https://github.com/abilsabili50)
+
