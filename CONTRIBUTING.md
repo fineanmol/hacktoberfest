@@ -22,7 +22,7 @@
 - Bio: Android Developer
 - GitHub: [Ashutosh Sharma]([https://github.com/ashutosh-buku])
 
-#### Name: [Vedangi Bhujang]([https://github.com/VEDANGIBHUJANG])
+#### Name: [Vedangi  Bhujang]([https://github.com/VEDANGIBHUJANG])
 
 - Place: Pune , Maharashtra , India
 - Bio: B.Tech CSE Graduate
