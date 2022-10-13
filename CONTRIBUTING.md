@@ -11,6 +11,7 @@
 - Bio: Computer Science Undergraduate
 
 
+
 #### Name: [Omm Pani](https://github.com/Omm-Pani)
 
 - Place: Keonjhar, Odisha, India
@@ -2005,6 +2006,13 @@
 - Github: [Aman1919](https://github.com/Aman1919)
 
 
+#### Name: [Samrat Khan](https://github.com/Samrat-Khan)
+
+- Place: Bidhannagar, Kolkata, India
+- Bio: Computer science and Technology
+- GitHub: [Samrat Khan](https://github.com/Samrat-Khan)
+
+
 ### Name: [Souvik Banerjee](https://github.com/Souvik2376)
 
 - Place: Kolkata, India
@@ -2114,4 +2122,5 @@
 - Place: Atlanta, Georgia, United States
 - Bio: Software Developer, Georgia Southern University, 
 - GitHub: [Osiris34](https://github.com/Osiris34)
+
 
