@@ -1,4 +1,10 @@
-#### Name: [pavan pakhare](https://github.com/pavanpakhare)
+#### Name: [Ayush Sagar](https://github.com/itsmeAYUSH)
+
+- Place: Kalyan, maharashtra, India
+- Bio: I am a student.
+- GitHub: [itsmeAYUSH] (https://github.com/itsmeAYUSH)
+- 
+- #### Name: [pavan pakhare](https://github.com/pavanpakhare)
 
 - Place: Aurangabad, maharashtra, India
 - Bio: I am a student.
