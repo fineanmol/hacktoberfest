@@ -2087,6 +2087,12 @@
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
 
+
+#### Name: [Amit Barman](https://github.com/AmitBarman99)
+
+- Place: Coochbehar, West Bengal, INDIA
+- Bio: Sophomore at Indian Institute of Engineering science & Technology,web developer,SSI IC designer,PCB designer
+- GitHub: [Amit Barman](https://github.com/AmitBarman99)
 #### Name: [Smit Patel](https://github.com/smitatgithub)
 
 - Place: Gujarat, Gujarat, India
@@ -2276,32 +2282,21 @@
 
 
 #### Name: [Dimas Nur Fadhil Primuja Wardana](https://github.com/dnfid)
-
 - Place: Wonogiri, Central Java, Indonesia
 - Bio: Fullstack developers as father with 1 kids XD
 - GitHub: [dnfid](https://github.com/dnfid)
 
 #### Name: [Ava Furtado] (https://github.com/ava-f08)
-
-
 - Place: Bellevue, Washington, United States
 - Bio: Student coder, web developer
 - GitHub: [ava-f08](https://github.com/ava-f08)
 
 #### Name: [Danindra Ihya' Maulalhaq](https://github.com/danindraihya)
-
 - Place: Surabaya, East Java, Indonesia
 - Bio: 3rd year Information Technology at Politeknik Elektronika Negeri Surabaya
-- GitHub: [danindraihya](https://github.com/danindraihya)
-
-
-
-#### Name: [Bijay Dulal](https://github.com/iambijayd)
 
 
 #### Name: [D J Ashlin Dev](https://github.com/Ashlin21dev)
-
-
 -Place: Kanyakumari, Tamilnadu, India
 -Bio: FInal year Engineering student at Vellore Institute Of Technology
 -Github: [Ashlin21dev](https://github.com/Ashlin21dev)
