@@ -25,6 +25,11 @@
 - Bio: I am a Professional Software Engineer.
 - GitHub: [GitHub account name](https://github.com/me-ruhin)
 
+#### Name: [Ayush Shukla](https://github.com/123shuklaayush)
+
+- Place: Varanasi
+- Bio: I am an Undergraduate from IIIT Nagpur.
+- GitHub: [GitHub account name](https://github.com/123shuklaayush)
 
 #### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
 
