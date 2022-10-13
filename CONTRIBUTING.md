@@ -2374,3 +2374,8 @@
 - Place: Uttar Pradesh, INdia
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
+
+### NAME: [Akshit Mangotra](https://github.com/Akshit6828)
+- Place: Punjab, India
+- Bio: 2022 CSE Graduate having passion for innovation and technology. Currently working on Google Cloud and Java.
+- Github: [Akshit6828](https://github.com/Akshit6828)
