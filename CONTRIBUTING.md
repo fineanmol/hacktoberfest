@@ -2041,6 +2041,13 @@
 - Github: [Aman1919](https://github.com/Aman1919)
 
 
+
+#### Name: [Ashish Jose](https://github.com/ashish2675)
+
+- Place: Guna[M.P], India
+- Bio: I am a Btech undergrad at VIT.
+- GitHub: [Ashish Jose](https://github.com/ashish2675)
+
 ### Name: [Kunal Pitale](https://github.com/iamkunalpitale)
 
 - Place: Indore, Madhya Pradesh
@@ -2236,5 +2243,6 @@
 - Place: Atlanta, Georgia, United States
 - Bio: Software Developer, Georgia Southern University, 
 - GitHub: [Osiris34](https://github.com/Osiris34)
+
 
 
