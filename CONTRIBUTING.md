@@ -2026,6 +2026,13 @@
 - Bio: 1st year undergraduate at The University of British Columbia
 - GitHub: [BrianAnakPintar](https://github.com/BrianAnakPintar)
 
+
+#### Name: [Apurb Sinha](https://github.com/ApurbSinha7)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Computer Science Undergraduate
+- GitHub: [Apurb Sinha](https://github.com/ApurbSinha7)
+
 ### NAME: [sajdoi2](https://github.com/sajdoi2)
 
 - Place: New Delhi, India
@@ -2035,3 +2042,4 @@
 - Place: Atlanta, Georgia, United States
 - Bio: Software Developer, Georgia Southern University, 
 - GitHub: [Osiris34](https://github.com/Osiris34)
+
