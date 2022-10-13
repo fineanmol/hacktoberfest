@@ -2374,3 +2374,9 @@
 - Place: Uttar Pradesh, INdia
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
+
+#### Name: [Ejiroghene Laurel Dafe](https://github.com/EjiroLaurelD)
+
+- Place: Abuja, Nigeria
+- Bio: I am a student.
+- GitHub: [Ejiroghene Laurel Dafe](https://github.com/EjiroLaurelD)
