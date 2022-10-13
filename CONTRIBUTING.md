@@ -2006,6 +2006,14 @@
 - Github: [Aman1919](https://github.com/Aman1919)
 
 
+#### Name: [Anshu Priya] https://github.com/1anshu-56
+
+- Education: B.Tech.
+- Place: Kolkata, India🇮🇳
+- Bio: Computer Science and Engineer || C++ programmer
+- GitHub: [1anshu-56]( https://github.com/1anshu-56 ) 
+
+
 #### Name: [Chantae](https://github.com/taepal467)
 
 - Place: California, USA
@@ -2167,5 +2175,4 @@
 - Place: Atlanta, Georgia, United States
 - Bio: Software Developer, Georgia Southern University, 
 - GitHub: [Osiris34](https://github.com/Osiris34)
-
 
