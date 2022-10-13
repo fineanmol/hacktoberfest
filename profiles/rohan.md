@@ -1,7 +1,7 @@
-# Rohan 
+# Rohan Gope
 
 ### Location
-Bengaluru, India
+Durgapur, India
 
 ### Academics
-Sri Eshwar College of Engineering, CCE '23
+Jalpaiguri Government Engineering College
