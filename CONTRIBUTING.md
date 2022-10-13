@@ -1,3 +1,10 @@
+#### Name: [Ayush Sagar](https://github.com/itsmeAYUSH)
+- Place: kalyan.Maharashtra
+- Bio: bsc Computer Science graduate 
+- Github: [itsmeAYUSH](https://github.com/itsmeAYUSH)
+
+
+
 #### Name: [pavan pakhare](https://github.com/pavanpakhare)
 
 - Place: Aurangabad, maharashtra, India
