@@ -1,4 +1,11 @@
 
+#### Name: [Md Ruhin Mia](https://github.com/me-ruhin)
+
+- Place: Dhaka Bangladesh 
+- Bio: I am a Professional Software Engineer.
+- GitHub: [GitHub account name](https://github.com/me-ruhin)
+
+
 #### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
 
 - Place: Kaithal, Haryana, India
@@ -16,6 +23,7 @@
 
 - Place: Noida, UP, India
 - Bio: Computer Science Undergraduate
+
 
 
 
