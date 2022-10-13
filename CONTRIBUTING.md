@@ -2005,6 +2005,12 @@
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
 
+
+#### Name: [Shehroz Irfan](https://github.com/ShehrozIrfan)
+- Place: Lahore, Pakistan
+- Bio: Ruby on Rails
+- Github: [Shehroz Irfan](https://github.com/ShehrozIrfan)
+
 #### Name: [Madalena Rocha](https://github.com/madalena-rocha)
 
 - Place: Juazeiro, Bahia, Brazil
