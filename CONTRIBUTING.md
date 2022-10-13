@@ -2300,6 +2300,10 @@
 - Bio: Software Developer, Georgia Southern University, 
 - GitHub: [Osiris34](https://github.com/Osiris34)
 
+### NAME: [gxjakkap](https://github.com/gxjakkap)
+- Place: Hat Yai, Thailand
+- Bio: Student
+- Github: [gxjakkap](https://github.com/gxjakkap)
 
 
 
