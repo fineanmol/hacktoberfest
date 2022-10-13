@@ -2374,3 +2374,8 @@
 - Place: Uttar Pradesh, INdia
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
+
+### NAME: [Aniket Ghosh](https://github.com/quanta003)
+- Place: West Bengal, India
+- Bio: CS engineering student
+- Github: [Aniket Ghosh](https://github.com/quanta003)
