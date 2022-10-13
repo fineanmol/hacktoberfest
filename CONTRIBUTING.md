@@ -2006,6 +2006,13 @@
 - Github: [Aman1919](https://github.com/Aman1919)
 
 
+#### Name: [Vijay Adhikari](https://github.com/17vijay2002)
+
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Computer Science (AI/ML)
+- GitHub: [17vijay2002](https://github.com/17vijay2002)
+
+
 #### Name: [Divyam Jain](https://github.com/divyam29)
 
 - Place: Ambala, Haryana, India
@@ -2146,6 +2153,7 @@
 - Place: Atlanta, Georgia, United States
 - Bio: Software Developer, Georgia Southern University, 
 - GitHub: [Osiris34](https://github.com/Osiris34)
+
 
 
 
