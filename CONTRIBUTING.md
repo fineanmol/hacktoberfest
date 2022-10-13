@@ -2017,6 +2017,7 @@
 - Bio: 1st year undergraduate at The University of British Columbia
 - GitHub: [BrianAnakPintar](https://github.com/BrianAnakPintar)
 
+
 #### Name: [Apurb Sinha](https://github.com/ApurbSinha7)
 
 - Place: Kolkata, West Bengal, India
