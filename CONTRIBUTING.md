@@ -2374,3 +2374,7 @@
 - Place: Uttar Pradesh, INdia
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
+
+### NAME: [idkroff](https://github.com/idkroff)
+- Bio: Student
+- Github: [idkroff](https://github.com/idkroff)
