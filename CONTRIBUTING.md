@@ -1768,10 +1768,7 @@
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
 
 #### Name: [Parmar Kirti](https://github.com/kirti36)
-
-
 - Education : B.Tech, A.D. Patel Institute of Technology, India
-
 - Place: Anand, Gujarat, India
 - Bio: Student, Web Developer
 - GitHub: [kirti36](https://github.com/kirti36)
@@ -1815,6 +1812,12 @@
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
 
+#### Name: [Sahil Dhanjal](https://github.com/Sahil-Dhanjal)
+
+
+- Place: Punjab, India
+- Bio: Final Year Student Pursuing Computer Science And Business Systems at Thapar University, Patiala, India.
+- GitHub: [Sahil-Dhanjal](https://github.com/Sahil-Dhanjal)
 
 #### Name: [Osiris Corker](https://github.com/owengaspard)
 
@@ -2042,4 +2045,5 @@
 - Place: Atlanta, Georgia, United States
 - Bio: Software Developer, Georgia Southern University, 
 - GitHub: [Osiris34](https://github.com/Osiris34)
+
 
