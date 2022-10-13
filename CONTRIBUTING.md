@@ -2376,8 +2376,8 @@
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
 
 
-#### Name: [Priyanshu Anand](https://github.com/priyanshuanand166)
+#### Name: [Priyanshu Anand](github.com/priyanshuanand166)
 
 - Place: Kolkata, WestBengal, India
 - Bio: Engineering Final Year Student
-- GitHub: [priyanshuanand166](https://github.com/priyanshuanand166)
+- GitHub: [priyanshuanand166](github.com/priyanshuanand166)
