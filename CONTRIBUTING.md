@@ -2017,7 +2017,11 @@
 - Bio: 1st year undergraduate at The University of British Columbia
 - GitHub: [BrianAnakPintar](https://github.com/BrianAnakPintar)
 
+### NAME: [sajdoi2](https://github.com/sajdoi2)
 
+- Place: New Delhi, India
+- Bio: Student
+- GitHub: [sajdoi2](https://github.com/sajdoi2)
 
 
 
