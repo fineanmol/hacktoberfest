@@ -2006,6 +2006,13 @@
 - Github: [Aman1919](https://github.com/Aman1919)
 
 
+#### Name: [Jennifer Bolarinwa](https://github.com/2kjen)
+
+- Place: London, England
+- Bio: Junior Frontend Web Developer
+- GitHub: [2kjen](https://github.com/2kjen)
+
+
 #### Name: [Vijay Adhikari](https://github.com/17vijay2002)
 
 - Place: Lucknow, Uttar Pradesh, India
@@ -2153,7 +2160,5 @@
 - Place: Atlanta, Georgia, United States
 - Bio: Software Developer, Georgia Southern University, 
 - GitHub: [Osiris34](https://github.com/Osiris34)
-
-
 
 
