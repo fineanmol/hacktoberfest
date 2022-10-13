@@ -1,4 +1,11 @@
 
+#### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
+
+- Place: Kaithal, Haryana, India
+- Bio: I am a Btech CS(Data Science) undergrad at J.C. Bose University of Science and Technology, YMCA, Faridabad.
+- GitHub: [bhavya-sharma26](https://github.com/bhavya-sharma26)
+
+
 #### Name: [mete23](https://github.com/mete23)
 - Place: Germany
 - Bio: Student
@@ -9,6 +16,7 @@
 
 - Place: Noida, UP, India
 - Bio: Computer Science Undergraduate
+
 
 
 
