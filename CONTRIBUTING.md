@@ -1,10 +1,16 @@
 
+#### Name: [mete23](https://github.com/mete23)
+- Place: Germany
+- Bio: Student
+- GitHub: [GitHub account name](https://github.com/mete23)
+
+
 #### Name: [Raghav Bajaj](https://github.com/Raghav-Bajaj)
 
 - Place: Noida, UP, India
 - Bio: Computer Science Undergraduate
-- GitHub: [Raghav-Bajaj](https://github.com/Raghav-Bajaj)
-- 
+
+
 #### Name: [Omm Pani](https://github.com/Omm-Pani)
 
 - Place: Keonjhar, Odisha, India
