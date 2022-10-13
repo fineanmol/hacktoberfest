@@ -2389,6 +2389,11 @@
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
 
+### NAME: [Anna Lira](https://github.com/annabeatrizlucena)
+- Place: Campina Grande, Brazil
+- Bio: Computer Science Student
+- Github: [Anna Lira](https://github.com/annabeatrizlucena)
+
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
