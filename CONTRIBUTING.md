@@ -2017,7 +2017,11 @@
 - Bio: 1st year undergraduate at The University of British Columbia
 - GitHub: [BrianAnakPintar](https://github.com/BrianAnakPintar)
 
+#### Name: [Bijay Dulal](https://github.com/iambijayd)
 
+- Place: Morang,Nepal
+- Bio: Student + Developer
+- GitHub: [iambijayd](https://github.com/iambijayd)
 
 
 
