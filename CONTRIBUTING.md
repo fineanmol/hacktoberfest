@@ -1646,6 +1646,14 @@
 - Bio: IT Undergrad Student
 - GitHub: [gajanansr](https://github.com/gajanansr)
 
+#### Name: [choirulhafifi](https://github.com/choirulhafifi)
+
+- Education : Instute Bina Sarana Global , Tangerang-Banten, Indonesia
+- Place: Tangerang , Banten , Indonesia
+- Bio: UI/UX Designer
+- GitHub: [choirulhafifi](https://github.com/choirulhafifi)
+
+
 #### Name: [Prashant Agheda](https://github.com/prashant-agheda/)
 
 #### Name: [siddhesh dhumal](https://github.com/siddhesh1133)
@@ -2101,6 +2109,11 @@
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
 
+#### Name: [Júlio Mazotti](https://github.com/maztt)
+
+- Place: Goiás, Brazil
+- Bio: Original business management student willing to merge his knowledge with coding
+- GitHub: [maztt](https://github.com/maztt)
 
 #### Name: [Dibyasree Das](https://github.com/dibyasree02)
 
@@ -2356,6 +2369,11 @@
 - Place: Hat Yai, Thailand
 - Bio: Student
 - Github: [gxjakkap](https://github.com/gxjakkap)
+
+### NAME: [Prithu Nagar](https://github.com/Prithu-Nagar)
+- Place: Uttar Pradesh, INdia
+- Bio: Student
+- Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
 
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
