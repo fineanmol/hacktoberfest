@@ -2029,12 +2029,19 @@
 - Bio: 1st year undergraduate at The University of British Columbia
 - GitHub: [BrianAnakPintar](https://github.com/BrianAnakPintar)
 
+#### Name: [Bijay Dulal](https://github.com/iambijayd)
+
+
+- Place: Morang,Nepal
+- Bio: Student + Developer
+- GitHub: [iambijayd](https://github.com/iambijayd)
 
 #### Name: [Apurb Sinha](https://github.com/ApurbSinha7)
 
 - Place: Kolkata, West Bengal, India
 - Bio: Computer Science Undergraduate
 - GitHub: [Apurb Sinha](https://github.com/ApurbSinha7)
+
 
 ### NAME: [sajdoi2](https://github.com/sajdoi2)
 
