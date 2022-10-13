@@ -2356,3 +2356,8 @@
 - Place: Hat Yai, Thailand
 - Bio: Student
 - Github: [gxjakkap](https://github.com/gxjakkap)
+
+### NAME: [Prithu Nagar](https://github.com/Prithu-Nagar)
+- Place: Uttar Pradesh, INdia
+- Bio: Student
+- Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
