@@ -1,11 +1,9 @@
-#include <stdio.h>
+// LANGUAGE: C++
+// ENV: Node.js
+// AUTHOR: Papai Singha
+// GITHUB: https://github.com/papaihactober2k21
 
-int main()
-{
-    printf("Hello World");
-
-    return 0;
-}
+   printf("Hello World");
 
 # Binary search
 
