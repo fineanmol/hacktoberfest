@@ -2374,3 +2374,8 @@
 - Place: Uttar Pradesh, INdia
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
+
+### NAME: [Imanshu Rathore](https://github.com/imanshu03)
+- Place: Chandigarh, India
+- Bio: Developer
+- Github: [Imanshu Rathore](https://github.com/imanshu03)
