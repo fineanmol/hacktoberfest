@@ -2374,3 +2374,8 @@
 - Place: Uttar Pradesh, INdia
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
+
+### NAME: [Yash Chokhani](https://github.com/CHOKHANIYASH)
+- Place: West Bengal, Kolkata
+- Bio: Student
+- Githiub:  [Yash Chokhani](https://github.com/CHOKHANIYASH)
