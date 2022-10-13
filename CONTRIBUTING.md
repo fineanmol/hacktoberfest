@@ -14,6 +14,11 @@
 - Bio: I am a Btech CS with specialisation in Data Science undergrad at J.C.Bose University, YMCA, Faridabad.
 - GitHub: [GitHub account name](https://github.com/bhavya-sharma26)
 
+#### Name: [Mohasin Haque](https://github.com/jnchen12a)
+
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Frontend Developer
+- GitHub: [Mohasin Haque](https://github.com/Mohasin-Haque)
 
 #### Name: [Md Ruhin Mia](https://github.com/me-ruhin)
 
