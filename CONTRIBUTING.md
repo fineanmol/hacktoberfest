@@ -2039,6 +2039,12 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+#### Name: [Mariano Villajos](https://github.com/mvillajos)
+
+- Place: Casarrubuelos, Madrid, Spain
+- Bio: Computer Science Engineer
+- GitHub: [Mariano Villajos](https://github.com/mvillajos)
 - Place: sehore, Madhya Pradesh, India
 - Bio: Undergraduate Student
 - Github: [visheshind](https://github.com/visheshind)
