@@ -2017,6 +2017,12 @@
 - Bio: 1st year undergraduate at The University of British Columbia
 - GitHub: [BrianAnakPintar](https://github.com/BrianAnakPintar)
 
+#### Name: [Danindra Ihya' Maulalhaq](https://github.com/danindraihya)
+
+- Place: Surabaya, East Java, Indonesia
+- Bio: 3rd year Information Technology at Politeknik Elektronika Negeri Surabaya
+- GitHub: [danindraihya](https://github.com/danindraihya)
+
 
 
 
