@@ -1,7 +1,7 @@
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
-Place: Kolkata, West Bengal, India
-Bio: I am a student.
-GitHub: https://github.com/papaihactober2k21
+-Place: Kolkata, West Bengal, India
+-Bio: I am a student.
+-GitHub: https://github.com/papaihactober2k21
 
 #### Name: [pavan pakhare](https://github.com/pavanpakhare)
 - Place: Aurangabad, maharashtra, India
