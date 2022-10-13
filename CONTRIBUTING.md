@@ -2374,3 +2374,10 @@
 - Place: Uttar Pradesh, INdia
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
+
+
+#### Name: [Priyanshu Anand](https://github.com/priyanshuanand166)
+
+- Place: Kolkata, WestBengal, India
+- Bio: Engineering Student(Final Year)
+- GitHub: [Priyanshu Anand](https://github.com/priyanshuanand166)
