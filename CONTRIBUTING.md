@@ -2091,6 +2091,11 @@
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
 
+#### Name: [Jitesh Jayaraman](https://github.com/hyascavefire)
+
+- Place: Gold Coast
+- Bio: Media
+- GitHub: [Jitesh Jayaraman](https://github.com/hyascavefire)
 ### Name: [Yodi Fakhri](https://github.com/yodifm)
 
 - Place: Jakarta, Indonesia
