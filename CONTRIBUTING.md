@@ -2040,7 +2040,9 @@
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
 
-- Place: Howrah, West Bengal, India
+- Place: Indore, Madhya Pradesh, India
+- Bio: Web developer, UI/UX designer
+- Github: [NAMANIND](https://github.com/NAMANIND)
 - Bio: Developer, School student
 - Github: [Debayan Kar](https://github.com/kardebayan)
 
