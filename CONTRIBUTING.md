@@ -1768,7 +1768,7 @@
 - GitHib: [imlakshaychauhan](https://github.com/imlakshaychauhan)
 
 #### Name: [Parmar Kirti](https://github.com/kirti36)
-
+- Education : B.Tech, A.D. Patel Institute of Technology, India
 - Place: Anand, Gujarat, India
 - Bio: Student, Web Developer
 - GitHub: [kirti36](https://github.com/kirti36)
@@ -1797,6 +1797,9 @@
 - Bio: Student
 - GitHib: [AjdinTM](https://github.com/AjdinTM)
 
+
+- GitHub: [imlakshaychauhan](https://github.com/imlakshaychauhan)
+
 #### Name: [Ishu Raj](https://github.com/RajIshu)
 
 - Place: Dehradun, Uttrakhand, India
@@ -1808,6 +1811,15 @@
 - Place: New Orleans, Louisiana, United States
 - Bio: Developer, student
 - GitHub: [owengaspard](https://github.com/owengaspard)
+
+#### Name: [Sahil Dhanjal](https://github.com/Sahil-Dhanjal)
+
+
+- Place: Punjab, India
+- Bio: Final Year Student Pursuing Computer Science And Business Systems at Thapar University, Patiala, India.
+- GitHub: [Sahil-Dhanjal](https://github.com/Sahil-Dhanjal)
+
+#### Name: [Osiris Corker](https://github.com/owengaspard)
 
 #### Name: [Idisi Efezino Endurance](https://github.com/efezinoidisi)
 
@@ -2017,6 +2029,7 @@
 - Bio: 1st year undergraduate at The University of British Columbia
 - GitHub: [BrianAnakPintar](https://github.com/BrianAnakPintar)
 
+#### Name: [Bijay Dulal](https://github.com/iambijayd)
 
 #### Name: [D J Ashlin Dev](https://github.com/Ashlin21dev)
 
@@ -2024,6 +2037,25 @@
 -Bio: FInal year Engineering student at Vellore Institute Of Technology
 -Github: [Ashlin21dev](https://github.com/Ashlin21dev)
 
+- Place: Morang,Nepal
+- Bio: Student + Developer
+- GitHub: [iambijayd](https://github.com/iambijayd)
 
+#### Name: [Apurb Sinha](https://github.com/ApurbSinha7)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Computer Science Undergraduate
+- GitHub: [Apurb Sinha](https://github.com/ApurbSinha7)
+
+
+### NAME: [sajdoi2](https://github.com/sajdoi2)
+
+- Place: New Delhi, India
+- Bio: Student
+- GitHub: [sajdoi2](https://github.com/sajdoi2)
+
+- Place: Atlanta, Georgia, United States
+- Bio: Software Developer, Georgia Southern University, 
+- GitHub: [Osiris34](https://github.com/Osiris34)
 
 
