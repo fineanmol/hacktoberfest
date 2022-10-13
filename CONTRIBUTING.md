@@ -1,3 +1,7 @@
+#### Name: [Shubham Jain](https://github.com/Shubhamjain287)
+- Place: Indore MP
+- Bio: Computer Science Enginner
+- Github: [Github Account](https://github.com/Shubhamjain287)
 
 #### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
 
