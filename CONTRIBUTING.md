@@ -38,11 +38,19 @@
 - Bio: Frontend Web developer
 - Github: [fiificode](https://github.com/fiificode)
 
+
+#### Name: [Aryan Panchal](https://github.com/Aryan-26)
+
+-Place: Gurgaon, Haryana
+-Bio: Computer Science Engineering Student
+-Github: [Aryan-26](https://github.com/Aryan-26)
+
 #### Name: [Harshita Gupta](https://github.com/harshitacodes)
 
 - Place: Bangalore ,India
 - Bio: Software Developer at Unacademy
 - GitHub: [harshitacodes](https://github.com/harshitacodes)
+
 
 #### Name: [Aarushi](https://github.com/aarushiksk)
 
