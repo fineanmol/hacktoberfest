@@ -89,11 +89,19 @@
 - Bio: Android Developer
 - GitHub: [Ashutosh Sharma]([https://github.com/ashutosh-buku])
 
+
+#### Name: [Shahiyan](https://github.com/shahiyan7)
+
+-Place: Lucknow, Uttar Pradesh, India
+-Bio: Computer Science Undergraduate
+-Github: [Shahiyan](https://github.com/shahiyan7)
+
 #### Name: [Vedangi  Bhujang]([https://github.com/VEDANGIBHUJANG])
 
 - Place: Pune , Maharashtra , India
 - Bio: B.Tech CSE Graduate
 - GitHub: [VEDANGIBHUJANG]([https://github.com/VEDANGIBHUJANG])
+
 
 #### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
 
