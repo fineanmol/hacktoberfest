@@ -2374,3 +2374,9 @@
 - Place: Uttar Pradesh, INdia
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
+
+#### Name: [Subhajit Roy](https://github.com/subhajitroycode)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Aspiring Frontend Developer
+- GitHub: [subhajitroycode](https://github.com/subhajitroycode)
