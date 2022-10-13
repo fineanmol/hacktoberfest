@@ -1,4 +1,11 @@
 
+#### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
+
+- Place: Kaithal,Haryana, India
+- Bio: I am a Btech CS with specialisation in Data Science undergrad at J.C.Bose University, YMCA, Faridabad.
+- GitHub: [GitHub account name](https://github.com/bhavya-sharma26)
+
+
 #### Name: [Md Ruhin Mia](https://github.com/me-ruhin)
 
 - Place: Dhaka Bangladesh 
@@ -23,10 +30,6 @@
 
 - Place: Noida, UP, India
 - Bio: Computer Science Undergraduate
-
-
-
-
 
 #### Name: [Omm Pani](https://github.com/Omm-Pani)
 
