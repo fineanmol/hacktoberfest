@@ -2070,6 +2070,12 @@
 - Bio: 1st year undergraduate at The University of British Columbia
 - GitHub: [BrianAnakPintar](https://github.com/BrianAnakPintar)
 
+#### Name: [Prathyastee](https://github.com/prathyastee)
+
+- Place: Rourkela, India
+- Bio: Engineering Sophomore
+- GitHub: [prathyastee](https://github.com/prathyastee)
+
 
 #### Name: [Dimas Nur Fadhil Primuja Wardana](https://github.com/dnfid)
 
