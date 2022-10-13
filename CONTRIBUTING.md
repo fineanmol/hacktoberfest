@@ -2005,6 +2005,11 @@
 - Github: [Aman1919](https://github.com/Aman1919)
 
 
+- Place: Bangkok, Thailand
+- Bio: Developer
+- Github: [keRLos](https://github.com/kerlos)
+
+
 ### NAME: [Luciane Fernandes Roque](https://github.com/LucianeFernandesRoque)
 
 - Place: Sao Paulo, Sao Paulo, Brazil
@@ -2095,5 +2100,4 @@
 - Place: Atlanta, Georgia, United States
 - Bio: Software Developer, Georgia Southern University, 
 - GitHub: [Osiris34](https://github.com/Osiris34)
-
 
