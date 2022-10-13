@@ -2041,6 +2041,16 @@
 - Github: [Aman1919](https://github.com/Aman1919)
 
 
+#### Name: [Mochamad Sofyan](https://github.com/sofyanmoch)
+
+- Place: Tegal, Indonesia
+- Bio: Full Stack Web Developer 
+- GitHub: [sofyanmoch](https://github.com/sofyanmoch)
+- Education : SMK N 1 Adiwerna
+- Place: Tegal
+- Bio: Developer, student
+
+
 #### Name: [Anthony T](https://github.com/freshairr)
 
 - Place: Chicago, IL, USA
