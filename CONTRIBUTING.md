@@ -2378,4 +2378,4 @@
 ### NAME: [Ankur Sharma](https://github.com/ankur2825)
 - Place: Delhi, India
 - Bio: Student
-- Github: [Prithu Nagar](https://github.com/ankur2825)
+- Github: [Ankur Sharma](https://github.com/ankur2825)
