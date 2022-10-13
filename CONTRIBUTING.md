@@ -2374,3 +2374,10 @@
 - Place: Uttar Pradesh, INdia
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
+
+
+#### Name: [Annmary Vinod](https://github.com/annmaryvinod)
+
+- Place: Kochi, Kerala , India
+- Bio: I am a computer science and engineering student. I love making websites and coding.
+- GitHub: [GitHub account name](https://github.com/annmaryvinod)
