@@ -1,3 +1,8 @@
+#### Name: [Roberto](https://github.com/rchatru)
+- Place: Canary Islands, Spain.
+- Bio: Industrial Engineer, studying Data Science.
+- GitHub: [Rchatru](https://github.com/rchatru)
+
 #### Name: [pavan pakhare](https://github.com/pavanpakhare)
 
 - Place: Aurangabad, maharashtra, India
