@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Devanshu2310](https://github.com/Devanshu2310)
+-Place: Chandigarh, India
+-Bio: IT Student
+-Github: [Devanshu2310](https://github.com/Devanshu2310)
