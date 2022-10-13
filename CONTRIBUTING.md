@@ -43,6 +43,14 @@
 #### Name: [Aryan Panchal](https://github.com/Aryan-26)
 
 -Place: Gurgaon, Haryana
+-Bio: Computer Science Student
+-Github: [Aryan-26](https://github.com/Aryan-26)
+
+
+
+#### Name: [Aryan Panchal](https://github.com/Aryan-26)
+
+-Place: Gurgaon, Haryana
 -Bio: Computer Science Engineering Student
 -Github: [Aryan-26](https://github.com/Aryan-26)
 
