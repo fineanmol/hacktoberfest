@@ -2096,6 +2096,12 @@
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
 
+
+#### Name: [Dibyasree Das](https://github.com/dibyasree02)
+
+- Place: Chandannagar, West Bengal, India
+- Bio: undergrad B.tech student?
+- GitHub: [dibyasree02](https://github.com/dibyasree02
 #### Name: [Jitesh Jayaraman](https://github.com/hyascavefire)
 
 - Place: Gold Coast
