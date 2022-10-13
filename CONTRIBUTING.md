@@ -2074,6 +2074,13 @@
 - Github: [Aman1919](https://github.com/Aman1919)
 
 
+#### Name: [Rajdeep Shrivastava](https://github.com/rajdeepsri)
+
+- Place: Uttar Pradesh, India
+- Bio: Student, frontend web developer
+- GitHub: [rajdeepsri](https://github.com/rajdeepsri)
+
+
 #### Name: [Saurav Dhakal](https://github.com/SauravDhakalsd)
 
 - Place: Butwal, Lumbini, Nepal
@@ -2304,8 +2311,4 @@
 - Place: Hat Yai, Thailand
 - Bio: Student
 - Github: [gxjakkap](https://github.com/gxjakkap)
-
-
-
-
 
