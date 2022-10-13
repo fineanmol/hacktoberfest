@@ -2017,6 +2017,12 @@
 - Bio: 1st year undergraduate at The University of British Columbia
 - GitHub: [BrianAnakPintar](https://github.com/BrianAnakPintar)
 
+#### Name: [Dimas Nur Fadhil Primuja Wardana](https://github.com/dnfid)
+
+- Place: Wonogiri, Central Java, Indonesia
+- Bio: Fullstack developers as father with 1 kids XD
+- GitHub: [dnfid](https://github.com/dnfid)
+
 
 
 
