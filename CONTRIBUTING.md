@@ -2005,6 +2005,13 @@
 - Github: [Aman1919](https://github.com/Aman1919)
 
 
+### Name: [Souvik Banerjee](https://github.com/Souvik2376)
+
+- Place: Kolkata, India
+- Bio: AI & ML
+- Github: [Souvik2376](https://github.com/Souvik2376)
+
+
 
 #### Name: [Ramanujam](https://github.com/ramanujam001)
 
@@ -2107,5 +2114,4 @@
 - Place: Atlanta, Georgia, United States
 - Bio: Software Developer, Georgia Southern University, 
 - GitHub: [Osiris34](https://github.com/Osiris34)
-
 
