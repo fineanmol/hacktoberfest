@@ -2109,6 +2109,11 @@
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
 
+#### Name: [Júlio Mazotti](https://github.com/maztt)
+
+- Place: Goiás, Brazil
+- Bio: Original business management student willing to merge his knowledge with coding
+- GitHub: [maztt](https://github.com/maztt)
 
 #### Name: [Dibyasree Das](https://github.com/dibyasree02)
 
