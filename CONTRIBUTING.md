@@ -2374,3 +2374,8 @@
 - Place: Uttar Pradesh, INdia
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
+
+### NAME: [Avinish Rao](https://github.com/avinishrao)
+- Place: Karnataka, India
+- Bio: Freelancer
+- Github: [Avinish Rao](https://github.com/avinishrao)
