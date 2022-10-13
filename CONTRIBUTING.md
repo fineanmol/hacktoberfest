@@ -2184,3 +2184,8 @@
 - Bio: Software Developer, Georgia Southern University, 
 - GitHub: [Osiris34](https://github.com/Osiris34)
 
+#### Name: [Valerio Belenkov](https://github.com/EOSValerioBelenkov)
+
+- Place: Padua, Italy
+- Bio: Computer Science Student + Junior Developer
+- GitHub: [Valerio Belenkov](https://github.com/EOSValerioBelenkov)
