@@ -2041,6 +2041,13 @@
 - Github: [Aman1919](https://github.com/Aman1919)
 
 
+### Name: [Mauro Quinteros](https://github.com/mauroquinteroos)
+
+- Place: Lima, Peru
+- Bio: Backend Developer
+- GitHub: [Mauro Quinteros](https://github.com/mauroquinteroos)
+
+
 #### Name: [Usenmfon Uko](https://github.com/Usenmfon)
 
 - Place: Ikot Ekpene, Akwa Ibom, Nigeria
