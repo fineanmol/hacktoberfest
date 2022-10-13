@@ -2017,7 +2017,11 @@
 - Bio: 1st year undergraduate at The University of British Columbia
 - GitHub: [BrianAnakPintar](https://github.com/BrianAnakPintar)
 
+#### Name: [Ava Furtado] (https://github.com/ava-f08)
 
+- Place: Bellevue, Washington, United States
+- Bio: Student coder, web developer
+- GitHub: [ava-f08](https://github.com/ava-f08)
 
 
 
