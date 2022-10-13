@@ -1,5 +1,5 @@
-# Your Name
-Papai Singha
+# Papai Singha
+
 ### Location
 
 Kolkata/India
