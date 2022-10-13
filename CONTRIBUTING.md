@@ -1,3 +1,8 @@
+#### Name: [suhas M](https://github.com/suhas-m-svit)
+- Place: Bangalore, Karnataka, India
+- Bio: I am a student.
+- GitHub: [GitHub account name](https://github.com/suhas-m-svit)
+
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 -Place: Kolkata, West Bengal, India
 -Bio: I am a student.
