@@ -2374,3 +2374,8 @@
 - Place: Uttar Pradesh, INdia
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
+
+### NAME: [Shreyansh Gupta](https://github.com/shreyan55)
+- Place: Karnataka, India
+- Bio: Student
+- Github: [Shreyansh Gupta](https://github.com/shreyan55)
