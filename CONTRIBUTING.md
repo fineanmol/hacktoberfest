@@ -1,5 +1,9 @@
-#### Name: [pavan pakhare](https://github.com/pavanpakhare)
+#### Name: [Papai Singha](https://github.com/papaihactober2k21)
+-Place: Kolkata, West Bengal, India
+-Bio: I am a student.
+-GitHub: https://github.com/papaihactober2k21
 
+#### Name: [pavan pakhare](https://github.com/pavanpakhare)
 - Place: Aurangabad, maharashtra, India
 - Bio: I am a student.
 - GitHub: [GitHub account name](https://github.com/pavanpakhare)
@@ -14,6 +18,11 @@
 - Bio: I am a Btech CS with specialisation in Data Science undergrad at J.C.Bose University, YMCA, Faridabad.
 - GitHub: [GitHub account name](https://github.com/bhavya-sharma26)
 
+#### Name: [Mohasin Haque](https://github.com/jnchen12a)
+
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Frontend Developer
+- GitHub: [Mohasin Haque](https://github.com/Mohasin-Haque)
 
 #### Name: [Md Ruhin Mia](https://github.com/me-ruhin)
 
@@ -21,6 +30,11 @@
 - Bio: I am a Professional Software Engineer.
 - GitHub: [GitHub account name](https://github.com/me-ruhin)
 
+#### Name: [Ayush Shukla](https://github.com/123shuklaayush)
+
+- Place: Varanasi
+- Bio: I am an Undergraduate from IIIT Nagpur.
+- GitHub: [GitHub account name](https://github.com/123shuklaayush)
 
 #### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
 
@@ -2379,3 +2393,4 @@
 - Place: Punjab, India
 - Bio: 2022 CSE Graduate having passion for innovation and technology. Currently working on Google Cloud and Java.
 - Github: [Akshit6828](https://github.com/Akshit6828)
+
