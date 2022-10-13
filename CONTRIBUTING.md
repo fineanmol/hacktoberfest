@@ -2005,6 +2005,11 @@
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
 
+#### Name: [Madalena Rocha](https://github.com/madalena-rocha)
+
+- Place: Juazeiro, Bahia, Brazil
+- Bio: Front-end Developer
+- GitHub: [madalena-rocha](https://github.com/madalena-rocha)
 
 #### Name: [Samrat Khan](https://github.com/Samrat-Khan)
 
@@ -2128,5 +2133,6 @@
 - Place: Atlanta, Georgia, United States
 - Bio: Software Developer, Georgia Southern University, 
 - GitHub: [Osiris34](https://github.com/Osiris34)
+
 
 
