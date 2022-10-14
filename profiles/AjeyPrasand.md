@@ -6,7 +6,7 @@ Bangalore/India
 
 ### Academics
 
-Amrita School of engineering
+B.tech Computer Science Engineering
 
 ### Interests
 
