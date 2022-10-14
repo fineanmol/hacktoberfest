@@ -2397,3 +2397,10 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+
+
+### NAME: [Hammad khan](https://github.com/hammadkhan2930029)
+- Place: SMIT karachi, pakistan
+- Bio: Student
+- Github: [Hammad khan](https://github.com/hammadkhan2930029)
