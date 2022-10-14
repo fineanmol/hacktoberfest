@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+###NAME: [Palak Agarwal](https://github.com/webstardata)
+- Place: Lucknow, India
+- Bio: Computer Science Student
+- Github: [Palak Agarwal](https://github.com/webstardata)
