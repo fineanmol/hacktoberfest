@@ -12,6 +12,11 @@
 - Bio: Computer Science Enginner
 - Github: [Github Account](https://github.com/Shubhamjain287)
 
+#### Name: [Hardik Aggarwal](https://github.com/Hardik329)
+- Place: Sri Ganganagar, Rajasthan, India
+- Bio: Computer Science Undergraduate
+- Github: [Hardik329](https://github.com/Hardik329)
+
 #### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
 
 - Place: Kaithal,Haryana, India
