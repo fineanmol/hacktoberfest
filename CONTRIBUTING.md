@@ -2397,3 +2397,9 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+#### Name: [Jackson Isaac](https://github.com/jacksonisaac)
+
+- Place: Utrecht, Netherlands
+- Bio: Geek
+- GitHub: [jacksonisaac](https://github.com/jacksonisaac)
