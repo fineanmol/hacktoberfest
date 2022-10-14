@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Tanmai Shukla](https://github.com/TanmaiShukla)
+- Place: Uttar Pradesh, India
+- Bio: IT Professional
+- Github: [Tanmai Shukla](https://github.com/TanmaiShukla)
