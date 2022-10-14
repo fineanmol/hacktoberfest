@@ -2397,3 +2397,9 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+#### Name: [Rohit](https://github.com/Draconus524)
+
+- Place: Lucknow, India
+- Bio: Student
+- GitHub: [Draconus524](https://github.com/Draconus524)
