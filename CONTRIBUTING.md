@@ -7,6 +7,12 @@
 - Place: Aurangabad, maharashtra, India
 - Bio: I am a student.
 - GitHub: [GitHub account name](https://github.com/pavanpakhare)
+
+#### Name: [Anjali Verma](https://github.com/Anjali1609)
+- Place: Bilaspur, Chattisgrah, India
+- Bio: I am a Communication Signal Processing student.
+- GitHub: [Anjali1609](https://github.com/Anjali1609)
+
 #### Name: [Shubham Jain](https://github.com/Shubhamjain287)
 - Place: Indore MP
 - Bio: Computer Science Enginner
