@@ -2368,6 +2368,11 @@
 - Bio: Computer Science Undergraduate
 - GitHub: [Apurb Sinha](https://github.com/ApurbSinha7)
 
+### NAME: [Dinesh](https://github.com/dineshkrthk)
+
+- Place: razole,andhra pradesh, India.
+- Bio: Student
+- GitHub: [dineshkrthk](https://github.com/dineshkrthk)
 
 ### NAME: [sajdoi2](https://github.com/sajdoi2)
 
