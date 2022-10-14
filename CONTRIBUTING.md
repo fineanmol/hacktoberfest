@@ -2398,6 +2398,7 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
-### NAME:Ajey Prasand
+### NAME: [Ajey Prasand](https://github.com/ajeyprasand))
+- Place: Bangalore
 - Bio: Student
 - Github: [Ajey Prasand](https://github.com/ajeyprasand))
