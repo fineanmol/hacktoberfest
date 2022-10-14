@@ -36,6 +36,12 @@
 - Bio: I am an Undergraduate from IIIT Nagpur.
 - GitHub: [GitHub account name](https://github.com/123shuklaayush)
 
+#### Name: [Rizky Husain](https://github.com/mrzkyhsn8)
+
+- Place: Jakarta/Indonesia 
+- Bio: Freelancer web developer / Frontend developer
+- GitHub: [risen](https://github.com/mrzkyhsn8)
+
 #### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
 
 - Place: Kaithal, Haryana, India
