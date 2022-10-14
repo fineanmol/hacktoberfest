@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Dishant Zaveri](https://github.com/dishantzaveri)
+- Place: Mumbai, Maharashtra, India
+- Bio: Student
+- Github: [Dishant Zaveri](https://github.com/dishantzaveri)
