@@ -18,6 +18,12 @@
 - Bio: I am a Btech CS with specialisation in Data Science undergrad at J.C.Bose University, YMCA, Faridabad.
 - GitHub: [GitHub account name](https://github.com/bhavya-sharma26)
 
+#### Name: [Rizky Husain](https://github.com/mrzkyhsn8)
+
+- Place: Jakarta, Indonesia
+- Bio: A freelancer web developer / Frontend Developer
+- GitHub: [Risen](https://github.com/mrzkyhsn8)
+
 #### Name: [Mohasin Haque](https://github.com/jnchen12a)
 
 - Place: Varanasi, Uttar Pradesh, India
