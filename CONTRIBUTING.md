@@ -2399,5 +2399,7 @@
 - Github: [idkroff](https://github.com/idkroff)
 
 ### NAME: [Om Deshmukh](https://github.com/omd02)
+
+- Place: Mumbai, India
 - Bio: Third Year Computer Engineering Student
 - Github: [omd02](https://github.com/omd02)
