@@ -2,7 +2,10 @@
 -Place: Kolkata, West Bengal, India
 -Bio: I am a student.
 -GitHub: https://github.com/papaihactober2k21
-
+#### Name: [Aditya srivastava](https://github.com/Aditya-040)
+-place Ghaziabad,Uttar Pradesh, India
+-Bio:I am an Engineering student
+-Github:[Aditya srivastava](https://github.com/Aditya-040)
 #### Name: [pavan pakhare](https://github.com/pavanpakhare)
 - Place: Aurangabad, maharashtra, India
 - Bio: I am a student.
