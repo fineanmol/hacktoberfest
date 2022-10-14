@@ -2397,3 +2397,7 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME:Ajey Prasand
+- Bio: Student
+- Github: [Ajey Prasand](https://github.com/ajeyprasand))
