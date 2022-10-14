@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### Name: [Masq915](https://github.com/Masq915)
+- Place: Jaipur, Rajasthan, India
+- Bio: Student
+- GitHub: [Masq915](https://github.com/Masq915)
