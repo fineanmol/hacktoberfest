@@ -2397,3 +2397,9 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Ankit Bhusal](https://github.com/ankitbhusal)
+
+- Place: Nawalpur, Nepal
+- Bio: BCA Student
+- Github: [Ankit Bhusal](https://github.com/ankitbhusal)
