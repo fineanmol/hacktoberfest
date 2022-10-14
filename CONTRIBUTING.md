@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Shamal-Lakshan](https://github.com/Shamal-Lakshan)
+- Place: Sri Lanka
+- Bio: Student
+- Github: [Shamal-Lakshan](https://github.com/Shamal-Lakshan)
