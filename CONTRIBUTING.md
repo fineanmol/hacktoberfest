@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [David M Williams](https://github.com/davidmwilliams)
+- Place: Newcastle, Australia
+- Bio: International IT author and consultant
+- Github: [davidmwilliams](https://github.com/davidmwilliams)
