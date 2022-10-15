@@ -2397,3 +2397,7 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [davidanastasov](https://github.com/davidanastasov)
+- Bio: Frontend Software Developer + Computer Science Student
+- Github: [davidanastasov](https://github.com/davidanastasov)
