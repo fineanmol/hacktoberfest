@@ -6,7 +6,7 @@ I'm based in Raebareli<br>You can contact me at pranjalsingh9613@gmail.com<br>I'
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pranjal_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-singh-262748225/) 
 
 # My GitHub :
-![](https://github.com/pranjal0s)
+![pranjal0s](https://github.com/pranjal0s)
 # My projects :
 ![payment gateway](https://github.com/pranjal0s/spark-projects) uses API to make simple payments and show the details of transaction is sucessfull or not. 
 # 💻 Tech Stack:
