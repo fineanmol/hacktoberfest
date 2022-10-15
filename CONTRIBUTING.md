@@ -1,3 +1,7 @@
+#### Name: [Pranjal Singh](https://github.com/pranjal0s)
+-Place: Ghaziabad, Uttar Pradesh, India
+-Bio: I am a student.
+-GitHub: https://github.com/pranjal0s
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 -Place: Kolkata, West Bengal, India
 -Bio: I am a student.
