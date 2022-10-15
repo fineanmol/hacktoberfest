@@ -12,6 +12,11 @@
 - Bio: Computer Science Enginner
 - Github: [Github Account](https://github.com/Shubhamjain287)
 
+#### Name: [Aman Shrivastava]
+- Place: Bangalore, Karnataka, India
+- Bio: I am a student at Bangalore Institute of Technology
+- Github: [Github Account](https://github.com/mrshrivastava)
+
 #### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
 
 - Place: Kaithal,Haryana, India
