@@ -12,7 +12,8 @@
 - Bio: Computer Science Enginner
 - Github: [Github Account](https://github.com/Shubhamjain287)
 
-#### Name: [Aman Shrivastava]
+#### Name: [Aman Shrivastava](https://github.com/mrshrivastava)
+
 - Place: Bangalore, Karnataka, India
 - Bio: I am a student at Bangalore Institute of Technology
 - Github: [Github Account](https://github.com/mrshrivastava)
