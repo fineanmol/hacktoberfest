@@ -1,4 +1,4 @@
-# Shakyan Kushwaha
+# Shakyan
 
 ### Location
 
