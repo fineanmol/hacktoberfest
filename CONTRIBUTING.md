@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Rahul J](https://github.com/gr8rj-bot)
+- Place: Raigarh, Chhattisgarh
+- Bio: Computer Science Student
+- Github: [Rahul J](https://github.com/gr8rj-bot)
