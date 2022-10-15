@@ -1,3 +1,9 @@
+#### Name: [Victor Oderinde](https://github.com/Vctcode)
+
+- Place: Lagos, Nigeria
+- Bio: I am a Software Developer, graduate of Mathematics
+- GitHub: [Vctcode](https://github.com/Vctcode)
+
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 -Place: Kolkata, West Bengal, India
 -Bio: I am a student.
