@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+#### Name: [Oladele Wonder Jeremiah](https://github.com/oladelewonder)
+- Place: Badagry,Lagos,Nigeria
+- Bio: Computer Science student
+- GitHub: [oladelewonder](https://github.com/oladelewonder)
