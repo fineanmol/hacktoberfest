@@ -1412,6 +1412,12 @@
 - Bio: AI Engineering,ML enthusiat.
 - GitHub: [Kirti36](https://github.com/Kirti36)
 
+#### Name: [Shreya Gupta](https://github.com/shrey-a-gupta)
+
+- Place: Bareilly
+- Bio: I am an Undergraduate from PSIT, Kanpur.
+- GitHub: [shrey-a-gupta](https://github.com/shrey-a-gupta)
+
 #### Name: [Vivian Nicholls](https://github.com/viv-nic)
 
 - Place: Byron Bay, NSW, Australia
