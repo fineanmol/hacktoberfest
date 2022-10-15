@@ -1,5 +1,5 @@
 # Hacktoberfest Project 2 : [Annoying Button](https://github.com/fineanmol/Annoying-submit-button) 🎉.
-Contribute here to Complete your HacktoberFest Event. 
+Contribute here to complete your HacktoberFest Event. 
 
 # 🎃 HacktoberFest Starter Project 🎃
 
@@ -149,5 +149,3 @@ GitHub license explained [https://choosealicense.com](https://choosealicense.com
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
 - Any contributions you make are **truly appreciated**.
 - Check out our [`contributiors`](./CONTRIBUTING.md) for more information.
-
-
