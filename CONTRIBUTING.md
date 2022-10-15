@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Adtyya](https://github.com/Adtyya)
+- Place: Japan
+- Bio: Ikuzooo!!
+- Github: [Adtyya](https://github.com/Adtyya)
