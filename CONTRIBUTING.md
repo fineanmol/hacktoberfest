@@ -1,3 +1,8 @@
+#### Name: [SP KariSims](https://github.com/KariSims)
+-Place: Dakar, DAKAR, SENEGAL
+-Bio: Bachelor's degree, comic and like coding
+-GitHub: https://github.com/KariSims
+
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 -Place: Kolkata, West Bengal, India
 -Bio: I am a student.
