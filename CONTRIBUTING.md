@@ -1,3 +1,8 @@
+#### Name: [Aasish Kumar Sahoo](https://github.com/aasish47)
+-Place: Bhubaneswar, Odisha, India
+-Bio: I am a student(B-Tech) at ITER.
+-GitHub: [GitHub account name: aasish47](https://github.com/aasish47)
+
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 -Place: Kolkata, West Bengal, India
 -Bio: I am a student.
