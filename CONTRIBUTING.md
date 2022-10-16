@@ -107,6 +107,11 @@
 - Bio: Software Developer at Unacademy
 - GitHub: [harshitacodes](https://github.com/harshitacodes)
 
+#### Name: [Hetarth Raval](https://github.com/HETARTH7)
+
+- Place: Vellore ,India
+- Bio: Student at VIT Vellore
+- GitHub: [HETARTH7](https://github.com/HETARTH7)
 
 #### Name: [Aarushi](https://github.com/aarushiksk)
 
