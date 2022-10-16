@@ -2397,3 +2397,9 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+#### Name: [Rahul Raj](https://github.com/IM-RAHUL-RAJ)
+
+- Place: Mysore, Karnataka, India
+- Bio: Computer Science Student
+- GitHub: [IM-RAHUL-RAJ](https://github.com/IM-RAHUL-RAJ)
