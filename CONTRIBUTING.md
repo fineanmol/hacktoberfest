@@ -1,3 +1,8 @@
+#### Name: [Aman Pathan](https://github.com/AmanPathan)
+-Place: kalyan,Thane,Maharashtra India
+-Bio: I am a student at Dr.D.Y.Patil College of Engineering.
+-GitHub: [AmanPathan](https://github.com/AmanPathan)
+
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 -Place: Kolkata, West Bengal, India
 -Bio: I am a student.
