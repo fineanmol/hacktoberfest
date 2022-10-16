@@ -2397,3 +2397,9 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+#### Name: Nihaal Raichura (https://github.com/nihaal-beep)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Computer Science student
+- GitHub: nihaal-beep(https://github.com/nihaal-beep)
