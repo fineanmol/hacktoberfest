@@ -2397,3 +2397,6 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+### NAME: [arnavvgupta](https://github.com/arnavvgupta))
+- Bio: Student
+- Github: https://github.com/arnavvgupta
