@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Anshul singh](https://github.com/anshul2807)
+- Place: Dehradun, India
+- Bio: Love JS and JAVA.
+- Github: [Anshul singh](https://github.com/anshul2807)
