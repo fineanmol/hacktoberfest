@@ -160,6 +160,12 @@
 - Bio: Student Engineer: ECE
 - GitHub: [Harshit Maheshwari](https://github.com/harshit-maheshwari)
 
+#### Name: [NEWTON MALLICK/न्युटन मलिक](https://github.com/N-E-W-T-O-N)
+
+- Place: West-Bengal, India
+- Bio: One who is above all!
+- GitHub: [NEWTON MALLICK](https://github.com/N-E-W-T-O-N)
+
 #### Name: [Divyanshu Modi](https://github.com/Divyanshu-Modi)
 
 - Place: Mumbai, India
