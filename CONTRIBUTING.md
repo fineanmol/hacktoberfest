@@ -12,6 +12,11 @@
 - Bio: Computer Science Enginner
 - Github: [Github Account](https://github.com/Shubhamjain287)
 
+#### Name: [Satwika](https://github.com/VSatwika)
+- Place: Hyderabad,Telangana,India
+- Bio: An undergraduate pursuing Computer Science with specialization in Data Science.
+- Github: [Github Account](https://github.com/VSatwika)
+
 #### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
 
 - Place: Kaithal,Haryana, India
