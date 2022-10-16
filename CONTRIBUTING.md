@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Karanjot Singh](https://github.com/karanjot-s)
+- Place: New Delhi, Delhi, India
+- Bio: Student | Full Stack Developer
+- Github: [karanjot-s](https://github.com/karanjot-s)
