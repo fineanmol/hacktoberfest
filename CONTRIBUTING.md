@@ -2405,6 +2405,12 @@
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
 
+
+#### Name: [Priyanshu Anand](github.com/priyanshuanand166)
+
+- Place: Kolkata, WestBengal, India
+- Bio: Engineering Final Year Student
+- GitHub: [priyanshuanand166](github.com/priyanshuanand166)
 ### NAME: [Shreyansh Gupta](https://github.com/shreyan55)
 - Place: Karnataka, India
 - Bio: Student
