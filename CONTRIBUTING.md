@@ -2394,6 +2394,12 @@
 - Bio: Computer Science Student
 - Github: [Anna Lira](https://github.com/annabeatrizlucena)
 
+#### Name: [HelloSeaNation](https://github.com/HelloSeaNation)
+
+- Place: New Zealand, ChristchurchCity, State, Country
+- Bio: Student
+- GitHub: [HelloSeaNation](https://github.com/HelloSeaNation)
+
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
