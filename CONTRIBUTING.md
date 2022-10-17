@@ -4,15 +4,19 @@
 -GitHub: [Github](https://github.com/saqlainkaleem)
 
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
+
 -Place: Kolkata, West Bengal, India
 -Bio: I am a student.
 -GitHub: https://github.com/papaihactober2k21
 
 #### Name: [pavan pakhare](https://github.com/pavanpakhare)
+
 - Place: Aurangabad, maharashtra, India
 - Bio: I am a student.
 - GitHub: [GitHub account name](https://github.com/pavanpakhare)
+
 #### Name: [Shubham Jain](https://github.com/Shubhamjain287)
+
 - Place: Indore MP
 - Bio: Computer Science Enginner
 - Github: [Github Account](https://github.com/Shubhamjain287)
@@ -55,6 +59,7 @@
 
 
 #### Name: [mete23](https://github.com/mete23)
+
 - Place: Germany
 - Bio: Student
 - GitHub: [GitHub account name](https://github.com/mete23)
@@ -89,22 +94,17 @@
 - Bio: Developer who loves to Teach.
 - GitHub: [GitHub account name](https://github.com/mithun-srinivas)
 
-
-
 ### Name: [Franklin Mensah](https://github.com/fiificode)
 
 - Place: Accra, Ghana
 - Bio: Frontend Web developer
 - Github: [fiificode](https://github.com/fiificode)
 
-
 #### Name: [Aryan Panchal](https://github.com/Aryan-26)
 
 -Place: Gurgaon, Haryana
 -Bio: Computer Science Student
 -Github: [Aryan-26](https://github.com/Aryan-26)
-
-
 
 #### Name: [Aryan Panchal](https://github.com/Aryan-26)
 
@@ -118,7 +118,6 @@
 - Bio: Software Developer at Unacademy
 - GitHub: [harshitacodes](https://github.com/harshitacodes)
 
-
 #### Name: [Aarushi](https://github.com/aarushiksk)
 
 -Place: Lucknow, Uttar Pradesh, India
@@ -131,7 +130,6 @@
 - Bio: Android Developer
 - GitHub: [Ashutosh Sharma]([https://github.com/ashutosh-buku])
 
-
 #### Name: [Shahiyan](https://github.com/shahiyan7)
 
 -Place: Lucknow, Uttar Pradesh, India
@@ -143,7 +141,6 @@
 - Place: Pune , Maharashtra , India
 - Bio: B.Tech CSE Graduate
 - GitHub: [VEDANGIBHUJANG]([https://github.com/VEDANGIBHUJANG])
-
 
 #### Name: [Muaaz Ahmad](https://github.com/muaazahmad00)
 
@@ -180,7 +177,6 @@
 - Place: Chandigarh, India
 - Bio: Student, Full-Stack Web developer
 - GitHub: [Adityaarora08](https://github.com/Adityaarora08)
--
 
 #### Name: [Madhumitha R](https://github.com/madhu-ram2012)
 
@@ -206,7 +202,7 @@
 - Bio: Student at Thapar University
 - GitHub: [Abhishek-0001](https://github.com/Abhishek-0001)
 
-#### Name: [Ruchir AGarwal] (https://github.com/Ruchir17-cmd)
+#### Name: [Ruchir AGarwal](https://github.com/Ruchir17-cmd)
 
 - Place: Nioda, UP
 - Bio: AR/VR developer
@@ -434,6 +430,8 @@
 - Bio: Student
 - GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 
+#### Name: [Prashant Bhapkar](https://github.com/Prashant-Bhapkar)
+
 - Place: Pune, India
 - Bio: Student
 - GitHub: [Prashant Bhapkar](https://github.com/Prashant-Bhapkar)
@@ -516,15 +514,9 @@
 - Bio: Product Designer
 - GitHub: [DevGupta-ikr](https://github.com/DevGupta-ikr)
 
-#### Name: Ryan
-
-- Place: Kadiappatinam, India
-- Bio: 12 year old. Just chillin.
-- GitHub: [Ryan-techie](https://github.com/Ryan-techie)
-
 #### Name: [Ryan](https://github.com/Ryan-techie)
 
-- Place: INDIA
+- Place: Kadiappatinam, India
 - Bio: 12 Year Old Just Chillin
 - GitHub: [Ryan-techie](https://github.com/Ryan-techie)
 
@@ -2439,6 +2431,11 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+#### Name: [Riccardo Di Curti](https://github.com/riccardodicurti)
+
+- Place: Bolzano, Italy
+- Bio: fullstack developer
+- GitHub: [riccardodicurti](https://github.com/riccardodicurti)
 ### NAME: [Aayush Solanki](https://github.com/AayushSolanki)
 - Place: Indore, India
 - Bio: Computer Science Student
