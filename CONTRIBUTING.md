@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Aayush Solanki](https://github.com/AayushSolanki)
+- Place: Indore, India
+- Bio: Computer Science Student
+- Github: [Aayush Solanki](https://github.com/AayushSolanki)
