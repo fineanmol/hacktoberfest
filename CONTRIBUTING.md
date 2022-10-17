@@ -2431,11 +2431,15 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
-#### Name: [Riccardo Di Curti](https://github.com/riccardodicurti)
+###NAME: [Palak Agarwal](https://github.com/webstardata)
+- Place: Lucknow, India
+- Bio: Computer Science Student
 
+#### Name: [Riccardo Di Curti](https://github.com/riccardodicurti)
 - Place: Bolzano, Italy
 - Bio: fullstack developer
 - GitHub: [riccardodicurti](https://github.com/riccardodicurti)
+
 ### NAME: [Aayush Solanki](https://github.com/AayushSolanki)
 - Place: Indore, India
 - Bio: Computer Science Student
