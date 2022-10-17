@@ -2397,3 +2397,9 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Ambar Kansal](https://github.com/Ambarcode)
+- Bio: Student
+- place : Uttar Pradesh
+- Bio: Computer Science Undergraduate
+- Github: [Ambarcode](https://github.com/Ambarcode)
