@@ -1,5 +1,14 @@
-#### Name: [pavan pakhare](https://github.com/pavanpakhare)
+#### Name: [Mohd Kaleem Saqlaini](https://github.com/saqlainkaleem)
+-Place: New Delhi, India
+-Bio: I am a final year student.
+-GitHub: [Github](https://github.com/saqlainkaleem)
 
+#### Name: [Papai Singha](https://github.com/papaihactober2k21)
+-Place: Kolkata, West Bengal, India
+-Bio: I am a student.
+-GitHub: https://github.com/papaihactober2k21
+
+#### Name: [pavan pakhare](https://github.com/pavanpakhare)
 - Place: Aurangabad, maharashtra, India
 - Bio: I am a student.
 - GitHub: [GitHub account name](https://github.com/pavanpakhare)
@@ -14,6 +23,11 @@
 - Bio: I am a Btech CS with specialisation in Data Science undergrad at J.C.Bose University, YMCA, Faridabad.
 - GitHub: [GitHub account name](https://github.com/bhavya-sharma26)
 
+#### Name: [Mohasin Haque](https://github.com/jnchen12a)
+
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Frontend Developer
+- GitHub: [Mohasin Haque](https://github.com/Mohasin-Haque)
 
 #### Name: [Md Ruhin Mia](https://github.com/me-ruhin)
 
@@ -21,6 +35,17 @@
 - Bio: I am a Professional Software Engineer.
 - GitHub: [GitHub account name](https://github.com/me-ruhin)
 
+#### Name: [Ayush Shukla](https://github.com/123shuklaayush)
+
+- Place: Varanasi
+- Bio: I am an Undergraduate from IIIT Nagpur.
+- GitHub: [GitHub account name](https://github.com/123shuklaayush)
+
+#### Name: [Rizky Husain](https://github.com/mrzkyhsn8)
+
+- Place: Jakarta/Indonesia 
+- Bio: Freelancer web developer / Frontend developer
+- GitHub: [risen](https://github.com/mrzkyhsn8)
 
 #### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
 
@@ -2354,6 +2379,11 @@
 - Bio: Computer Science Undergraduate
 - GitHub: [Apurb Sinha](https://github.com/ApurbSinha7)
 
+### NAME: [Dinesh](https://github.com/dineshkrthk)
+
+- Place: razole,andhra pradesh, India.
+- Bio: Student
+- GitHub: [dineshkrthk](https://github.com/dineshkrthk)
 
 ### NAME: [sajdoi2](https://github.com/sajdoi2)
 
@@ -2379,3 +2409,27 @@
 - Place: Karnataka, India
 - Bio: Freelancer
 - Github: [Avinish Rao](https://github.com/avinishrao)
+
+#### Name: [Priyanshu Anand](github.com/priyanshuanand166)
+
+- Place: Kolkata, WestBengal, India
+- Bio: Engineering Final Year Student
+- GitHub: [priyanshuanand166](github.com/priyanshuanand166)
+### NAME: [Shreyansh Gupta](https://github.com/shreyan55)
+- Place: Karnataka, India
+- Bio: Student
+- Github: [Shreyansh Gupta](https://github.com/shreyan55)
+
+### NAME: [Anna Lira](https://github.com/annabeatrizlucena)
+- Place: Campina Grande, Brazil
+- Bio: Computer Science Student
+- Github: [Anna Lira](https://github.com/annabeatrizlucena)
+
+### NAME: [idkroff](https://github.com/idkroff)
+- Bio: Student
+- Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Aayush Solanki](https://github.com/AayushSolanki)
+- Place: Indore, India
+- Bio: Computer Science Student
+- Github: [Aayush Solanki](https://github.com/AayushSolanki)
