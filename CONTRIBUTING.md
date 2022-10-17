@@ -2397,3 +2397,9 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+
+### NAME: [Maurizio](https://twitter.com/battago)
+- Place: Rome, Italy
+- Bio: Bored game player
+- Github: [ibbatta](https://github.com/ibbatta)
