@@ -1652,6 +1652,15 @@
 - GitHub: [soniyash9000](https://github.com/soniyash9000)
 
 
+#### Name: [Binil Tom Jose](https://github.com/BinilTomJose1278)
+
+- Education : BTech , Kochi
+- Place: Kottayam,Kerala
+- Bio:  CS Undergrad Student,Rajagiri School of Engineering and Technology
+- GitHub: [BinilTomJose1278](https://github.com/BinilTomJose1278)
+
+
+
 #### Name: [Dharanash S](https://github.com/Dharanash)
 
 - Education : BE , Coimbatore
