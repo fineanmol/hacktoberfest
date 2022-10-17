@@ -2400,5 +2400,5 @@
 
 #### Name: [Lutfi Fitroh Hadi](https://github.com/firstlutfi)
 - Place: Bogor, Indonesia
-- Bio: Test Engineer
+- Bio: Test Engineer for flip.id
 - GitHub: [firstlutfi](https://github.com/firstlutfi)
