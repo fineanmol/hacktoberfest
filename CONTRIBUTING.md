@@ -2405,6 +2405,10 @@
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
 
+### NAME: [Nithesh](https://github.com/Nithesh12)
+-Place:Banglore,India
+-Bio:Student
+-Github:[Nithesh](https://github.com/Nithesh12)
 
 #### Name: [Annmary Vinod](https://github.com/annmaryvinod)
 
