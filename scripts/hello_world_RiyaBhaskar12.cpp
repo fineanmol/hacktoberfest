@@ -9,6 +9,6 @@ using namespace std;
 int main()
 {
   cout << "Hello World!" << endl;
-  cout << "I'm Rhythm Bhatia";
+  cout << "I'm Riya Bhaskar.";
   
   return 0;
