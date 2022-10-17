@@ -1,3 +1,8 @@
+#### Name: [Krishnansh Agarwal](https://github.com/Krishnansh5)
+-Place: Kanpur, U.P., India
+-Bio: I am a student.
+-GitHub: [Krishnansh5]https://github.com/Krishnansh5
+
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 -Place: Kolkata, West Bengal, India
 -Bio: I am a student.
