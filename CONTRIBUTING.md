@@ -1,25 +1,28 @@
 #### Name: [Ayush Sagar](https://github.com/itsmeAYUSH)
+
 - Place: Kalyan, maharashtra, India
 - Bio: I am a student.
 - GitHub: [itsmeAYUSH] (https://github.com/itsmeAYUSH)
 
 - #### Name: [pavan pakhare](https://github.com/pavanpakhare)
 - Place: kalyan.Maharashtra
-- Bio: bsc Computer Science graduate 
+- Bio: bsc Computer Science graduate
 - Github: [itsmeAYUSH](https://github.com/itsmeAYUSH)
 
-
 #### Name: [Roberto](https://github.com/rchatru)
+
 - Place: Canary Islands, Spain.
 - Bio: Industrial Engineer, studying Data Science.
 - GitHub: [Rchatru](https://github.com/rchatru)
 
 #### Name: [suhas M](https://github.com/suhas-m-svit)
+
 - Place: Bangalore, Karnataka, India
 - Bio: I am a student.
 - GitHub: [GitHub account name](https://github.com/suhas-m-svit)
 
 #### Name: [Mohd Kaleem Saqlaini](https://github.com/saqlainkaleem)
+
 -Place: New Delhi, India
 -Bio: I am a final year student.
 -GitHub: [Github](https://github.com/saqlainkaleem)
@@ -29,10 +32,13 @@
 -Place: Kolkata, West Bengal, India
 -Bio: I am a student.
 -GitHub: https://github.com/papaihactober2k21
+
 #### Name: [Aditya srivastava](https://github.com/Aditya-040)
+
 -place Ghaziabad,Uttar Pradesh, India
 -Bio:I am an Engineering student
 -Github:[Aditya srivastava](https://github.com/Aditya-040)
+
 #### Name: [pavan pakhare](https://github.com/pavanpakhare)
 
 - Place: Aurangabad, maharashtra, India
@@ -46,6 +52,7 @@
 - Github: [Github Account](https://github.com/Shubhamjain287)
 
 #### Name: [Hardik Aggarwal](https://github.com/Hardik329)
+
 - Place: Sri Ganganagar, Rajasthan, India
 - Bio: Computer Science Undergraduate
 - Github: [Hardik329](https://github.com/Hardik329)
@@ -57,6 +64,7 @@
 - GitHub: [GitHub account name](https://github.com/bhavya-sharma26)
 
 #### Name: [Ankit Kumar](https://github.com/ankitiiitian)
+
 - Place: Prayagraj UP
 - Bio: Passionate Developer, Enthusiast Coder, GFG 1st Rank in IIT Guwahati, CSE (IIITG)
 - Github: [ankitiiitian](https://github.com/ankitiiitian)
@@ -81,7 +89,7 @@
 
 #### Name: [Rizky Husain](https://github.com/mrzkyhsn8)
 
-- Place: Jakarta/Indonesia 
+- Place: Jakarta/Indonesia
 - Bio: Freelancer web developer / Frontend developer
 - GitHub: [risen](https://github.com/mrzkyhsn8)
 
@@ -2386,7 +2394,6 @@
 - Bio: Computer Science Undergraduate
 - GitHub: [Apurb Sinha](https://github.com/ApurbSinha7)
 
-
 ### NAME: [Dinesh](https://github.com/dineshkrthk)
 
 - Place: razole,andhra pradesh, India.
@@ -2416,6 +2423,7 @@
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
 
 ### NAME: [Akshit Mangotra](https://github.com/Akshit6828)
+
 - Place: Punjab, India
 - Bio: 2022 CSE Graduate having passion for innovation and technology. Currently working on Google Cloud and Java.
 - Github: [Akshit6828](https://github.com/Akshit6828)
@@ -2427,6 +2435,7 @@
 - GitHub: [subhajitroycode](https://github.com/subhajitroycode)
 
 ### NAME: [Imanshu Rathore](https://github.com/imanshu03)
+
 - Place: Chandigarh, India
 - Bio: Developer
 - Github: [Imanshu Rathore](https://github.com/imanshu03)
@@ -2436,13 +2445,16 @@
 - Place: Kolkata, West Bengal, India
 - Bio: I am a student.
 - GitHub: [Kush3-14](https://github.com/Kush3-14)
-- 
+-
+
 ### NAME: [Mapie Victorino Mamunhe](https://github.com/MapieMamunhe)
+
 - Place: Maputo Machava, Mozambique
 - Bio: Student
 - Github: [MapieMamunhe](https://github.com/MapieMamunhe)
 
 ### NAME: [Nithesh](https://github.com/Nithesh12)
+
 -Place:Banglore,India
 -Bio:Student
 -Github:[Nithesh](https://github.com/Nithesh12)
@@ -2452,7 +2464,9 @@
 - Place: Kochi, Kerala , India
 - Bio: I am a computer science and engineering student. I love making websites and coding.
 - GitHub: [GitHub account name](https://github.com/annmaryvinod)
+
 ### NAME: [Avinish Rao](https://github.com/avinishrao)
+
 - Place: Karnataka, India
 - Bio: Freelancer
 - Github: [Avinish Rao](https://github.com/avinishrao)
@@ -2462,7 +2476,9 @@
 - Place: Kolkata, WestBengal, India
 - Bio: Engineering Final Year Student
 - GitHub: [priyanshuanand166](github.com/priyanshuanand166)
+
 ### NAME: [Shreyansh Gupta](https://github.com/shreyan55)
+
 - Place: Karnataka, India
 - Bio: Student
 - Github: [Shreyansh Gupta](https://github.com/shreyan55)
@@ -2491,50 +2507,59 @@
 - Github: [Werner](https://github.com/WernerGomindes)
 
 ### NAME: [David M Williams](https://github.com/davidmwilliams)
+
 - Place: Newcastle, Australia
 - Bio: International IT author and consultant
 - Github: [davidmwilliams](https://github.com/davidmwilliams)
 
 ### NAME: [Devanshu2310](https://github.com/Devanshu2310)
+
 -Place: Chandigarh, India
 -Bio: IT Student
 -Github: [Devanshu2310](https://github.com/Devanshu2310)
 
 ### NAME: [Muhammad Hamza](https://github.com/hamzadeewan01)
-- Place: Karachi, 
+
+- Place: Karachi,
 - Bio: Student
 - Github: [Muhammad Hamza](https://github.com/hamzadeewan01)
 
-
 ### NAME: [Hammad khan](https://github.com/hammadkhan2930029)
+
 - Place: SMIT karachi, pakistan
 - Bio: Student
 - Github: [Hammad khan](https://github.com/hammadkhan2930029)
 
 ### NAME: [Tapesh](https://github.com/Tapesh-1308)
+
 - Bio: Student
 - Github: [Tapesh-1308](https://github.com/Tapesh-1308)
 
 ### NAME: [Harshda](https://github.com/harshdaojha)
- - Place: Uttar Pradesh, INDIA
- - Bio : Student
- - Github : [Harshda](https://github.com/harshdaojha)
+
+- Place: Uttar Pradesh, INDIA
+- Bio : Student
+- Github : [Harshda](https://github.com/harshdaojha)
 
 ### NAME: [Ajey Prasand](https://github.com/ajeyprasand))
+
 - Place: Bangalore
 - Bio: Student
 - Github: [Ajey Prasand](https://github.com/ajeyprasand))
 
 ###NAME: [Palak Agarwal](https://github.com/webstardata)
+
 - Place: Lucknow, India
 - Bio: Computer Science Student
 
 #### Name: [Riccardo Di Curti](https://github.com/riccardodicurti)
+
 - Place: Bolzano, Italy
 - Bio: fullstack developer
 - GitHub: [riccardodicurti](https://github.com/riccardodicurti)
 
 ### NAME: [Aayush Solanki](https://github.com/AayushSolanki)
+
 - Place: Indore, India
 - Bio: Computer Science Student
 - Github: [Aayush Solanki](https://github.com/AayushSolanki)
