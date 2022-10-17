@@ -12,6 +12,11 @@
 - Bio: Computer Science Enginner
 - Github: [Github Account](https://github.com/Shubhamjain287)
 
+#### Name: [Rajbha Sisodiya](https://github.com/Rahoo11)
+- Place: Gujarat,India
+- Bio: I am a Pyhton Odoo Developer
+- Github: [Github Account](https://github.com/Rahoo11)
+
 #### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
 
 - Place: Kaithal,Haryana, India
