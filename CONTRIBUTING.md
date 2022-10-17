@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [A Fernandito](https://github.com/alexanderfernanditos)
+- Place: BR
+- Bio: CS Students
+- Github: [alexanderfernanditos](https://github.com/alexanderfernanditos)
