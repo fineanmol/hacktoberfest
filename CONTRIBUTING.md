@@ -1,3 +1,8 @@
+#### Name: [suhas M](https://github.com/suhas-m-svit)
+- Place: Bangalore, Karnataka, India
+- Bio: I am a student.
+- GitHub: [GitHub account name](https://github.com/suhas-m-svit)
+
 #### Name: [Mohd Kaleem Saqlaini](https://github.com/saqlainkaleem)
 -Place: New Delhi, India
 -Bio: I am a final year student.
