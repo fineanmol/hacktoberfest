@@ -1,3 +1,9 @@
+#### Name: [Ayush Sagar](https://github.com/itsmeAYUSH)
+- Place: kalyan.Maharashtra
+- Bio: bsc Computer Science graduate 
+- Github: [itsmeAYUSH](https://github.com/itsmeAYUSH)
+
+
 #### Name: [Roberto](https://github.com/rchatru)
 - Place: Canary Islands, Spain.
 - Bio: Industrial Engineer, studying Data Science.
