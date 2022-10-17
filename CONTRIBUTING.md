@@ -2405,6 +2405,10 @@
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
 
+### NAME: [Avinish Rao](https://github.com/avinishrao)
+- Place: Karnataka, India
+- Bio: Freelancer
+- Github: [Avinish Rao](https://github.com/avinishrao)
 
 #### Name: [Priyanshu Anand](github.com/priyanshuanand166)
 
