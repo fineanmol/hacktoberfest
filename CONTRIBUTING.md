@@ -2431,6 +2431,10 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+### NAME: [Muhammad Hamza](https://github.com/hamzadeewan01)
+- Place: Karachi, 
+- Bio: Student
+- Github: [Muhammad Hamza](https://github.com/hamzadeewan01)
 
 
 ### NAME: [Hammad khan](https://github.com/hammadkhan2930029)
