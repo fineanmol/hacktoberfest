@@ -2401,6 +2401,11 @@
 - Place: Uttar Pradesh, INdia
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
+- 
+### NAME: [Mapie Victorino Mamunhe](https://github.com/MapieMamunhe)
+- Place: Maputo Machava, Mozambique
+- Bio: Student
+- Github: [MapieMamunhe](https://github.com/MapieMamunhe)
 
 ### NAME: [Nithesh](https://github.com/Nithesh12)
 -Place:Banglore,India
