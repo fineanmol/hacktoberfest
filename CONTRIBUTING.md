@@ -56,6 +56,11 @@
 - Bio: I am a Btech CS with specialisation in Data Science undergrad at J.C.Bose University, YMCA, Faridabad.
 - GitHub: [GitHub account name](https://github.com/bhavya-sharma26)
 
+#### Name: [Ankit Kumar](https://github.com/ankitiiitian)
+- Place: Prayagraj UP
+- Bio: Passionate Developer, Enthusiast Coder, GFG 1st Rank in IIT Guwahati, CSE (IIITG)
+- Github: [ankitiiitian](https://github.com/ankitiiitian)
+
 #### Name: [Mohasin Haque](https://github.com/jnchen12a)
 
 - Place: Varanasi, Uttar Pradesh, India
