@@ -3,6 +3,12 @@
 -Bio: I am a student.
 -GitHub: https://github.com/papaihactober2k21
 
+#### Name: [Lakshitha Samod](https://github.com/LakshithaSamod)
+
+- Place: Colombo, WP, SL
+- Bio: IT Student
+- GitHub: https://github.com/LakshithaSamod
+
 #### Name: [pavan pakhare](https://github.com/pavanpakhare)
 - Place: Aurangabad, maharashtra, India
 - Bio: I am a student.
