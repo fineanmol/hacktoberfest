@@ -344,6 +344,12 @@
 - Bio: Undergrad Student
 - GitHub: [codeburn12](https://github.com/codeburn12)
 
+#### Name: [Dishant Zaveri](https://github.com/dishantzaveri)
+
+- Place: Mumbai, Maharashtra,INDIA
+- Bio: Undergrad Student
+- GitHub: [dishantzaveri](https://github.com/dishantzaveri)
+
 #### Name: [Andre Almeida](https://github.com/aalmeida00)
 
 - Place: São Paulo, Brazil
