@@ -1,3 +1,8 @@
+#### Name: [Roberto](https://github.com/rchatru)
+- Place: Canary Islands, Spain.
+- Bio: Industrial Engineer, studying Data Science.
+- GitHub: [Rchatru](https://github.com/rchatru)
+
 #### Name: [suhas M](https://github.com/suhas-m-svit)
 - Place: Bangalore, Karnataka, India
 - Bio: I am a student.
