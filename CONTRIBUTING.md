@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Piyushraj Singh](https://github.com/Piy6513)
+- Place: Navi Mumbai, Maharashtra, India
+- Bio: Computer Science Student
+- Github: [Piy6513](https://github.com/Piy6513)
