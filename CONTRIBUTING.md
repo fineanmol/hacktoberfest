@@ -2431,6 +2431,11 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+### NAME: [Devanshu2310](https://github.com/Devanshu2310)
+-Place: Chandigarh, India
+-Bio: IT Student
+-Github: [Devanshu2310](https://github.com/Devanshu2310)
+
 ### NAME: [Muhammad Hamza](https://github.com/hamzadeewan01)
 - Place: Karachi, 
 - Bio: Student
