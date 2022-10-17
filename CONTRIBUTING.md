@@ -2418,6 +2418,11 @@
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
 
+### NAME: [Imanshu Rathore](https://github.com/imanshu03)
+- Place: Chandigarh, India
+- Bio: Developer
+- Github: [Imanshu Rathore](https://github.com/imanshu03)
+
 #### Name: [Kumar Shivam](https://github.com/Kush3-14)
 
 - Place: Kolkata, West Bengal, India
