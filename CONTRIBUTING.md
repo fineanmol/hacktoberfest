@@ -2397,3 +2397,9 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+#### Name: [Tushar Aggarwal](https://github.com/beingatushar)
+
+- Place: New Delhi, India
+- Bio: Student at Maharaja Agrasen Institute Of Technology
+- GitHub: [GitHub account name](https://github.com/beingatushar)
