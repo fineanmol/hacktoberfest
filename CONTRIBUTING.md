@@ -2401,6 +2401,12 @@
 - Place: Uttar Pradesh, INdia
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
+
+#### Name: [Kumar Shivam](https://github.com/Kush3-14)
+
+- Place: Kolkata, West Bengal, India
+- Bio: I am a student.
+- GitHub: [Kush3-14](https://github.com/Kush3-14)
 - 
 ### NAME: [Mapie Victorino Mamunhe](https://github.com/MapieMamunhe)
 - Place: Maputo Machava, Mozambique
