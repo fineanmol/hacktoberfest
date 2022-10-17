@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+#### Name: [Lutfi Fitroh Hadi](https://github.com/firstlutfi)
+- Place: Bogor, Indonesia
+- Bio: Test Engineer
+- GitHub: [firstlutfi](https://github.com/firstlutfi)
