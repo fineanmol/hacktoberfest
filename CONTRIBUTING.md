@@ -1,3 +1,8 @@
+#### Name: [Mohd Kaleem Saqlaini](https://github.com/saqlainkaleem)
+-Place: New Delhi, India
+-Bio: I am a final year student.
+-GitHub: [Github](https://github.com/saqlainkaleem)
+
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 
 -Place: Kolkata, West Bengal, India
@@ -39,6 +44,12 @@
 - Place: Varanasi
 - Bio: I am an Undergraduate from IIIT Nagpur.
 - GitHub: [GitHub account name](https://github.com/123shuklaayush)
+
+#### Name: [Rizky Husain](https://github.com/mrzkyhsn8)
+
+- Place: Jakarta/Indonesia 
+- Bio: Freelancer web developer / Frontend developer
+- GitHub: [risen](https://github.com/mrzkyhsn8)
 
 #### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
 
@@ -2360,6 +2371,11 @@
 - Bio: Computer Science Undergraduate
 - GitHub: [Apurb Sinha](https://github.com/ApurbSinha7)
 
+### NAME: [Dinesh](https://github.com/dineshkrthk)
+
+- Place: razole,andhra pradesh, India.
+- Bio: Student
+- GitHub: [dineshkrthk](https://github.com/dineshkrthk)
 
 ### NAME: [sajdoi2](https://github.com/sajdoi2)
 
@@ -2381,6 +2397,31 @@
 - Bio: Student
 - Github: [Prithu Nagar](https://github.com/Prithu-Nagar)
 
+### NAME: [Nithesh](https://github.com/Nithesh12)
+-Place:Banglore,India
+-Bio:Student
+-Github:[Nithesh](https://github.com/Nithesh12)
+
+#### Name: [Annmary Vinod](https://github.com/annmaryvinod)
+
+- Place: Kochi, Kerala , India
+- Bio: I am a computer science and engineering student. I love making websites and coding.
+- GitHub: [GitHub account name](https://github.com/annmaryvinod)
+### NAME: [Avinish Rao](https://github.com/avinishrao)
+- Place: Karnataka, India
+- Bio: Freelancer
+- Github: [Avinish Rao](https://github.com/avinishrao)
+
+#### Name: [Priyanshu Anand](github.com/priyanshuanand166)
+
+- Place: Kolkata, WestBengal, India
+- Bio: Engineering Final Year Student
+- GitHub: [priyanshuanand166](github.com/priyanshuanand166)
+### NAME: [Shreyansh Gupta](https://github.com/shreyan55)
+- Place: Karnataka, India
+- Bio: Student
+- Github: [Shreyansh Gupta](https://github.com/shreyan55)
+
 ### NAME: [Anna Lira](https://github.com/annabeatrizlucena)
 - Place: Campina Grande, Brazil
 - Bio: Computer Science Student
@@ -2395,3 +2436,7 @@
 - Place: Bolzano, Italy
 - Bio: fullstack developer
 - GitHub: [riccardodicurti](https://github.com/riccardodicurti)
+### NAME: [Aayush Solanki](https://github.com/AayushSolanki)
+- Place: Indore, India
+- Bio: Computer Science Student
+- Github: [Aayush Solanki](https://github.com/AayushSolanki)
