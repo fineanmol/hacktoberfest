@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+#### Name: [Riya Bhaskar](https://github.com/RiyaBhaskar12)
+- Place: New Delhi, Delhi, India
+- Bio: I'm a CSE Student studying in Indira Gandhi Delhi Tecchnical University for Women.
+- GitHub: [RiyaBhaskar12](https://github.com/RiyaBhaskar12)
