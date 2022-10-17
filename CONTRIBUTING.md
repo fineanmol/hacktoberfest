@@ -2400,5 +2400,5 @@
 
 ### NAME: [Piyushraj Singh](https://github.com/Piy6513)
 - Place: Navi Mumbai, Maharashtra, India
-- Bio: Computer Science Student
+- Bio: Computer Science Undergraduate
 - Github: [Piy6513](https://github.com/Piy6513)
