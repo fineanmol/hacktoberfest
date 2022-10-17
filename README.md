@@ -49,7 +49,7 @@ git push origin branch-name
 
 ### 1. Add your name
 
-Add your name to the `CONTRIBUTORS.md` file using the below convention:
+Add your name to the `CONTRIBUTING.md` file using the below convention:
 
 ```markdown
 #### Name: [YOUR NAME](GitHub link)
