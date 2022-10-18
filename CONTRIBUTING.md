@@ -2621,6 +2621,10 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+### NAME: [Rahul J](https://github.com/gr8rj-bot)
+- Place: raigarh, Chhattisgarh
+- Bio: Student
+- Github: [Rahul J](https://github.com/gr8rj-bot)
 #### Name: [Oladele Wonder Jeremiah](https://github.com/oladelewonder)
 - Place: Badagry,Lagos,Nigeria
 - Bio: Computer Science student
