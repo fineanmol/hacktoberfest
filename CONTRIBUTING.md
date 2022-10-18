@@ -15,6 +15,12 @@
 - Bio: Industrial Engineer, studying Data Science.
 - GitHub: [Rchatru](https://github.com/rchatru)
 
+#### Name: [CaitM8](https://github.com/caitm8codes)
+
+- Place: Sydney, NSW, Australia.
+- Bio: Newbie student learning about the beeps and the boops
+- GitHub: [CaitM8Codes](https://github.com/caitm8codes)
+
 #### Name: [suhas M](https://github.com/suhas-m-svit)
 
 - Place: Bangalore, Karnataka, India
