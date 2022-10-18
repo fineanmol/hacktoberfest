@@ -2485,12 +2485,20 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+### NAME: [Ambar Kansal](https://github.com/Ambarcode)
+- Bio: Student
+- place : Uttar Pradesh
+- Bio: Computer Science Undergraduate
+- Github: [Ambarcode](https://github.com/Ambarcode)
+
 ### NAME: [ReubenReny03](https://github.com/ReubenReny03)
 - Bio: Student
 - Github: [ReubenReny03](https://github.com/ReubenReny03)
+
 ### NAME: [BOULY P-A](https://github.com/pa-bouly)
 - Place: Caen, France
 - Bio: Web developer
+
 - Github: [BOULY P-A](https://github.com/pa-bouly)
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
