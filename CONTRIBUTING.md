@@ -441,6 +441,18 @@
 
 #### Name: [Anns Shahbaz](https://github.com/Ansi007)
 
+#### Name: [Catherine Muthoni](https://github.com/cate865)
+
+- Place: Kitengela, Nairobi, Kenya
+- Bio: Computer Science Student and Backend Engineer
+- GitHub: [cate865](https://github.com/cate865)
+
+#### Name: [Osman Batur ÇELİK](https://github.com/osmnbtrclk)
+
+
+#### Name: [Anns Shahbaz](https://github.com/Ansi007) 
+- Place: Lahore, Punjab, Pakistan 
+- Bio: "24/7 Student" 
 - Place: Lahore, Punjab, Pakistan
 - Bio: "24/7 Student"
 - GitHub: [Ansi007](https://github.com/Ansi007)
