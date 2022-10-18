@@ -2594,6 +2594,11 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+### NAME: [Karanjot Singh](https://github.com/karanjot-s)
+- Place: New Delhi, Delhi, India
+- Bio: Student | Full Stack Developer
+- Github: [karanjot-s](https://github.com/karanjot-s)
+
 #### Name: Nihaal Raichura (https://github.com/nihaal-beep)
 
 - Place: Mumbai, Maharashtra, India
