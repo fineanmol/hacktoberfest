@@ -2621,6 +2621,9 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+### NAME: [Virtual Wiz](https://github.com/virtualwiz1)
+- Bio: Student
+- Github: [virtualwiz1](https://github.com/virtualwiz1)
 ### NAME: [Adtyya](https://github.com/Adtyya)
 - Place: Japan
 - Bio: Ikuzooo!!
