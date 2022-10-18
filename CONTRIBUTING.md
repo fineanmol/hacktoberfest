@@ -1,3 +1,8 @@
+#### Name: [Arslan Mumtaz](https://github.com/bhavya-sharma26)
+
+- Place: Peshawar,KPK, Pakistan
+- Bio: I am a student and curently doing BS Software Engineering
+- GitHub: [ARSLAN7861](https://github.com/ARSLAN7861)
 #### Name: [Aman Pathan](https://github.com/AmanPathan)
 -Place: kalyan,Thane,Maharashtra India
 -Bio: I am a student at Dr.D.Y.Patil College of Engineering.
