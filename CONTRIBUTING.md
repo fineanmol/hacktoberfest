@@ -2503,6 +2503,11 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+#### Name: [Faria Karim Porna](https://github.com/faria-karim-porna)
+
+- Place: Dhaka, Bangladesh
+- Bio: A Professional Software Engineer.
+- GitHub: [faria-karim-porna](https://github.com/faria-karim-porna)
 #### Name: [Tushar Aggarwal](https://github.com/beingatushar)
 
 - Place: New Delhi, India
