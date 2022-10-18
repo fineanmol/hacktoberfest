@@ -4,6 +4,12 @@
 - Bio: I am a Java programmer and a Web Developer
 - GitHub: [yashk1873](https://github.com/yashk1873)
 
+#### Name: [Nancy](https://github.com/nancy0119)
+
+- Place: Delhi, Delhi, India
+- Bio: Student at IGDTUW
+- GitHub: [nancy0119](https://github.com/nancy0119)
+
 #### Name: [Ayush Sagar](https://github.com/itsmeAYUSH)
 
 - Place: Kalyan, maharashtra, India
@@ -2569,3 +2575,28 @@
 - Place: Indore, India
 - Bio: Computer Science Student
 - Github: [Aayush Solanki](https://github.com/AayushSolanki)
+
+
+### NAME: [Faheem Muhammed](https://github.com/fahurox)
+
+- Place: Kerala, India
+- Bio: Computer Science Engineer
+- Github: [Faheem Muhammed](https://github.com/fahurox)
+
+#### Name: [ARCHISMWAN CHATTERJEE](https://github.com/ArchismwanChatterjee)
+
+- Place: KOLKATA,WEST BENGAL,INDIA
+- Bio: Studying B.Tech Computer Science Engineering currently in first year 
+- GitHub: [ArchismwanCHatterjee](https://github.com/ArchismwanChatterjee)
+
+### NAME: [Pravesh Kumar](https://github.com/praveshkumar1)
+
+- Place: Pune, India
+- Bio: Computer Science Student
+- Github: [praveshkumar1](https://github.com/praveshkumar1)
+
+### NAME: [Vansh Kela](https://github.com/VanshKela)
+
+- Place: Meerut, India
+- Bio: Computer Science Student
+- Github: [Vansh Kela](https://github.com/VanshKela)
