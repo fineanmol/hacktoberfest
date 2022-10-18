@@ -2564,6 +2564,12 @@
 - Bio: Computer Science Student
 - Github: [Aayush Solanki](https://github.com/AayushSolanki)
 
+### NAME: [Faheem Muhammed](https://github.com/fahurox)
+
+- Place: Kerala, India
+- Bio: Computer Science Engineer
+- Github: [Faheem Muhammed](https://github.com/fahurox)
+
 #### Name: [ARCHISMWAN CHATTERJEE](https://github.com/ArchismwanChatterjee)
 
 - Place: KOLKATA,WEST BENGAL,INDIA
@@ -2581,4 +2587,3 @@
 - Place: Meerut, India
 - Bio: Computer Science Student
 - Github: [Vansh Kela](https://github.com/VanshKela)
-
