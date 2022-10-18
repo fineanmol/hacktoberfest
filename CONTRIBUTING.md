@@ -2499,6 +2499,15 @@
 - Place: Caen, France
 - Bio: Web developer
 
+### NAME: [idkroff](https://github.com/idkroff)
+- Bio: Student
+- Github: [idkroff](https://github.com/idkroff)
+
+#### Name: [Sahil Shriwardhankar](https://github.com/notsointresting)
+
+- Place: India
+- Bio: Student
+- GitHub: [Notsointresting]( https://github.com/notsointresting)
 - Github: [BOULY P-A](https://github.com/pa-bouly)
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
