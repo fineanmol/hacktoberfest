@@ -1,12 +1,16 @@
+#### Name: [Victor Oderinde](https://github.com/Vctcode)
+
+- Place: Lagos, Nigeria
+- Bio: I am a Software Developer, graduate of Mathematics
+- GitHub: [Vctcode](https://github.com/Vctcode)
+
 #### Name: [SP KariSims](https://github.com/KariSims)
 -Place: Dakar, DAKAR, SENEGAL
 -Bio: Bachelor's degree, comic and like coding
 -GitHub: https://github.com/KariSims
+
 #### Name: [Arslan Mumtaz](https://github.com/bhavya-sharma26)
 
-- Place: Peshawar,KPK, Pakistan
-- Bio: I am a student and curently doing BS Software Engineering
-- GitHub: [ARSLAN7861](https://github.com/ARSLAN7861)
 #### Name: [Aman Pathan](https://github.com/AmanPathan)
 -Place: kalyan,Thane,Maharashtra India
 -Bio: I am a student at Dr.D.Y.Patil College of Engineering.
