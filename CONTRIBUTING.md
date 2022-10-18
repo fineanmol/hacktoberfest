@@ -1,4 +1,10 @@
-#### Name: [Ayush Sagar](https://github.com/itsmeAYUSH)
+#### Name: [Atharva Belapurkar](https://github.com/Captaiin)
+
+- Place: Pune, Maharashtra, India
+- Bio: Working Professional with < 1 year of experience.
+- GitHub: [itsmeAYUSH] (https://github.com/itsmeAYUSH)
+
+#### Name: [Ayush Sagar](https://github.com/Captaiin)
 
 - Place: Kalyan, maharashtra, India
 - Bio: I am a student.
