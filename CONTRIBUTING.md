@@ -1,3 +1,7 @@
+#### Name: [Krishnansh Agarwal](https://github.com/Krishnansh5)
+-Place: Kanpur, U.P., India
+-Bio: I am a student.
+-GitHub: [Krishnansh5]https://github.com/Krishnansh5
 #### Name: [Ashish Mohite](https://github.com/ashish16052) 
 - Place: Pune, Maharashtra, INDIA 
 - Bio: Node Developer, guy who codes and lift iron 
