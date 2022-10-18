@@ -2521,6 +2521,10 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+### NAME: [Udai Gupta](https://github.com/codeud)
+- Place: India
+- Bio: Student, CS Engineering
+- Github: [Udai Gupta](https://github.com/codeud)
 ### NAME: [Abhiuday Sinha](https://github.com/Abhiuday03) 
 - Bio: Student
 - Github: [Abhiuday Sinha](https://github.com/Abhiuday03)
