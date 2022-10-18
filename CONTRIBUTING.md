@@ -2639,6 +2639,10 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+### Name: [Masq915](https://github.com/Masq915)
+- Place: Jaipur, Rajasthan, India
+- Bio: Student
+- GitHub: [Masq915](https://github.com/Masq915)
 ### NAME: [Dashmat Hembram](https://github.com/Dextroxe)
 - Place: Odisha, India
 - Bio: Computer Science Student
