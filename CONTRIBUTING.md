@@ -2678,10 +2678,7 @@
 - Place: Badagry,Lagos,Nigeria
 - Bio: Computer Science student
 - GitHub: [oladelewonder](https://github.com/oladelewonder)
-### NAME: [Matheus T Koch](https://github.com/MatheusTKoch)
-- Place: Dois Irmãos, RS, Brazil
-- Bio: Web Development Student
-- Github: [Matheus T Koch](https://github.com/MatheusTKoch)
+
 ### NAME: [arnavvgupta](https://github.com/arnavvgupta))
 - Bio: Student
 - Github: https://github.com/arnavvgupta
@@ -2695,3 +2692,11 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+#### Name: [Pushkaran](https://github.com/Karan9616)
+- Place: banglore,karnataka,India
+- Bio: Computer Science student
+- GitHub: [Karan9616](https://github.com/Karan9616)
+
+
+
