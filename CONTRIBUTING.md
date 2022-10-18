@@ -2576,6 +2576,11 @@
 - Bio: Computer Science Student
 - Github: [Aayush Solanki](https://github.com/AayushSolanki)
 
+### NAME: [Ojash Gupta](https://github.com/OjashGupta)
+
+- Place: Noida, India
+- Bio: Computer Science Student
+- Github: [Ojash Gupta](https://github.com/OjashGupta)
 
 ### NAME: [Faheem Muhammed](https://github.com/fahurox)
 
