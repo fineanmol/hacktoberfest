@@ -16,6 +16,12 @@
 - Bio: Node Developer, guy who codes and lift iron 
 - GitHub: [Ashish Mohite](https://github.com/ashish16052) 
 
+#### Name: [Satwika](https://github.com/VSatwika)
+- Place: Hyderabad,Telangana,India
+- Bio: An undergraduate pursuing Computer Science with specialization in Data Science.
+- Github: [Github Account](https://github.com/VSatwika)
+
+#### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
 #### Name: [ABHISHEK KAYAL](https://github.com/Drako-Rexon) 
 - Place: New Delhi, Delhi, INDIA 
 - Bio: Flutter Developer and B. Tech. pursuing student 
