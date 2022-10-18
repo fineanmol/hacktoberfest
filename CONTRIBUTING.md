@@ -1,3 +1,10 @@
+#### Name: [Atharva Belapurkar](https://github.com/Captaiin)
+
+- Place: Pune, Maharashtra, India
+- Bio: Working Professional with < 1 year of experience.
+- GitHub: [Captaiin] (https://github.com/Captaiin)
+
+#### Name: [Ayush Sagar](https://github.com/Captaiin)
 #### Name: [YASH KUMAWAT](https://github.com/yashk1873)
 
 - Place: Jaipur, Rajasthan, India
