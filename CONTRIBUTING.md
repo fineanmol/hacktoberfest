@@ -1,3 +1,8 @@
+#### Name: [Raunak](https://github.com/raunaksaigal)
+
+- Place: Kolkata, West Bengal, India
+- Bio: I am a student in first year B.Tech
+- GitHub: [Raunak] (https://github.com/raunaksaigal)
 #### Name: [Ayush Sagar](https://github.com/itsmeAYUSH)
 
 - Place: Kalyan, maharashtra, India
