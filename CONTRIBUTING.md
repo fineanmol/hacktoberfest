@@ -2594,6 +2594,10 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+### NAME: [Anshul singh](https://github.com/anshul2807)
+- Place: Dehradun, India
+- Bio: Love JS and JAVA.
+- Github: [Anshul singh](https://github.com/anshul2807)
 #### Name: [Sumit Prasad Sah](https://github.com/Sumit-jr)
 - Education : B.Tech, C.V. Raman Global University,India
 - Place: Bhubaneshwar,Odisha,India
