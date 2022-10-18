@@ -27,6 +27,10 @@
 - Bio: Computer Science Undergraduate 
 - GitHub: [aarushiksk](https://github.com/aarushiksk)
 
+#### Name: [Laukik Chahande](https://github.com/luciferx48) 
+- Place: Wardha, Maharashtra, India 
+- Bio: Lifetime learner
+- GitHub: [luciferx48](https://github.com/luciferx48)
 
 #### Name: [Abbey Santos](https://github.com/AbbeyIT) 
 - Place: Manila, Philippines 
