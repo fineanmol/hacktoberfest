@@ -2416,3 +2416,9 @@
 - Place: Chicago, IL, USA
 - Bio: Software tester, animal lover
 - GitHub: [Tunderlany](https://github.com/Tunderlany)
+
+#### Name: [Sabrina](https://github.com/skeeler79)
+
+- Place: Philadelphia, PA, USA
+- Bio: Full-stack developer, horticulturist, baker
+- GitHub: [Skeeler79](https://github.com/skeeler79)
