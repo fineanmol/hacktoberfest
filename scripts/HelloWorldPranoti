@@ -1,8 +1,0 @@
-// hello world program
-// contributed by Pranoti Durugkar
-
-public class Main{
-   public static void main(String[] args){
-     System.out.print("Hello World");
-   }
-}
