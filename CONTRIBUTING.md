@@ -2695,3 +2695,9 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+#### Name: Ujjwal Aggarwal (https://github.com/UjjwalAggarwal-1)
+
+- Place: Jammu, Jammu&Kashmir, India
+- Bio: Computer Science student
+- GitHub: [UjjwalAggarwal-1](https://github.com/nihaal-beep)
