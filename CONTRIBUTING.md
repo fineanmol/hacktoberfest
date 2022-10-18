@@ -2418,6 +2418,11 @@
 - Bio: Software tester, animal lover
 - GitHub: [Tunderlany](https://github.com/Tunderlany)
 
+#### Name: [Soumyadwip Chanda](https://github.com/da-r-k)
+
+- Place: Varanasi, India
+- Bio: Computer Science Student
+- GitHub: [Soumyadwip Chanda](https://github.com/da-r-k)
 #### Name: [Avin Madhu](https://github.com/avin-madhu)
 
 - Place: India, kerala
