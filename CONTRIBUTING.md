@@ -404,6 +404,12 @@
 - Bio: A Backend Developer
 - GitHub: [coded hola](https://github.com/codedhola)
 
+#### Name: [Catherine Muthoni](https://github.com/cate865)
+
+- Place: Kitengela, Nairobi, Kenya
+- Bio: Computer Science Student and Backend Engineer
+- GitHub: [cate865](https://github.com/cate865)
+
 #### Name: [Osman Batur ÇELİK](https://github.com/osmnbtrclk)
 
 - Place: Yenimahalle, Ankara ,Türkiye
