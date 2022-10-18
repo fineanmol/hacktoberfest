@@ -24,6 +24,12 @@
 -Bio: I am a student.
 -GitHub: [Krishnansh5]https://github.com/Krishnansh5
 
+#### Name: [Animesh Sahu](https://github.com/animeshsahu80)
+-Place: jabalpur, M.P., India
+-Bio: I am a software engineer.
+-GitHub: [animeshsahu80]https://github.com/animeshsahu80
+
+
 #### Name: [pavan pakhare](https://github.com/pavanpakhare)
 - Place: Aurangabad, maharashtra, India
 - Bio: I am a student.
