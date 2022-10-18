@@ -2418,6 +2418,12 @@
 - Bio: Software tester, animal lover
 - GitHub: [Tunderlany](https://github.com/Tunderlany)
 
+#### Name: [Avin Madhu](https://github.com/avin-madhu)
+
+- Place: India, kerala
+- Bio: an enthusiast, web dev, artist
+- GitHub: [avin-madhu](https://github.com/avin-madhu)
+
 #### Name: [Ahmad Fadillah](https://github.com/afustrator)
 
 - Place: Jakarta, ID
