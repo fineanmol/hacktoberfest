@@ -2621,6 +2621,10 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+#### Name: [Oladele Wonder Jeremiah](https://github.com/oladelewonder)
+- Place: Badagry,Lagos,Nigeria
+- Bio: Computer Science student
+- GitHub: [oladelewonder](https://github.com/oladelewonder)
 ### NAME: [Matheus T Koch](https://github.com/MatheusTKoch)
 - Place: Dois Irmãos, RS, Brazil
 - Bio: Web Development Student
