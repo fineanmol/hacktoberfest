@@ -2507,6 +2507,10 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+### NAME: [A Fernandito](https://github.com/alexanderfernanditos)
+- Place: BR
+- Bio: CS Students
+- Github: [alexanderfernanditos](https://github.com/alexanderfernanditos)
 #### Name: [Asir Shahriar Roudra](https://github.com/roudra323)
 - Place: Dhaka, Bangladesh
 - Bio: I am a CS student.
