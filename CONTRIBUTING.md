@@ -2563,3 +2563,9 @@
 - Place: Indore, India
 - Bio: Computer Science Student
 - Github: [Aayush Solanki](https://github.com/AayushSolanki)
+
+### NAME: [Vansh Kela](https://github.com/VanshKela)
+
+- Place: Meerut, India
+- Bio: Computer Science Student
+- Github: [Vansh Kela](https://github.com/VanshKela)
