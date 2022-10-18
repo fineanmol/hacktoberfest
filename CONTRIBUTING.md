@@ -1,3 +1,11 @@
+#### Name: [Ashish Mohite](https://github.com/ashish16052) 
+- Place: Pune, Maharashtra, INDIA 
+- Bio: Node Developer, guy who codes and lift iron 
+- GitHub: [Ashish Mohite](https://github.com/ashish16052) 
+
+#### Name: [ABHISHEK KAYAL](https://github.com/Drako-Rexon) 
+- Place: New Delhi, Delhi, INDIA 
+- Bio: Flutter Developer and B. Tech. pursuing student 
 #### Name: [ABHISHEK KAYAL](https://github.com/Drako-Rexon)
 
 - Place: New Delhi, Delhi, INDIA
