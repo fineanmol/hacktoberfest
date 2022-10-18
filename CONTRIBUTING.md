@@ -24,6 +24,20 @@
 -Bio: I am a student.
 -GitHub: [Krishnansh5]https://github.com/Krishnansh5
 
+#### Name: [pavan pakhare](https://github.com/pavanpakhare)
+- Place: Aurangabad, maharashtra, India
+- Bio: I am a student.
+- GitHub: [GitHub account name](https://github.com/pavanpakhare)
+
+#### Name: [Anjali Verma](https://github.com/Anjali1609)
+- Place: Bilaspur, Chattisgrah, India
+- Bio: I am a Communication Signal Processing student.
+- GitHub: [Anjali1609](https://github.com/Anjali1609)
+
+#### Name: [Shubham Jain](https://github.com/Shubhamjain287)
+- Place: Indore MP
+- Bio: Computer Science Enginner
+- Github: [Github Account](https://github.com/Shubhamjain287)
 #### Name: [Ashish Mohite](https://github.com/ashish16052) 
 - Place: Pune, Maharashtra, INDIA 
 - Bio: Node Developer, guy who codes and lift iron 
