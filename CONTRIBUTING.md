@@ -2423,3 +2423,14 @@
 - Place: Jakarta, ID
 - Bio: Fullstack Developer
 - GitHub: [Afustrator](https://github.com/afustrator)
+#### Name: [Lavanya Lenka](https://github.com/Lavanyasuc31)
+
+- Place: Bangalore, Karnataka , India
+- Bio: Computer Science Student
+- GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
+
+#### Name: [Sabrina](https://github.com/skeeler79)
+
+- Place: Philadelphia, PA, USA
+- Bio: Full-stack developer, horticulturist, baker
+- GitHub: [Skeeler79](https://github.com/skeeler79)
