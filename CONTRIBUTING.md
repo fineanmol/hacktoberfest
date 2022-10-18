@@ -2506,6 +2506,12 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Piyushraj Singh](https://github.com/Piy6513)
+
+- Place: Navi Mumbai, Maharashtra, India
+- Bio: Computer Science Undergraduate
+- Github: [Piy6513](https://github.com/Piy6513)
 #### Name: [Santanu Jana](https://github.com/Santanujana2001)
 - Place: Nadia , West Bengal
 - Bio: Computer Science Student 
