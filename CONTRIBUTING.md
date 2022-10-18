@@ -2507,6 +2507,11 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+#### Name: [Lutfi Fitroh Hadi](https://github.com/firstlutfi)
+- Place: Bogor, Indonesia
+- Bio: Test Engineer for flip.id
+- GitHub: [firstlutfi](https://github.com/firstlutfi)
+
 ### NAME: [A Fernandito](https://github.com/alexanderfernanditos)
 - Place: BR
 - Bio: CS Students
