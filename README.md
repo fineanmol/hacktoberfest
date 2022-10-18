@@ -1,31 +1,25 @@
-# Hacktoberfest Project 2 : [Annoying Button](https://github.com/fineanmol/Annoying-submit-button) 🎉.
-Contribute here to Complete your HacktoberFest Event. 
+# <img width="56" alt="193515452-ebdf9e40-b074-4cfe-b19d-716d66b7e724" src="https://user-images.githubusercontent.com/81232337/195917410-5f0419a0-e955-4567-ace9-d4a629e7f45f.png"> Hacktoberfest Project 2 : [Annoying Button](https://github.com/fineanmol/Annoying-submit-button) 🎉.
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Contribute here to complete your HacktoberFest Event. 
 
 # 🎃 HacktoberFest Starter Project 🎃
 
-Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
-
-Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
+Use this project to make your first contribution to an open source project on GitHub.
+Celebrate [Hacktoberfest](https://hacktoberfest.com/) by getting involved in the open source community by completing some simple tasks in this project.
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
-
 [https://fineanmol.github.io/hacktoberfest/](https://fineanmol.github.io/hacktoberfest/)
 
 ## What is Hacktoberfest?
 
-A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.com/) and [GitHub](https://dev.to/this-is-learning/hacktoberfest-2022-is-almost-there-get-ready-4ifb) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
-
+A month-long celebration from October 1st - 31st sponsored by `Digital Ocean` and [`GitHub`](https://dev.to/this-is-learning/hacktoberfest-2022-is-almost-there-get-ready-4ifb) to get people involved in [`Open Source`](https://github.com/open-source). 
 [https://hacktoberfest.com/](https://hacktoberfest.com/)
 
-## How to contribute to this project
-
-Here are 3 quick and painless ways to contribute to this project:
-
-- Add your name to the `CONTRIBUTING.md` file
-- Add a profile page to the `profiles` directory
-- Create a simple "Hello, World" script in a language of your choice
-
-Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
 ## Getting started
 
@@ -55,11 +49,13 @@ git push origin branch-name
 - Wait for your PR review and merge approval!
 - **Star this repository** if you had fun!
 
+# How to contribute to this project
+
 ## Choose from these tasks
 
 ### 1. Add your name
 
-Add your name to the `CONTRIBUTORS.md` file using the below convention:
+Add your name to the `CONTRIBUTING.md` file using the below convention:
 
 ```markdown
 #### Name: [YOUR NAME](GitHub link)
@@ -122,13 +118,15 @@ Don't forget to include the comments as seen above. Feel free to include additio
 
 Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.com/fineanmol/hacktoberfest/blob/master/scripts/hello_world_anmol_agarwal.js)
 
-## Our Contributors
+### Choose one or all 3, make a pull request for your work and wait for it to be merged!
+
+## Our Top Contributors ♥️
 <p align="center"><a href="https://github.com/fineanmol/hacktoberfest/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=fineanmol/hacktoberfest" />
 </a></p>
 
-## BONUS!
 
+## BONUS!
 - Merging All Pull Requests
 - See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
 - Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
@@ -156,6 +154,4 @@ GitHub license explained [https://choosealicense.com](https://choosealicense.com
 ## Additional references for Contributors
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
 - Any contributions you make are **truly appreciated**.
-- Check out our [contributiors](./CONTRIBUTING.md) for more information.
-
-
+- Check out our [`contributiors`](./CONTRIBUTING.md) for more information.
