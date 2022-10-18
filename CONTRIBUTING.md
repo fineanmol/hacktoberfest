@@ -2521,6 +2521,11 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+### NAME: [Abhiuday Sinha](https://github.com/Abhiuday03) 
+- Bio: Student
+- Github: [Abhiuday Sinha](https://github.com/Abhiuday03)
+
+
 #### Name: [Riya Bhaskar](https://github.com/RiyaBhaskar12)
 - Place: New Delhi, Delhi, India
 - Bio: I'm a CSE Student studying in Indira Gandhi Delhi Tecchnical University for Women.
