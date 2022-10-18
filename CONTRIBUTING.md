@@ -2621,6 +2621,10 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+### NAME: [Adtyya](https://github.com/Adtyya)
+- Place: Japan
+- Bio: Ikuzooo!!
+- Github: [Adtyya](https://github.com/Adtyya)
 ### NAME: [Rahul J](https://github.com/gr8rj-bot)
 - Place: Raigarh, Chhattisgarh
 - Bio: Computer Science Student
