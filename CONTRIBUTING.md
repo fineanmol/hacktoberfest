@@ -49,6 +49,12 @@
 - Bio: Industrial Engineer, studying Data Science.
 - GitHub: [Rchatru](https://github.com/rchatru)
 
+#### Name: [CaitM8](https://github.com/caitm8codes)
+
+- Place: Sydney, NSW, Australia.
+- Bio: Newbie student learning about the beeps and the boops
+- GitHub: [CaitM8Codes](https://github.com/caitm8codes)
+
 #### Name: [suhas M](https://github.com/suhas-m-svit)
 
 - Place: Bangalore, Karnataka, India
@@ -441,6 +447,18 @@
 
 #### Name: [Anns Shahbaz](https://github.com/Ansi007)
 
+#### Name: [Catherine Muthoni](https://github.com/cate865)
+
+- Place: Kitengela, Nairobi, Kenya
+- Bio: Computer Science Student and Backend Engineer
+- GitHub: [cate865](https://github.com/cate865)
+
+#### Name: [Osman Batur ÇELİK](https://github.com/osmnbtrclk)
+
+
+#### Name: [Anns Shahbaz](https://github.com/Ansi007) 
+- Place: Lahore, Punjab, Pakistan 
+- Bio: "24/7 Student" 
 - Place: Lahore, Punjab, Pakistan
 - Bio: "24/7 Student"
 - GitHub: [Ansi007](https://github.com/Ansi007)
@@ -2452,6 +2470,13 @@
 
 - Place: Bangalore, Karnataka , India
 - Bio: Computer Science Student
+- Github: [Aayush Solanki](https://github.com/AayushSolanki)
+
+#### Name: [Badal Raut](https://github.com/Cloudymeee)
+
+- Place: Birgunj, Madhesh Pradesh, Nepal
+- Bio: I'm a web developer and a graphic designer.
+- GitHub: [Cloudymeee](https://github.com/Cloudymeee)
 - GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
 #### Name: [Sabrina](https://github.com/skeeler79)
