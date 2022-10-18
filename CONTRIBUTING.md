@@ -2613,6 +2613,12 @@
 - Bio: Student | Full Stack Developer
 - Github: [karanjot-s](https://github.com/karanjot-s)
 
+### NAME: [idkroff](https://github.com/idkroff)
+- Bio: Student
+- Github: [idkroff](https://github.com/idkroff)
+### NAME: [arnavvgupta](https://github.com/arnavvgupta))
+- Bio: Student
+- Github: https://github.com/arnavvgupta
 #### Name: Nihaal Raichura (https://github.com/nihaal-beep)
 
 - Place: Mumbai, Maharashtra, India
