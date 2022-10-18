@@ -1,7 +1,16 @@
+#### Name: [Aman Pathan](https://github.com/AmanPathan)
+-Place: kalyan,Thane,Maharashtra India
+-Bio: I am a student at Dr.D.Y.Patil College of Engineering.
+-GitHub: [AmanPathan](https://github.com/AmanPathan)
+
+#### Name: [Papai Singha](https://github.com/papaihactober2k21)
+-Place: Kolkata, West Bengal, India
+
 #### Name: [Krishnansh Agarwal](https://github.com/Krishnansh5)
 -Place: Kanpur, U.P., India
 -Bio: I am a student.
 -GitHub: [Krishnansh5]https://github.com/Krishnansh5
+
 #### Name: [Ashish Mohite](https://github.com/ashish16052) 
 - Place: Pune, Maharashtra, INDIA 
 - Bio: Node Developer, guy who codes and lift iron 
