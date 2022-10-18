@@ -2416,3 +2416,10 @@
 - Place: Chicago, IL, USA
 - Bio: Software tester, animal lover
 - GitHub: [Tunderlany](https://github.com/Tunderlany)
+
+
+#### Name: [Dishank](https://github.com/dishankkumaryadav)
+
+- Place: Varanasi, India
+- Bio: Information Technology Student
+- GitHub: [Dishank Kumar Yadav](https://github.com/dishankkumaryadav)
