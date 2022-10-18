@@ -1,3 +1,9 @@
+#### Name: [Nancy](https://github.com/nancy0119)
+
+- Place: Delhi, Delhi, India
+- Bio: Student at IGDTUW
+- GitHub: [nancy0119](https://github.com/nancy0119)
+
 #### Name: [Ayush Sagar](https://github.com/itsmeAYUSH)
 
 - Place: Kalyan, maharashtra, India
