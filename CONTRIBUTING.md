@@ -2464,6 +2464,13 @@
 
 - Place: Bangalore, Karnataka , India
 - Bio: Computer Science Student
+- Github: [Aayush Solanki](https://github.com/AayushSolanki)
+
+#### Name: [Badal Raut](https://github.com/Cloudymeee)
+
+- Place: Birgunj, Madhesh Pradesh, Nepal
+- Bio: I'm a web developer and a graphic designer.
+- GitHub: [Cloudymeee](https://github.com/Cloudymeee)
 - GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
 #### Name: [Sabrina](https://github.com/skeeler79)
