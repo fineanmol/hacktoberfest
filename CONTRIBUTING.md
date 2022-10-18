@@ -27,10 +27,6 @@
 - Bio: Computer Science Undergraduate 
 - GitHub: [aarushiksk](https://github.com/aarushiksk)
 
-#### Name: [Laukik Chahande](https://github.com/luciferx48) 
-- Place: Wardha, Maharashtra, India 
-- Bio: Lifetime learner
-- GitHub: [luciferx48](https://github.com/luciferx48)
 
 #### Name: [Abbey Santos](https://github.com/AbbeyIT) 
 - Place: Manila, Philippines 
@@ -1032,6 +1028,12 @@
 - Place: Ghaziabad, Uttar Pradesh, INDIA 
 - Bio: I am a sophomore pursuing Bachelors in CSE with specialization in Data Science 
 - GitHub: [Lakshya Dhawan](https://github.com/yolakshya19)
+
+
+#### Name: [Laukik Chahande](https://github.com/luciferx48) 
+- Place: Wardha, Maharashtra, India 
+- Bio: Lifetime learner 
+- GitHub: [luciferx48](https://github.com/luciferx48)
 
 
 #### Name: [Lavanya Lenka](https://github.com/Lavanyasuc31) 
@@ -2268,4 +2270,3 @@
 - Place: Mumbai, India 
 - Bio: I love DOGS and FISH! :dog: :fish: 
 - GitHub: [Prathmesh](https://github.com/prathmesh-b)
-
