@@ -3,6 +3,102 @@
 - Bio: Flutter Developer and B. Tech. pursuing student 
 - GitHub: [Abhishek Kayal](https://github.com/Drako-Rexon)
 
+#### Name: [Atharva Belapurkar](https://github.com/Captaiin)
+
+- Place: Pune, Maharashtra, India
+- Bio: Working Professional with < 1 year of experience.
+- GitHub: [Captaiin] (https://github.com/Captaiin)
+
+#### Name: [Ayush Sagar](https://github.com/Captaiin)
+#### Name: [YASH KUMAWAT](https://github.com/yashk1873)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: I am a Java programmer and a Web Developer
+- GitHub: [yashk1873](https://github.com/yashk1873)
+
+#### Name: [Nancy](https://github.com/nancy0119)
+
+- Place: Delhi, Delhi, India
+- Bio: Student at IGDTUW
+- GitHub: [nancy0119](https://github.com/nancy0119)
+
+#### Name: [Ayush Sagar](https://github.com/itsmeAYUSH)
+
+- Place: Kalyan, maharashtra, India
+- Bio: I am a student.
+- GitHub: [itsmeAYUSH] (https://github.com/itsmeAYUSH)
+
+- #### Name: [pavan pakhare](https://github.com/pavanpakhare)
+- Place: kalyan.Maharashtra
+- Bio: bsc Computer Science graduate
+- Github: [itsmeAYUSH](https://github.com/itsmeAYUSH)
+
+#### Name: [Roberto](https://github.com/rchatru)
+
+- Place: Canary Islands, Spain.
+- Bio: Industrial Engineer, studying Data Science.
+- GitHub: [Rchatru](https://github.com/rchatru)
+
+#### Name: [suhas M](https://github.com/suhas-m-svit)
+
+- Place: Bangalore, Karnataka, India
+- Bio: I am a student.
+- GitHub: [GitHub account name](https://github.com/suhas-m-svit)
+
+#### Name: [Mohd Kaleem Saqlaini](https://github.com/saqlainkaleem)
+
+-Place: New Delhi, India
+-Bio: I am a final year student.
+-GitHub: [Github](https://github.com/saqlainkaleem)
+
+#### Name: [Papai Singha](https://github.com/papaihactober2k21)
+
+-Place: Kolkata, West Bengal, India
+-Bio: I am a student.
+-GitHub: https://github.com/papaihactober2k21
+
+#### Name: [Aditya srivastava](https://github.com/Aditya-040)
+
+-place Ghaziabad,Uttar Pradesh, India
+-Bio:I am an Engineering student
+-Github:[Aditya srivastava](https://github.com/Aditya-040)
+
+#### Name: [pavan pakhare](https://github.com/pavanpakhare)
+
+- Place: Aurangabad, maharashtra, India
+- Bio: I am a student.
+- GitHub: [GitHub account name](https://github.com/pavanpakhare)
+
+#### Name: [Shubham Jain](https://github.com/Shubhamjain287)
+
+- Place: Indore MP
+- Bio: Computer Science Enginner
+- Github: [Github Account](https://github.com/Shubhamjain287)
+
+#### Name: [Hardik Aggarwal](https://github.com/Hardik329)
+
+- Place: Sri Ganganagar, Rajasthan, India
+- Bio: Computer Science Undergraduate
+- Github: [Hardik329](https://github.com/Hardik329)
+
+#### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
+
+- Place: Kaithal,Haryana, India
+- Bio: I am a Btech CS with specialisation in Data Science undergrad at J.C.Bose University, YMCA, Faridabad.
+- GitHub: [GitHub account name](https://github.com/bhavya-sharma26)
+
+#### Name: [Ankit Kumar](https://github.com/ankitiiitian)
+
+- Place: Prayagraj UP
+- Bio: Passionate Developer, Enthusiast Coder, GFG 1st Rank in IIT Guwahati, CSE (IIITG)
+- Github: [ankitiiitian](https://github.com/ankitiiitian)
+
+#### Name: [Mohasin Haque](https://github.com/jnchen12a)
+
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Frontend Developer
+- GitHub: [Mohasin Haque](https://github.com/Mohasin-Haque)
+
 
 #### Name: [ADARSH PRADHAN](https://github.com/AdarshPradhan1508) 
 - Place: New Delhi, Delhi, INDIA 
@@ -2270,3 +2366,37 @@
 - Place: Mumbai, India 
 - Bio: I love DOGS and FISH! :dog: :fish: 
 - GitHub: [Prathmesh](https://github.com/prathmesh-b)
+
+- Place: Indore, India
+- Bio: Computer Science Student
+- Github: [Aayush Solanki](https://github.com/AayushSolanki)
+
+### NAME: [Ojash Gupta](https://github.com/OjashGupta)
+
+- Place: Noida, India
+- Bio: Computer Science Student
+- Github: [Ojash Gupta](https://github.com/OjashGupta)
+
+### NAME: [Faheem Muhammed](https://github.com/fahurox)
+
+- Place: Kerala, India
+- Bio: Computer Science Engineer
+- Github: [Faheem Muhammed](https://github.com/fahurox)
+
+#### Name: [ARCHISMWAN CHATTERJEE](https://github.com/ArchismwanChatterjee)
+
+- Place: KOLKATA,WEST BENGAL,INDIA
+- Bio: Studying B.Tech Computer Science Engineering currently in first year 
+- GitHub: [ArchismwanCHatterjee](https://github.com/ArchismwanChatterjee)
+
+### NAME: [Pravesh Kumar](https://github.com/praveshkumar1)
+
+- Place: Pune, India
+- Bio: Computer Science Student
+- Github: [praveshkumar1](https://github.com/praveshkumar1)
+
+### NAME: [Vansh Kela](https://github.com/VanshKela)
+
+- Place: Meerut, India
+- Bio: Computer Science Student
+- Github: [Vansh Kela](https://github.com/VanshKela)
