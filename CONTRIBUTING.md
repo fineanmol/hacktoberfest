@@ -2639,6 +2639,10 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+### Name: [Om Deshmukh](https://github.com/omd02)
+- Place: Mumbai, Maharashtra, India
+- Bio: Student
+- GitHub: [omd02](https://github.com/omd02)
 ### NAME: [Shamal-Lakshan](https://github.com/Shamal-Lakshan)
 - Place: Sri Lanka
 - Bio: Student
