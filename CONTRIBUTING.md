@@ -2481,6 +2481,14 @@
 
 #### Name: [Sabrina](https://github.com/skeeler79)
 
+### NAME: [idkroff](https://github.com/idkroff)
+- Bio: Student
+- Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [BOULY P-A](https://github.com/pa-bouly)
+- Place: Caen, France
+- Bio: Web developer
+- Github: [BOULY P-A](https://github.com/pa-bouly)
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
