@@ -2594,6 +2594,11 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+#### Name: [Sumit Prasad Sah](https://github.com/Sumit-jr)
+- Education : B.Tech, C.V. Raman Global University,India
+- Place: Bhubaneshwar,Odisha,India
+- Bio: Student, ML & Devops Enthuiast
+- GitHub: [Sumit-jr](https://github.com/Sumit-jr)
 ### NAME: [Karanjot Singh](https://github.com/karanjot-s)
 - Place: New Delhi, Delhi, India
 - Bio: Student | Full Stack Developer
