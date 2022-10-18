@@ -2563,3 +2563,9 @@
 - Place: Indore, India
 - Bio: Computer Science Student
 - Github: [Aayush Solanki](https://github.com/AayushSolanki)
+
+#### Name: [Tunder](https://github.com/Tunderlany)
+
+- Place: Chicago, IL, USA
+- Bio: Software tester, animal lover
+- GitHub: [Tunderlany](https://github.com/Tunderlany)
