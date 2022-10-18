@@ -2416,3 +2416,10 @@
 - Place: Chicago, IL, USA
 - Bio: Software tester, animal lover
 - GitHub: [Tunderlany](https://github.com/Tunderlany)
+
+#### Name: [Lavanya Lenka](https://github.com/Lavanyasuc31)
+
+- Place: Bangalore, Karnataka , India
+- Bio: Computer Science Student
+- GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
+
