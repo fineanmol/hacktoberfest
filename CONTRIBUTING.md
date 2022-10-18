@@ -1,3 +1,7 @@
+#### Name: [SP KariSims](https://github.com/KariSims)
+-Place: Dakar, DAKAR, SENEGAL
+-Bio: Bachelor's degree, comic and like coding
+-GitHub: https://github.com/KariSims
 #### Name: [Arslan Mumtaz](https://github.com/bhavya-sharma26)
 
 - Place: Peshawar,KPK, Pakistan
