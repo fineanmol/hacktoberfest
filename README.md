@@ -154,4 +154,4 @@ GitHub license explained [https://choosealicense.com](https://choosealicense.com
 ## Additional references for Contributors
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
 - Any contributions you make are **truly appreciated**.
-- Check out our [`contributiors`](./CONTRIBUTING.md) for more information.
+- Check out our [`contributors`](./CONTRIBUTING.md) for more information.
