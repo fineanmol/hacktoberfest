@@ -2,7 +2,7 @@
 
 - Place: Pune, Maharashtra, India
 - Bio: Working Professional with < 1 year of experience.
-- GitHub: [itsmeAYUSH] (https://github.com/itsmeAYUSH)
+- GitHub: [Captaiin] (https://github.com/Captaiin)
 
 #### Name: [Ayush Sagar](https://github.com/Captaiin)
 
