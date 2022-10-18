@@ -2564,6 +2564,12 @@
 - Bio: Computer Science Student
 - Github: [Aayush Solanki](https://github.com/AayushSolanki)
 
+### NAME: [Pravesh Kumar](https://github.com/praveshkumar1)
+
+- Place: Pune, India
+- Bio: Computer Science Student
+- Github: [praveshkumar1](https://github.com/praveshkumar1)
+
 ### NAME: [Vansh Kela](https://github.com/VanshKela)
 
 - Place: Meerut, India
