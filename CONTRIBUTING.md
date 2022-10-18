@@ -2418,6 +2418,12 @@
 - Bio: Software tester, animal lover
 - GitHub: [Tunderlany](https://github.com/Tunderlany)
 
+
+#### Name: [Dishank](https://github.com/dishankkumaryadav)
+
+- Place: Varanasi, India
+- Bio: Information Technology Student
+- GitHub: [Dishank Kumar Yadav](https://github.com/dishankkumaryadav)
 #### Name: [Soumyadwip Chanda](https://github.com/da-r-k)
 
 - Place: Varanasi, India
