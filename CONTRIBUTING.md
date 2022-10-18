@@ -2594,6 +2594,11 @@
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
+#### Name: [Rahul Raj](https://github.com/IM-RAHUL-RAJ)
+
+- Place: Mysore, Karnataka, India
+- Bio: Computer Science Student
+- GitHub: [IM-RAHUL-RAJ](https://github.com/IM-RAHUL-RAJ)
 ### NAME: [Anshul singh](https://github.com/anshul2807)
 - Place: Dehradun, India
 - Bio: Love JS and JAVA.
