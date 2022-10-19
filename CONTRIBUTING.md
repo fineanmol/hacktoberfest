@@ -1,3 +1,9 @@
+#### Name: [Haider Ali](https://github.com/haiderali920687)
+
+- Place: Rawalpindi, Punjab, Pakistan
+- Bio: 2nd year CS student, GDSC Content Lead, Beta MLSA, love coding and playing games
+- GitHub: [haiderali920687](https://github.com/haiderali920687)
+
 #### Name: [Victor Oderinde](https://github.com/Vctcode)
 
 - Place: Lagos, Nigeria
