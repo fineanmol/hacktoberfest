@@ -2695,3 +2695,10 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+
+#### Name: [PalakShivlani](https://github.com/palakshivlani-11)
+
+- Place: Kanpur, Uttar Pradesh, Kanpur
+- Bio: Computer Science Student , working as an intern in Juspay?
+- GitHub: [palakshivlani-11](https://github.com/palakshivlani-11)
