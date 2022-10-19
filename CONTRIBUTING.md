@@ -2695,3 +2695,9 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+#### Name: [Daniel Boll](https://github.com/Daniel-Boll)
+
+- Place: City, State, Country
+- Bio: Computer Science undergraduate
+- GitHub: [Daniel Boll](https://github.com/Daniel-Boll)
