@@ -1,3 +1,9 @@
+#### Name: [Sriyansh Shivam](GitHub link)
+
+- Place: Pune, Maharashtra, India
+- Bio: Aspiring Software Developer and a freelance Graphic Designer?
+- GitHub: [SoNiC-HeRE](https://github.com/SoNiC-HeRE)
+
 #### Name: [Victor Oderinde](https://github.com/Vctcode)
 
 - Place: Lagos, Nigeria
