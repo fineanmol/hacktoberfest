@@ -2695,3 +2695,9 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+#### Name: [Kaustubh Kulkarni](https://github.com/KulkarniKaustubh)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Computer Science Undergraduate
+- GitHub: [KulkarniKaustubh](https://github.com/KulkarniKaustubh)
