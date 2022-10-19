@@ -2699,5 +2699,5 @@
 #### Name: [Ali Nadir](https://github.com/alinadir44)
 
 - Place: Karachi, Sindh, Pakistan
-- Bio: Person who occassionally codes
+- Bio: a Person who occassionally codes
 - GitHub: [alinadir44](https://github.com/alinadir44)
