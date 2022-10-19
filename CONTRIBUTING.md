@@ -2695,3 +2695,9 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+#### Name: [Nawodya Ishan](https://github.com/nawodyaishan)
+
+- Place: Balangoda, Sabaragamuwa, Sri Lanka
+- Bio: Game Developer and Engineering Undergraduate
+- GitHub: [nawodyaishan](https://github.com/nawodyaishan)
