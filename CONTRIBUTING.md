@@ -2695,3 +2695,8 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+### NAME: [Rishi Agarwal](https://github.com/LegendaryGene)
+- Place: Kanpur, U.P., India
+- Bio: Student
+- Github: [LegendaryGene](https://github.com/LegendaryGene)
