@@ -2700,4 +2700,4 @@
 
 -Place: Surat,Gujarat,India
 -Bio: CSE-AI Student
--GitHub: [hem]https://github.com/bhavsarhem
+-GitHub: [hem] (https://github.com/bhavsarhem)
