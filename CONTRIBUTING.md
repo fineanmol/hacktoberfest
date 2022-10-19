@@ -2695,3 +2695,9 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+#### Name: [Ali Nadir](https://github.com/alinadir44)
+
+- Place: Karachi, Sindh, Pakistan
+- Bio: A humanist who occassionally codes
+- GitHub: [alinadir44](https://github.com/alinadir44)
