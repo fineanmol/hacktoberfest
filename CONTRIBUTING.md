@@ -2700,4 +2700,4 @@
 
 - Place: Gurgaon, Haryana, India
 - Bio: Computer Science Undergraduate Student
-- GitHub: [Prajjwal Pathak](https://github.com/PrajjwalPathak)
+- GitHub: [PrajjwalPathak](https://github.com/PrajjwalPathak)
