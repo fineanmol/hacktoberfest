@@ -2695,3 +2695,10 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+#### Name: Harsh Daga (https://github.com/Harsh-Daga)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Computer Science Student
+- GitHub: Harsh-Daga(https://github.com/Harsh-Daga)
+
