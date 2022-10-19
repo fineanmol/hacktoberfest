@@ -2695,3 +2695,9 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+### NAME: [Satyasuranjeet](https://github.com/Satyasuranjeet)
+
+- Place: Bhubaneswer, India
+- Bio: Computer Science Engineering Student
+- Github: [Satyasuranjeet](https://github.com/Satyasuranjeet)
