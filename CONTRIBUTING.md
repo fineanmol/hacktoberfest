@@ -2416,3 +2416,9 @@
 - Place: Chicago, IL, USA
 - Bio: Software tester, animal lover
 - GitHub: [Tunderlany](https://github.com/Tunderlany)
+
+#### Name: [MahnoorShoukat](https://github.com/MahnoorShoukat)
+
+- Place: Islamabad, Pakistan
+- Bio: Software engineering student, tech enthusiastic
+- GitHub: [MahnoorShoukat](https://github.com/MahnoorShoukat)
