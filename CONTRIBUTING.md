@@ -2695,3 +2695,9 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+
+#### Name: [Haider Ali](https://github.com/haiderali920687)
+-Place: Pakistan
+-Bio: 2nd year student, Bachelor's in CS degree, comic and like coding
+-GitHub: https://github.com/haiderali920687
