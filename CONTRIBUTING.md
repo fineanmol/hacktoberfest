@@ -2695,3 +2695,9 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+#### Name: [PiratePie](https://github.com/piratepie)
+
+- Place: Asmterdam, North Holland, Netherlands
+- Bio: CompSci student and full stack web developer
+- GitHub: [PiratePie](https://github.com/piratepie)
