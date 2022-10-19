@@ -2695,3 +2695,6 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+### NAME: [dauntless-scientific](https://github.com/dauntless-scientific))
+- Github: https://github.com/dauntless-scientific
