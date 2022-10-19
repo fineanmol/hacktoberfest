@@ -2695,3 +2695,9 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+#### Name: [Prajjwal Pathak](https://github.com/PrajjwalPathak)
+
+- Place: Gurgaon, Haryana, India
+- Bio: Computer Science Undergraduate Student
+- GitHub: [PrajjwalPathak](https://github.com/PrajjwalPathak)
