@@ -1,4 +1,4 @@
-#### Name: [Sriyansh Shivam](GitHub link)
+#### Name: [Sriyansh Shivam](https://github.com/SoNiC-HeRE)
 
 - Place: Pune, Maharashtra, India
 - Bio: Aspiring Software Developer and a freelance Graphic Designer?
