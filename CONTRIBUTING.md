@@ -2695,3 +2695,11 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+#### Name: Ishan Agarwal (https://github.com/ishan-agarwal)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Computer Science Student, Gamer
+- GitHub: [ishan-agarwal](https://github.com/ishan-agarwal)
+
+
