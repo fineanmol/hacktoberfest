@@ -2582,6 +2582,13 @@
 - Bio: Computer Science Student 
 - Github: [Github Account](https://github.com/Santanujana2001)
 
+#### Name: [Viveena](https://github.com/viveena30)
+
+- Place: Vadodara, Gujarat, India
+- Bio: Frontend Developer
+- GitHub: [viveena30](https://github.com/viveena30)
+
+
 
 ### NAME: [Maurizio](https://twitter.com/battago)
 - Place: Rome, Italy
