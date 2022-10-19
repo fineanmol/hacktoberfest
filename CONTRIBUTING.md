@@ -9,6 +9,12 @@
 -Bio: Bachelor's degree, comic and like coding
 -GitHub: https://github.com/KariSims
 
+#### Name: [Haider Ali](https://github.com/haiderali920687)
+
+- Place: Pakistan
+- Bio: 2nd year student
+- GitHub: [haiderali920687](https://github.com/haiderali920687)
+
 #### Name: [Arslan Mumtaz](https://github.com/bhavya-sharma26)
 
 #### Name: [Aman Pathan](https://github.com/AmanPathan)
