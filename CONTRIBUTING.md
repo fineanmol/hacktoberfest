@@ -1,3 +1,9 @@
+#### Name: [Jordanjun98](https://github.com/Jordanjun98)
+
+- Place: Kuala Lumpur, Malaysia
+- Bio: Interesting in code and I am a Software Tester
+- GitHub: [Jordanjun98](https://github.com/Jordanjun98)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
