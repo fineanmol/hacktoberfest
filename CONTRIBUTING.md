@@ -1,3 +1,9 @@
+#### Name: [Septian Nugraha](https://github.com/septiann)
+
+- Place: Jakarta, Indonesia
+- Bio: Web Developer who loves code and happy to learning about tech
+- GitHub: [septiann](https://github.com/septiann)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
