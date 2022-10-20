@@ -2772,8 +2772,8 @@
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
 
-#### Name: [SIDDHANT N.](https://github.com/WatshiwaSid)
+#### Name: [SIDDHANT N.](https://github.com/WatashiwaSid)
 
 - Place: Rishikesh, Uttarakhand, India
 - Bio: Computer Applications Student. 
-- GitHub: [WatshiwaSid](https://github.com/WatshiwaSid)
+- GitHub: [WatshiwaSid](https://github.com/WatashiwaSid)
