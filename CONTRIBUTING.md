@@ -2607,7 +2607,7 @@
 #### Name: [Ruphaa Ganesan](https://github.com/ruphaa)
 
 - Place: Sydney, Australia
-- Bio: Software Engineer.
+- Bio: Software Engineer
 - GitHub: [ruphaa](https://github.com/ruphaa)
 
 ### NAME: [Piyushraj Singh](https://github.com/Piy6513)
