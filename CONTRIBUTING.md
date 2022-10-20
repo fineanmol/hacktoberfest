@@ -2774,5 +2774,5 @@
 
 #### Name: [NALIN BANGA](https://github.com/jarvis8)
 
-- Place:Delhi, India
+- Place: Delhi, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
