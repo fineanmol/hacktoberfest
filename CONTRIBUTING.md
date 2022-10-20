@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Palak Shivlani](https://github.com/palakshivlani-11)
+
+- Place: Kanpur , Uttar Pradesh , India
+- Bio: Computer Science Student
+- GitHub: [palakshivlani-11](https://github.com/palakshivlani-11)
