@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [KOMPAL LAYAL](https://github.com/komproximal)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: 3rd year student pursuing B.E in Computer 
+- GitHub: [komproximal](https://github.com/komproximal)
