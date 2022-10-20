@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [NOVEN LATIGO][https://github.com/noven21]
+
+- Place: Quezon City, Metro Manila, Philippines
+- Bio: a self taught front-end developer
+- Github: [noven21](https://github.com/noven21)
