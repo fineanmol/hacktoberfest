@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [MUZZAMMIL RAFIQ](https://github.com/MuzzammilRafiq)
+
+- Place: Srinagar, J&K, India
+- Bio: B.Tech in Computer Science
+- GitHub: [Muzzammil](https://github.com/MuzzammilRafiq)
