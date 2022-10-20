@@ -1,3 +1,9 @@
+#### Name: [CodeBreaker518](https://github.com/CodeBreaker518)
+
+- Place: Mexico
+- Bio: University Student interested on Front-end Development
+- GitHub: [CodeBreaker](https://github.com/CodeBreaker518)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
