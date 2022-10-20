@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Mahrukh khan](https://github.com/Suga7772)
+
+- Place: Islamabad,Pakistan
+- Bio: A 3rd year undergrad pursuing Bachelors in Computer Science
+- GitHub: [Suga7772](https://github.com/Suga7772)
