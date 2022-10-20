@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Ferran Buireu](https://github.com/fbuireu)
+
+- Place: Barcelona, Spain
+- Bio: Senior Software Engineer
+- GitHub: [deedeecee](https://github.com/fbuireu)
