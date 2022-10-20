@@ -2664,7 +2664,7 @@
 - Bio: Computer Science Student
 - GitHub: [IM-RAHUL-RAJ](https://github.com/IM-RAHUL-RAJ)
 
-### NAME: [Anshul singh](https://github.com/anshul2807)
+#### NAME: [Anshul singh](https://github.com/anshul2807)
 
 - Place: Dehradun, India
 - Bio: Love JS and JAVA.
@@ -2677,24 +2677,24 @@
 - Bio: Student, ML & Devops Enthuiast
 - GitHub: [Sumit-jr](https://github.com/Sumit-jr)
 
-### NAME: [Karanjot Singh](https://github.com/karanjot-s)
+#### NAME: [Karanjot Singh](https://github.com/karanjot-s)
 
 - Place: New Delhi, Delhi, India
 - Bio: Student | Full Stack Developer
 - Github: [karanjot-s](https://github.com/karanjot-s)
 
-### NAME: [idkroff](https://github.com/idkroff)
+#### NAME: [idkroff](https://github.com/idkroff)
 
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
 
-### Name: [Om Deshmukh](https://github.com/omd02)
+#### Name: [Om Deshmukh](https://github.com/omd02)
 
 - Place: Mumbai, Maharashtra, India
 - Bio: Student
 - GitHub: [omd02](https://github.com/omd02)
 
-### NAME: [Shamal-Lakshan](https://github.com/Shamal-Lakshan)
+#### NAME: [Shamal-Lakshan](https://github.com/Shamal-Lakshan)
 
 - Place: Sri Lanka
 - Bio: Student
@@ -2706,30 +2706,30 @@
 - Bio: Geek
 - GitHub: [jacksonisaac](https://github.com/jacksonisaac)
 
-### Name: [Masq915](https://github.com/Masq915)
+#### Name: [Masq915](https://github.com/Masq915)
 
 - Place: Jaipur, Rajasthan, India
 - Bio: Student
 - GitHub: [Masq915](https://github.com/Masq915)
 
-### NAME: [Dashmat Hembram](https://github.com/Dextroxe)
+#### NAME: [Dashmat Hembram](https://github.com/Dextroxe)
 
 - Place: Odisha, India
 - Bio: Computer Science Student
 - Github: [Dashmat Hembram](https://github.com/Dextroxe)
 
-### NAME: [Virtual Wiz](https://github.com/virtualwiz1)
+#### NAME: [Virtual Wiz](https://github.com/virtualwiz1)
 
 - Bio: Student
 - Github: [virtualwiz1](https://github.com/virtualwiz1)
 
-### NAME: [Adtyya](https://github.com/Adtyya)
+#### NAME: [Adtyya](https://github.com/Adtyya)
 
 - Place: Japan
 - Bio: Ikuzooo!!
 - Github: [Adtyya](https://github.com/Adtyya)
 
-### NAME: [Rahul J](https://github.com/gr8rj-bot)
+#### NAME: [Rahul J](https://github.com/gr8rj-bot)
 
 - Place: Raigarh, Chhattisgarh
 - Bio: Computer Science Student
@@ -2744,18 +2744,18 @@
 - Bio: Computer Science student
 - GitHub: [oladelewonder](https://github.com/oladelewonder)
 
-### NAME: [Matheus T Koch](https://github.com/MatheusTKoch)
+#### NAME: [Matheus T Koch](https://github.com/MatheusTKoch)
 
 - Place: Dois Irmãos, RS, Brazil
 - Bio: Web Development Student
 - Github: [Matheus T Koch](https://github.com/MatheusTKoch)
 
-### NAME: [arnavvgupta](https://github.com/arnavvgupta))
+#### NAME: [arnavvgupta](https://github.com/arnavvgupta))
 
 - Bio: Student
 - Github: https://github.com/arnavvgupta
 
-#### Name: Nihaal Raichura (https://github.com/nihaal-beep)
+#### Name: [Nihaal Raichura](https://github.com/nihaal-beep)
 
 - Place: Mumbai, Maharashtra, India
 - Bio: Computer Science student
@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [jahway603](https://github.com/jahway603)
+
+- Place: America
+- Bio: Privacy advocate, security researcher
+- Github: [jahway603](https://github.com/jahway603)
