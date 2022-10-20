@@ -184,6 +184,13 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Shashwat Gupta](https://github.com/shashwat933)
+
+- Place: Bareilly,Uttar Pradesh, India
+- Bio: Computer Science Undergraduate Student
+- GitHub: [shashwat933](https://github.com/shashwat933)
+
+
 #### Name: [Aarushi](https://github.com/aarushiksk)
 
 - Place: Lucknow, Uttar Pradesh, India
