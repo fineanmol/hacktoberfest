@@ -2776,5 +2776,3 @@
 
 - Place:Delhi, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
-- GitHub: [jarvis8](https://github.com/jarvis8)
-
