@@ -2771,3 +2771,10 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [NALIN BANGA](https://github.com/jarvis8)
+
+permissions: read-all|write-all
+
+- Place: Delhi, India
+- Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
