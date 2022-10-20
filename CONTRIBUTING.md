@@ -2604,6 +2604,12 @@
 - Bio: I'm a CSE Student studying in Indira Gandhi Delhi Tecchnical University for Women.
 - GitHub: [RiyaBhaskar12](https://github.com/RiyaBhaskar12)
 
+#### Name: [Ruphaa Ganesan](https://github.com/ruphaa)
+
+- Place: Sydney, Australia
+- Bio: Software Engineer.
+- GitHub: [ruphaa](https://github.com/ruphaa)
+
 ### NAME: [Piyushraj Singh](https://github.com/Piy6513)
 
 - Place: Navi Mumbai, Maharashtra, India
