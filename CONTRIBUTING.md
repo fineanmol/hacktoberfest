@@ -2771,3 +2771,11 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [VishalRashmika](https://github.com/VishalRashmika)
+
+- Place: Lagos, Nigeria
+
+- Bio: I am a Software Developer.
+
+- GitHub: [VishalRashmika](https://github.com/VishalRashmika)
