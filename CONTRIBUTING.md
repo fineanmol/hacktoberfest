@@ -2771,3 +2771,8 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+#### Name: [SUBRAT KUMAR SAHU](https://github.com/subratkumar46)
+
+- Place: Bhubneswar, Odisha, India
+- Bio: CSE student | Full stack web devloper
+- GitHub: [subratkumar46](https://github.com/subratkumar46)
