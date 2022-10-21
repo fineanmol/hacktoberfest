@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Rudranil Bhattacharjee](https://github.com/exotic123567)
+
+- Place: Kolkata, West Bengal, India
+- Bio: A 2nd year student of B.Tech CSE with a knack towards content creation, design and anime
+- GitHub: [exotic123567](https://github.com/exotic123567)
