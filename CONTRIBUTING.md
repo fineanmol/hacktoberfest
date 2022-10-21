@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [TYLER THIETJE](https://github.com/tylerthietje)
+
+- Place: Lincoln, Nebraska, United States
+- Bio: A junior frontend developer looking for my first role.
+- GitHub: [Tyler Thietje](https://github.com/tylerthietje)
