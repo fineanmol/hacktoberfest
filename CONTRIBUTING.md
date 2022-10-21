@@ -1,3 +1,9 @@
+#### Name: [IceUnderscore](https://github.com/IceUnderscore)
+
+- Place: India, Uttarpradesh
+- Bio: Freshman Computer Science
+- GitHub: [IceUnderscore](https://github.com/IceUnderscore)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
