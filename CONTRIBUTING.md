@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Soumojit Chakraborty](https://github.com/SOUMOJIT-CHAKRABORTY)
+
+- Place: Kolkata , India
+- Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
+- GitHub: [Soumojit Chakraborty](https://github.com/SOUMOJIT-CHAKRABORTY)
