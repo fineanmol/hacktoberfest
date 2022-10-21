@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [ABHINAV SHARMA](https://github.com/Abhinav4279)
+
+- Place: H.P, India
+- Bio: ECE undergrad pursuing B.Tech
+- GitHub: [Abhinav4279](https://github.com/Abhinav4279)
