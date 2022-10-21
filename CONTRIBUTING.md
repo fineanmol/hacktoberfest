@@ -2771,3 +2771,10 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+
+#### Name: [SATTWIKEE  GHOSH](https://github.com/sattwikeeg100)
+
+- Place: Kolkata , West Bengal , India
+- Bio: 2nd Year B.Tech CSE (AI&ML) Undergrad | Competitive Programmer | Frontend Developer |
+- GitHub: [sattwikeeg100](https://github.com/sattwikeeg100)
