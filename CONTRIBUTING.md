@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [RAHUL SHINDE](https://github.com/Rahul2570089)
+
+- Place: Surat, Gujarat, India
+- Bio: IT student
+- GitHub: [Rahul2570089](https://github.com/Rahul2570089)
