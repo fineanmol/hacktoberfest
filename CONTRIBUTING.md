@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+
+#### Name: [Tiger Tux] (https://github.com/Ordained-SubGenii)
+- Place: Catalunya, Spain  
+- Bio: Linux Crusader, Window Manager Ricer, Bash Scripter, Rust Fan, Southern California Native Transplated to Spain, and BTW I use Arch. 
+- GitHub: [Bob Frop Jr.](https://github.com/Ordained-SubGenii)
