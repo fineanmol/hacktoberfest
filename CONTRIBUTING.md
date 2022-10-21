@@ -2364,6 +2364,12 @@
 - Bio: Frontend Developer
 - GitHub: [wahid-ari](https://github.com/wahid-ari)
 
+#### Name: [William Ross](https://github.com/wross123)
+
+- Place: bellevue, washington, USA
+- Bio: I am a highschooler
+- GitHub: [wross123](https://github.com/wross123)
+
 #### Name: [YOUR NAME](https://github.com/yogeshwari-20000609)
 
 - Place: Pune, Maharashtra, India
