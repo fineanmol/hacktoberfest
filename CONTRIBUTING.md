@@ -180,6 +180,12 @@
 - Bio: Passionate Developer, Enthusiast Coder, GFG 1st Rank in IIT Guwahati, CSE (IIITG)
 - Github: [ankitiiitian](https://github.com/ankitiiitian)
 
+#### Name: [Dan KariSims](https://github.com/KariSims)
+
+-Place: Dakar, DAKAR, SENEGAL
+-Bio: Bachelor's degree, comic and like coding
+-GitHub: https://github.com/KariSims
+
 #### Name: [Mohasin Haque](https://github.com/jnchen12a)
 
 - Place: Varanasi, Uttar Pradesh, India
