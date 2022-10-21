@@ -1,3 +1,9 @@
+#### Name: [Mayank Jha](https://github.com/mkjha482)
+
+- Place: Deoghar, Jharkhand, India
+- Bio: Computer Science Student at UPES, Dehradun
+- GitHub: [mkjha482](https://github.com/mkjha482)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
