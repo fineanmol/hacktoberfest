@@ -1,3 +1,8 @@
+#### Name: [Priyasnhu Kumar](https://github.com/kumarpriyanshu2k2)
+- Place : Goa, India
+- Bio : I code to escape my limits
+- Github : [Priyanshu Kumar](https://github.com/kumarpriyanshu2k2)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
