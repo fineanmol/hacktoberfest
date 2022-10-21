@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [SUMAN KUMAR](https://github.com/suman98kumar)
+
+- Place: Cleveland, Ohio, USA
+- Bio: Pursuing MS in Software Engineering
+- GitHub: [suman98kumar](https://github.com/suman98kumar)
