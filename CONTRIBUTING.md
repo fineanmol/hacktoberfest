@@ -1,3 +1,9 @@
+#### Name: [Khushi Patel](https://github.com/khushi2706)
+
+- Place: Kathlal, Gujarat,india
+- Bio: Full stack developer
+- GitHub: [khushi2706](https://github.com/khushi2706)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
