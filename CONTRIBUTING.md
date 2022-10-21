@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+### NAME: [Ayush Gawande](https://github.com/Ayu5-h)
+
+- Place: Maharashtra, India.
+- Bio: Electronics student
+- Github: [Ayu5-h](https://github.com/Ayu5-h)
