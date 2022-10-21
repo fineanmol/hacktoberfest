@@ -5,7 +5,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Contribute here to complete your HacktoberFest Event. 
+Contribute here to complete your HacktoberFest Event. .
 
 # 🎃 HacktoberFest Starter Project 🎃
 
