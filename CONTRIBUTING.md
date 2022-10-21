@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Kurniawan Gigih Lutfi Umam](https://github.com/umaaamm)
+
+- Place: Jakarta, Indonesia
+- Bio: Software Engineer
+- GitHub: [umaaamm](https://github.com/umaaamm)
