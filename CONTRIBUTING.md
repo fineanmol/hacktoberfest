@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Tanmay Agarwal](https://github.com/TanmayAgarwal123)
+
+- Place: Kota, Rajasthan, India
+- Bio: Computer Science Student
+- GitHub: [Tanmay Agarwal](https://github.com/TanmayAgarwal123)
