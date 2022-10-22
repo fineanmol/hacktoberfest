@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [MUKUL OJHA](https://github.com/mukul314)
+
+- Place: Pali, Rajasthan, India
+- Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
+- GitHub: [mukul314](https://github.com/mukul314)
