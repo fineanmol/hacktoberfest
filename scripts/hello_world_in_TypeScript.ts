@@ -4,5 +4,4 @@
 // GITHUB: https://github.com/luizfelper
 
 const helloWorld: string = "Wello World";
-
 console.log(helloWorld);
