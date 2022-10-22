@@ -1,3 +1,9 @@
+#### Name: [Rahul Kumar Gupta](https://github.com/rahullgupta)
+
+- Place: Siliguri, West Bengal, India
+- Bio: CSE Undergrad, interested in coding, love anime
+- GitHub: [rahullgupta](https://github.com/rahullgupta)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
