@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Mohamed Salman](https://github.com/salmantec)
+
+- Place: Chennai, Tamilnadu, India
+- Bio: Software Consultant
+- Github: [salmantec](https://github.com/salmantec)
