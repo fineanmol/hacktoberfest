@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Sneha Shukla](https://github.com/Scarlet-Coder)
+
+- Place: Lucknow, India
+- Bio: A B.Tech 3rd year student
+- GitHub: [Scarlet-Coder](https://github.com/Scarlet-Coder)
