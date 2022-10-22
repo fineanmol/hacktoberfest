@@ -2397,3 +2397,9 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+#### Name: [Mohamed Salman](https://github.com/salmantec)
+
+- Place: Chennai, Tamilnadu, India
+- Bio: Software consultant
+- GitHub: [salmantec](https://github.com/salmantec)
