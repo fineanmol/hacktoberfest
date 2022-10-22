@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Tari Akinukawe](https://github.com/Tahree22)
+
+- Place: Port Harcourt, Rivers, Nigeria
+- Bio: A law graduate, learning to code with the aim of switching careers.
+- GitHub: [Tahree22](https://github.com/Tahree22)
