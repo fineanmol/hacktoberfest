@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Moeed Irfan](https://github.com/hmoeedirfan)
+
+- Place: Gujranwala, Pakistan
+- Bio: 16 • Flutter Developer💙 • Exploring Emerging Tech(AI, Web 3.0)
+- GitHub: [Moeed Irfan](https://github.com/hmoeedirfan)
