@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Tushar Sublaik](https://github.com/tushar-sublaik)
+
+- Place: Jalandhar, Punjab, India
+- Bio: B.Tech 2nd year Student at NIT, Jalandhar
+- GitHub: [tushar-sublaik](https://github.com/tushar-sublaik)
