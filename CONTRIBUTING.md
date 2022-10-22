@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+
+#### Name: [MUHAMMAD HUZAIFA KHAN](https://github.com/Huzaifa-crypton)
+
+- Place: Lahore, Punjab, Pakistan
+- Bio: Junior year student in Computer Science
