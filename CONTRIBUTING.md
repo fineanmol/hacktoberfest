@@ -2773,8 +2773,8 @@
 - GitHub: [deedeecee](https://github.com/deedeecee)
 
 
-#### Name: Akash Yadav (https://github.com/akash2908)
+#### Name: Akash Yadav(https://github.com/akash2908)
 
 - Place: New Delhi, India
 - Bio: Student
-- GitHub: crazyboy (https://github.com/akash2908)
+- GitHub: crazyboy(https://github.com/akash2908)
