@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name:[Abir Choudhury](https://github.com/Abir-New)
+
+- Place:Udaipur,Rajasthan,India
+- Bio:I am Tech Enthusiast and want to learn more about current technologyStck.Keen learner and positive attitude.
+- Github: [Abir-New](https://github.com/Abir-New)
