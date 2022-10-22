@@ -2774,6 +2774,6 @@
 
 #### Name: [Tushar Sublaik](https://github.com/tushar-sublaik)
 
--Place: Jalandhar, Punjab, India
--Bio: B.Tech 2nd year Student at NIT, Jalandhar
--GitHub: [tushar-sublaik](https://github.com/tushar-sublaik)
+- Place: Jalandhar, Punjab, India
+- Bio: B.Tech 2nd year Student at NIT, Jalandhar
+- GitHub: [tushar-sublaik](https://github.com/tushar-sublaik)
