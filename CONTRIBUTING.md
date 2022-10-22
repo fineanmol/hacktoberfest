@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [NAUMAN AHMAD](https://github.com/naumanahmad9)
+
+- Place: Munich, Bavaria, Germany
+- Bio: Software Engineer
+- GitHub: [naumanahmad9](https://github.com/naumanahmad9)
