@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Andrew De Guzman](https://github.com/theadg)
+
+- Place: Angono, Rizal, Philippines
+- Bio: A mothefucking dreamer
+- GitHub: [theadg ](https://github.com/theadg)
