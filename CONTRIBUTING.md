@@ -1,4 +1,10 @@
-#### Name: [EyeOfCode](https://github.com/EyeOfCode)
+#### Name: [Prakhar Rathore](https://github.com/prakhar2347)
+
+- Place: Nagpur, Maharashtra, India
+- Bio: A student with keen eye on tech!
+- GitHub: [prakhar2347](https://github.com/prakhar2347)
+
+- #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
 - Bio: Interesting in code and I am a Software Developer
