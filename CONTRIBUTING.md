@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [TANISHA CHOUDHARY](https://github.com/tanishach03)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: A 2nd year undergraduate pursuing B.Tech in Computer Science
+- GitHub: [tanishach03](https://github.com/tanishach03)
