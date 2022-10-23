@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Shetkar Neeraj Rajeev](https://github.com/ineerajrajeev)
+
+- Place: Mumbai, India.
+- Bio: Pursuing my bachelors from IIT Madras. Data Scientist/ Data Analyst
+- GitHub: [ineerajrajeev](https://github.com/ineerajrajeev)
