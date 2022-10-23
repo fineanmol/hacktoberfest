@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [URMIL RUPARELIYA](https://github.com/urmil404)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: A final year pursuing MCA in Cyber Security
+- GitHub: [urmil404](https://github.com/urmil404)
