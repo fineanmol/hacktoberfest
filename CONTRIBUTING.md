@@ -28,6 +28,12 @@
 
 -Place: Kolkata, West Bengal, India
 
+#### Name:  [Sneha Mandal](https://github.com/sm-creative-crazy4code)
+
+-Place: Kolkata,West Bengal, India
+-Bio: I am a graduatin student currently persuing B.tech at IIIT Bhubaneshwar. I am currently learning Blockchain technology
+-Github:[sm-creative-crazy4code](https://github.com/sm-creative-crazy4code)
+
 #### Name: [Krishnansh Agarwal](https://github.com/Krishnansh5)
 
 -Place: Kanpur, U.P., India
