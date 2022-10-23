@@ -294,6 +294,12 @@
 - Bio: Backend Developer
 - GitHub: [abiyyu03](https://github.com/abiyyu03)
 
+#### Name: [dan Oderinde](https://github.com/Vctcode)
+
+- Place: Lagos, Nigeria
+- Bio: I am a Software Developer, graduate of Mathematics
+- GitHub: [Vctcode](https://github.com/Vctcode)
+
 #### Name: [Aditya Gaurav Bhagat](https://github.com/adityeah2k)
 
 - Place: Dhanbad, Jharkhand, India
