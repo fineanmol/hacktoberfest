@@ -10,6 +10,11 @@
 - Bio: I am a Software Developer, graduate of Mathematics
 - GitHub: [Vctcode](https://github.com/Vctcode)
 
+#### Name: Tarif Hingolja (https://github.com/mr-hingolja)
+- Place: Surendranagar, Gujarat, India
+- Bio: I am Tarif Hingolja , Student of CSE in Government Engineering college. I have core technical programming language skill like html,css,php , C , Java
+- GitHub: [mr-hingolja](https://github.com/mr-hingolja)
+
 #### Name: [SP KariSims](https://github.com/KariSims)
 
 -Place: Dakar, DAKAR, SENEGAL
