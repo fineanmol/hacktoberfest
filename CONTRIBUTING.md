@@ -1,3 +1,9 @@
+#### Name: [Dispuzzler](https://github.com/dispuzzler)
+
+- Place: India
+- Bio: Interesting in code and I am a Software Developer
+- GitHub: [dispuzzler](https://github.com/dispuzzler)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
