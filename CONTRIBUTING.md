@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Sutthirat Phutho](https://github.com/radsadorn)
+
+- Place: Latkraabang, Bangkok, Thailand
+- Bio: Software Engineering Trainee
+- GitHub: [Radsadorn](https://github.com/radsadorn)
