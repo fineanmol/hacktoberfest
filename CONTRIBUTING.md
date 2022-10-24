@@ -4,6 +4,13 @@
 - Bio: Interesting in code and I am a Software Developer
 - GitHub: [EyeOfCode](https://github.com/EyeOfCode)
 
+#### Name: [Umang Dalvadi](https://github.com/UmangDalvadi)
+
+- Place: Gujarat,India
+- Bio: IT student, Passinate about cybersecurity and ML
+- GitHub: [Umang Dalvadi](https://github.com/UmangDalvadi)
+
+
 #### Name: [Victor Oderinde](https://github.com/Vctcode)
 
 - Place: Lagos, Nigeria
