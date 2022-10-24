@@ -1,0 +1,30 @@
+//temperature converter in kotlin
+
+fun c2f(temp:Double){
+    println((temp*(9.0/5.0))+32.0);
+}
+fun f2c(temp:Double){
+    println((temp-32.0)*(5.0/9.0));
+}
+    fun main(){
+    var n:Int;
+    var temp:Double;
+    val sc=Scanner(System.`in`);
+    println("Choose from the dropdown below:");
+    println("1.Conversion from celcius to faranheit");
+    println("2.Conversion from faranheit to celcius");
+    n= readLine()!!.toInt();
+      n=sc.nextInt();
+        when(n){
+            1->{println("Enter the temperature in celcius:");
+               temp=sc.nextDouble();
+               println("The temperature in faranheit is:");
+               c2f(temp);
+               }
+
+            2->{println("Enter the temperature in faranheit:");
+               temp=sc.nextDouble();
+               println("The temperature in celcius is:");
+               f2c(temp);
+            }
+}
