@@ -1,3 +1,9 @@
+#### Name: [xPutraGm](https://github.com/xPutraGm)
+
+- Place: Malang, Indonesia
+- Bio: Im a Student and a programer
+- GitHub: [xPutraGm](https://github.com/xPutraGm)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
