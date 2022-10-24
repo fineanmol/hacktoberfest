@@ -42,7 +42,7 @@
 
 #### Name: [Stilyana Stoyanova](https://github.com/StilyanaS)
 
-- Place: Alicante, Alicante, Spain
+- Place: Alicante, Valencia, Spain
 - Bio: Junior Frontend developer with experience in SEO
 - GitHub: [StilyanaS](https://github.com/StilyanaS)
 

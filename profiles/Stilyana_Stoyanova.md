@@ -2,7 +2,7 @@
 
 ### Location:
 
-Alicante, Spain
+Alicante, Valencia, Spain
 
 ### Academics:
 
