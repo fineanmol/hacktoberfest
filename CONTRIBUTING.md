@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [SATYA POSADA](https://github.com/sposada3)
+
+- Place: Copenhagen, Denmark
+- Bio: Student
+- GitHub: [sposada3](https://github.com/sposada3)
