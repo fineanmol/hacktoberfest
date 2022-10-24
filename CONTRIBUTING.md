@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Dhruv](https://github.com/ogdhruv)
+
+- Place: New Delhi, Delhi, India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [OGdhruv](https://github.com/ogdhruv)
