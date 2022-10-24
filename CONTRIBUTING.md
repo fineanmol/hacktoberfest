@@ -1,3 +1,5 @@
+
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
@@ -9,6 +11,7 @@
 - Place: Lagos, Nigeria
 - Bio: I am a Software Developer, graduate of Mathematics
 - GitHub: [Vctcode](https://github.com/Vctcode)
+
 
 #### Name: [SP KariSims](https://github.com/KariSims)
 
@@ -91,8 +94,8 @@
 - Bio: I am a Java programmer and a Web Developer
 - GitHub: [yashk1873](https://github.com/yashk1873)
 
-#### Name: [Nancy](https://github.com/nancy0119)
 
+#### Name: [Nancy](https://github.com/nancy0119)  
 - Place: Delhi, Delhi, India
 - Bio: Student at IGDTUW
 - GitHub: [nancy0119](https://github.com/nancy0119)
@@ -2770,4 +2773,10 @@
 
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
-- GitHub: [deedeecee](https://github.com/deedeecee)
+- GitHub: [deedeecee](https://github.com/deedeecee) 
+
+#### Name: [Aldi Pranata](https://github.com/aldyjrz)
+
+- Place: Jakarta, Indonesia
+- Bio: Bio:  Web Developer
+- GitHub: [Vctcode](https://github.com/aldyjrz)
