@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<select multiple="multiple" id="sel">
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="opel">Opel</option>
+  <option value="audi">Audi</option>
+</select>
+<input type="button" value="Get Value" onclick="getValue()"/>
+</body>
+<script>
+function getValue()
+{
+  var x=document.getElementById("sel");
+  for (var i = 0; i < x.options.length; i++) {
+     if(x.options[i].selected ==true){
+          alert(x.options[i].value);
+      }
+  }
+}
+</script>
+</html>

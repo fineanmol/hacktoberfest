@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<select id="language" onChange="update()">
+			<option value="en">English</option>
+			<option value="es">Español</option>
+			<option value="pt">Português</option>
+		</select>
+		<input type="text" id="value">
+		<input type="text" id="text">
+
+		<script type="text/javascript">
+			function update() {
+				var select = document.getElementById('language');
+				var option = select.options[select.selectedIndex];
+
+				document.getElementById('value').value = option.value;
+				document.getElementById('text').value = option.text;
+			}
+
+			update();
+		</script>
+	</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JavaScript Select Elements by Class Name</title>
+</head>
+<body>
+    <p class="test">This is a paragraph of text.</p>
+    <div class="block test">This is another paragraph of text.</div>
+    <p>This is one more paragraph of text.</p>
+    <hr>
+
+    <script>
+    // Selecting elements with class test
+    var matches = document.getElementsByClassName("test");
+        
+    // Displaying the selected elements count
+    document.write("Number of selected elements: " + matches.length);
+     
+    // Applying bold style to first element in selection
+    matches[0].style.fontWeight = "bold";
+        
+    // Applying italic style to last element in selection
+    matches[matches.length - 1].style.fontStyle = "italic";
+        
+    // Highlighting each element's background through loop
+    for(var elem in matches) {  
+        matches[elem].style.background = "yellow";
+    }
+    </script>
+</body>
+</html>
