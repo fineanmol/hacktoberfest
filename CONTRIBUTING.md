@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [RISHABH KUMAR SHARMA](https://github.com/bobcat9857)
+
+- Place: Asansol , West Bengal
+- Bio: A 2rd year sophomore pursuing B.Tech in Computer Science
+- GitHub: [deedeecee](https://github.com/bobcat9857)
