@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Daniel Armas Ramírez](https://github.com/daniel692a)
+
+- Place: CDMX, Mexico
+- Bio: Incoming Explore intern at Microsoft, Software developer located in Mexico and data science student at ESCOM. I'm currently learning about algorithms and computer science
+- GitHub: [daniel692a](https://github.com/daniel692a)
