@@ -16,6 +16,11 @@
 -Bio: Bachelor's degree, comic and like coding
 -GitHub: https://github.com/KariSims
 
+#### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+- Place: California
+- Bio: Software Developer
+- GitHub: [Alex Marrujo](https://github.com/marrujoalex)
+
 #### Name: [Arslan Mumtaz](https://github.com/bhavya-sharma26)
 
 #### Name: [Aman Pathan](https://github.com/AmanPathan)
