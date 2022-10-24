@@ -1,3 +1,9 @@
+#### Name: [Grithik](https://github.com/grithik4U)
+
+- Place: Hyderabad, India
+- Bio: Digging into solidity,Getting ready to dive into Web3.0
+- GitHub: [Grithik4U](https://github.com/grithik4U)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
