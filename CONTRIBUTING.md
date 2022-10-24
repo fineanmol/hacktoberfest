@@ -40,6 +40,12 @@
 - Bio: I am a student.
 - GitHub: [GitHub account name](https://github.com/pavanpakhare)
 
+#### Name: [Stilyana Stoyanova](https://github.com/StilyanaS)
+
+- Place: Alicante, Alicante, Spain
+- Bio: Junior Frontend developer with experience in SEO
+- GitHub: [StilyanaS](https://github.com/StilyanaS)
+
 #### Name: [Anjali Verma](https://github.com/Anjali1609)
 
 - Place: Bilaspur, Chattisgrah, India
