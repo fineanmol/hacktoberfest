@@ -2776,4 +2776,4 @@
 
 - Place: Bandarawela, Uva, Sri Lanka
 - Bio: A student
-- GitHub: [amilabgunarathne](https://github.com/amilabgunarathne)
+- GitHub: [amilab](https://github.com/amilabgunarathne)
