@@ -16,7 +16,6 @@ Jakarta, Indonesia
 - JavaScript
 - CSS
 - Git & GitHub 
-- Good knowledge in Programming Language
 - Kotlin
 - Java
 
