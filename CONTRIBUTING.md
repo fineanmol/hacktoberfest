@@ -1,3 +1,10 @@
+#### Name: [PoojaGuptan03](https://github.com/PoojaGuptan03)
+
+- Place: Tamil Nadu, India
+- Bio: Student (Computer Science and Engineering)
+- GitHub: [PoojaGuptan03](https://github.com/PoojaGuptan03)
+
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
