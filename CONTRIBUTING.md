@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [ASHISH KUMAR](https://github.com/ashpect)
+
+- Place: Roorkee, Uttrakhand, India
+- Bio: A 2nd year undergrad pursuing Bs-Ms in Mathematics and Computing
+- GitHub: [ashpect](https://github.com/ashpect)
