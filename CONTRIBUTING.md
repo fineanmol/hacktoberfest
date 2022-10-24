@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [YOUR NAME](GitHub link)
+
+- Place: Manila, Philippines
+- Bio: Community-Taught Full-Stack Web Dvelopment Software Engineer
+- GitHub: [rickansen](https://github.com/rickansen)
