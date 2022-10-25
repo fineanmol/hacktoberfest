@@ -6,7 +6,7 @@ Palakkad, Kerala
 
 ### Academics
 
-IIT (BHU), Varanasi
+IIT (BHU), Varanasi, India
 
 ### Interests
 
