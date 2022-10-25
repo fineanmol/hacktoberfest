@@ -2795,7 +2795,7 @@
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
 
-#### Name: [DARWIN JIMENEZ](https://github.com/ogdhruv)
+#### Name: [DARWIN JIMENEZ](https://github.com/DARWINDEV)
 
 - Place: Chiapas, Mexico
 - Bio: Student Success Team at @codigofacilito. 🐊✨
