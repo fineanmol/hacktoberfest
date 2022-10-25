@@ -2798,5 +2798,5 @@
 #### Name: [Alejandroid17](https://github.com/Alejandroid17)
 
 - Place: Spain
-- Bio: Full Stack Software Engineer
+- Bio: Full stack software engineer
 - GitHub: [Alejandroid17](https://github.com/Alejandroid17)
