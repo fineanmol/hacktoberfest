@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Bilal Zahid](https://github.com/bilalzhd)
+
+- Place: Faisalabad, Punjab, Pakistan
+- Bio: Full stack web application developer
+- GitHub: [Bilal Zahid](https://github.com/bilalzhd)
