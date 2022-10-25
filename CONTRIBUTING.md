@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Hammad amjad](https://github.com/hammadamjad)
+
+- Place: Islamabad, Pakistan
+- Bio: Final Year undergrad pursuing BS in Computer Science
+- GitHub: [Hammad Amjad]((https://github.com/hammadamjad))
