@@ -1,5 +1,5 @@
 body {
-	background-color: aliceblue;
+	background-color: rgb(8, 8, 8);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -8,11 +8,12 @@ body {
 
 .heading {
 	font-family: 'Pacifico', cursive;
+	color: rgb(18, 139, 245);
 	margin: 35px auto 20px;
 }
 
 hr {
-	border-top: 2px solid black;
+	border-top: 2px solid rgb(253, 250, 250);
 	width: 40%;
 	margin-bottom: 55px;
 }
@@ -22,7 +23,7 @@ hr {
 	margin: auto;
 	padding: 30px;
 	border-radius: 5px;
-	background-color: rgba(0, 0, 0, 0.5);
+	background-color: rgba(253, 242, 242, 0.5);
 	color: white;
 }
 
