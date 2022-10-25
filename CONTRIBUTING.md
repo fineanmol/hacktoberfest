@@ -1,3 +1,9 @@
+#### Name: [AQDAS](https://github.com/aqdasak)
+
+- Place: New Delhi, India
+- Bio: I am a Computer Science student
+- GitHub: [aqdasak](https://github.com/aqdasak)
+- 
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
