@@ -2794,3 +2794,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [ANAMIKA JAIN](https://github.com/ANAMIKA1410)
+
+- Place: SAGAR, Madhya Pradesh, India
+- Bio: I am a Computer Science Engineering student from Samrat Ashok Technological Institute Vidisha (M.P.)
+- GitHub: [ANAMIKA1410](https://github.com/ANAMIKA1410)
+
