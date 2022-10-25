@@ -695,6 +695,12 @@
 - Bio: I am a Btech CS(Data Science) undergrad at J.C. Bose University of Science and Technology, YMCA, Faridabad.
 - GitHub: [bhavya-sharma26](https://github.com/bhavya-sharma26)
 
+#### Name: [S Ashwin](https://github.com/ash0545)
+
+- Place: Tamil Nadu, India
+- Bio: The usual CS undergrad trying to clear his first Hacktoberfest.
+- GitHub: [ash0545](https://github.com/ash0545)
+
 #### Name: [Bhavya Sharma](https://github.com/bhavya-sharma26)
 
 - Place: Kaithal, Haryana, India
