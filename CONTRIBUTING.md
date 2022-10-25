@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Neeraj Shetkar](https://github.com/ineerajrajeev)
+
+- Place: Mumbai, Maharashtra, India.
+- Bio: Bachelor of Science in Data Science from IIT Madras.
+- GitHub: [ineerajrajeev](https://github.com/ineerajrajeev)
