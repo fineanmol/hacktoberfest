@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Hisham Abdulla](https://github.com/XAnaXprik)
+
+-Place: Kasargod, Kerala, India
+-Bio: A simpleton.
+-GitHub: [XAnaXprik](https://github.com/XAnaXprik)
