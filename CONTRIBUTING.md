@@ -10,6 +10,12 @@
 - Bio: Interesting in code and I am a Software Developer
 - GitHub: [EyeOfCode](https://github.com/EyeOfCode)
 
+#### #### Name: [Aditya Mundas](https://github.com/am1671)
+
+- Place: Navi Mumbai, India
+- Bio: I am a Computer Engineering student 
+- GitHub: [am1671](https://github.com/am1671)
+
 #### Name: [Victor Oderinde](https://github.com/Vctcode)
 
 - Place: Lagos, Nigeria
