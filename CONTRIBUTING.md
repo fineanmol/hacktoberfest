@@ -1,3 +1,9 @@
+#### Name: [TOMIN JOY](https://github.com/Tomin-Joy)
+
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: I am a Computer Science Engineering student from Kerala Technological University
+- GitHub: [Tomin-Joy](https://github.com/Tomin-Joy)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
