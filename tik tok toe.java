@@ -37,10 +37,10 @@
     }//eof showButton  
       
     /*********************************************************/  
-    public  void check(int num1){  
+    public  void check(int num01){  
     for(ii=0;ii<=7;ii++){  
        for(jj=1;jj<=3;jj++){  
-            if(a[ii][jj]==num1){ a[ii][4]=11;  }  
+            if(a[ii][jj]==num01){ a[ii][4]=11;  }  
       
        }//eof for jj  
       
