@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Ali](https://github.com/alisezisli)
+
+- Place: Izmir, Turkiye
+- Bio: Linux administrator but not a developer :)
+- GitHub: [alisezisli](https://github.com/alisezisli)
