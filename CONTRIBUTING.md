@@ -16,6 +16,12 @@
 - Bio: I am a Software Developer, graduate of Mathematics
 - GitHub: [Vctcode](https://github.com/Vctcode)
 
+#### Name: [Ahmad Bin Abdul Jabbar](https://github.com/AhmadBinAbdulJabbar)
+
+- Place: Bahawalpur, Punjab, Pakistan
+- Bio: I'm a student of Computer Science and love programming.
+- GitHub: [AhmadBinAbdulJabbar](https://github.com/AhmadBinAbdulJabbar)
+
 #### Name: [SP KariSims](https://github.com/KariSims)
 
 -Place: Dakar, DAKAR, SENEGAL
