@@ -69,6 +69,12 @@
 - Bio: Node Developer, guy who codes and lift iron
 - GitHub: [Ashish Mohite](https://github.com/ashish16052)
 
+#### Name: [Yash Chaudhari](https://github.com/xB0t)
+
+- Place: Nashik, Maharashtra, India.
+- Bio: I am a Student.
+- GitHub: [xB0t](https://github.com/xB0t)
+
 #### Name: [Satwika](https://github.com/VSatwika)
 
 - Place: Hyderabad,Telangana,India
