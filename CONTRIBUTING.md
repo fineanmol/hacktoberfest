@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Suyash](https://github.com/suyash-leo)
+
+- Place: New Delhi, Delhi, India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [Suyash-leo](https://github.com/suyash-leo)
