@@ -57,6 +57,12 @@
 - Bio: I am a Communication Signal Processing student.
 - GitHub: [Anjali1609](https://github.com/Anjali1609)
 
+#### Name: [Swarnava Bhattacharyya](https://github.com/Rivuozil)
+
+- Place: Kolkata, India
+- Bio: I am an ECE Undergrad.
+- GitHub: [Rivuozil](https://github.com/Rivuozil)
+
 #### Name: [Shubham Jain](https://github.com/Shubhamjain287)
 
 - Place: Indore MP
