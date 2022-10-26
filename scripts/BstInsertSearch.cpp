@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 #include<iostream>
+using namespace std;
 
 struct BstNode
 {
@@ -20,7 +21,7 @@ BstNode* InsertNode(BstNode* root, int data)
     if(root==NULL)
     {root=GetNewNode(data);
      return root;}
-    else if(data<=root)
+    else if(data<=root->data)
     {root->left=InsertNode(root->left,data);}
     else
     {root->right=InsertNode(root->right,data);}
@@ -33,7 +34,7 @@ bool Search(BstNode* root,int data)
     return false;
     else if(root->data==data)
     return true;
-    else if(data<=root)
+    else if(data<=root->data)
     return Search(root->left,data);
     else
     return Search(root->right,data);
