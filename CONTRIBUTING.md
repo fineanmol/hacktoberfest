@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Hamna Qaseem](https://github.com/Hamna12)
+
+- Place: Pakistan, Punjab
+- Bio: Doing my Bachelor's in Data Science 5th semester
+- GitHub: [Hamna12](https://github.com/Hamna12)
