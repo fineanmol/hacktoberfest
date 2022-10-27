@@ -1,3 +1,9 @@
+#### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
+
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
+- GitHub: [adityasharma270103](https://github.com/adityasharma270103)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
@@ -15,6 +21,11 @@
 -Place: Dakar, DAKAR, SENEGAL
 -Bio: Bachelor's degree, comic and like coding
 -GitHub: https://github.com/KariSims
+
+#### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+- Place: California
+- Bio: Software Developer
+- GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
 #### Name: [Arslan Mumtaz](https://github.com/bhavya-sharma26)
 
@@ -2779,3 +2790,14 @@
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
 
+#### Name: [Thanapoom](https://github.com/thanapoom21)
+
+- Place: Las Vegas, NV, USA
+- Bio: Front End Developer
+- GitHub: [thanapoom21](https://github.com/thanapoom21)
+
+#### Name: [Dhruv](https://github.com/ogdhruv)
+
+- Place: New Delhi, Delhi, India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [OGdhruv](https://github.com/ogdhruv)
