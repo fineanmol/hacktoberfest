@@ -1,3 +1,9 @@
+#### Name: [PRATIKSHA EKBOTE](https://github.com/Pratikshaekbote)
+
+- Place: Nagpur, Maharashtra, India
+- Bio: I am CSE undergrad Student, studying from Ramdeobaba College of Engineering and Managment, Nagpur.
+- GitHub: [Pratikshaekbote](https://github.com/Pratikshaekbote)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
