@@ -27,6 +27,12 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Divyanshi Agrawal](https://github.com/Divyanshi070700)
+
+- Place: Madhya Pradesh, India
+- Bio: I am a Software Developer
+- GitHub: [Divyanshi070700](https://github.com/Divyanshi070700)
+
 #### Name: [Arslan Mumtaz](https://github.com/bhavya-sharma26)
 
 #### Name: [Aman Pathan](https://github.com/AmanPathan)
