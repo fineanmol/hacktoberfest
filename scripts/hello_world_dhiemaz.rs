@@ -3,8 +3,9 @@
 // AUTHOR: Dimas Yudha Prawira
 // GITHUB: https://github.com/dhiemaz
 //
-// just run: rustc hello_world_rust.rs
-// and then: ./hello_world_rust
+// How to run:
+// $rustc hello_world_rust.rs
+// $./hello_world_rust
 
 
 fn main(){
