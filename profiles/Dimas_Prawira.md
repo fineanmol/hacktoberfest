@@ -1,27 +1,28 @@
-# Yusuf Eren Utku
+# Dimas Yudha Prawira
 
 ### Location
 
-Istanbul/Turkey
+Depok/West Java - Indonesia
 
 ### Academics
 
-Selcuk University
+Islamic State University / Pradita University (Master Degree)
 
 ### Interests
 
-- Android
+- Backend / API
+- Software Engineer
+- Software Architect
 
 ### Development
 
-- Inventor of the [OneMeme](https://play.google.com/store/apps/details?id=com.mememaker.android)
-- Inventor of the [Drinking Games](https://play.google.com/store/apps/details?id=com.drinkinggames.android)
-- Developer of the [ING Mobile](https://play.google.com/store/apps/details?id=com.ingbanktr.ingmobil)
+- Engineer Lead of the [Bananas](https://play.google.com/store/apps/details?id=com.banana.consumer)
 
 ### Projects
 
-- [Widget Tutorial for Android](https://github.com/yerenutku/WidgetExamples) There are 4 example of Android Widgets based on [this](https://medium.com/android-bits/android-widgets-ad3d166458d3) article. 
+- Technical Review PacktPub (Event Driven Architecture with Go)
+- Many open source projects (see github profile)
 
 ### Profile Link
 
-[yerenutku](https://github.com/yerenutku)
+[dhiemaz](https://github.com/dhiemaz)
