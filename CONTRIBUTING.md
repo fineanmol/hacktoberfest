@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Tushar](https://github.com/tush47)
+
+- Place: Ambala, Haryana, India
+- Bio: Second Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [tush47](https://github.com/tush47)
