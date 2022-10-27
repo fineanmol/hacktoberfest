@@ -2795,7 +2795,7 @@
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
 
-#### Name: [Dhruv](https://github.com/dhiemaz)
+#### Name: [Dimas](https://github.com/dhiemaz)
 
 - Place: Depok, West Java
 - Bio: Software Engineer
