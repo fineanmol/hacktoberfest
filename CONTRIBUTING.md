@@ -1,3 +1,9 @@
+#### Name: [Anurag Dubey](https://github.com/AnuragD123)
+
+- Place: Indore, India.
+- Bio: Web Developer, Computer Science Engineering Undergraduate.
+- GitHub: [AnuragD123](https://github.com/AnuragD123)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
