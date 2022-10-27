@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Utkarsh Jaulkar](https://github.com/utkarshjaulkar)
+
+- Place: Pune, Maharashtra, India
+- Bio: Third Year Undergraduate Enthusiast in web development.
+- GitHub: [utkarshjaulkar](https://github.com/utkarshjaulkar)
