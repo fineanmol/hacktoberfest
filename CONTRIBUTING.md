@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Ghazali](https://github.com/gshacklebolt)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Professional Front End Developer
+- GitHub: [GShacklebolt](https://github.com/gshacklebolt)
