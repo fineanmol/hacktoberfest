@@ -2795,7 +2795,7 @@
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
 
-#### Name: [Dhruv](https://github.com/irvrivera)
+#### Name: [irvrivera](https://github.com/irvrivera)
 
 - Place: tamarac, FL, USA
 - Bio: Career change after 25 years / Web Developer student 
