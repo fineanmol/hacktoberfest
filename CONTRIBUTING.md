@@ -1,3 +1,9 @@
+#### Name: [SATYAM KUMAR](https://github.com/satyamksharma/)
+
+- Place: Bangalore, Karnataka, India.
+- Bio: I'm as 2nd year CSE student persuing my B.Tech
+- GitHub: [satyamksharma](https://github.com/satyamksharma/)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
@@ -23,6 +29,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
