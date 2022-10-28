@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Anjan Diyora](https://github.com/Anjan50)
+
+- Place: Surat, Gujarat, India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [Anjan50](https://github.com/Anjan50)
