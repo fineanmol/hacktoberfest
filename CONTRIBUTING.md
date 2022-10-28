@@ -599,6 +599,13 @@
 - Bio: Web Developer
 - GitHub: [Arjun Prajapati](https://github.com/prajapati-arjun)
 
+#### Name: [Vansh Sardana](https://github.com/vansh15)
+
+- Place: delhi,INDIA
+- Bio: competitive programmer.
+- GitHub: [vansh15](https://github.com/vansh15)
+
+
 #### Name: [Aryan Panchal](https://github.com/Aryan-26)
 
 - Place: Gurgaon, Haryana
