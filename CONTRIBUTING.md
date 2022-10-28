@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Ashish](https://github.com/ashishratre404)
+
+- Place: Korba, Chhattisgarh, India
+- Bio: Final Year undergrad pursuing B.tech CSE at DYPIU Pune
+- GitHub: [ashishratre404](https://github.com/ashishratre404)
