@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Vivek Mishra](https://github.com/vm7151810)
+
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: I am a Computer Science Engineering student at BITS pilani, pilani campus
+- GitHub: [vm7151810](https://github.com/vm7151810)
