@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Mahad](https://github.com/Mahad-Khan)
+
+- Place: Karachi, Sindh, Pakistan
+- Bio: Backend Developer
+- GitHub: [Mahad-Khan](https://github.com/Mahad-Khan)
