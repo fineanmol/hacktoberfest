@@ -155,6 +155,12 @@
 - Bio: IT Student
 - GitHub: https://github.com/LakshithaSamod
 
+#### Name: [Akshay Sharma](https://github.com/Pheonix-5)
+
+-Place: Hapur, uttar pradesh
+-Bio: I am Engineer.
+-GitHub:  [Akshay Sharma](https://github.com/Pheonix-5)
+
 #### Name: [Aditya srivastava](https://github.com/Aditya-040)
 
 -place Ghaziabad,Uttar Pradesh, India
