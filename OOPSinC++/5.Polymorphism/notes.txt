@@ -1,0 +1,121 @@
+Virtual functions are functions that can be overridden in derived class with the same signature.
+
+Virtual functions enable run-time polymorphism in a inheritance hierarchy.
+
+If a function is 'virtual' in the base class, the most-derived class's implementation of the function is called according to the actual type of the object referred to, regardless of the declared type of the pointer or reference. In non-virtual functions, the functions are called according to the type of reference or pointer.
+
+If a class has a pure virtual function, then the class becomes abstract class and an instance of this class cannot be created.
+
+
+
+#include<iostream>
+using namespace std;
+ 
+class Base
+{
+public:
+    virtual void show() = 0;
+};
+ 
+int main(void)
+{
+    Base b;
+    Base *bp;
+    return 0;
+}
+There is compiler error in line "Base b"
+Since Base has a pure virtual function, it becomes an 
+abstract class and an instance of it cannot be created.
+So there is an error in line "Base b". Note that there is 
+no error in line "Base *bp;". We can have pointers or references of abstract classes.
+
+If we don't override the pure virtual function in derived class, then
+derived class also becomes abstract class.
+
+There is nothing like Virtual Constructor. Making
+constructors virtual doesn't make sense as constructor is 
+responsible for creating an object and it can’t be 
+delegated to any other object by virtual keyword means.
+
+A destructor can be virtual. We may want to call
+appropriate destructor when a base class pointer 
+points to a derived class object and we delete the object.
+If destructor is not virtual, then only the base class 
+destructor may be called.
+
+
+#include<iostream>
+using namespace std;
+class Base  {
+public:
+    Base()    { cout<<"Constructor: Base"<<endl; }
+    virtual ~Base()   { cout<<"Destructor : Base"<<endl; }
+};
+class Derived: public Base {
+public:
+    Derived()   { cout<<"Constructor: Derived"<<endl; }
+    ~Derived()  { cout<<"Destructor : Derived"<<endl; }
+};
+int main()  {
+    Base *Var = new Derived();
+    delete Var;
+    return 0;
+}
+
+Ans:-
+Constructor: Base
+Constructor: Derived
+Destructor : Derived
+Destructor : Base
+Since the destructor is vitrual, the derived class
+destructor is called which in turn calls base class destructor.
+
+
+Static functions are class specific and may not be called
+on objects. Virtual functions are called according to the 
+pointed or referred object.
+
+
+Q.
+
+#include <iostream>
+using namespace std;
+  
+class A
+{
+public:
+    virtual void fun() { cout << "A::fun() "; }
+};
+  
+class B: public A
+{
+public:
+   void fun() { cout << "B::fun() "; }
+};
+  
+class C: public B
+{
+public:
+   void fun() { cout << "C::fun() "; }
+};
+  
+int main()
+{
+    B *bp = new C;
+    bp->fun();
+    return 0;
+}
+
+Ans:-
+C ::fun()
+
+Explaination:-
+The important thing to note here is B::fun() is virtual
+even if we have not uses virtual keyword with it. When a 
+class has a virtual function, functions with same 
+signature in all descendant classes automatically become 
+virtual. We don't need to use virtual keyword in
+declaration of fun() in B and C. They are anyways virtual.
+
+A base class function can be accessed with scope 
+resolution operator even if the function is virtual.
