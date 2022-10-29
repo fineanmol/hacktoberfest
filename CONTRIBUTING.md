@@ -22,6 +22,12 @@
 -Bio: Bachelor's degree, comic and like coding
 -GitHub: https://github.com/KariSims
 
+#### Name: [Akshay Sharma](https://github.com/Pheonix-5/)
+
+-Place: Hapur,Uttar pradesh
+-Bio: I'm an engineer
+-GitHub: https://github.com/Pheonix-5/
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
