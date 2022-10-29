@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Manav Tanna](https://github.com/ManavTanna)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: 3rd Year IT Student pursuing B.E in IT Engineering and interested in Full Stack Web Dev
+- GitHub: [ManavTanna](https://github.com/ManavTanna)
