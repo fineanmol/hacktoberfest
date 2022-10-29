@@ -1,0 +1,71 @@
+*{margin: 0; padding: 0;font-family: 'Akaya Telivigala', cursive;}
+.container{
+     display: grid;
+     justify-content: center;
+     align-content: center;
+     min-height: 100vh;
+     grid-template-columns: 30vw;
+     grid-template-rows: repeat(3,10vh) 5vh repeat(2,10vh);
+     grid-gap: 10px;
+     
+}
+body{
+    background: black;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+.submit-btn{
+    background-color: turquoise;
+}
+.bmi-value{
+    background-color: yellow;
+    display: grid;
+    grid-template-rows: 50% 50%;
+}
+.status{
+    background-color: aquamarine;
+    display: grid;
+    grid-template-rows: 50% 50%;
+    
+}
+.container > div{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    border-radius: 10px;
+}
+button,input{
+    min-width: 100%;
+    min-height: 100%;
+    border: none;
+    outline: none;
+    font-size: 1.5vw;
+    border-radius: 8px;
+}
+input{
+    background: #ffdd99;
+    text-indent: 0.5em;
+    max-width:100% ;
+    color: black;
+    outline: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+    -moz-appearance: textfield;
+}
+button{
+    background: tomato;
+    cursor: pointer;
+}
+button:hover{
+    background: #c70039;
+    color: white;
+}
