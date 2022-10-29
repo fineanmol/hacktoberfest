@@ -1,3 +1,8 @@
+#### Name: Gustavo Valdez
+- Place: Monterrey, Nuevo Leon, México
+- Bio:  Software Engineering Student
+- GitHub: [Gustavo-Valdez](https://github.com/Gustavo-Valdez)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
