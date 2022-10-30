@@ -22,4 +22,4 @@ Auxilium Convent School
 
 ### Profile Link
 
-[Renuka Rajpuria]((https://github.com/renuka-rajpuria)
+[Renuka Rajpuria](https://github.com/renuka-rajpuria)
