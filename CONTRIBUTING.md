@@ -2798,5 +2798,5 @@
 #### Name: [Shyam](https://github.com/XShyam)
 
 - Place: India
-- Bio: An enthusiastic CS Student!
+- Bio: An enthusiastic CS Student
 - GitHub: [XShyam](https://github.com/XShyam))
