@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Shyam](https://github.com/XShyam)
+
+- Place: India
+- Bio: An enthusiastic CS Student
+- GitHub: [XShyam](https://github.com/XShyam))
