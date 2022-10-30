@@ -2789,8 +2789,8 @@
 - Bio: Front End Developer
 - GitHub: [thanapoom21](https://github.com/thanapoom21)
 
-#### Name: [Dhruv](https://github.com/ogdhruv)
+#### Name: [Renuka](https://github.com/renuka-rajpuria)
 
-- Place: New Delhi, Delhi, India
-- Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
-- GitHub: [OGdhruv](https://github.com/ogdhruv)
+- Place: Kolkata, West Bengal, India
+- Bio: Second Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [renuka-rajpuria](https://github.com/renuka-rajpuria)
