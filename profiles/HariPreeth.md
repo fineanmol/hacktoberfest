@@ -10,8 +10,8 @@ B.Tech. in Computer Science and Engineering
 
 ### Interests
 
-Tinkering with electronics
-Adventure activities
+- Tinkering with electronics
+- Adventure activities
 
 ### Projects
 
