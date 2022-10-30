@@ -2794,3 +2794,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+
+#### Name: [Aparna Nair](https://github.com/Aparna106)
+
+- Place: Kochi, Kerala, India
+- Bio: I am a Computer Science Engineering student from Cochin University of Science and Technology
+- GitHub: [Aparna106](https://github.com/Aparna106)
