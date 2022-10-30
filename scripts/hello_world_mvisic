@@ -1,0 +1,10 @@
+// LANGUAGE: C++
+// AUTHOR: Marcus Visic
+// GITHUB: https://github.com/mvisic
+
+#include <iostream>
+
+int main() {
+	std::cout << "Hello World";
+	return 0;
+}
