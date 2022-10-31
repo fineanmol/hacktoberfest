@@ -23,6 +23,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -2794,3 +2795,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Muhammad Pauzi](https://github.com/muhammadpauzi)
+
+- Place: Medan, Sumatera Utara, Indonesia
+- Bio: Back End Developer & Computer Science Student
+- GitHub: [muhammadpauzi](https://github.com/muhammadpauzi)
