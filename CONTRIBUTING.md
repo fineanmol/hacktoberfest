@@ -1,3 +1,9 @@
+#### Name: [VED BULSARA](https://github.com/vedbulsara04)
+
+- Place: Mumbai, Maharashtra, India.
+- Bio: I am an Information Technology student studying at Shri Bhagubhai Mafatlal Polytechnic college.
+- GitHub: [vedbulsara04](https://github.com/vedbulsara04)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
