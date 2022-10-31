@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Gautham](https://github.com/GauthamG2)
+
+- Place: Colombo, Sri Lanka
+- Bio: iOS Engineer at Axiata Digital Labs
+- GitHub: [GauthamG2](https://github.com/GauthamG2)
