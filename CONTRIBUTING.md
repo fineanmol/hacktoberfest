@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Anmol Bansal](https://github.com/AnmolBansalDEV)
+
+- Place: Meerut, India
+- Bio: pre-final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [AnmolBansalDEV](https://github.com/AnmolBansalDEV)
