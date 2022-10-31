@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Igor](https://github.com/igavelyuk)
+
+- Place: Velikiy Dalnik, Odessa, Ukraine
+- Bio: 27 years experience fullstack developer
+- GitHub: [igavelyuk](https://github.com/igavelyuk)
