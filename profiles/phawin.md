@@ -2,7 +2,7 @@
 
 ### Location
 
-Bangkok, Thailand
+Nonthaburi, Thailand
 
 ### Academics
 
