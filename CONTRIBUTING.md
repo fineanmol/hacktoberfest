@@ -1,3 +1,9 @@
+#### Name: [Zain Ali Shah](https://github.com/ShawFromAttock)
+
+- Place: Islamabad, Pakistan
+- Bio: I am a Computer Engineering student from COMSATS Islamabad
+- GitHub: [ShawFromAttock](https://github.com/ShawFromAttock)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
