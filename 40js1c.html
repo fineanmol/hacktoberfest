@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>JavaScript Select Elements by Tag Name</title></head>
+<body>
+<p>This is a paragraph of text.</p>
+<div class="test">This is another paragraph of text.</div>
+<p>This is one more paragraph of text.</p>
+<hr>
+<script>
+var matches = document.getElementsByTagName("p");
+document.write("Number of selected elements: " + matches.length);
+for(var elem in matches) 
+{  
+matches[elem].style.background = "yellow";
+}
+</script>
+</body>
+</html>

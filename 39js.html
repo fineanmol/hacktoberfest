@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+class Employee
+{
+constructor() {
+if(this.constructor == Employee){
+throw new Error(" Object of Abstract Class cannot be created");
+}
+}
+display(){
+throw new Error("Abstract Method has no implementation");
+}
+}
+class Manager extends Employee
+{
+display(){
+//super.display();
+document.write("I am a Manager");
+}
+}
+//var emp = new Employee;
+var mang=new Manager();
+mang.display();
+</script>
+</body>
+</html>
