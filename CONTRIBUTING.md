@@ -1,4 +1,10 @@
-#### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
+#### Name: [Alejandra Pérez](https://www.linkedin.com/in/apcastillo/)
+
+- Place: México City, México
+- Bio: Computer Engineering student, CSM Intern @ IBM, Beta MLSA, GitHub Campus Expert and community leader.
+- GitHub: [aleepsy](https://github.com/adityasharma270103)
+
+#### Name: [ADITYA SHARMA](https://github.com/aleepsy)
 
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
