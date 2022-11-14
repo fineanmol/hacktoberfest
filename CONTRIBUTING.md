@@ -1,3 +1,9 @@
+#### Name: [Priyanshu Kumawat](https://github.com/Cyb3rKn1gh7)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: security researcher
+- GitHub: [Cyb3rKn1gh7](https://github.com/Cyb3rKn1gh7)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
