@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Aayush Garg](https://github.com/aayushgarg-03)
+
+- Place: Bengaluru,Karnataka,India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [aayushgarg-03](https://github.com/aayushgarg-03)
