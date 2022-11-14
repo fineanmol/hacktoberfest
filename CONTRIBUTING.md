@@ -1,3 +1,9 @@
+#### Name: [HASIR AHMAD](https://github.com/hasirm)
+
+- Place: Malappuram, Kerala, India
+- Bio: I am a Artificial Intelligence And Data Science Engineering student from Sri Shanmugha College of Engineering and Technology Sankari
+- GitHub: [hasrim](https://github.com/hasirm)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
