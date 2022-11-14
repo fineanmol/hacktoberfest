@@ -2794,3 +2794,8 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+#### Name: [Deepika Kar](https://github.com/Deepika-kar)
+
+- Place: Brajrajnagar, Odisha,India
+- Bio: Pre-final year student at veer surendra sai university of technology,Burla,Sambalpur
+- GitHub: [Deepika-kar](https://github.com/Deepika-kar)
