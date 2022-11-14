@@ -2141,6 +2141,12 @@
 - Bio: Full Stack Web Developer
 - GitHub: [smitatgithub](https://github.com/smitatgithub)
 
+#### Name: [Sherly Febrianti](https://github.com/sherlyfebrianti96)
+
+- Place: Oslo, Norway
+- Bio: Frontend Developer
+- GitHub: [sherlyfebrianti96](https://github.com/sherlyfebrianti96)
+
 #### Name: [Smit Vasoya](https://github.com/Smit-Vasoya-Tridhya)
 
 - Place: Ahmedabad
