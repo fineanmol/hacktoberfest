@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Rishabh Pandey](https://github.com/rishabh-pandey-393)
+
+- Place: Allahabad, India
+- Bio: Pre Final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [rishabh-pandey-393](https://github.com/rishabh-pandey-393)
