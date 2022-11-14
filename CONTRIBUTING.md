@@ -1,3 +1,9 @@
+#### Name: [AKASH PANWAR](https://github.com/akshpnwr)
+
+- Place: Dehradun, Uttar, India
+- Bio: Web developer, react enthusiast
+- GitHub: [akshpnwr](https://github.com/akshpnwr)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
@@ -23,6 +29,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
