@@ -23,6 +23,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -113,7 +114,6 @@
 - Place: Kalyan, maharashtra, India
 - Bio: I am a student.
 - GitHub: [itsmeAYUSH] (https://github.com/itsmeAYUSH)
-
 - #### Name: [pavan pakhare](https://github.com/pavanpakhare)
 - Place: kalyan.Maharashtra
 - Bio: bsc Computer Science graduate
@@ -500,7 +500,7 @@
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
 - Place: Old Street, UK,
-- Bio: I love DOGS! :dog:
+- Bio: I love DOGS! 🐶
 - GitHub: [Anmol Agarwal](https://github.com/fineanmol)
 
 #### Name: [Anmol Pal](https://github.com/anmol111pal)
@@ -779,11 +779,11 @@
 - Bio: FInal year Engineering student at Vellore Institute Of Technology
 - GitHub: [Ashlin21dev](https://github.com/Ashlin21dev)
 
-#### Name: [Danindra Ihya' Maulalhaq](https://github.com/danindraihya)
+#### Name: [Danindra Ihya&#39; Maulalhaq](https://github.com/danindraihya)
 
 - Place: Surabaya, East Java, Indonesia
 - Bio: 3rd year Information Technology at Politeknik Elektronika Negeri Surabaya
-- GitHub: [Danindra Ihya' Maulalhaq](https://github.com/danindraihya)
+- GitHub: [Danindra Ihya&#39; Maulalhaq](https://github.com/danindraihya)
 
 #### Name: [David Ojeda](https://github.com/dojetin)
 
@@ -1181,7 +1181,7 @@
 - Bio: Software Engineering, AI enthusiats and Gamer.
 - GitHub: [krsambhav](https://github.com/krsambhav)
 
-#### Name: [Kunal Gupta](<(https://github.com/kunalgupta557a)>)
+#### Name: [Kunal Gupta]((https://github.com/kunalgupta557a))
 
 - Place: kota INDIA
 - Bio: Undergrad Student
@@ -1592,7 +1592,7 @@
 #### Name: [Palash Burad](https://github.com/palash9561)
 
 - Place: MH, India
-- Bio: I love DOGS! :dog:
+- Bio: I love DOGS! 🐶
 - GitHub: [Palash Burad](https://github.com/palash9561)
 
 #### Name: [Pankaj Singh Sirari](https://github.com/pankajsirari222)
@@ -2483,9 +2483,8 @@
 #### Name: [प्रथमेश | Prathmesh](https://github.com/prathmesh-b)
 
 - Place: Mumbai, India
-- Bio: I love DOGS and FISH! :dog: :fish:
+- Bio: I love DOGS and FISH! 🐶 🐟
 - GitHub: [Prathmesh](https://github.com/prathmesh-b)
-
 - Place: Indore, India
 - Bio: Computer Science Student
 - Github: [Aayush Solanki](https://github.com/AayushSolanki)
@@ -2794,3 +2793,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [MD RASHID ALI](https://github.com/RAshidAZ)
+
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: I am a software engineer working at ITH Technologies Pvt. Ltd. I am interested in Node.js.
+- GitHub: [RAshidAZ](https://github.com/RAshidAZ)
