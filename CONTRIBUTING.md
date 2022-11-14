@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Soudeepan Biswas](https://github.com/soudeepan)
+
+- Place: Kolkata, West Bengal, India
+- Bio: First year undergrad pursuing B.Tech in Information Technology at Netaji Subhash Engineering College, Garia
+- GitHub: [soudeepan](https://github.com/soudeepan)
