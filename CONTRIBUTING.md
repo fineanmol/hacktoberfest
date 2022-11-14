@@ -22,6 +22,12 @@
 -Bio: Bachelor's degree, comic and like coding
 -GitHub: https://github.com/KariSims
 
+#### Name: [Gustavo Kamihara](https://github.com/Japoncio3k)
+
+-Place: São Paulo, Brasil
+-Bio: Love coding
+-GitHub: https://github.com/Japoncio3k
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
