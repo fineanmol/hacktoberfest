@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Priya Singh](https://github.com/PriyaSingh03)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Second Year student pursuing B.Tech in Computer Science Engineering
+- GitHub: [PriyaSingh03](https://github.com/PriyaSingh03)
