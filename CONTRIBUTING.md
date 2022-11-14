@@ -2794,3 +2794,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+
+#### Name: [Nikita](https://github.com/nikitawarrier)
+
+- Place: Washington, USA
+- Bio: CSP student, aspiring programmer 
+- GitHub: [nikitawarrier](https://github.com/nikitawarrier)
