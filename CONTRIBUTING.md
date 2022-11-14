@@ -2794,3 +2794,8 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+#### Name: [ShreyGanatra](https://github.com/ShreyGanatra)
+
+- Place: Gujarat,India
+- Bio: Third year undergrad pursuing Elec. engg.
+- GitHub: [ShreyGanatra](https://github.com/ShreyGanatra)
