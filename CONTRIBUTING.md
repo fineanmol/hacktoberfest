@@ -2357,6 +2357,12 @@
 - Bio: Learner
 - GitHub: [viv-nic](https://github.com/viv-nic)
 
+#### Name: [Votes Wakoli ](https://github.com/wakoliVotes)
+
+- Place: Nairobi, Nairobi, Kenya
+- Bio: Software Engineer | Writer
+- GitHub: [wakoliVotes](https://github.com/wakoliVotes)
+
 #### Name: [W.D. Snoeijer](https://github.com/dsnoeijer)
 
 - Place: Overijssel, the Netherlands
