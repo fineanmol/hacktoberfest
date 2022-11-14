@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Ganesh](https://github.com/ganeshmajhi)
+
+- Place: Bengaluru, India
+- Bio: Working as a developer in 21n78e Creative Labs.
+- GitHub: [Ganesh](https://github.com/ganeshmajhi)
