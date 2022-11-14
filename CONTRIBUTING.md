@@ -1,3 +1,9 @@
+#### Name: [Sharjeel Riaz](https://github.com/Sharjeel-Riaz)
+
+- Place: Lahore, Pakistan
+- Bio: A passionate developer trying to master Web.
+- GitHub: [Sharjeel-Riaz](https://github.com/Sharjeel-Riaz)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
