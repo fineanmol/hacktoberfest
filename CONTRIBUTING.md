@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Lucas Pasche](https://github.com/llpasche)
+
+- Place: Rio de Janeiro, Rio de Janeiro, Brasil
+- Bio: Fullstack dev having my first time at open source.
+- GitHub: [llpasche](https://github.com/llpasche)
