@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Tushant Rangari]([GitHub link](https://github.com/tushant07))
+
+- Place: Seloo, Maharashtra, India
+- Bio: First Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [tushant07](https://github.com/tushant07)
