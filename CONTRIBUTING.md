@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Deepanshu](https://github.com/deeps65)
+
+- Place: New Delhi, Delhi, India
+- Bio: 3rd Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [deeps65](https://github.com/deeps65)
