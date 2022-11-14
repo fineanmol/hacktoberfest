@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Kshitij](https://github.com/kbhandari98/)
+
+- Place: Mumbai, Maharashtra
+- Bio: First Year Student at IIM Ahmedabad
+- GitHub: [kbhandari98](https://github.com/kbhandari98/)
