@@ -1,3 +1,9 @@
+#### Name: [UTKARSH NASHINE](https://github.com/utkarshnashine)
+
+-Place:Bhilai,Chattisgarh
+-Bio: I am a sophmore at the department of mechanical engineering from National Institute of Technology,Raipur
+-GitHub: https://github.com/utkarshnashine
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
