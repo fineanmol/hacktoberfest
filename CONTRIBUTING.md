@@ -1823,6 +1823,12 @@
 - Bio: 21 year old, Information Technology Undergraduate
 - GitHub: [rhythm-28](https://github.com/rhythm-28)
 
+#### Name: [Rishav Nath Pati](https://github.com/rishavnathpati)
+
+- Place: Kolkata, West Bengal, India
+- Bio: An amateur GameDev
+- GitHub: [rishavnathpati](https://github.com/rishavnathpati)
+
 #### Name: [Rishi Goswami](https://github.com/rishig2003)
 
 - Place: Mumbai, India
