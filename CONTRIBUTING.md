@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Pagerathan](https://github.com/Pagerathan)
+
+- Place: Chennai, Tamilnadu, India
+- Bio: Third Year undergrad pursuing B.tech in Computer Science Engineering Cybersecurity
+- GitHub: [Pagerathan](https://github.com/Pagerathan)
