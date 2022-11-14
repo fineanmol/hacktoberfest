@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+  
+#### Name: [Lesley-Nicole](https:github.com/lesley-nicole)
+
+- Place: Amory, MS, USA
+- Bio: Web 2&3 Developer
+- Github: [Lesley-Nicole](https:github.com/lesley-nicole)
