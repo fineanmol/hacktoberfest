@@ -791,6 +791,12 @@
 - Bio: Programing Student
 - GitHub: [dojetin](https://github.com/dojetin)
 
+#### Name: [Harshit Kumar Srivastava](https://github.com/StringHks)
+
+- Place: Patia ,Bhubhaneshwar , India
+- Bio: Student of Computer Science And Engineering 
+- GitHub: [StringHks](https://github.com/StringHks)
+
 #### Name: [Dennis Jojo Kuriakose](https://github.com/atmozki)
 
 - Place: Kottayam, Kerala, India
