@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Alexandre Morais](https://github.com/xandowski)
+
+- Place: Brazil
+- Bio: Enthusiastic about technology and passionate about developing
+- GitHub: [xandowski](https://github.com/xandowski)
