@@ -2794,3 +2794,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+
+#### Name: [PRETAM CHANDRA](https://github.com/pretam591)
+
+- Place: Kolkata, West Bengal, India
+- Bio: A Final Year undergrad pursuing B.Tech in Computer Science and Engineering
+- GitHub: [pretam591](https://github.com/pretam591)
