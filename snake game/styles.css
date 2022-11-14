@@ -1,0 +1,31 @@
+body{
+  background-color: lightblue;
+}
+#background{
+  padding: 2rem;
+  margin: 2rem;
+  border-style: dashed;
+  height: 90%;
+  width: 90%;
+  position: absolute;
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(18,1fr);
+  grid-template-rows: repeat(18,1fr);
+}
+/* head of snake */
+.head{
+  background-color: green;
+}
+/* body of snake */
+.body{
+  background-color: lightgreen;
+}
+/* snake food */
+.food{
+  background-color: red;
+}
+h1{
+  text-align: center;
+  font-size: 2rem;
+}
