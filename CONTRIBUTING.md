@@ -2794,3 +2794,8 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+#### Name: [ vivek kumar](https://github.com/vivek893)
+
+- Place: Patna, Bihar, India
+- Bio: A 3rd year undergrad pursuing B.Tech in Information Technology.
+- GitHub: [vivek893](https://github.com/vivek893)
