@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+		<link
+			rel="stylesheet"
+			href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+			integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+			crossorigin="anonymous"
+		/>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/phaser/2.4.7/phaser.min.js"></script>
+		<link rel="stylesheet" href="style.css" />
+		<script src="game.js"></script>
+	</head>
+
+	<body>
+		<nav
+			class="navbar navbar-light"
+			style="
+				font-size: 25px;
+				font-family: sans-serif;
+				background-color: whitesmoke;
+			"
+		>
+			<img
+				src=""
+				width="124"
+				height="45"
+				class="d-inline-block align-top"
+				alt=""
+			/>
+			Mario DP Game
+		</nav>
+		<div id="container">
+			<div id="mynetwork"></div>
+			<div id="container2">
+				<span
+					id="temptext"
+					style="
+						width: 100%;
+						text-align: center;
+						font-size: large;
+						padding: 10%;
+					"
+				>
+					You'll receive a 2D array as input. Each column stores
+					rewards on higher and lower platform. You have to return an
+					array stating 1 if you want to jump to higher platform, 0
+					otherwise. However, after selecting 1 you have to select 0
+					the next time. Can you solve it ?
+				</span>
+			</div>
+		</div>
+
+		<div>
+			<br />
+			<button type="button" class="btn btn-danger" id="generate-graph">
+				Get New Problem
+			</button>
+			<br />
+			<button type="button" class="btn btn-success" id="solve">
+				Solve
+			</button>
+		</div>
+	</body>
+</html>

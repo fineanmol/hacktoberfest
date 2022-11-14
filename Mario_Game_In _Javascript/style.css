@@ -1,0 +1,38 @@
+html,
+body {
+    height: 100%;
+}
+
+#mynetwork {
+    width: 50%;
+    height: 100%;
+    border: 1px solid lightgray;
+}
+
+#container2 {
+    width: 50%;
+    height: 100%;
+    border: 1px solid lightgray;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+#container{
+    width: 100%;
+    height: 70%;
+    background-color: white;
+    display: flex;
+    margin: 0 auto;
+}
+
+#generate-graph{
+    margin:auto;
+    display:block;
+}
+
+
+#solve{
+    margin:auto;
+    display:block;
+}
