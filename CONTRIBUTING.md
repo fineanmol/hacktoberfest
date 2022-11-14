@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Kratika](https://github.com/kratikagupta2002)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [kratika](https://github.com/kratikagupta2002)
