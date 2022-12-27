@@ -1,3 +1,9 @@
+#### Name: [Sushant Khadka](https://github.com/NameLesssNerd)
+
+- Place: Koteswor, Kathmandu, Nepal
+- Bio: I am a Software Engineering student from Nepal Collage of Information Technology
+- GitHub: [NameLesssNerd](https://github.com/NameLesssNerd)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
