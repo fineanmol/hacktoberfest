@@ -23,21 +23,21 @@ A month-long celebration from October 1st - 31st sponsored by `Digital Ocean` an
 
 ## Getting started
 
-- Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-- Clone your fork down to your local machine
+- Fork this repository (Click the Fork button in the top right of this page, click your Profile Image).
+- Clone your fork down to your local machine.
 
 ```markdown
 git clone https://github.com/fineanmol/hacktoberfest.git
 ```
 
-- Create a branch
+- Create a branch.
 
 ```markdown
 git checkout -b branch-name
 ```
 
-- Make your changes (choose from any task below)
-- Commit and push
+- Make your changes (choose from any task below).
+- Commit and push.
 
 ```markdown
 git add .
@@ -45,7 +45,7 @@ git commit -m 'Commit message'
 git push origin branch-name
 ```
 
-- Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+- Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo).
 - Wait for your PR review and merge approval!
 - **Star this repository** if you had fun!
 
@@ -127,7 +127,7 @@ Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.c
 
 
 ## BONUS!
-- Merging All Pull Requests
+- Merging All Pull Requests.
 - See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
 - Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 - Check out some very creative ways to print out a "Hello, World!" string.
