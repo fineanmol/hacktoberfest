@@ -23,6 +23,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -2794,3 +2795,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Abdul Azeez](https://github.com/Abdul-Azeez060)
+
+- Place: Bhimavaram, Andhra Pradesh, India
+- Bio: Second year Btech, Computer Science and Engineering.
+- GitHub: [Abdul Azeez](https://github.com/Abdul-Azeez060)
