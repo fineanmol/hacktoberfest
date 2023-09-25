@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Mateusz Majka](https://github.com/matek075)
+
+- Place: Cracow, Poland
+- Bio: Software engineer, travel lover
+- GitHub: [matek075](https://github.com/matek075)
