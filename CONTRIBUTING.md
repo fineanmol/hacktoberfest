@@ -2798,5 +2798,5 @@
 #### Name: [Pralin khaira](https://github.com/pralinkhaira)
 
 - Place: Jammu, J&K, India
-- Bio: Tech enthusiast, ethical hacker, and hacktivist. Passionate about cybersecurity and always learning. Interested in web development and open-source software.
+- Bio: Tech enthusiast, ethical hacker, and hacktivist. Passionate about cybersecurity and always learning. Interested mostly in web development and now currntly doing open-source software.
 - GitHub: [Pralin Khaira](https://github.com/pralinkhaira)
