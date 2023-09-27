@@ -3,6 +3,11 @@
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
 - GitHub: [adityasharma270103](https://github.com/adityasharma270103)
+#### Name: [JANVI GURJAR](https://github.com/janvi2002)
+
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: More intrested in Front-end technologies
+- GitHub: [janvi2002](https://github.com/janvi2002)
 
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
