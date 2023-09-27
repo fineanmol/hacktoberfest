@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Pralin khaira](https://github.com/pralinkhaira)
+
+- Place: Jammu, J&K, India
+- Bio: Tech enthusiast, ethical hacker, and hacktivist. Passionate about cybersecurity and always learning. Interested in web development and open-source software.
+- GitHub: [Pralin Khaira](https://github.com/pralinkhaira)
