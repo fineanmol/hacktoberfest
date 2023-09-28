@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Uvindu Rajapakshe](https://github.com/UvinduBro)
+
+- Place: Colombo, Sri Lanka
+- Bio: Front-end Develope
+- GitHub: [UvinduBro](https://github.com/UvinduBro)
