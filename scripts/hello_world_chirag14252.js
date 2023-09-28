@@ -1,6 +1,6 @@
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Chirag
+// AUTHOR: chirag
 // GITHUB: https://github.com/chirag14252
 
 console.log('Hello, World!');
