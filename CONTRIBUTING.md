@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Chirag](https://github.com/chirag14252)
+
+- Place: Lucknow , Uttar pradesh
+- Bio: 3rd Year B.tech CSE student with expertise in Frontend development.
+- GitHub: [Chirag](https://github.com/chirag14252)
