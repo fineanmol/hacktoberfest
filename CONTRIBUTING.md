@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Kartikey](https://github.com/kartikey-codes)
+
+- Place: Kanpur, UttarPradesh, India
+- Bio: open-source contributor
+- GitHub: [kartikey-codes](https://github.com/kartikey-codes)
