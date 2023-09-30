@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Apoorva Raj](https://github.com/Apoorva-Raj-2520)
+
+- Place: Bangalore, Karnataka, India
+- Bio: 3rd year undergrad pursuing B.Tech in Computer Science
+- GitHub: [Apoorva-Raj-2520](https://github.com/Apoorva-Raj-2520)
