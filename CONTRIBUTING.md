@@ -1,3 +1,12 @@
+#### Name: Krish Srivastava (github.com/krish-srivastava-2305)
+
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: A CSE undergrad student at IIIT Ranchi
+- GitHub: [krish-srivastava-2305](github.com/krish-srivastava-2305)
+
+
+
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
