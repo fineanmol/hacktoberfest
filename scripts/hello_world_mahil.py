@@ -1,0 +1,7 @@
+print("___________________________")
+print("Hello World!")
+print("___________________________")
+print("greetings from mahil")
+print("___________________________")
+print("have a nice day!!!")
+print("___________________________")
