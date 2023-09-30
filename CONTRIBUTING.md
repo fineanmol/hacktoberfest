@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Kanishk](https://github.com/Kanishk-git77)
+
+- Place: Nagpur, Maharashtra, India
+- Bio: Software Developer (Database admins)
+- GitHub: [Kanishk-git77](https://github.com/Kanishk-git77)
