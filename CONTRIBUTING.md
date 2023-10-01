@@ -16,7 +16,7 @@
 - Bio: A passionate web developer and a computer Science enthusiast with a strong foundation in programming and web/internet concepts.
 
 - GitHub: [mugdhaK21](https://github.com/mugdhaK21)
-- 
+  
 #### Name: [Victor Oderinde](https://github.com/Vctcode)
 
 - Place: Lagos, Nigeria
