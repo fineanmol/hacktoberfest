@@ -10,6 +10,12 @@
 - Bio: Interesting in code and I am a Software Developer
 - GitHub: [EyeOfCode](https://github.com/EyeOfCode)
 
+#### Name: [Raguvaran](https://github.com/nullr4pt0r)
+
+- Place: Chennai, Tamil Nadu, India
+- Bio: Passionate developer, like to make positive impact on the universe
+- GitHub: [nullr4pt0r](https://github.com/nullr4pt0r)
+
 #### Name: [Victor Oderinde](https://github.com/Vctcode)
 
 - Place: Lagos, Nigeria
