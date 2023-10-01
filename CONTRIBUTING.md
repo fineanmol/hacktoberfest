@@ -10,6 +10,12 @@
 - Bio: Interesting in code and I am a Software Developer
 - GitHub: [EyeOfCode](https://github.com/EyeOfCode)
 
+#### Name: [Octivion](https://github.com/Rohit22-dev)
+
+- Place: Mumbai, India
+- Bio: I am a full stack developer and anime fan.
+- GitHub: [Rohit22-dev](https://github.com/Rohit22-dev)
+
 #### Name: [Victor Oderinde](https://github.com/Vctcode)
 
 - Place: Lagos, Nigeria
@@ -23,6 +29,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
