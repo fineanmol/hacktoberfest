@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Sharadindu Das](https://github.com/R3MODAS)
+
+- Place: Kanchrapara, West Bengal, India
+- Bio: I am a Frontend Developer
+- GitHub: [R3MODAS](https://github.com/R3MODAS)
