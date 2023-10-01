@@ -1,6 +1,6 @@
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Anmol Agarwal
+// AUTHOR: ANKAN HALDER
 // GITHUB: https://github.com/AnkanHalder
 
 console.log('Hello, World!');
