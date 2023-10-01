@@ -4,6 +4,12 @@
 - Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
 - GitHub: [adityasharma270103](https://github.com/adityasharma270103)
 
+#### Name: [Sugam Goel](https://github.com/Sugamgoel28)
+
+- Place: Noida, Uttar Pradesh, India
+- Bio: I am pre-final year engineer undergraduate at National Institute of Technology, Rourkela.
+- GitHub: [Sugamgoel28 ](https://github.com/Sugamgoel28)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
