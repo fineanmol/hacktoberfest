@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [AnkanHalder](https://github.com/AnkanHalder)
+
+- Place: Kolkata,West Bengal, India
+- Bio: Nerdy, Passionate about Development and Looking to make some cool friends in the coding community
+- GitHub: [AnkanHalder](https://github.com/AnkanHalder)
