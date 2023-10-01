@@ -2798,5 +2798,5 @@
 #### Name: [Sukanya](https://github.com/Sukanya41455)
 
 - Place: Bangalore, Karnataka, India
-- Bio: Machine Learning Engineer
+- Bio: Machine Learning and Deep Learning Engineer 
 - GitHub: [Sukanya41455](https://github.com/Sukanya41455)
