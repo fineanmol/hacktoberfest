@@ -10,6 +10,13 @@
 - Bio: Interesting in code and I am a Software Developer
 - GitHub: [EyeOfCode](https://github.com/EyeOfCode)
 
+#### Name: [Mugdha Kshirsagar](https://github.com/mugdhaK21)
+
+- Place: Pune, Maharashtra, India
+- Bio: A passionate web developer and a computer Science enthusiast with a strong foundation in programming and web/internet concepts.
+
+- GitHub: [mugdhaK21](https://github.com/mugdhaK21)
+- 
 #### Name: [Victor Oderinde](https://github.com/Vctcode)
 
 - Place: Lagos, Nigeria
