@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Dennis San Jose](https://github.com/sanjosedennis7593)
+
+- Place: Bulacan, Philippines
+- Bio: Just another fullstack developer
+- GitHub: [Dennis San Jose](https://github.com/sanjosedennis7593)
