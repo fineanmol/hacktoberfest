@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Amish Kumar Singh](https://github.com/amish1211)
+
+- Place: Surat, Gujarat, India
+- Bio: I am a computer science student at surat, gujarat
+- GitHub: [amish1211](https://github.com/amish1211)
