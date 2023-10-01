@@ -18,11 +18,10 @@
 
 #### Name: [SP KariSims](https://github.com/KariSims)
 
--Place: Dakar, DAKAR, SENEGAL
--Bio: Bachelor's degree, comic and like coding
--GitHub: https://github.com/KariSims
+-Place: Dakar, DAKAR, SENEGAL -Bio: Bachelor's degree, comic and like coding -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -31,9 +30,7 @@
 
 #### Name: [Aman Pathan](https://github.com/AmanPathan)
 
--Place: kalyan,Thane,Maharashtra India
--Bio: I am a student at Dr.D.Y.Patil College of Engineering.
--GitHub: [AmanPathan](https://github.com/AmanPathan)
+-Place: kalyan,Thane,Maharashtra India -Bio: I am a student at Dr.D.Y.Patil College of Engineering. -GitHub: [AmanPathan](https://github.com/AmanPathan)
 
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 
@@ -41,9 +38,7 @@
 
 #### Name: [Krishnansh Agarwal](https://github.com/Krishnansh5)
 
--Place: Kanpur, U.P., India
--Bio: I am a student.
--GitHub: [Krishnansh5]https://github.com/Krishnansh5
+-Place: Kanpur, U.P., India -Bio: I am a student. -GitHub: [Krishnansh5]https://github.com/Krishnansh5
 
 #### Name: [pavan pakhare](https://github.com/pavanpakhare)
 
@@ -139,15 +134,11 @@
 
 #### Name: [Mohd Kaleem Saqlaini](https://github.com/saqlainkaleem)
 
--Place: New Delhi, India
--Bio: I am a final year student.
--GitHub: [Github](https://github.com/saqlainkaleem)
+-Place: New Delhi, India -Bio: I am a final year student. -GitHub: [Github](https://github.com/saqlainkaleem)
 
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 
--Place: Kolkata, West Bengal, India
--Bio: I am a student.
--GitHub: https://github.com/papaihactober2k21
+-Place: Kolkata, West Bengal, India -Bio: I am a student. -GitHub: https://github.com/papaihactober2k21
 
 #### Name: [Lakshitha Samod](https://github.com/LakshithaSamod)
 
@@ -157,9 +148,7 @@
 
 #### Name: [Aditya srivastava](https://github.com/Aditya-040)
 
--place Ghaziabad,Uttar Pradesh, India
--Bio:I am an Engineering student
--Github:[Aditya srivastava](https://github.com/Aditya-040)
+-place Ghaziabad,Uttar Pradesh, India -Bio:I am an Engineering student -Github:[Aditya srivastava](https://github.com/Aditya-040)
 
 #### Name: [pavan pakhare](https://github.com/pavanpakhare)
 
@@ -2794,3 +2783,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Dan Niles](https://github.com/dan-niles)
+
+- Place: Mount Lavinia, Colombo, Sri Lanka
+- Bio: Undergraduate studying Computer Science
+- GitHub: [dan-niles](https://github.com/dan-niles)
