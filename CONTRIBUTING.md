@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Bhautik Bavadiya (Yesbhautik)](https://github.com/yesbhautik)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: Technologist | Founder & CEO of YesbhautikX/Solutions | Full Stack Developer | Cloud Engineer
+- GitHub: [Yesbhautik](https://github.com/yesbhautik)
