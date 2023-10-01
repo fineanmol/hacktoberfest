@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Sukanya](https://github.com/Sukanya41455)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Machine Learning and Deep Learning Engineer 
+- GitHub: [Sukanya41455](https://github.com/Sukanya41455)
