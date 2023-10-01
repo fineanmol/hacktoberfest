@@ -1,3 +1,9 @@
+#### Name: [MOHIT SAINI](https://github.com/mohitsaini07)
+
+- Place: Khurja, Uttarpradesh, India
+- Bio: Frontend Developer & Ui/Ux Designer. Currently pursuing BCA-IInd year
+- GitHub: [Mohit Saini](https://github.com/mohitsaini07)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
@@ -23,6 +29,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
