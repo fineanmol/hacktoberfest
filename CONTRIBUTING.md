@@ -1,3 +1,9 @@
+#### Name: [SURVEER SINGH](https://github.com/hs309123)
+
+- Place: Delhi, India
+- Bio: Information Technology student from Netaji Subash University of Technology
+- GitHub: [hs309123](https://github.com/hs309123)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
