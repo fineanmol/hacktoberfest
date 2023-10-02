@@ -1,3 +1,9 @@
+#### Name: [ABHISHEK](https://github.com/its-me-abhishek)
+
+- Place: Chandigarh, India
+- Bio: I am a BE IT student at UIET Chandigarh
+- GitHub: [its-me-abhishek](https://github.com/its-me-abhishek)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
