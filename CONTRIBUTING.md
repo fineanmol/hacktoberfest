@@ -2794,3 +2794,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+
+#### Name: [Adhiraj](https://github.com/ADHIRAJ-12/)
+
+- Place: Bareilly, U.P, INDIA
+- Bio: An ECE graduate and a frontend Developer.
+- GitHub: [ADHIRAJ-12](https://github.com/ADHIRAJ-12/)
