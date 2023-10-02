@@ -1,3 +1,9 @@
+#### Name: [Gourav Chahar](https://github.com/gouravchahar13)
+
+- Place: Bangalore, Karnataka, India
+- Bio: I am a Computer Science Engineering student from Bangalore Institute Of Technology 
+- GitHub: [gouravchahar13](https://github.com/gouravchahar13)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
