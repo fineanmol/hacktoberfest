@@ -16,6 +16,12 @@
 - Bio: I am a Software Developer, graduate of Mathematics
 - GitHub: [Vctcode](https://github.com/Vctcode)
 
+#### Name: [YUVRAJ VERMA](https://github.com/yuvrajverma01)
+
+- Place: Bangalore, Karnataka, India
+- Bio: SDET Engineer
+- GitHub: [@yuvrajverma01](https://github.com/yuvrajverma01)
+
 #### Name: [SP KariSims](https://github.com/KariSims)
 
 -Place: Dakar, DAKAR, SENEGAL
