@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Bodhdipta Roy](https://github.com/bodhdipta-roy)
+
+- Place: Kolkata, Kolkata, India.
+- Bio: 2nd Year Computer Science & Engineering student.
+- Github: [bodhdipta-roy](https://github.com/bodhdipta-roy)
