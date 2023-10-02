@@ -1,10 +1,13 @@
 # Saurav Kumar
 
-## Location
+
+### Location
+
 Jaipur, India
 
-## Academics
-- **Institution**: Jaipur Engineering College and Research Centre
+### Academics
+
+Jaipur Engineering College and Research Centre
 
 ## Interests
 - Data Structures and Algorithms (DSA)
@@ -17,15 +20,13 @@ Jaipur, India
 - Front-End Framework: ReactJS
 - Database: SQL
 
-## Projects
 
-### Doc-Xpert
-- **GitHub Repository**: [Doc-Xpert](https://github.com/saurav1207/Healthcare-website)
-- **Description**: Doc-Xpert is a user-friendly web app designed to simplify the process of scheduling doctor appointments. It offers unique features such as diagnosis assistance and seamless integration with government healthcare programs, ensuring accessible and effective healthcare for all patients.
+### Projects
 
-### E-Shiksha
-- **GitHub Repository**: [E-Shiksha](https://github.com/saurav1207/react-eShiksha)
-- **Description**: E-Shiksha is an educational platform with a user-friendly interface that centralizes curated topic-wise YouTube videos, making learning more efficient by reducing search time for students. It enhances the overall educational experience by providing easy access to high-quality educational content.
+- [Doc-Xpert](https://github.com/saurav1207/Healthcare-website)  It is a user-friendly web app designed to simplify the process of scheduling doctor appointments. It offers unique features such as diagnosis assistance and seamless integration with government healthcare programs, ensuring accessible and effective healthcare for all patients.
 
-## Profile Link
-[Saurav Kumar's GitHub Profile](https://github.com/saurav1207)
+- [E-Shiksha](https://github.com/saurav1207/react-eShiksha) It is an educational platform with a user-friendly interface that centralizes curated topic-wise YouTube videos, making learning more efficient by reducing search time of student. It enhances the overall educational experience by providing easy access to high-quality educational content.
+
+### Profile Link
+
+[Saurav Kumar](https://github.com/saurav1207)
