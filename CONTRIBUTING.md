@@ -1,3 +1,10 @@
+#### Name: [JashT14](https://github.com/JashT14)
+
+- Place: Mumbai, India
+- Bio: A passionate developer & a learner. 
+- GitHub: [JashT14](https://github.com/JashT14)
+
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
