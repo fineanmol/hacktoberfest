@@ -2794,3 +2794,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+
+#### Name: [Richmond](https://github.com/hateryx)
+
+- Place: Davao City, Philippines
+- Bio: Full stack developer, data engineer, former IT auditor 
+- GitHub: [Hateryx](https://github.com/hateryx)
