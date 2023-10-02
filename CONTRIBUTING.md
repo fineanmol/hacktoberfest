@@ -1,3 +1,8 @@
+#### Name: [Lohit Kolluri](https://github.com/lohitkolluri)
+
+- Place: Chennai, Tamil Nadu, India
+- Bio: Your average front-end web developer :(
+- GitHub: [Lohit Kolluri](https://github.com/lohitkolluri)
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
