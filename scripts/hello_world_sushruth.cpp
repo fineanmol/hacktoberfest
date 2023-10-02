@@ -1,5 +1,4 @@
 // LANGUAGE: C++
-// ENV: C++14
 // AUTHOR: Sushruth Rao
 // GITHUB: https://github.com/SushruthRao
 
