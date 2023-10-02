@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Suryansh Singh](https://github.com/suryanshsingh2001)
+
+- Place: Noida, Uttar Pradesh, India
+- Bio: Developer who loves to turn coffee-fueled ideas into elegant lines of code and dreams into visual experiences
+- GitHub: [suryanshsingh2001](https://github.com/suryanshsingh2001)
