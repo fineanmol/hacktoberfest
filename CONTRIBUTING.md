@@ -1,3 +1,9 @@
+#### Name: [ADITYA SHARMA](https://github.com/onemineus)
+
+- Place: Kolkata, West Bengal, India
+- Bio: I am a Computer Science Engineering student
+- GitHub: [onemineus](https://github.com/onemineus)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
@@ -23,6 +29,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
