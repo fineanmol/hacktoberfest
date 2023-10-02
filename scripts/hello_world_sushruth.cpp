@@ -1,5 +1,7 @@
-// Name : Sushruth 
-// Github Profile : https://github.com/SushruthRao
+// LANGUAGE: C++
+// ENV: C++14
+// AUTHOR: Sushruth Rao
+// GITHUB: https://github.com/SushruthRao
 
 #include<iostream.h>
 using namespace std;
