@@ -24,7 +24,7 @@ Founder of BWDDM, Alter-Solution, and TEKINA.
 
 ### Projects
 
-- [Brussels Web Designers & Developers Meetup](https://github.com/bwddm) Motivate, Strong people that wanna think, stand out of the box and wanna bring their things and share it with the community
+- [Brussels Web Designers & Developers Meetup](https://github.com/bwddm) Motivate, Strong people that wanna think, stand out of the box and wanna bring their things and share it with the community.
 
 ### Profile Link
 
