@@ -1,3 +1,11 @@
+#### Name: [Priyesh Mishra](https://github.com/priyesh0453)
+
+- Place: Prayagraj, Uttar Pradesh, India
+
+- Bio: Pre-final year student at BITS Pilani - Hyderabad Campus (BITS Pilani '25) pursuing dual degree, B.E. ECE & M.Sc. Physics. A Passionate Technophile, Self-Taught Web Developer  & Finance Enthusiast. Interested in Open-Source, Macroeconomics and Technology innovations.
+
+- GitHub: [priyesh0453](https://github.com/priyesh0453) 
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
