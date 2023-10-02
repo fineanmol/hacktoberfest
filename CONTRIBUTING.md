@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Matheus Paes](https://github.com/matheuspaesp)
+
+- Place: Matão, São Paulo, Brazil
+- Bio: Engineer Manager with 13 years in industry
+- GitHub: [Matheus Paes](https://github.com/matheuspaesp)
