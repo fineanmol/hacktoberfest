@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Chamod Isuru](https://github.com/isuruisuru)
+
+- Place: Kegalle, Sabaragamuwa, Sri Lanka
+- Bio: Full Stack Developer
+- GitHub: [isuruisuru](https://github.com/isuruisuru)
