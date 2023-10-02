@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+### Name: [Gayathri Sankar]([GitHub link](https://github.com/gayathri-commits))
+
+- Place: Thrissur, Kerala, India
+- Bio: Second-year undergrad pursuing B.Tech in CSE
+- GitHub: [gayathri-commits](https://github.com/gayathri-commits)
