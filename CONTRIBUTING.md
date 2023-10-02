@@ -1,3 +1,9 @@
+#### Name: [SATYAM SINGH](https://github.com/satyxm)
+
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: I am a Computer Science Engineering student from Babu Banarasi Das Institute of Technology and Management
+- GitHub: [satyxm](https://github.com/satyxm)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
