@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Vaibhav Kanthi](https://github.com/vaibhavk1714)
+
+- Place: Bengaluru, Karnataka, India
+- Bio: I am a Computer Science Engineering student from RNS Institute of Technology, Bengaluru
+- GitHub: [vaibhavk1714](https://github.com/vaibhavk1714)
