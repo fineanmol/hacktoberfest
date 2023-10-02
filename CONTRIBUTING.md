@@ -2550,6 +2550,12 @@
 - Bio: Fullstack Developer
 - GitHub: [Afustrator](https://github.com/afustrator)
 
+#### Name: [Felipe Ramos](https://github.com/felipecramos)
+
+- Place: Brazil, Natal
+- Bio: Mobile Developer
+- GitHub: [FelipeCRamos](https://github.com/FelipeCRamos)
+
 #### Name: [Lavanya Lenka](https://github.com/Lavanyasuc31)
 
 - Place: Bangalore, Karnataka , India
