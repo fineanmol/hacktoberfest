@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Ramith](https://github.com/Ramith-Gunawardana)
+
+- Place: Colombo, Sri Lanka
+- Bio: SE Undergraduate
+- GitHub: [Ramith-Gunawardana](https://github.com/Ramith-Gunawardana)
