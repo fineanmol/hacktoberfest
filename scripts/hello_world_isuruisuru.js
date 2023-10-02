@@ -3,4 +3,4 @@
 // AUTHOR: Chamod Isuru
 // GITHUB: https://github.com/isuruisuru
 
-console.log("Hello world!");
+console.log("Hello world 👋🏾!");
