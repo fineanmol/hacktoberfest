@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Sumant Chaudhary](https://github.com/sumant7)
+
+-Place: Varanasi, India
+-Bio: Persuing B.Tech @IIT BHU, into anime and web dev
+-GitHub: [sumant7](https://github.com/sumant7)
