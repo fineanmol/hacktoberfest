@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Sachidanand](https://github.com/Indicgamer)
+
+- Place: Kalaburgi, Karnataka, India
+- Bio: Im a 4th Year B.Tech (CS) student from India?
+- GitHub: [sachin_g](https://github.com/Indicgamer)
