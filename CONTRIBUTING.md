@@ -1,3 +1,9 @@
+#### Name: [Aakash](https://github.com/aakash-sittu)
+
+- Place: Chennai, TamilNadu, India
+- Bio: I am a Computer Science Engineering student from SRM Institute of Science and Technology
+- GitHub: [Aakash-sittu](https://github.com/Aakash-sittu)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
