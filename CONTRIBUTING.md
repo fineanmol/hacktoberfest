@@ -1,4 +1,10 @@
-#### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
+#### Name: [Techiral](https://github.com/Techiral)
+
+- Place: Bareilly, Uttar Pradesh, India
+- Bio: I'm a college student and going to start the company named **Techiral**.
+- GitHub: [Techiral](https://github.com/Techiral)
+
+- #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
