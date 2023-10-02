@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+### Name [Farid Hammouten](https://www.linkedin.com/in/f212/)
+
+- Place: Brussels, Belgium
+- Bio: !work ? Gamer : Brussels Web Designers & Developers Meetup Founder, FullStack Web Developer, Entrepeneur.
+- GitHub: [Farid212](https://github.com/farid212)
