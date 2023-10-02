@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Aritro Chakraborty](https://github.com/aritrochakraborty29)
+
+- Place: Kolkata, West Brengal, India
+- Bio: Member of Technical Staff, part time golang + python developer
+- GitHub: [AritroChkraborty29](https://github.com/aritrochakraborty29)
