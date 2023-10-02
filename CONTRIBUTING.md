@@ -2797,6 +2797,6 @@
 
 #### Name: [Matheus Paes](https://github.com/matheuspaesp)
 
-- Place: Matão, São Paulo, Brazil
+- Place: São Paulo, São Paulo, Brazil
 - Bio: Engineer Manager with 13 years in industry
 - GitHub: [Matheus Paes](https://github.com/matheuspaesp)
