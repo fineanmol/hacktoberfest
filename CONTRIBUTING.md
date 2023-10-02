@@ -1,3 +1,9 @@
+#### Name: [Vivek Kumar Mohanta](https://github.com/VivekMohanta03)
+
+- Place: Bhubaneswar, Odisha, India
+- Bio: MERN Stack Web Developer | JAVA | CS Undergrad @SOA University
+- GitHub: [VivekMohanta03](https://github.com/VivekMohanta03)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
