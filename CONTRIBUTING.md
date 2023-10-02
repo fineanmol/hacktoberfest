@@ -1,3 +1,9 @@
+#### Name: [VANSHIKA GUPTA](https://github.com/gva-cse)
+
+- Place: Ghaziabad,Uttar Pradesh India
+- Bio: I am a Computer Science Engineering 3rd year student from India 
+- GitHub: [gva-cse]([GitHub link](https://github.com/gva-cse))
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
