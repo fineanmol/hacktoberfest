@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Shreya](https://github.com/Shreyaprasad02)
+
+- Place: Pune,  Maharashtra, India
+- Bio: Final Year undergrad pursuing B.Tech in Information Technology
+- GitHub: [Shreya](https://github.com/Shreyaprasad02)
