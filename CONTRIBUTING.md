@@ -2794,3 +2794,7 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Muyiwa](https://github.com/Muyi2905)
+- Place: Lagos, Nigeria
+- Bio: computer Science graduate and a fullstack developer
