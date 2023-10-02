@@ -1,0 +1,109 @@
+<html>
+    <head>
+        <title>Lading Page</title>
+        <link rel="stylesheet" type="text/css" href="ladingstyle.css">
+        <script src="https://kit.fontawesome.com/d8c95d9bd2.js" crossorigin="anonymous"></script>
+        <!--script src="sticky.js"></script-->
+    </head>
+    <body>
+        <header id="header">
+        <div class="header_menu">
+        <div class="bar_1"></div>
+        <div class="bar_2"></div>
+        <div class="bar_3"></div>
+        <div class="bar_4"></div>
+        <div class="bar_5"></div>
+        <div class="bar_6"></div>
+        <div class="bar_7"></div>
+        <div class="bar_8"></div>
+        <div class="bar_9"><label style="color: white;">+12-345-7890 </label></div>
+        <div class="bar_10"><label style="color: white;">demolanding@gmail.com </label></div>
+        <div class="bar_11">
+        <input type="button" value="REQUEST A CONSULT" class="bar_12"></div>
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-social-114-95475.png?f=avif&w=512" height="20px" width="20px"  alt="" id="" style="padding-left: 200px; padding-top: 30px;">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1464521-1239436.png?f=avif&w=512" height="20px" width="20px"  alt="" id="" style="padding-left: 20px;">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-3660042-3094476.png?f=avif&w=512" height="20px" width="20px"  alt="" id="" style="padding-left:25px ;">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-social-102-95463.png?f=avif&w=512" height="20px" width="20px"  alt="" id="" style="padding-left: 30px;">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-social-127-95488.png?f=avif&w=512" height="20px" width="20px"  alt="" id="" style="padding-left: 25px;">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-3660036-3094470.png?f=avif&w=512" height="20px" width="20px"  alt="" id="" style="padding-left: 30px;">
+        <img src="c:\Users\Dhiraj\Downloads\icons8-phone-64.png" style="height: 20px;width: 20px;padding-left: 200px;border: black;">
+        <img src="c:\Users\Dhiraj\Downloads\icons8-mail-58.png" style="height: 20px;width: 20px;padding-left: 120px;">
+        <div class="nav_bar">
+                <div class="logo"><img src="https://www.vwthemesdemo.com/vw-landing-page-pro/wp-content/themes/vw-wordpress-theme-vw-landing-page-pro-52fbc570d68d/assets/images/logo.png" height="60px" width="250px"-->
+                </div>
+                <div class="table">
+                <nav>
+                <tr>
+                <td>Home</td>
+                <td>Blog</td>
+                <td>Page</td>
+                <td>Services</td>
+                <td>Projects</td> 
+                <td>Team</td>
+                <td>Contact</td>
+                <td id="buy">Buy_Now</td>
+                <td id="search"><i class="fas fa-search"></i></td-->
+                </tr>
+            </nav>
+            </div> 
+        </div>
+        </div>      
+    </header>
+    <section style="background-image: url('https://www.vwthemesdemo.com/vw-landing-page-pro/wp-content/themes/vw-wordpress-theme-vw-landing-page-pro-52fbc570d68d/assets/images/slides/slide1.jpg'); overflow-y: scroll;"-->
+        <img src="https://www.vwthemesdemo.com/vw-landing-page-pro/wp-content/themes/vw-wordpress-theme-vw-landing-page-pro-52fbc570d68d/assets/images/slides/slide1.jpg" alt="jpeg" id="frist_img"-->
+        <div class="div_text_1"><h1 id="text_1">WE ARE CREATIVE</h1></div>
+        <div class="div_text_2"><h1 id="text_2">CREATIVE DIGITAL AGENCY</h1></div>
+        <div class="div_text_3"><h5 id="text_3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
+        Ipsum has been the industry standard</h5></div>
+        <div class="div_1"><button id="read_button">READ MORE</button></div>
+        <div class="div_2"><input type="button" value="REQUEST A CONSULT" id="button_3"></div>
+        <div class="div_3"><div id="span_1"></div></div>
+    </section>  
+        <section class="sec_1">
+            <div class="div_4"><div class="span_2"></div></div>
+        <div class="div_5"><div class="roted_1"><i class="fas fa-rocket"></i></div></div>
+        <div class="div_6">LAUNCH BUSINESS</div>
+        <div class="div_7">Te obtinuit ut adepto satis somno. Aliisque</div>
+        <div class="div_8"><div class="roted_2"><i class="fas fa-headphones"></i></div></div>
+        <div class="div_9">ONLINE SUPPORT TEAM</div>
+        <div class="div_10">Te obtinuit ut adepto satis somno. Aliisque</div>
+        <div class="div_11"><div class="roted_3"><i class="fas fa-clock"></i></div></div>
+        <div class="div_12">TIME MANAGEMENT</div>
+        <div class="div_13">Te obtinuit ut adepto satis somno. Aliisque</div>
+        </section>
+        <div>
+        <section id="sec_2">
+            <div class="div_14">ABOUT US
+            </div>
+            <div class="div_17"><div class="div_15"></div></div>
+           <div id="div_16"> <img id="img_2" src="https://www.vwthemesdemo.com/vw-landing-page-pro/wp-content/themes/vw-wordpress-theme-vw-landing-page-pro-52fbc570d68d/assets/images/about-image.png" alt=""-->
+           </div>
+           <div class="div_18"><h3>15 years, we passionate about achieving better results for our clients</h3>
+            <p>Te obtinuit ut adepto satis somno. 
+                Aliisque institoribus iter deliciae vivet vita. 
+                Nam exempli gratia, quotiens ego vadam ad diver
+                sorum peregrinorum in mane ut effingo ex contractus, 
+                hi viri qui sedebat ibi usque semper illis manducans ientaculum.
+                Solum cum bulla ut debui; EGO youd adepto a macula proiciendi. 
+                Sed quis scit si forte quod esset optima res pro me. 
+                sicut ea quae sentio. Qui vellem cadunt off ius desk ejus! 
+                Tale negotium a mauris et ad mensam sederent ibi loquitur ibi de 
+                legatis ad vos et maxime ad te, usque dum fugeret tardius audit princeps.</p>
+            </div>
+             <div class="div_19"><button value="READ MORE" id="read_button_2">READ MORE</button>
+             </div>
+            <div class="div_20"></div>
+        </section>
+        <section style="background-image:url('https://www.vwthemesdemo.com/vw-landing-page-pro/wp-content/themes/vw-wordpress-theme-vw-landing-page-pro-52fbc570d68d/assets/images/aboutusbg.png');">
+            <div class="div_21">OUR SERVICES
+            </div>
+            <div class="div_22"><div class="div_23"></div></div>
+            <div class="div_24"></div>
+            <img src="https://www.vwthemesdemo.com/vw-landing-page-pro/wp-content/uploads/sites/601/2023/01/our-services3.jpg" alt="" id="img_3">
+            <img src="https://www.vwthemesdemo.com/vw-landing-page-pro/wp-content/uploads/sites/601/2023/01/our-services2.jpg" alt="" id="img_4">
+            <img src="https://www.vwthemesdemo.com/vw-landing-page-pro/wp-content/uploads/sites/601/2023/01/our-services1.jpg" alt="" id="img_5">
+        </section>
+    </div>
+    
+    </body>
+</html>
