@@ -4,6 +4,12 @@
 - Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
 - GitHub: [adityasharma270103](https://github.com/adityasharma270103)
 
+  #### Name: [Yaswanth Modepalli](https://github.com/Yaswanth14)
+
+- Place: Vizag, Andhra Pradesh, India
+- Bio: I am a Computer Science Engineering student from Gayatri Vidya Parishad
+- GitHub: [Yaswanth14](https://github.com/Yaswanth14)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
