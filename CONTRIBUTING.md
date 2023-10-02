@@ -39,6 +39,12 @@
 
 -Place: Kolkata, West Bengal, India
 
+#### Name: [YOUR NAME](GitHub link)
+
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: I am simply an enthusiast turned teacher who is constantly creating, designing and developing from past 5+ years. With good Knowledge of Graphic Designing and Photo editing tools and exposure to algorithm design and data-structures /the skills learned over the years. I manage to provide solutions through my knowledge and skills to fellow colleagues and business leads.
+- GitHub: [hanisntsolo](https://github.com/hanisntsolo)
+- 
 #### Name: [Krishnansh Agarwal](https://github.com/Krishnansh5)
 
 -Place: Kanpur, U.P., India
