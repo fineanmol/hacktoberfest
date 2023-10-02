@@ -4,4 +4,4 @@
 // GITHUB: https://github.com/hanisntsolo
 
 console.log('Hello World !');
-console.log('Hello Hacktoberfest !');
+console.log('Hello Hacktoberfest 2023!');
