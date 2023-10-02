@@ -57,6 +57,12 @@
 - Bio: I am a Communication Signal Processing student.
 - GitHub: [Anjali1609](https://github.com/Anjali1609)
 
+#### Name: [Stuti Pathak](https://github.com/istutea)
+
+- Place: Raigarh, Chattisgarh, India
+- Bio: I am an Electrical Engineering student interested in backend web development 
+- GitHub: [istutea](https://github.com/istutea)
+
 #### Name: [Shubham Jain](https://github.com/Shubhamjain287)
 
 - Place: Indore MP
