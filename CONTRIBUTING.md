@@ -114,6 +114,13 @@
 - Bio: I am a student.
 - GitHub: [itsmeAYUSH] (https://github.com/itsmeAYUSH)
 
+
+#### Name: [Aniket Khalate](https://github.com/Aniketkhalate)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: I'm a python programmer.
+- GitHub: [Aniketkhalate](https://github.com/Aniketkhalate)
+
 - #### Name: [pavan pakhare](https://github.com/pavanpakhare)
 - Place: kalyan.Maharashtra
 - Bio: bsc Computer Science graduate
