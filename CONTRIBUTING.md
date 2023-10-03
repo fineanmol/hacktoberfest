@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Anirban Roy](https://github.com/Wrrikk)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Software Developer
+- GitHub: [Anirban Roy](https://github.com/Wrrikk)
