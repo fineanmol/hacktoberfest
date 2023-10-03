@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name : [Krishna](https://github.com/KrishnaPensalwar)
+
+- Place : Pune , India.
+- Bio : Third year undergraduate student pursing B.E in information technology . Android App Developer, Front-End Knowledge .
+- Github : [KrishnaPensalwar](https://github.com/KrishnaPensalwar)
