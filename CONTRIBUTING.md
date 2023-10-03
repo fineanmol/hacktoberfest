@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Rajdeep Shrivastava](https://github.com/rajdeepsri)
+
+- Place: Jhansi, Uttar Pradesh, India
+- Bio: Frontend Developer
+- GitHub: [rajdeepsri](https://github.com/rajdeepsri)
