@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Naina](https://github.com/Naina047)
+
+- Place: Amritsar, India
+- Bio: I'm a Frontend Developer and pursuing B.tech in Computer Science Engineering
+- GitHub: [Naina047](https://github.com/Naina047)
