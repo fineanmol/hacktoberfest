@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+- #### Name: [Harsh Singh](https://github.com/LegendHARSH)
+
+- Place: Jamshedpur,Jharkhand, India
+- Bio: Second Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [Harsh Singh](https://github.com/LegendHARSH)
