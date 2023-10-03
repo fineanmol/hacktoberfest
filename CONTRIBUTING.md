@@ -4,6 +4,12 @@
 - Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
 - GitHub: [adityasharma270103](https://github.com/adityasharma270103)
 
+### Name: [devanshu240](https://github.com/devanshu240)
+
+- Place: Punjab , India
+- bio: Interest in coding and playing basketball
+- GitHub: [devanshu](https://github.com/devanshu240)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
