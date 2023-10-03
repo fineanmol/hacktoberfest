@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Bhakti Bhatt](https://github.com/bhaktibhatt)
+
+- Place: Pune, Maharashtra, India
+- Bio: I am currently (2023) a master student (MSc.CA) happy to join the community✨.
+- GitHub: [bhaktibhatt](https://github.com/bhaktibhatt)
