@@ -1,3 +1,10 @@
+#### Name: [Pieter Deane](https://github.com/Pieter1821)
+
+- Place: Pretoria, South-Africa
+- Bio: I am a front-end developer currently learning React also have some experience with Python
+  busy with a udemy course learning React
+- GitHub: [Pieter1821](https://github.com/Pieter1821)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
@@ -23,6 +30,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
