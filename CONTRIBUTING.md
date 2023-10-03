@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Harsh](https://github.com/Herik25)
+
+- Place: Rajkot, Gujarat, India
+- Bio: A 3rd year student persuing BCA in Computer Science
+- GitHub: [Herik25](https://github.com/Herik25)
