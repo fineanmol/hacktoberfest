@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Adnan Kaisar](https://github.com/whoadnan101)
+
+- Place: Dehradun, Uttrakhand, India
+- Bio: Bug bounty hunter & Frontend Developer
+- GitHub: [whoadnan101](https://github.com/whoadnan101)
