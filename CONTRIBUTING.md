@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Sidhved](https://github.com/sidhved)
+
+- Place: Brooklyn, NY, USA
+- Bio: Data Scientist pusuing MS CS at New York University
+- GitHub: [Sidhved](https://github.com/sidhved)
