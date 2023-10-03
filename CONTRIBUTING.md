@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Aradhya](https://github.com/aradhyasakalley)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Third year computer engineering undergrad
+- GitHub: [aradhyasakalley](https://github.com/aradhyasakalley)
