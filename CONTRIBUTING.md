@@ -2789,7 +2789,7 @@
 - Bio: Front End Developer
 - GitHub: [thanapoom21](https://github.com/thanapoom21)
 
-#### Name: [Dhruv](https://github.com/uozcan12)
+#### Name: [Dhruv](https://github.com/ogdhruv)
 
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
