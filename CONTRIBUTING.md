@@ -4,6 +4,12 @@
 - Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
 - GitHub: [adityasharma270103](https://github.com/adityasharma270103)
 
+#### Name: [NIKHIL N](https://github.com/Nikhil-Nagendra)
+
+- Place: Bengaluru , Karnataka , India
+- Bio: I am a AIML undergrad from Bangalore .
+- GitHub: [nike7](https://github.com/Nikhil-Nagendra)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
