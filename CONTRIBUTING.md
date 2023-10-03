@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Arham]([GitHub link](https://github.com/arhamkhnz))
+
+- Place: Bhopal, MP, India
+- Bio: Frontend Developer
+- GitHub: [arhamkhnz]([GitHub link](https://github.com/arhamkhnz))
