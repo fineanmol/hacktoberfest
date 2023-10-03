@@ -2794,9 +2794,3 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
-
-#### Name: [Sreehari S](https://github.com/sree-hari-s)
-
-- Place: Trivandrum, Kerala, India
-- Bio: Open Source Enthusiast
-- GitHub: [Sreehari S](https://github.com/sree-hari-s)
