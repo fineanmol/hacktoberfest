@@ -1,6 +1,6 @@
-// LANGUAGE: JAVASCRIPT
-// ENV: NODE>JS
+// LANGUAGE: JULIA
+// ENV: JULIA
 // AUTHOR: Nivedita Chatterjee
 // GITHUB: https://github.com/Nivedita021
 
-console.log("Hello, World!");
+println("Hello, World!");
