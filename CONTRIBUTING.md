@@ -2794,3 +2794,8 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+#### Name: [Subrat](https://github.com/subrat2004)
+
+- Place: Kharagpur, West Bengal, India
+- Bio: 3rd year UG at IIT Kharagpur.
+- GitHub: [GitHub account name](https://github.com/subrat2004)
