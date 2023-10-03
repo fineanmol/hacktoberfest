@@ -2794,3 +2794,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+
+#### Name: [Manan](https://github.com/Manancode)
+
+- Place: Delhi,India
+- Bio: First Year undergrad pursuing B.tech 
+- GitHub: [Manancode](https://github.com/Manancode)
