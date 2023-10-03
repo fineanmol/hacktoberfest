@@ -2794,3 +2794,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Angelo Grossi](https://github.com/https://github.com/vongrossi)
+
+- Place: São Paulo, SP BR
+- Bio: DevSecOps - Maker - Cloud Engineer
+- GitHub: [vongrossi](https://github.com/vongrossi)
+
