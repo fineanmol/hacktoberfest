@@ -1871,6 +1871,12 @@
 - Bio: Developer, student
 - GitHub: [Rjndrkha](https://github.com/rjndrkha)
 
+#### Name: [Robert Lent](https://github.com/robertlent/)
+
+- Place: San Francisco, California, USA
+- Bio: I am a Software Developer who is currently studying for a degree in Cybersecurity.
+- GitHub: [robertlent](https://github.com/robertlent/)
+
 #### Name: [Rohan Gope](https://github.com/Darkrider0007)
 
 - Place: Durgapur, West Bangal, India
