@@ -2798,5 +2798,5 @@
 #### Name: [Dimonalek](https://github.com/dimonalek)
 
 - Place: Kyiv, Ukraine
-- Bio: Sysadmin, Python beginner
+- Bio: Sysadmin, Python beginner, gamer
 - GitHub: [dimonalek](https://github.com/dimonalek)
