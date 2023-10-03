@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Swatantra Gupta](https://github.com/erswatantra2001)
+
+- Place: Mathura, Uttar Pradesh, India
+- Bio: Completed with the B.Tech in computer science and engineering
+- GitHub: [erswatantra2001](https://github.com/erswatantra2001)
