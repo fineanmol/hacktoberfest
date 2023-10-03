@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Harshit](https://github.com/harshitgaur2205)
+
+- Place: Guraon,Haryana,India
+- Bio: Second Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [harshitgaur2205](https://github.com/arshitgaur2205)
