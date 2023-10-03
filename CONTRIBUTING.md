@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Dinindu Chamikara](https://github.com/DininduChamikara)
+
+- Place: Negombo, Western Province, Sri Lanka
+- Bio: IT Undergraduate
+- GitHub: [DininduChamikara](https://github.com/DininduChamikara)
