@@ -1,3 +1,9 @@
+#### Name: [MEHUL JAIN](https://github.com/marcury122)
+
+- Place: varanasi, India
+- Bio: Student Software Developer at IIT BHU | Passionate about Web Development
+- Github: https://github.com/marcury122
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
@@ -23,6 +29,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
