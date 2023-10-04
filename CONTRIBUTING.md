@@ -51,6 +51,13 @@
 - Bio: I am a student.
 - GitHub: [GitHub account name](https://github.com/pavanpakhare)
 
+#### Name: [Dipayan Sarkar](https://github.com/dipayan23)
+
+- Place: Bankura, West Bengal, India
+- Bio: I am a student.
+- GitHub: [dipayan23](https://github.com/dipayan23)
+
+
 #### Name: [Anjali Verma](https://github.com/Anjali1609)
 
 - Place: Bilaspur, Chattisgrah, India
