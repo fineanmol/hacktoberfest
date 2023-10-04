@@ -23,6 +23,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -92,7 +93,7 @@
 
 - Place: Pune, Maharashtra, India
 - Bio: Working Professional with < 1 year of experience.
-- GitHub: [Captaiin] (https://github.com/Captaiin)
+- GitHub: [Captaiin](https://github.com/Captaiin)
 
 #### Name: [Ayush Sagar](https://github.com/Captaiin)
 
@@ -112,7 +113,7 @@
 
 - Place: Kalyan, maharashtra, India
 - Bio: I am a student.
-- GitHub: [itsmeAYUSH] (https://github.com/itsmeAYUSH)
+- GitHub: [itsmeAYUSH](https://github.com/itsmeAYUSH)
 
 - #### Name: [pavan pakhare](https://github.com/pavanpakhare)
 - Place: kalyan.Maharashtra
@@ -393,7 +394,7 @@
 
 - Place: Varanasi, UP, India
 - Bio: Software Engineer | Android Developer
-- GitHub: [Akshay-21] (https://github.com/Akshay-21)
+- GitHub: [Akshay-21](https://github.com/Akshay-21)
 
 #### Name: [Aman Sharma](https://github.com/amansharma703)
 
@@ -1895,7 +1896,7 @@
 - Bio: A Web3-Blockchain Enthusiast
 - GitHub: [Rohit Kumar](https://github.com/rohitverse)
 
-#### Name: [Ruchir AGarwal] (https://github.com/Ruchir17-cmd)
+#### Name: [Ruchir AGarwal](https://github.com/Ruchir17-cmd)
 
 - Place: Nioda, UP
 - Bio: AR/VR developer
@@ -2235,7 +2236,7 @@
 
 - Place: Mumbai, India
 - Bio: Developer | Coder
-- GitHub: [tanishkarao16] (https://github.com/tanishkarao16)
+- GitHub: [tanishkarao16](https://github.com/tanishkarao16)
 
 #### Name: [Tanmay Roy](https://github.com/roytanmay)
 
@@ -2800,3 +2801,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Lakshay Bharadwaj](https://github.com/JOSHI53)
+
+- Place: Delhi, India
+- Bio: Full Stack dev
+- GitHub: [JOSHI53](https://github.com/JOSHI53)
