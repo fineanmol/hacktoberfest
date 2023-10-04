@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Vinjamuri Manojna](https://github.com/manojna191)
+
+- Place: Tanuku, Andhra Pradesh, India
+- Bio: Final Year B.Tech CSBS Student at Vellore Institute of technology, Vellore
+- GitHub: [manojna191](https://github.com/manojna191)
