@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Karen Kvam](https://github.com/kareninakvam)
+
+- Place: Campinas, São Paulo, Brazil
+- Bio: Backend developer and data science student at UNIVESP.
+- GitHub: [kareninakvam](https://github.com/kareninakvam)
