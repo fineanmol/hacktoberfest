@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Ash](https://github.com/ashh1215)
+
+- Place: Goa, India
+- Bio: Second Year BE CSE student
+- GitHub: [ashh1215](https://github.com/ashh1215)
