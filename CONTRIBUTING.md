@@ -10,6 +10,12 @@
 - Bio: Interesting in code and I am a Software Developer
 - GitHub: [EyeOfCode](https://github.com/EyeOfCode)
 
+### Name: [Akhil Mahajan](https://github.com/akhil30-08)
+
+- Place: Jammu, Jammu & Kashmir, India
+- Bio: I am a Petroleum Engineer by qualification and learning Full Stack Web Development.
+- Github: [Akhil Mahajan](https://github.com/akhil30-08)
+
 #### Name: [Victor Oderinde](https://github.com/Vctcode)
 
 - Place: Lagos, Nigeria
@@ -23,6 +29,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
