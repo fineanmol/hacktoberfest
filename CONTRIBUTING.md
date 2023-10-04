@@ -1,3 +1,9 @@
+#### Name: [KASHISH KHATRI](https://github.com/kashish-219)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: I am a coder open to learn new and interesting things.
+- GitHub: [kashish-219](https://github.com/kashish-219)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
