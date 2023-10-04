@@ -2805,4 +2805,4 @@
 
 - Place: Bathinda, Punjab, India
 - Bio: I am a Computer Science Engineering student from Chitkara University
-- GitHub: [yogeshbansal7](https://github.com/yogeshbansal7)
+- GitHub: [yogeshbansal7](https://github.com/yogeshbansal7) 
