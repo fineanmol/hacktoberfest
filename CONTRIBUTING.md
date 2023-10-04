@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Yogesh Bansal](https://github.com/yogeshbansal7)
+
+- Place: Bathinda, Punjab, India
+- Bio: I am a Computer Science Engineering student from Chitkara University
+- GitHub: [yogeshbansal7](https://github.com/yogeshbansal7) 
