@@ -23,6 +23,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -2800,3 +2801,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [SURAJ TADE](https://github.com/surajTade)
+
+- Place: Pune, Maharashtra, India
+- Bio: I am a B.Tech Computer Engineering student from PCCOE, Pune
+- GitHub: [surajTade](https://github.com/surajTade)
