@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Suryansh Gupta](https://github.com/suryanshgupta9933)
+
+- Place: Delhi, India
+- Bio: 3rd year student at Guru Gobind Singh Indraprastha University and Intern at Prodigal AI
+- GitHub: [Suryansh Gupta](https://github.com/suryanshgupta9933)
