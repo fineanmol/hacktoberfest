@@ -2788,9 +2788,15 @@
 - Place: Las Vegas, NV, USA
 - Bio: Front End Developer
 - GitHub: [thanapoom21](https://github.com/thanapoom21)
+- 
+#### Name: [Thanapoom](https://github.com/thanapoom21)
 
-#### Name: [Dhruv](https://github.com/ogdhruv)
+- Place: Las Vegas, NV, USA
+- Bio: Front End Developer
+- GitHub: [thanapoom21](https://github.com/thanapoom21)
 
-- Place: New Delhi, Delhi, India
+#### Name: [Kartikey](https://github.com/noiceee)
+
+- Place: Pune, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
-- GitHub: [OGdhruv](https://github.com/ogdhruv)
+- GitHub: [noiceee](https://github.com/noiceee)
