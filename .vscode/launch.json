@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/avni/Documents/hackto/hacktoberfest2/scripts",
+      "program": "/Users/avni/Documents/hackto/hacktoberfest2/scripts/build/Debug/outDebug"
+    }
+  ]
+}
