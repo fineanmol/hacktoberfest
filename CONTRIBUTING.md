@@ -1,3 +1,9 @@
+#### Name: [Parth Khandenath](https://github.com/pa-kh039)
+
+- Place: Nagpur, Maharashtra, India
+- Bio: I am a Computer Science Engineering student from Indian Institute Of Technology Bhilai ( 2024 passout )
+- GitHub: [pa-kh039](https://github.com/pa-kh039)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
