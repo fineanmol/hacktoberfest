@@ -2797,6 +2797,6 @@
 
 #### Name: [Solakunmi](https://github.com/Jatamer)
 
-- Place: Nigeria
+- Place: Nigeria.
 - Bio: Computer Engineering undergrad, Offensive Security enthusiast.
 - GitHub: [Jatamer](https://github.com/Jatamer)
