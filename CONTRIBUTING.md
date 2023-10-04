@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Aachal Pardeshi](https://github.com/aachal28)
+
+- Place: Pune, Maharashtra, India
+- Bio: Frontend developer & Content Creator who loves code & Design
+- GitHub: [aachal28](https://github.com/aachal28)
