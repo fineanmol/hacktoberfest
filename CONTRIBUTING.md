@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Dasith Rathnasinghe](https://github.com/MasterD98)
+
+- Place: Karapitiya, Galle, Sri Lanka
+- Bio: Undergraduate at the University of Moratuwa Faculty of Information Technology
+- GitHub: [MasterD98](https://github.com/MasterD98)
