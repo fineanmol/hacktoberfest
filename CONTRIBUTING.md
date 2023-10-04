@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+  #### Name: [Samraj R](https://github.com/samraj-freak)
+
+- Place: Chennai, Tamil Nadu, India
+- Bio: Recent BE CSE Grad with sklls in REACT | JAVASCRIPT | JAVA
+- GitHub: [samraj-freak](https://github.com/samraj-freak)
