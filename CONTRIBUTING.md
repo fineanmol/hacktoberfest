@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Pk Pacheco](https://github.com/PKpacheco)
+
+- Place: Winnipeg, Mabitoba, Canada
+- Bio: 2nd year student of Data Science at RRC
+- GitHub: [PKpacheco](https://github.com/PKpacheco)
