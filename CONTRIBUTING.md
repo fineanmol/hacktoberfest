@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Gabriel Barbosa](https://github.com/gabrielrbarbosa)
+
+- Place: Londrina, PR, Brazil
+- Bio: Fullstack Developer
+- GitHub: [gabrielrbarbosa](https://github.com/gabrielrbarbosa)
