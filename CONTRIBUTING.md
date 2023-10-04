@@ -2795,8 +2795,17 @@
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
 
+
+#### Name: [Naina](https://github.com/Naina047)
+
+- Place: Amritsar, India
+- Bio: I'm a Frontend Developer and pursuing B.tech in Computer Science Engineering
+- GitHub: [Naina047](https://github.com/Naina047)
+
+
 #### Name: [Harmanjot Kaur](https://github.com/harmanjot2002)
 
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
