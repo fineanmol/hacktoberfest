@@ -1,32 +1,27 @@
 # Mansi
 
-### Location
+### Delhi, India
 
-Deli, INDIA
+Delhi, India
 
 ### Academics
 
-- B.Tech. Mechanical Engineering IITD'24
+Mechanical undergrad at Indian Institute of Technology Delhi
 
 ### Interests
 
-- Backend (JAVA)
-- Gaming
-- Music
-- Learning Enthusiast
-- DSA
-- Coding
-- Football
+- Coding, Cubing, Football, Music, Movies, Books(sometimes)
 
-### Skills
+### Development
 
-- C++
-- Java
-- JavaScript
-- HTML CSS
-- Git & GitHub
-- Django
+- Inventor of the My Pillow
 
+### Projects
+
+- [Track check in Helicopter Main Rotor Blade using image processing](https://github.com/Mannxxx/BTP) 
+- [Tilde](https://github.com/Mannxxx/Tilde) Minimal browser startpage.
+- [COVID-19-TRACKER](https://github.com/Mannxxx/COVID-19-TRACKER)
+- [BuddyChat](https://github.com/Mannxxx/BuddyChat)
 
 ### Profile Link
 
