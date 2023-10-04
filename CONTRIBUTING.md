@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Sudip Poudel](https://github.com/sudipX)
+
+- Place: Kathmandu, Nepal
+- Bio: Second Year BCS AI student at Taylor's University, Malaysia
+- GitHub: [sudipX](https://github.com/sudipX)
