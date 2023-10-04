@@ -2800,3 +2800,10 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+
+#### Name: [Sivia Anzal](https://github.com/sivia1)
+
+- Place: Jorhat, Assam, India
+- Bio: Second Year Undergrad pursuing B.tech in CSE
+- GitHub: [sivia1](https://github.com/sivia1)
