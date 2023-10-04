@@ -1,3 +1,9 @@
+#### Name: [HARSH SRIVASTAVA](https://github.com/hrs4real)
+
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: A student pursuing Bachelors Of Technology in IT.
+- GitHub: [hrs4real](https://github.com/hrs4real)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
