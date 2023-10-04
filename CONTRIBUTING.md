@@ -2801,3 +2801,9 @@
 - Bio: Final year undergraduate B.Voc IT student and also community co-manager in OS community
 - GitHub: [aumii01codes](https://github.com/aumii01codes)
 
+#### Name: [Harmanjot Kaur](https://github.com/harmanjot2002)
+
+- Place: Faridkot, Punjab, India
+- Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
+- GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
