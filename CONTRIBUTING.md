@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Anouar DADAS](https://github.com/CasualAnouar)
+
+- Place: Berrechid, Casablanca, Morocco
+- Bio: Full Stack Software Developer at [Intelcia](https://www.intelcia.com/)
+- GitHub: [CasualAnouar](https://github.com/CasualAnouar)
