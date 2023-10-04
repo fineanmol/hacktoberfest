@@ -2800,3 +2800,12 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+<<<<<<< Updated upstream
+=======
+
+#### Name: [Ilya Burch](https://github.com/IlyaBurch)
+
+- Place: Moscow, Russia
+- Bio: Front End Developer
+- GitHub: [Ilya Burch](https://github.com/IlyaBurch)
+>>>>>>> Stashed changes
