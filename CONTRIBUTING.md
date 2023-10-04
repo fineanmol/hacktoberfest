@@ -2794,6 +2794,7 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
 - 
 
 #### Name: [Md Sarfaraz Alam](https://github.com/mdsarfarazalam840)
@@ -2801,3 +2802,11 @@
 - Place: Bangalore, Karnataka, India
 - Bio: Cloud Associate
 - GitHub: [mdsarfarazalam840](https://github.com/mdsarfarazalam840)
+=======
+
+#### Name: [Harmanjot Kaur](https://github.com/harmanjot2002)
+
+- Place: Faridkot, Punjab, India
+- Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
+- GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
