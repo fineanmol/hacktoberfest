@@ -2800,3 +2800,10 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+
+#### Name: [Md Sarfaraz Alam](https://github.com/mdsarfarazalam840)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Cloud Engineer and Learning enthusiast for new Technology
+- GitHub: [mdsarfarazalam840](https://github.com/mdsarfarazalam840)
