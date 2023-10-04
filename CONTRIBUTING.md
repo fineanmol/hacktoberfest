@@ -2794,3 +2794,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Saumili Dutta](https://github.com/aumii01codes)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Final year undergraduate B.Voc IT student and also community co-manager in OS community
+- GitHub: [aumii01codes](https://github.com/aumii01codes)
+
