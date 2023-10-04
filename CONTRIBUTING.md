@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Nikita Lakha](https://github.com/nikitalakha)
+
+- Place: Punjab, India
+- Bio: Pre-Final Year EE Student at IIT Mandi
+- GitHub: [nikitalakha](https://github.com/nikitalakha)
