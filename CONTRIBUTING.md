@@ -1,3 +1,9 @@
+#### Name: [MUSKAN SHUKLA](https://github.com/Muskan0739)
+
+- Place: Satna,Madhya Pradesh,India
+- Bio: I am a Computer Science Engineering student interested in Coding
+- GitHub: [Muskan0739](https://github.com/Muskan0739)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
