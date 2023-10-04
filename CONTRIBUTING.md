@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Colin Frick](https://github.com/ColinFrick)
+
+- Place: Vaduz, Liechtenstein
+- Bio: Full-Stack Developer, CEO, Founder of SONDERFORMAT LLC
+- GitHub: [ColinFrick](https://github.com/ColinFrick)
