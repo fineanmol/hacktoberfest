@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: Krish Chandel(https://github.com/kc1100)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: Pre-final year (3rd year) Btech. CSE student of Chameli Devi Group Of Institutions, Indore
+- GitHub: [kc1100](https://github.com/kc1100)
