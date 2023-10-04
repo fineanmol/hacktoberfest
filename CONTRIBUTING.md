@@ -1,3 +1,9 @@
+#### Name: [Mansi](https://github.com/Mannxxx)
+
+- Place: Gurgaon, New Delhi, India
+- Bio:  Final year mechanical undergrad at Indian Institute Of Technology Delhi
+- GitHub: [Mannxxx](https://github.com/Mannxxx)
+  
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
