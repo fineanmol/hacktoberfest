@@ -1,6 +1,6 @@
 name: Auto Comment
 on: [issues, pull_request]
-permissions: write-all
+permissions: write and read
 jobs:
   run:
     runs-on: ubuntu-latest
