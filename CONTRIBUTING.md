@@ -23,6 +23,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -2800,3 +2801,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Tom](https://github.com/Fazer01)
+
+- Place: Gelderland, Netherlands
+- Bio: Gaming, Lego as hobby, software programming as a profession
+- GitHub: [Fazer01](https://github.com/Fazer01)
