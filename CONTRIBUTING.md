@@ -4,6 +4,12 @@
 - Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
 - GitHub: [adityasharma270103](https://github.com/adityasharma270103)
 
+#### Name: [MUHAMMAD KIFAYATHULLAH](https://github.com/muhd-kifayath)
+
+- Place: Chennai, Tamil Nadu, India
+- Bio: I am Web Developer, pursuing Software Engineering
+- GitHub: [muhd-kifayath](https://github.com/muhd-kifayath)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
