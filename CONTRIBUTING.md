@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Pranav Katte](https://github.com/Pranav-kat)
+
+- Place: Pune, Maharashtra, India
+- Bio: Final Year BTech CSE Student at VIT Vellore
+- GitHub: [Pranav-kat](https://github.com/Pranav-kat)
