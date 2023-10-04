@@ -2800,3 +2800,10 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+
+#### Name: [Dibyasankha Pal](https://github.com/palsuryaofficio)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Final Year geek from UEM Kolkata teaching machines since 2017
+- GitHub: [palsuryaofficio](https://github.com/palsuryaofficio)
