@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Kevin Shah](https://github.com/TechoChat)
+
+- Place: Vadodara, Gujarat, India
+- Bio: pursuing B.Tech in CSE, Passion to build robots 🤖 and do automation 🦿, interested in Programming 👨‍💻 and innovating.
+- GitHub: [Kevin Shah](https://github.com/TechoChat)
