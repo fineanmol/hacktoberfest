@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Temitope Oyedele](https://github.com/oyedeletemitope)
+
+- Place: Lagos, Nigeria
+- Bio: I am a Software Developer and technical writer.
+- GitHub: [Temitopeoyedele](https://github.com/oyedeletemitope)
