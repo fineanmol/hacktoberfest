@@ -1,5 +1,4 @@
 #LANGUAGE: python
-# ENV: pyhton
 # AUTHOR: Zia Dongri
 # GITHUB: https://github.com/ziadongri
 
