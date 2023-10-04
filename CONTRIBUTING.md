@@ -1,3 +1,9 @@
+#### Name: [Arjun Singh](https://github.com/Cborgg)
+
+- Place: Bangalore,Karnataka,India
+- Bio: ECE student studying in PES
+- GitHub: [Cborgg](https://github.com/Cborgg)
+- 
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
