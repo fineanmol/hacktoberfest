@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Thiago Dantas](https://github.com/yaakovdantas)
+
+- Place: Joao Pessoa, Paraiba, Brazil
+- Bio: A hard worker dev
+- GitHub: [yaakovdantas](https://github.com/yaakovdantas)
