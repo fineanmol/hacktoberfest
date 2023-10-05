@@ -2800,3 +2800,10 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Aditya sen](https://github.com/coderAdityasen)
+
+- Place: indore Madhya pradesh , india
+- Bio: 2nd year btech CSE student from swami vivekananda college of engineering
+- GitHub: [coderadityasen](https://github.com/coderAdityasen)
+
