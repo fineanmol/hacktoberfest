@@ -1025,6 +1025,12 @@
 - Bio: Student Engineer. Electrical, Electronics and Software
 - GitHub: [Ian Kisali](https://github.com/iankisali)
 
+#### Name: [Ishan Dutta](https://github.com/ishandutta0098)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Deep Learning Researcher
+- GitHub: [ishandutta0098](https://github.com/ishandutta0098)
+
 #### Name: [Idisi Efezino Endurance](https://github.com/efezinoidisi)
 
 - Place: Delta state, Nigeria
