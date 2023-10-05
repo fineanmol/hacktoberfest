@@ -1,3 +1,9 @@
+#### Name: [HARSH KASHIWAL](https://github.com/KashiwalHarsh)
+
+- Place: Dehradun, Uttarakhand, India
+- Bio: I am a Computer Science Engineering student and i have keen interest in Software Development
+- GitHub: [KashiwalHarsh](https://github.com/KashiwalHarsh)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
