@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: Midhilesh((https://github.com/Midhilesh2003))
+
+- Place: Rajahmundry, Andhra Pradesh India
+- Bio: Pre-Final Year, SRMIST Chennai
+- GitHub: Midhilesh(https://github.com/Midhilesh2003)
