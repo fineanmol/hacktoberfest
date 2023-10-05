@@ -1,3 +1,9 @@
+#### Name: [YOUR NAME](GitHub link)
+
+- Place: Seoul, South Korea
+- Bio: Full-stack developer
+- GitHub: [alekseykim-dev](https://github.com/alekseykim-dev)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
