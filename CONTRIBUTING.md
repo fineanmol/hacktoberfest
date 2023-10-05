@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [HARSH JAIN](https://github.com/Harsh76200)
+
+- Place: Shirpur, Maharashtra, India
+- Bio: Pre-Final Year B.Tech CSE Student From R. C. Patel Institute of Technology Shirpur
+- GitHub: [Harsh76200](https://github.com/Harsh76200)
