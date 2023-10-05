@@ -17,7 +17,7 @@ This repository is open to all members of the GitHub community. Any member may c
 
 ## What is Hacktoberfest?
 
-A month-long celebration from October 1st - 31st sponsored by `Digital Ocean` and [`GitHub`](https://dev.to/this-is-learning/hacktoberfest-2022-is-almost-there-get-ready-4ifb) to get people involved in [`Open Source`](https://github.com/open-source). 
+A month-long celebration from October 1st - 31st sponsored by [`Digital Ocean`](https://www.digitalocean.com/) and [`GitHub`](https://dev.to/this-is-learning/hacktoberfest-2022-is-almost-there-get-ready-4ifb) to get people involved in [`Open Source`](https://github.com/open-source). 
 [https://hacktoberfest.com/](https://hacktoberfest.com/)
 
 
