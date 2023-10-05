@@ -1,3 +1,9 @@
+#### Name: [TANYA KUMARI](https://github.com/07tAnYa)
+
+- Place: Bokaro Steel City, Jharkhand, India
+- Bio: I am a Computer Science Engineering student from Maulana Abul Kalam Azad University of Technology,West Bengal and I am a full Stack developer
+- GitHub: [07tAnYa](https://github.com/07tAnYa)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
