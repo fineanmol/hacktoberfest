@@ -2800,3 +2800,7 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Final Year B.Tech CSE Student at Christ University, Bangalore
+- GitHub: [SatyajeetGhosh](https://github.com/SatyajeetGhosh)
