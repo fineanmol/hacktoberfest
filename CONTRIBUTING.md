@@ -15,6 +15,12 @@
 - Place: Lagos, Nigeria
 - Bio: I am a Software Developer, graduate of Mathematics
 - GitHub: [Vctcode](https://github.com/Vctcode)
+  
+#### Name: [Nivedita Chatterjee](https://github.com/Nivedita021)
+
+- Place: Ranchi, Jharkhand, India
+- Bio: A final Engineering student (ECE) from NIT JSR, aspiring software Engineer, ex-summer Intern at Atlassian India, interested in coding.
+- GitHub: [Nivedita021](https://github.com/Nivedita021)
 
 #### Name: [SP KariSims](https://github.com/KariSims)
 
