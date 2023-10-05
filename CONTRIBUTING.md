@@ -1,3 +1,9 @@
+#### Name: [Ahmad Usama](https://github.com/IahmadDev)
+
+- Place: Islamabad, Punjab, Pakistan
+- Bio: a ux engineer who can cook, take photographs & desgin
+- GitHub: [Ahmad Usama](https://github.com/IahmadDev)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
