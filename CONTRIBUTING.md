@@ -1,3 +1,9 @@
+#### Name: [PRIYANSHU SHARMA](https://github.com/priyanshusharma80)
+
+- Place: Bareilly, Uttar Pradesh, India
+- Bio: Level 1 Freelancer @Fiverr | Social Media Manager & SEO
+- GitHub: [priyanshusharma80](https://github.com/priyanshusharma80)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
