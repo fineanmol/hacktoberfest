@@ -1,3 +1,8 @@
+#### Name : [PRIYANSHU SHARMA](https://github.com/priyanshusharma80)
+- Place: Bareilly, Uttar Pradesh, India
+- Bio: Social Media Marketer & SEO | MCA'25 @NIT Raipur
+- GitHub: [priyanshusharma80](https://github.com/priyanshusharma80)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
