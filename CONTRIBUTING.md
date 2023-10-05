@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Aditya](https://github.com/adityasays)
+
+- Place: Lucknow, UP, India
+- Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
+- GitHub: [adityasays](https://github.com/adityasays)
