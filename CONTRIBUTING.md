@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Yash Kumar Gupta](https://github.com/YKGupta)
+
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: Second Year CSE Student at Lovely Professional University, Punjab
+- GitHub: [YKGupta](https://github.com/YKGupta)
