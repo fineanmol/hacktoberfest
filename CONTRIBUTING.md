@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [AYUSH RAJ](https://github.com/ayushraj17)
+
+- Place: Patna, Bihar, India
+- Bio: I am a Computer Science Engineering student from MGMCET,Navi Mumbai
+- GitHub: [ayushraj17](https://github.com/ayushraj17)
