@@ -167,6 +167,12 @@
 -Bio: I am a student.
 -GitHub: https://github.com/papaihactober2k21
 
+#### Name: [Vinay Kokate](https://github.com/VinayKokate22)
+
+-Place: Gwalior,MP, India
+-Bio: I am a student.
+-GitHub: hhttps://github.com/VinayKokate22
+
 #### Name: [Lakshitha Samod](https://github.com/LakshithaSamod)
 
 - Place: Colombo, WP, SL
