@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Rohit](https://github.com/rohit85-it)
+
+- Place: Maharashtra, Maharashtra, India
+- Bio: Developer that develop bugs.
+- GitHub: [rohit85-it](https://github.com/rohit85-it)
+
