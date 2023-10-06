@@ -29,6 +29,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -2812,3 +2813,9 @@
 - Place: Lucknow, UP, India
 - Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [adityasays](https://github.com/adityasays)
+
+#### Name: [Ridho](https://github.com/addhory)
+
+- Place: Samarinda, East Kalimantan, Indonesia
+- Bio: Frontend Engineer
+- GitHub: [Muhammad Ridho Anshory](https://github.com/addhory)
