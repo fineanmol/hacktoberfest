@@ -1,3 +1,9 @@
+#### Name: [Kumar Bishwa Kalyan](https://github.com/sickodev)
+
+- Place: Rourkela, Odisha, India
+- Bio: Fullstack Developer | Game Developer | XR Enthusiast | Rookie Music Producer
+- GitHub: [sikodev](https://github.com/sickodev)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
