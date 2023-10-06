@@ -2850,7 +2850,3 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
-## Name: [VenkataSai](https://github.com/Venkata-Sai-Vishwanath-robos)
-- Place: Manipal, karnataka, India
-- Bio: 2nd year undergraduate student in Information Technology
-- GitHub: [Venkata-sai-vishwanath-robo](https://github.com/Venkata-Sai-Vishwanath-robo)
