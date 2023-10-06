@@ -171,7 +171,7 @@
 
 -Place: Gwalior,MP, India
 -Bio: I am a student.
--GitHub: hhttps://github.com/VinayKokate22
+-GitHub: https://github.com/VinayKokate22
 
 #### Name: [Lakshitha Samod](https://github.com/LakshithaSamod)
 
