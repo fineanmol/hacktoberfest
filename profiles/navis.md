@@ -1,7 +1,7 @@
 ## Navis
 
 ### Location:
-Bengalure,Karnataka, India
+Banglore ,Karnataka, India 
 
 ### Academics:
 B.Tech in Information Science and Engineering : @VIT 
