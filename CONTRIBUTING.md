@@ -1151,6 +1151,13 @@
 - Bio: Original business management student willing to merge his knowledge with coding
 - GitHub: [maztt](https://github.com/maztt)
 
+#### Name: [Mohd Ahmad](https://github.com/No0b-master)
+
+- Place: New Delhi, India
+- Bio: Frontend App & Web Developer
+- GitHub: [maztt](https://github.com/No0b-master)
+
+
 #### Name: [Karamveer Singh](https://github.com/kzaildar26)
 
 - Place: Patiala, Punjab, India
