@@ -2812,3 +2812,9 @@
 - Place: Lucknow, UP, India
 - Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [adityasays](https://github.com/adityasays)
+
+#### Name: [Prashansa](https://github.com/op-amateur)
+
+- Place: Kolkata, WB, India
+- Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
+- GitHub: [op-amateur](https://github.com/op-amateur)
