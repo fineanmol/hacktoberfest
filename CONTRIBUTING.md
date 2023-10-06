@@ -16,6 +16,12 @@
 - Bio: I am a Software Developer, graduate of Mathematics
 - GitHub: [Vctcode](https://github.com/Vctcode)
 
+#### Name: [Mohamed Faizal](https://github.com/faizalmsdev)
+
+- Place: Pondicherry, India
+- Bio: I am a Frontend Developer, graduate of Ece
+- GitHub: [Mohamed Faizal](https://github.com/faizalmsdev)
+
 #### Name: [SP KariSims](https://github.com/KariSims)
 
 -Place: Dakar, DAKAR, SENEGAL
