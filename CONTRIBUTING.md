@@ -2853,5 +2853,5 @@
 #### Name: [João Guilherme](https://github.com/camarota-234)
 
 - Place: Goiânia, Goiás, Brazil
-- Bio: Computer Engineering Student at UFG
+- Bio: Computer Engineering Student at UFG and intern at the legislative assembly of Goiás
 - GitHub: [camarota-234](https://github.com/camarota-234)
