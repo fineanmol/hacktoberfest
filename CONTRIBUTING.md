@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+### NAME: [Yash_Adake](https://github.com/YashAdake)
+
+- Place: Maharastra, India.
+- Bio: Computer Science Student
+- Github: [Yash_Adake](https://github.com/YashAdake)
