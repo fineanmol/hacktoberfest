@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Adarsh](https://github.com/adarsh0701)
+
+- Place: Bengaluru, Karnattaka, India
+- Bio: I'm a Technology consulatantt
+- GitHub: [adarsh0701](https://github.com/adarsh0701)
+
