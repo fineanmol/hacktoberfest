@@ -2850,3 +2850,10 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [Akrati Verma](https://github.com/blindaks)
+
+- Place: Lucknow, UP, India
+- Bio: Pre-Final Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [blindaks](https://github.com/blindaks)
+
