@@ -2819,6 +2819,12 @@
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
 
+#### Name: [Vaibhav](https://github.com/vaibhav-009)
+
+-Place: Delhi, India
+-Bio: Final Year Btech CSE student at Delhi Technological University
+-Github: [vaibhav-009](https://github.com/vaibhav-009)
+
 #### Name: [Aditya](https://github.com/adityasays)
 
 - Place: Lucknow, UP, India
