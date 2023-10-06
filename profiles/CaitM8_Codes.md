@@ -6,7 +6,7 @@ Australia
 
 ### Academics
 
-Certificate IV in IT (Programming)
+Computer eb
 
 ### Interests
 
