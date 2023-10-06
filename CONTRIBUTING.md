@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Garvit](https://github.com/Garvit4093)
+
+- Place: Chandigarh, India
+- Bio: Third Year undergrad pursuing B.tech in Electrical Engineering
+- GitHub: [Garvit4093](https://github.com/Garvit4093)
