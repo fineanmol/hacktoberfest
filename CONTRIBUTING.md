@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Jeffrey](https://github.com/gkomo)
+
+- Place: Nairobi, Nairobi, Kenya
+- Bio: A final year IT student and a Bitcoin enthusiast. Oh, I also love bikes.
+- GitHub: [gkomo](https://github.com/gkomo)
