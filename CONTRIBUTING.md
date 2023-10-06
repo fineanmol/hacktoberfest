@@ -2850,3 +2850,10 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [João Guilherme](https://github.com/camarota-234)
+
+- Place: Goiânia, Goiás, Brazil
+- Bio: Computer Engineering Student at UFG and intern at the Legislative Assembly of Goiás
+- GitHub: [camarota-234](https://github.com/camarota-234)
+
+
