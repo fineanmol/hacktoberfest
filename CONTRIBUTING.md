@@ -4,6 +4,12 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [YassaFareed](https://github.com/YassaFareed)
+
+- Place: Karachi, Pakistan
+- Bio:  Data Scientist | Data Engineer | DevOps | ML/AI Enthusiast
+- GitHub: [YassaFareed](https://github.com/YassaFareed)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
