@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Om](https://github.com/NegativE333/)
+
+- Place: Pune, Maharashtra, India
+- Bio: 3rd year Computer engineering student at VIT Pune.
+- GitHub: [NegativE333](https://github.com/NegativE333/)
