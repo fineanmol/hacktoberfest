@@ -1,3 +1,9 @@
+#### Name: [Muhammad Talha Khan](https://github.com/muhtalhakhan)
+
+- Place: Karachi, Pakistan
+- Bio: Computer Scientist | Data Engineer | ML/AI Enthusiast
+- GitHub: [Muhammad Talha Khan](https://github.com/muhtalhakhan)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
