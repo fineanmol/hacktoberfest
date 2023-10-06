@@ -1,3 +1,9 @@
+#### Name: [RAHUL JAIN](https://github.com/Rahuljain2222)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: I am a Computer Science Engineering student from Jecrc College and I am a competitive programmer
+- GitHub: [Rahuljain2222](https://github.com/Rahuljain2222)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
