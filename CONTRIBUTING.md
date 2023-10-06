@@ -10,6 +10,12 @@
 - Bio: I am a Computer Science Engineering student from Maulana Abul Kalam Azad University of Technology,West Bengal and I am a full Stack developer
 - GitHub: [07tAnYa](https://github.com/07tAnYa)
 
+#### Name: [Anubhav Kulshreshtha](https://github.com/anubhav1450)
+
+- Place: Shikohabad,Uttar Pradesh, India
+- Bio: I am Computer Science Engineering student from Government Engineering College Bharatpur
+- GitHub: [anubhav1450](https://github.com/anubhav1450)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
