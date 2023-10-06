@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Raj Mandal](https://github.com/Raj-Mandal-20)
+
+- Place:  Kolkata, WB, India
+- Bio: A 3rd Year Computer Science Student
+- GitHub: [Raj-Mandal-20](https://github.com/Raj-Mandal-20)
