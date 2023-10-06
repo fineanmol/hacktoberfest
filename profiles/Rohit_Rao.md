@@ -11,7 +11,7 @@ completed B.Tech
 ### Interests
 
 - Web development
-- Cybersecurity
+- Badminton
 - Music
 - Coding
 - Movies and Shows
