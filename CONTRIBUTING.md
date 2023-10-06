@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Shrivardha](https://github.com/shrivardha)
+
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Fourth Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [op-amateur](https://github.com/shrivardha)
+
