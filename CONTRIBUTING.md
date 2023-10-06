@@ -2800,3 +2800,11 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+
+---
+#### Name: [Manish Yadhuvanshi](https://github.com/iammanishk)
+
+- Place: Mullana, Haryana, India 
+- Bio: I am a cool, charming and cute Android Developer
+- GitHub: [iammanishk](https://github.com/iammanishk)
