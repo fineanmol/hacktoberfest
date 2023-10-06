@@ -2812,3 +2812,9 @@
 - Place: Lucknow, UP, India
 - Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [adityasays](https://github.com/adityasays)
+
+#### Name: [Utkarsh](https://github.com/Utkarsh1520)
+
+- Place: Noida, Uttar Pradesh, India
+- Bio: Working professionallyas a UI/UX Designer, have recently started learning Frontend Technologies and want to also explore in open source.
+- GitHub: [Utkarsh1520](https://github.com/Utkarsh1520)
