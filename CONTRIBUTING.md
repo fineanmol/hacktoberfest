@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Shlok Jain](https://github.com/Shlok-Jain)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: First year BTech Undergraduate at IIT Kanpur
+- GitHub: [Shlok-Jain](https://github.com/Shlok-Jain)
