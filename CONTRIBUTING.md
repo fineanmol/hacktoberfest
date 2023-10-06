@@ -2813,6 +2813,13 @@
 - Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [adityasays](https://github.com/adityasays)
 
+
+#### Name: [Koduri Mohan](https://github.com/kodurimohan)
+
+- Place: Chennai, Tamil Nadu, India
+- Bio: I'm a Research Spealist at CODIIS.
+- GitHub: [Koduri Mohan](https://github.com/kodurimohan)
+
 #### Name: [Sithum](https://github.com/sithum20210380)
 
 - Place: Colombo, Western, SriLanka
