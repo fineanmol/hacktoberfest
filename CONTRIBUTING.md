@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [pabitra0011](https://github.com/pabitra0011)
+
+- Place: Kolkata, WB, India
+- Bio: Fourth Year undergrad pursuing B.tech in Electrical Engineering
+- GitHub: [pabitra0011](https://github.com/pabitra0011)
