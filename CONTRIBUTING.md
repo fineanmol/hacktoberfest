@@ -2850,3 +2850,7 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+Name: Aviral
+Place: Chennai, TN, India
+Bio: Second Year undergrad pursuing B.tech in CSE
+GitHub: [meaviral17](https://github.com/meaviral17)
