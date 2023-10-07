@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Yashwanth Varma ](https://github.com/yashwanthvarma18)
+
+- Place: Chennai, Tamil Nadu, India
+- Bio:  2nd-year student at the Indian Institute of Technology, Madras (IITM)
+- GitHub: [Yashwanth](https://github.com/yashwanthvarma18)
