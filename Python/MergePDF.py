@@ -26,4 +26,5 @@ if __name__ == "__main__":
 
 ## Changes proposed in this Pull Request :
 -  `1.`<!-- transform property added to box-item on hover -->
+- `2.`<!-- Added a code that can merge pages from pdf >
 -  `..`
