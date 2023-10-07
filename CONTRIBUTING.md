@@ -2817,7 +2817,7 @@
 
 - Place: Mentese, Mugla, Turkey
 - Bio: Data Engineer
-- GitHub: [Ugur](https://github.com/uozcan12)
+- GitHub: [Ugur](https://github.com/uozcan12) 
 
 #### Name: [Harmanjot Kaur](https://github.com/harmanjot2002)
 
