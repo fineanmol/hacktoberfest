@@ -1,3 +1,7 @@
+// LANGUAGE: C Programmming
+// AUTHOR: Abhishek Paul P
+// GITHUB: https://github.com/AbhishekPaul08
+
 #include <stdio.h>
 
 int main(){
