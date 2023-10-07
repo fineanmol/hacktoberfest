@@ -2799,4 +2799,4 @@
 
 - Place: Mentese, Mugla, Turkey
 - Bio: Data Engineer
-- GitHub: [Ugur](https://github.com/ogdhruv)
+- GitHub: [Ugur](https://github.com/uozcan12)
