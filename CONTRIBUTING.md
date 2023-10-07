@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Oussama](https://github.com/OssamaLouati)
+
+- Place: Rabat, Rabat-Salé, Morocco
+- Bio: 2024 CS graduate from INPT Rabat, Advanced Software Engineering for Digital Services 
+- GitHub: [OussamaLouati](https://github.com/OssamaLouati)
