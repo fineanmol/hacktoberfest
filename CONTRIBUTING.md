@@ -2850,3 +2850,7 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Shivam](https://github.com/Shivam250702)
+- Place: Patna, Bihar, India
+- Bio: Third Year undergrad pursuing B.tech in Information Technology
+- GitHub: [Shivam](https://github.com/Shivam250702)
