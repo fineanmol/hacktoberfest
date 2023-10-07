@@ -2853,5 +2853,5 @@
 #### Name: [Sithum Raveesha](https://github.com/sithum20210380)
 
 - Place: Colombo, Western, SriLanka
-- Bio: 3rd year undergrad pursuing BSc.Computer Science at University of Westminster and Software Engineer intern at 99X Technology
+- Bio: 3rd year undergrad pursuing BSc.Computer Science at University of Westminster and Software Engineer intern at 99X Technology SriLanka
 - GitHub: [sithum20210380](https://github.com/sithum20210380)
