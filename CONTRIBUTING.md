@@ -2849,4 +2849,8 @@
 - Place: Kolkata, WB, India
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
-
+  
+#### Name: [Shivam Singh](https://github.com/Shivam250702)
+- Place: Patna, Bihar, India
+- Bio: Third Year undergrad pursuing B.tech in Information Technology
+- GitHub: [Shivam250702](https://github.com/Shivam250702)
