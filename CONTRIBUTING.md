@@ -1,3 +1,9 @@
+#### Name: [ADITYA KUMAR TIWARI](https://github.com/ironspec07)
+
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: I am a Computer Science Engineering student from Vellore Institute Of Technology,Bhopala
+- GitHub: [ironspec07](https://github.com/ironspec07)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
