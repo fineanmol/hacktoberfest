@@ -4,4 +4,4 @@
 // AUTHOR: Samyak Khairnar
 // GITHUB: https://github.com/SamyakKhairnar
 
-console.log('Hello, World!');
+console.log("Hello, HacktoberFest !");
