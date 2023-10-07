@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Abdul Rehan](https://www.linkedin.com/in/abrehan/)
+
+- Place: Pakistan, Islamabad
+- Bio: Software Engineer | MERN Stack Developer | LSA @ Microsoft
+- GitHub: [abrehan2](https://github.com/abrehan2)
+
