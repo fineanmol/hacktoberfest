@@ -170,7 +170,7 @@
 #### Name: [Vinay Kokate](https://github.com/VinayKokate22)
 
 -Place: Gwalior,MP, India
--Bio: I am a student.
+-Bio: I am a Btech student.
 -GitHub: https://github.com/VinayKokate22
 
 #### Name: [Lakshitha Samod](https://github.com/LakshithaSamod)
