@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [RASHIKA SAHU](https://github.com/logic-found)
+
+- Place: Mirzapur, Uttar Pradesh, India
+- Bio: DevOps Trainee, front-end developer
+- GitHub: [logic-found](https://github.com/logic-found) 
