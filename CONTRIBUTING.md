@@ -2854,4 +2854,4 @@
 
 - Place: Mirzapur, Uttar Pradesh, India
 - Bio: DevOps Trainee, front-end developer
-- GitHub: [logic-found](https://github.com/logic-found)
+- GitHub: [logic-found](https://github.com/logic-found) 
