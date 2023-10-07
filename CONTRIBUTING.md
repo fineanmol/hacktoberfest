@@ -2850,3 +2850,11 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [Aashish Chapain](https://github.com/chapainaashish)
+
+- Place: Pokhara, Gandaki, Nepal
+- Bio: I am a backend Developer
+- GitHub: [chapainaashish](https://github.com/chapainaashish)
+
+    
