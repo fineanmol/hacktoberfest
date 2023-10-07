@@ -7,7 +7,7 @@ def start():
     start_button['state'] = 'disabled'
     stop_button['state'] = 'active'
     update()
-
+    
 def stop():
     global running
     running = False
