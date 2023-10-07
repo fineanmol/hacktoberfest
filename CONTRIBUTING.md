@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [SAMYAK KHAIRNAR](https://github.com/SamyakKhairnar)
+
+- Place: Pune, Maharashtra, India
+- Bio: I'm a BCOM Grad, Learnt about Frontend Dev And Then Switched Career in IT as a Software Developer in an MNC.
+- GitHub: [SAMYAK KHAIRNAR](https://github.com/SamyakKhairnar)
+
