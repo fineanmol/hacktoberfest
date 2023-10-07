@@ -1,3 +1,9 @@
+#### Name: [Aditya Walture](https://github.com/adityawalture)
+
+- Place: Maharashtra, India
+- Bio: Pre-final year in Int.Mtch Aiml VIT| Flutter Developer | Data Analytics | ML/AI Enthusiast
+- GitHub: [Aditya Walture](https://github.com/adityawalture)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
