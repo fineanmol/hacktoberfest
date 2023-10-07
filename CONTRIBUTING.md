@@ -1,3 +1,9 @@
+#### Name: [Abhishek Paul P](https://github.com/AbhishekPaul08)
+
+- Place: Bangalore, Karnataka, India
+- Bio:  3rd year undergrad pursuing B.tech in Computer Science and Engineering.
+- GitHub: [AbhishekPaul08](https://github.com/AbhishekPaul08)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
