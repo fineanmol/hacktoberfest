@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [bibinwithab](https://github.com/bibinwithab)
+
+- Place: Chennai, Tamil Nadu, India
+- Bio: Sophomore under grad pursuing B.tech IT 
+- GitHub: [bibinwithab](https://github.com/bibinwithab)
