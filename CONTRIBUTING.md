@@ -16,6 +16,14 @@
 - Bio: I am Computer Science Engineering student from Government Engineering College Bharatpur
 - GitHub: [anubhav1450](https://github.com/anubhav1450)
 
+
+#### Name: [Ashmit Mehta](https://github.com/ash-codes18)
+
+- Place: New Delhi, India
+- Bio: I Code I Enjoy. Anime is Love. Want to Develop Something big.
+- GitHub: [ash-codes18](https://github.com/ash-codes18)
+
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
