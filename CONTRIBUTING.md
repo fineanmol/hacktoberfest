@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Ashutosh Kumar Singh](https://github.com/Ashutosh0120)
+
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: 4th year student pursuing B.Tech Computer Science
+- GitHub: [Ashutosh0120](https://github.com/Ashutosh0120)
