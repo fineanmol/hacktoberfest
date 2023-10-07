@@ -2813,6 +2813,12 @@
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
 
+#### Name: [Ugur](https://github.com/uozcan12)
+
+- Place: Mentese, Mugla, Turkey
+- Bio: Data Engineer
+- GitHub: [Ugur](https://github.com/uozcan12) 
+
 #### Name: [Harmanjot Kaur](https://github.com/harmanjot2002)
 
 - Place: Faridkot, Punjab, India
@@ -2831,7 +2837,6 @@
 - Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [adityasays](https://github.com/adityasays)
 
-
 #### Name: [Koduri Mohan](https://github.com/kodurimohan)
 
 - Place: Chennai, Tamil Nadu, India
@@ -2849,4 +2854,3 @@
 - Place: Kolkata, WB, India
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
-
