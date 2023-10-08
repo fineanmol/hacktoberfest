@@ -1,3 +1,9 @@
+#### Name: [Gaurav Bhaskar](https://github.com/gauravbhaskar080)
+
+- Place: Delhi, India
+- Bio: Fullstack Developer | Competitive Programmer
+- GitHub: [Gaurav Bhaskar](https://github.com/gauravbhaskar080)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
