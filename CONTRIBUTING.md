@@ -1,3 +1,9 @@
+#### Name: [KRITIK](https://github.com/Kritikmahajan)
+
+- Place: Punjab, India
+- Bio: Engineering Student | Android Developer
+- GitHub: [Kritikmahajan](https://github.com/Kritikmahajan)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
