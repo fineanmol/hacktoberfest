@@ -16,6 +16,12 @@
 - Bio: I am Computer Science Engineering student from Government Engineering College Bharatpur
 - GitHub: [anubhav1450](https://github.com/anubhav1450)
 
+#### Name: [Tirth Nisar](https://github.com/TirthNisar193)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: I am 3rd Year Computer Science Engineering student from Dwarkadas J. Saghvi College of Engineering
+- GitHub: [TirthNisar193](https://github.com/TirthNisar193)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
