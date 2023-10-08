@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Pankaj Singh](https://github.com/pankaj-2503)
+
+- Place: Sarita Vihar, Badarpur , New Delhi
+- Bio: I am third year undergrad student pursuing B.tech in Instrumentation and Control Engineering from NSUT
+- GithHub: [pankaj-2503](https://github.com/pankaj-2503)
