@@ -106,6 +106,12 @@
 - Place: New Delhi, Delhi, INDIA
 - Bio: Flutter Developer and B. Tech. pursuing student
 
+#### Name: [SUHIT](https://github.com/suhit123)
+
+- Place: Banagalore, Karnataka, India
+- Bio: Iam am a student persuing BTech
+- GitHub: [SUHIT](https://github.com/suhit123)
+
 #### Name: [ABHISHEK KAYAL](https://github.com/Drako-Rexon)
 
 - Place: New Delhi, Delhi, INDIA
