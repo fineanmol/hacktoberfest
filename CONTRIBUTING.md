@@ -2849,4 +2849,8 @@
 - Place: Kolkata, WB, India
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
+#### Name: [shibs](https://github.com/shibs-01)
 
+- Place:Delhi,India
+- Bio: Pursuing Comp. Sc.
+- GitHub: [shibs-01](https://github.com/shibs-01)
