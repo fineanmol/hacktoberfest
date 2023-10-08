@@ -1,3 +1,8 @@
+#### Name: [Rishab Bairi](https://github.com/RishabB54)
+- Place: mandi,Himachal Pradesh, India
+- Bio: I am Computer Science Engineering student from IIT 
+- GitHub: [Rishab54](https://github.com/RishabB54)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
