@@ -1,3 +1,10 @@
+#### Name: [nharjes](https://github.com/nharjes)
+
+- Place: NRW, Germany
+- Bio: open minded Web Dev with a passion for design
+- GitHub: [nharjes](https://github.com/nharjes)
+
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
