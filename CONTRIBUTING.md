@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Ayush Sharma](https://github.com/enayush)
+
+- Place: New Delhi, India
+- Bio: Second Year undergrad pursuing B.tech in Computer Science and Engineering at NSUT, Delhi
+- GitHub: [enayush](https://github.com/enayush)
