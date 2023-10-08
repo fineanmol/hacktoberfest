@@ -34,6 +34,12 @@
 - Bio: I am a Software Developer, graduate of Mathematics
 - GitHub: [Vctcode](https://github.com/Vctcode)
 
+#### Name: [SUHIT](https://github.com/suhit123)
+
+- Place: Banagalore, Karnataka, India
+- Bio: Iam am a student persuing BTech
+- GitHub: [SUHIT](https://github.com/suhit123)
+
 #### Name: [SP KariSims](https://github.com/KariSims)
 
 -Place: Dakar, DAKAR, SENEGAL
@@ -100,6 +106,12 @@
 - Place: New Delhi, Delhi, INDIA
 - Bio: Flutter Developer and B. Tech. pursuing student
 
+#### Name: [SUHIT](https://github.com/suhit123)
+
+- Place: Banagalore, Karnataka, India
+- Bio: Iam am a student persuing BTech
+- GitHub: [SUHIT](https://github.com/suhit123)
+
 #### Name: [ABHISHEK KAYAL](https://github.com/Drako-Rexon)
 
 - Place: New Delhi, Delhi, INDIA
@@ -125,6 +137,12 @@
 - Place: Delhi, Delhi, India
 - Bio: Student at IGDTUW
 - GitHub: [nancy0119](https://github.com/nancy0119)
+
+#### Name: [SUHITESWAR](https://github.com/suhit123)
+
+- Place: Banagalore, Karnataka, India
+- Bio: Iam am a student persuing BTech
+- GitHub: [SUHITESWAR](https://github.com/suhit123)
 
 #### Name: [Ayush Sagar](https://github.com/itsmeAYUSH)
 
