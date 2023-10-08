@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [hungrybear88](https://github.com/hungrybear88)
+
+- Place: NZ
+- Bio: Software engineer
+- GitHub: [hungrybear88](https://github.com/hungrybear88)
