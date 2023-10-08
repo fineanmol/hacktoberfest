@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Yash](https://github.com/yashhhhh1)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: Second year undergraduate student b.tech in computer engineering for adani university
+- GitHub: [yashhhhh1](https://github.com/yashhhhh1)
+
