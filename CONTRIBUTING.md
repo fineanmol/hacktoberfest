@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Deep Das](https://github.com/youtanimstar)
+
+- Place: Howrah, West Bengal, India
+- Bio: I am a B.Tech 2nd-year student at Meghnad Saha Institute of Technology.
+- GitHub: [youtanimstar](https://github.com/youtanimstar)
+
