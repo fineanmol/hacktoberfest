@@ -4,6 +4,12 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [Arpan Gupta](https://github.com/gupta-arpan)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: Myself Arpan Gupta, I am currently doing my BTech from National Institue of Technology Hamirpur. My sepecialization is in Mathematics and Scientific Computing.
+- Github: [gupta-arpan](https://github.com/gupta-arpan)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
