@@ -34,6 +34,12 @@
 - Bio: I am a Software Developer, graduate of Mathematics
 - GitHub: [Vctcode](https://github.com/Vctcode)
 
+#### Name: [SUHIT](https://github.com/suhit123)
+
+- Place: Banagalore, Karnataka, India
+- Bio: Iam am a student persuing BTech
+- GitHub: [SUHIT](https://github.com/suhit123)
+
 #### Name: [SP KariSims](https://github.com/KariSims)
 
 -Place: Dakar, DAKAR, SENEGAL
