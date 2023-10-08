@@ -2111,6 +2111,12 @@
 - Bio: Full Stack Developer
 - GitHub: [shivendoodeshmukh](https://github.com/shivendoodeshmukh)
 
+#### Name: [Abhishek Gupta](https://github.com/GhostRider987)
+
+-Place: Vidisha, Madhya Pradesh, India
+-Bio: 3rd Year Btech CSE student at Samrat Ashok Technological Institute
+-Github: [GhostRider987](https://github.com/GhostRider987)
+
 #### Name: [Shrishail Patil](https://github.com/shrishail356)
 
 - Place: Hubbli, Karnataka ,India
