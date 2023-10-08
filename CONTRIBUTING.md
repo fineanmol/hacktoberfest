@@ -547,6 +547,12 @@
 
 #### Name: [Anns Shahbaz](https://github.com/Ansi007)
 
+#### Name: [Arunesh Unnithan](https://github.com/ashllxyy)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: I am Arunesh Unnithan. I'm a student doing B.Tech at NIT Trichy currently. I'm very interested in software. When I'm not on my keyboard, I'll be drawing or playing the guitar.
+- GitHub: [ashllxyy](https://github.com/ashllxyy)
+
 #### Name: [Catherine Muthoni](https://github.com/cate865)
 
 - Place: Kitengela, Nairobi, Kenya
