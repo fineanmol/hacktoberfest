@@ -4,6 +4,13 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [Utsav Bhattarai](https://github.com/utsavbhattarai007)
+
+- Place: Rupandehi, Nepal
+- Bio: I am a full stack developer, blogger and student
+- GitHub: [utsavbhattarai007](https://github.com/utsavbhattarai007)
+
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
