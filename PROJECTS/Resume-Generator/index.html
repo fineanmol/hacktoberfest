@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+        integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="shortcut icon" href="/Assets/favicon.ico" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/froala-editor@latest/css/froala_editor.pkgd.min.css" rel="stylesheet"
+        type="text/css" />
+    <link href="node_modules/froala-editor/css/froala_editor.pkgd.min.css" rel="stylesheet" type="text/css" />
+    <title>Resume Generator</title>
+</head>
+
+<body>
+    <!-- Here goes html code -->
+    <section class="container1" id="resume-form">
+        <div class="container">
+            <div class="container2">
+                <div class="title">
+                    <h1 class="mt-2 text-center">Create Your Resume</h1>
+                    <p class="text-center mt-2">Resume Generator by DS Rathore</p>
+                </div>
+
+                <div class="row">
+                    <!-- First coloumn -->
+                    <div class="col-md-6">
+                        <h3> Personal Information</h3>
+                        <label class="mt-3" required>Your Name</label>
+                        <input type="text" placeholder="Enter your Name" class="form-control mt-1  name" id="nameField">
+                        <label class="mt-3">Your Email</label>
+                        <input type="email" placeholder="example@domain.com" class="form-control mt-1 email"
+                            id="emailField" required>
+                        <label class="mt-3" required>Phone number</label>
+                        <input type="number" placeholder="Enter Mobile Number" id="numField" class="form-control mt-1">
+                        <label class="mt-3">Your Age</label>
+                        <input type="date" max="2005-02-25" class="form-control mt-1 name" id="dobField">
+                        <label class="mt-3">Profile Picture</label>
+                        <input type="file" accept="image/*" class="form-control mt-1 name" id="dpField">
+                        <div class="form-group">
+                            <label class="mt-3">Address</label>
+                            <textarea maxlength="150" class="form-control" id="addressField"
+                                placeholder="Enter your Address" rows="3"></textarea>
+                        </div>
+                        <div class="important_link" id="imp_link_container">
+                            <label class="mt-2 imp_links">Contact Links</label>
+                            <p for="insta" class="gitHub mt-3"> <i class="fab fa-github"></i> GitHub </p>
+                            <input type="url" class="form-control" id="githubField">
+                            <p for="linkedIn" class="linkedIn mt-2"> <i class="fab fa-linkedin-in"></i> LinkedIn</p>
+                            <input type="url" class="form-control" id="linkedField">
+                            <p for="twitter" class="twitter mt-2"><i class="fab fa-twitter"></i> Twitter</p>
+                            <input type="url" class="form-control" id="twitterField">
+
+                        </div>
+                        <!-- Hobbies -->
+                        <div id="hobbies-container">
+                            <label class="mt-4">Hobbies</label>
+                            <input type="text" class="form-control mt-4 hobbiesField" id="skill"
+                                placeholder="Add your hobbies">
+                            <div class="text-center mt-2" id="add_hobbies">
+                                <a onclick="addHobbyField()" class="btn btn-outline-danger hobbies_button"
+                                    role="button">Add
+                                    Hobbies</a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- Second coloumn -->
+                    <div class="col-md-6">
+                        <h3>Professional Information</h3>
+
+                        <!-- Summary -->
+                        <div class="form-group">
+                            <label class="mt-3" for="suField">Summary</label>
+                            <textarea maxlength="350" class="form-control" id="summaryField"
+                                placeholder="Tell us something about yourself" rows="5"></textarea>
+                        </div>
+
+                        <!-- Education Qualification -->
+                        <div class="form-group" id="ed-container">
+                            <label class="mt-3">Education Qualification</label>
+                            <input class="form-control edField" placeholder="Enter your Education Qualification">
+                        </div>
+                        <div class="edButton text-center">
+                            <a onclick="addEdButton()" class="btn btn-outline-primary ed_button mt-2" role="button">Add
+                                Education</a>
+                        </div>
+
+                        <!-- Work Experience -->
+                        <div class="workEx-container ">
+                            <label for="#" class="eq mt-3">Work Experience</label>
+                            <div class="selectContainer mt-1 ">
+                                <select id="expField" class="dropdown">
+                                    <option value="0">Fresher</option>
+                                    <option value="1-2 Years">1-2 Years</option>
+                                    <option value="3-5 Years">3-5 Years</option>
+                                    <option value="6-8 Years">6-8 Years</option>
+                                    <option value=">8 Years">>8 Years</option>
+                                </select>
+                            </div>
+                            <div id="weField" class="mt-2">
+                                <textarea class="fr-view " id="example" placeholder="Add your Work Experience" rows="4">
+                                </textarea>
+                            </div>
+                        </div>
+                        <!-- Achievement -->
+                        <div class="form-group " id="achievement_container">
+                            <label class=" mt-3">Achievement</label>
+                            <textarea maxlength="150" class="form-control achieveField"
+                                placeholder="Add your achievements" rows="1"></textarea>
+                        </div>
+                        <div class="achievementButton text-center">
+                            <a onclick="addAchievementField()" class="btn btn-outline-primary achievement_button mt-2"
+                                role="button">Add
+                                Achievement</a>
+                        </div>
+
+                        <!-- Skills -->
+                        <div id="skill-container">
+                            <label class="mt-3">Skills</label>
+                            <input type="text" class="form-control mt-4 skillField " placeholder="Add your skill">
+
+                            <!-- add new skill -->
+
+                            <div class="text-center mt-2" id="add_skill">
+                                <a onclick="addSkillField()" class="btn btn-outline-primary skill_button"
+                                    role="button">Add
+                                    Skill</a>
+                            </div>
+                        </div>
+
+                        <!-- Select position for job apply  -->
+                        <label class="mt-5">Apply for the position</label>
+                        <select name="applyForField" id="applyForField" class="mt-4 form-select">
+                            <option value="Software Engineer">Software Engineer</option>
+                            <option value="Data Scientist">Data Scientist</option>
+                            <option value="AI/Machine Learning">AI/Machine Learning</option>
+                            <option value="Web Developer">Web Developer</option>
+                            <option value="Software Developer">Software Developer</option>
+                            <option value="Application Developer">Application Developer</option>
+                            <option value="Backend Developer">Backend Developer</option>
+                            <option value="Frontend Developer">Frontend Developer</option>
+                            <option value="UI/UX Desinger">UI/UX Desinger</option>
+                            <option value="Graphics Desinger">Graphics Desinger</option>
+                            <option value="Content Writer">Content Writer</option>
+                            <option value="Blogger">Blogger</option>
+                            <option value="Video Editor">Video Editor</option>
+                            <option value="PhotoEditor">Photo Editor</option>
+                            <option value="Music Composer">Music Composer</option>
+                        </select>
+
+
+                        <!-- Generate Button -->
+                    </div>
+                    <div class="gn-btn-container text-center mt-5">
+                        <a class="btn btn-outline-success gn_btn" onclick="generate_resume()" role="button">Generate
+                            Resume</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Second Section for template -->
+
+    <section class="container3" id="resume-template">
+        <div class="container resume-template1">
+            <div class="row">
+                <!-- first coloumn -->
+                <div class="col-md-4 text-center coloumn4">
+                    <img src="https://tse2.mm.bing.net/th?id=OIP.YpQ0oZGLK4k09k6sq354OwHaHx&pid=Api&P=0&w=300&h=300"
+                        class="img-fluid my-dp" id="dpT" alt="no-img-found">
+                    <p id="dobT">23-04-2001</p>
+                    <p class="name" id="nameT1">Dr. Namrata Chamling</p>
+                    <p id="emailT" style="font-weight: 500;">abhatta@shakya.com.np</p>
+                    <p id="numT" style="font-weight: 500;">+91-9874864648, +91-7987848986</p>
+                    <hr>
+                    <p id="addressT" style="font-weight: 500;">25, Siddharth Apartments, Bandra</p>
+                    <hr>
+                    <label class="link_label" for="#">Contact Link</label>
+                    <p id="githubT"><i class="fab fa-github"></i> <a href="#">https://www.google.com</a></p>
+                    <p id="linkedT"><i class="fab fa-linkedin-in"></i> <a href="#">https://www.twitter.com</a></p>
+                    <p id="twitterT"><i class="fab fa-twitter"></i> <a href="#">https://www.github.com</a></p>
+                    <hr>
+                    <div class="card mt-4">
+                        <div class="card-header text-center" id="cd-h-hobbies">
+                            <h3>Hobbies</h3>
+                        </div>
+                        <div class="card-body cd-b" id="hobbiesT">
+                            <ul>
+                                <li>Coding</li>
+                                <li>Playing</li>
+                                <li>Reading</li>
+
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- second coloumn -->
+
+                <div class="col-md-8 coloumn8">
+                    <!-- Name at center -->
+                    <div class="heading">
+                        <h1 class="text-center mt-2 name" id="nameT2" style="font-weight: 700;">Dr. Namrata Chamling
+                        </h1>
+                        <p id="applyForT">Software Engineer</p>
+                    </div>
+
+
+                    <!-- Summary -->
+                    <div class="card mt-3">
+                        <div class="card-header text-center" id="cd-h">
+                            <h3>Summary</h3>
+                        </div>
+                        <div class="card-body">
+                            <p id="summaryT">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum facilis
+                                dolores, adipisci
+                                cumque sunt, rem doloremque expedita exercitationem accusantium, ab soluta inventore
+                                possimus magni. In laborum excepturi aut consequatur, consequuntur fugit distinctio quis
+                                aliquid voluptate reprehenderit incidunt, dolores numquam?</p>
+                        </div>
+                    </div>
+
+                    <!-- Work Experience -->
+                    <div class="card mt-4">
+                        <div class="card-header text-center" id="cd-h">
+                            <h3>Work Experience</h3>
+                            <p class="text-center mt-2" id="expT">Years</p>
+                        </div>
+                        <div class="card-body" id="weT">
+                            <strong>ipsum dolor sit amet consectetur adipisicing elit.</strong> <br> Quam corrupti
+                            reiciendis, ullam minima nihil mollitia quibusdam magnam, aliquam nulla blanditiis molestiae
+                            et optio eligendi provident dolorum fugiat<br> <strong> nisi rerum voluptatem</strong> <br>
+                            Id harum maiores aspernatur, laboriosam, voluptatum quibusdam voluptates adipisci sed vitae
+                            rem pariatur quidem, minus sequi sit? Impedit aperiam porro ex quod facilis eligendi modi,
+                            obcaecati placeat atque dolores debitis est enim tenetur cupiditate animi illo, sit beatae
+                            totam fugit
+                        </div>
+                    </div>
+
+                    <!-- Education Qualification -->
+                    <div class="card mt-4">
+                        <div class="card-header text-center" id="cd-h">
+                            <h3>Education Qualification</h3>
+                        </div>
+                        <div class="card-body">
+                            <ul id="eqT">
+                                <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>
+                                <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>
+                                <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>
+                                <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="row second_row">
+                        <div class="col-md-6">
+
+                            <!-- Skills -->
+                            <div class="card mt-4 skill-card">
+                                <div class="card-header text-center" id="cd-h-skill">
+                                    <h3>Skills</h3>
+                                </div>
+                                <div class="card-body cd-b" id="skillT">
+                                    <li>Python</li>
+                                    <li>JavaScript</li>
+                                    <li>Dart</li>
+                                    <li>Kotlin</li>
+                                    <li>C++</li>
+                                    <li>Java</li>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Achievements -->
+                        <div class="col-md-6">
+                            <div class="card mt-4">
+                                <div class="card-header text-center" id="cd-h-skill">
+                                    <h3>Achievements</h3>
+                                </div>
+                                <div class="card-body cd-b">
+                                    <ul id="achieveT">
+                                        <li>Lorem, ipsum.</li>
+                                        <li>Lorem, ipsum.</li>
+                                        <li>Lorem, ipsum.</li>
+                                        <li>Lorem, ipsum.</li>
+                                        <li>Lorem, ipsum.</li>
+                                        <li>Lorem, ipsum.</li>
+                                        <li>Lorem, ipsum.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-center ">
+                        <button type="button" onclick="print_resume()" class="print_button" role="button">Print
+                            Resume</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Here I attach the Script file to the Docs -->
+
+    <!-- Froala cdn -->
+    <script type="text/javascript" src="node_modules/froala-editor/js/froala_editor.pkgd.min.js"></script>
+
+    <!-- Bootstrap cdn -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
+    </script>
+
+    <!-- Local Script -->
+    <script src="/main.js"></script>
+</body>
+
+</html>

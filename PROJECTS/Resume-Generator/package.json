@@ -1,0 +1,29 @@
+{
+  "name": "resume-generator",
+  "homepage": "https://dsrathore1.github.io/Resume-Generator",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "froala-editor": "^4.0.7",
+    "gh-pages": "^5.0.0",
+    "mongoose": "^6.0.15"
+  },
+  "description": "This is a Resume Generator by me. You have to fill all the entities, photo upload is mandatory.",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsrathore1/Resume-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsrathore1/Resume-Generator/issues"
+  }
+}
