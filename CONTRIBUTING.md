@@ -138,6 +138,12 @@
 - Bio: Student at IGDTUW
 - GitHub: [nancy0119](https://github.com/nancy0119)
 
+#### Name: [SUHITESWAR](https://github.com/suhit123)
+
+- Place: Banagalore, Karnataka, India
+- Bio: Iam am a student persuing BTech
+- GitHub: [SUHITESWAR](https://github.com/suhit123)
+
 #### Name: [Ayush Sagar](https://github.com/itsmeAYUSH)
 
 - Place: Kalyan, maharashtra, India
