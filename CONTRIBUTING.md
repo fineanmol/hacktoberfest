@@ -2675,6 +2675,12 @@
 - Bio: A Professional Software Engineer.
 - GitHub: [faria-karim-porna](https://github.com/faria-karim-porna)
 
+#### Name: [Parul Tiwari](https://github.com/Parultiwarii)
+
+-Place: New Delhi, India
+-Bio: Student at VIT, Chennai
+-GitHub: [Parul Tiwari](https://github.com/Parultiwarii)
+
 #### Name: [Tushar Aggarwal](https://github.com/beingatushar)
 
 - Place: New Delhi, India
