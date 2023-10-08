@@ -2844,6 +2844,12 @@
 - Bio: 3rd year undergrad pursuing BSc.Computer Science at University of Westminster and Software Engineer intern at 99X Technology
 - GitHub: [sithum20210380](https://github.com/sithum20210380)
 
+ #### Name: [Niraj Patel](https://github.com/btrezzy)
+
+- Place: Nagpur, Maharashtra, India
+- Bio: I am 2nd Year Computer Science Engineering student from IIIT Nagpur
+- GitHub: [Niraj Patel](https://github.com/btrezzy)
+
 #### Name: [Prashansa](https://github.com/op-amateur)
 
 - Place: Kolkata, WB, India
