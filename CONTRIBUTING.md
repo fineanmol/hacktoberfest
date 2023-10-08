@@ -34,6 +34,13 @@
 - Bio: I am a Software Developer, graduate of Mathematics
 - GitHub: [Vctcode](https://github.com/Vctcode)
 
+#### Name: [Abhinav Tomar](https://github.com/Killer4we)
+
+- Place: Delhi,India
+- Bio: I am a Computer Science Student (third year)
+- GitHub: [Killer4we](https://github.com/Killer4we)
+
+
 #### Name: [SP KariSims](https://github.com/KariSims)
 
 -Place: Dakar, DAKAR, SENEGAL
