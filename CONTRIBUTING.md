@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [iNuad](https://github.com/inuad)
+
+- Place: Bangkok, Thailand
+- Bio: Senior Full-Stack developer.
+- GitHub: [iNuad](https://github.com/inuad)
