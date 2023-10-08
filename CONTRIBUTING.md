@@ -4,6 +4,13 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [Prakhar Srivastava](https://github.com/Prakhar047)
+
+- Place: Lucknow, India
+- Bio: Chemical Engineering student from HBTU Kanpur.
+- GitHub: [Prakhar Srivastava](https://github.com/Prakhar047)
+
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
