@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Rishita](https://github.com/RishitaGangwal)
+
+- Place: Indore, M.P., India
+- Bio: Currently pursuing MCA.
+- GitHub: [RishitaGangwal](https://github.com/RishitaGangwal)
+
