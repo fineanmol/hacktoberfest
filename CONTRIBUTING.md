@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Ayushi](https://github.com/yushiee)
+
+- Place: Lucknow, UP, India
+- Bio: Final year Btech grad in Computer Science and Engg
+- GitHub: [yushiee](https://github.com/yushiee)
+
