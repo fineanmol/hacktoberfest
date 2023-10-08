@@ -75,6 +75,12 @@
 - Bio: I am a Communication Signal Processing student.
 - GitHub: [Anjali1609](https://github.com/Anjali1609)
 
+#### Name: [Yashas Donthi](https://github.com/coolyashas)
+
+- Place: Bangalore, India
+- Bio: I am a CS student.
+- GitHub: [coolyashas](https://github.com/coolyashas)
+
 #### Name: [Shubham Jain](https://github.com/Shubhamjain287)
 
 - Place: Indore MP
