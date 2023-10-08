@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+- #### Name: [vivekBoii](https://github.com/vivekBoii)
+
+- Place: Meerut, UP, India
+- Bio: Second Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [vivekBoii](https://github.com/vivekBoii)
+
