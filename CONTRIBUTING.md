@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Sahil Chaudhary](https://github.com/SahilChaudhary17)
+
+- Place: New Delhi, India
+- Bio: Undergrad pursuing B.tech in Computer Science & Engineering
+- GitHub: [SahilChaudhary17](https://github.com/SahilChaudhary17)
