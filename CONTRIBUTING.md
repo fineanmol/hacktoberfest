@@ -16,6 +16,12 @@
 - Bio: I am Computer Science Engineering student from Government Engineering College Bharatpur
 - GitHub: [anubhav1450](https://github.com/anubhav1450)
 
+#### Name: [Ankit Saurabh](https://github.com/ankits57)
+
+- Place: Patna, India
+- Bio: Frontend Developer | ML/AI Enthusiast
+- GitHub: [Ankit Saurabh](https://github.com/ankits57)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
