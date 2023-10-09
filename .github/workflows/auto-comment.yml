@@ -13,13 +13,14 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Debug GitHub Token
-        run: echo "GitHub Token: ${{ secrets.GITHUB_TOKEN }}"
-        
+        run: echo "GitHub Token:${{ secrets.GITHUB_TOKEN }}"
+
       - name: Comment on PR
         uses: wow-actions/auto-comment@v1.1.2
         with:
           action: 'opened'
           event: 'pullRequestOpened'
-          start comment: "@{{ author }} Please Star ⭐️ the repo to earn '**_hacktober-accepted_**' label for the event."
+          start comment: |
+            "@{{ author }} Please Star ⭐️ the repo to earn '**_hacktober-accepted_**' label for the event."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
