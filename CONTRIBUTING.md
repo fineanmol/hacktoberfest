@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Dev Gupta](https://github.com/Dev-coder-sudo)
+
+- Place: Baraut, UP, India
+- Bio: I am a Computer Science Student
+- GitHub: [Dev-coder-sudo](https://github.com/Dev-coder-sudo)
