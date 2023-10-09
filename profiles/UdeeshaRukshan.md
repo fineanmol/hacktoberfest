@@ -6,7 +6,7 @@ Kaduwela, Colombo, Sri lanka
 
 ### Academics
 
-2nd Year 2nd Semester
+SLIIT Bsc Hons Information Technology 2nd Year 2nd Semester
 
 ### Interests
 
