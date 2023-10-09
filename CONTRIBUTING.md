@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [ANUNAY KUMAR](https://github.com/anunayandkumar)
+
+- Place: Kolkata, WB, India
+- Bio: Undergrad pursuing B.tech in CSE
+- GitHub: [anunayandkumar](https://github.com/anunayandkumar)
