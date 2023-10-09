@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [TechGirl007](https://github.com/TechGirl007)
+
+- Place: Perth, Australia
+- Bio: Future Student AI (2024)
+- GitHub: [TechGirl007](https://github.com/TechGirl007)
