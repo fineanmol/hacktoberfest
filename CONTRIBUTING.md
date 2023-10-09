@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Tanvi Shah](https://github.com/Tanvi-shah02)
+
+- Place: Vadodara, Gjarat, India
+- Bio: Women TechMakers, Software Developer
+- GitHub: [Tanvi-shah02](https://github.com/Tanvi-shah02)
