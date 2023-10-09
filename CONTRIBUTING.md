@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Charan](https://github.com/charan-s108)
+
+- Place: Bengaluru, Karnataka, India
+- Bio: Open-Source Newbie
+- GitHub: [Charan](https://github.com/charan-s108)
