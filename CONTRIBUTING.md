@@ -1,3 +1,10 @@
+#### Name: [PRASHAREET CHOUDHURY](https://github.com/prashareet)
+
+- Place: Kolkata,India
+- Bio: I am a second year student at @HITK , web dev enthusiast
+- GitHub: [prashareet](https://github.com/prashareet)
+
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
