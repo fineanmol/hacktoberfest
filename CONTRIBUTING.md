@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Tanvi Shah](https://github.com/Tanvi-shah02)
+
+- Place: Vadodara, Gjarat, India
+- Bio: Women TechMakers, Software Developer
+- GitHub: [Tanvi-shah02](https://github.com/Tanvi-shah02)
+
