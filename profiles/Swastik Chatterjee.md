@@ -5,6 +5,7 @@ Academics
 JADAVPUR UNIVERSITY
 
 Interests
+
 Front-End
 Competitive Programming
 
