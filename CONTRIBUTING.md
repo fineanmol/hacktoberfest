@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Samyak](https://github.com/Samyaktg)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Second Year undergrad pursuing B.tech in Data Engineering
+- GitHub: [Samyaktg](https://github.com/Samyaktg)
+
