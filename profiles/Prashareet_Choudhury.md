@@ -14,11 +14,17 @@ Kolkata,India
 - Love to watch anime - Gojo Satoru Supremacy
 - Love to watch football - (CHELSEA BLUE FOREVER!)
 
+### Languages
+- C/C++ for DSA
+- HTML
+- CSS
+- Javascript 
 
 ### Development
 
 - Proficient in using HTML,CSS and Javscript as the frontend languages.
 - Learning React
+
 
 
 ### Projects
