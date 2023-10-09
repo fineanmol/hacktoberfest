@@ -1,3 +1,9 @@
+#### Name: [Avigyan Chakraborty](https://github.com/Bubu-Droid)
+
+- Place: Kolkata, West Bengal, India
+- Bio: I am currently in 11th grade and like to make projects or learn programming in my leisure time
+- GitHub: [Bubu-Droid](https://github.com/Bubu-Droid)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
