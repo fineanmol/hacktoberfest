@@ -2850,7 +2850,7 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
-#### Name: [Adarsh](https://github.com/Adarshg315)
+#### Name: [Adarsh Goyal](https://github.com/Adarshg315)
 
 - Place: Pune, India
 - Bio: Fullstack Developer | Loves to hike and trek
