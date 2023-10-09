@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Arin Paliwal](https://github.com/arin-paliwal)
+
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: Third Year undergrad pursuing B.tech in Artificial Intelligence & Machine Learning Engineering
+- GitHub: [arin-paliwal](https://github.com/arin-paliwal)
