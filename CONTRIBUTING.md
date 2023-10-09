@@ -2850,3 +2850,6 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+- Place: Dhanbad, Jharkhand, India
+- Bio: 2n Yr undergrad pursuing B.tech in CSE
+- GitHub: [alamdilshad87](https://github.com/alamdilshad87)
