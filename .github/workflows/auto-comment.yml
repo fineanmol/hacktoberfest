@@ -1,4 +1,5 @@
 name: Auto Comment
+
 on:
   pull_request:
     types:
@@ -17,8 +18,8 @@ jobs:
       - name: Comment on PR
         uses: wow-actions/auto-comment@v1.1.2
         with:
-          action: opened
-          event: pullRequestOpened
+          action: 'opened'
+          event: 'pullRequestOpened'
           start comment: "@{{ author }} Please Star ⭐️ the repo to earn '**_hacktober-accepted_**' label for the event."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
