@@ -1,11 +1,8 @@
 # <img width="56" alt="193515452-ebdf9e40-b074-4cfe-b19d-716d66b7e724" src="https://user-images.githubusercontent.com/81232337/195917410-5f0419a0-e955-4567-ace9-d4a629e7f45f.png"> Hacktoberfest Project 2 : [Annoying Button](https://github.com/fineanmol/Annoying-submit-button) 🎉.
 
+---
 
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Contribute here to complete your HacktoberFest Event. 
+Contribute here to complete your HacktoberFest Event.
 
 # 🎃 HacktoberFest Starter Project 🎃
 
@@ -17,9 +14,8 @@ This repository is open to all members of the GitHub community. Any member may c
 
 ## What is Hacktoberfest?
 
-A month-long celebration from October 1st - 31st sponsored by `Digital Ocean` and [`GitHub`](https://dev.to/this-is-learning/hacktoberfest-2022-is-almost-there-get-ready-4ifb) to get people involved in [`Open Source`](https://github.com/open-source). 
+A month-long celebration from October 1st - 31st sponsored by `Digital Ocean` and [`GitHub`](https://dev.to/this-is-learning/hacktoberfest-2022-is-almost-there-get-ready-4ifb) to get people involved in [`Open Source`](https://github.com/open-source).
 [https://hacktoberfest.com/](https://hacktoberfest.com/)
-
 
 ## Getting started
 
@@ -121,12 +117,13 @@ Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.c
 ### Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
 ## Our Top Contributors ♥️
+
 <p align="center"><a href="https://github.com/fineanmol/hacktoberfest/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=fineanmol/hacktoberfest" />
 </a></p>
 
-
 ## BONUS!
+
 - Merging All Pull Requests
 - See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
 - Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
@@ -152,6 +149,23 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
 
 ## Additional references for Contributors
+
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
 - Any contributions you make are **truly appreciated**.
 - Check out our [`contributors`](./CONTRIBUTING.md) for more information.
+
+<div align="right">
+<a href="#top">
+  <img
+      src="https://img.shields.io/badge/Back_To_Top-blue?style=for-the-badge"
+      alt="back to top"
+  />
+</a>
+</div>
+
+<div align="left">
+  <a name="top"></a>
+
+[Back to Top](#top)
+
+</div>
