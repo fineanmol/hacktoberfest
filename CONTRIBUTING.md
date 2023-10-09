@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Amulya Shetty](https://github.com/AmulyaShetty11)
+
+- Place: Maharashtra, India
+- Bio: I am a student.
+- GitHub: [GitHub AmulyaShetty11](https://github.com/AmulyaShetty11)
