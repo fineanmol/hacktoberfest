@@ -1,3 +1,4 @@
+name: Auto Comment
 on:
   pull_request:
     types:
