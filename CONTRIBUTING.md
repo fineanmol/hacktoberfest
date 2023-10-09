@@ -1,3 +1,21 @@
+#### Name: [3mYouOL](https://github.com/3mYouOL)
+
+- Place: Iloilo, Philippines
+- Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
+- GitHub: [3mYouOL](https://github.com/3mYouOL)
+
+#### Name: [TANYA KUMARI](https://github.com/07tAnYa)
+
+- Place: Bokaro Steel City, Jharkhand, India
+- Bio: I am a Computer Science Engineering student from Maulana Abul Kalam Azad University of Technology,West Bengal and I am a full Stack developer
+- GitHub: [07tAnYa](https://github.com/07tAnYa)
+
+#### Name: [Anubhav Kulshreshtha](https://github.com/anubhav1450)
+
+- Place: Shikohabad,Uttar Pradesh, India
+- Bio: I am Computer Science Engineering student from Government Engineering College Bharatpur
+- GitHub: [anubhav1450](https://github.com/anubhav1450)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
@@ -2801,8 +2819,40 @@
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
 
+#### Name: [Vaibhav](https://github.com/vaibhav-009)
+
+-Place: Delhi, India
+-Bio: Final Year Btech CSE student at Delhi Technological University
+-Github: [vaibhav-009](https://github.com/vaibhav-009)
+
+#### Name: [Aditya](https://github.com/adityasays)
+
+- Place: Lucknow, UP, India
+- Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
+- GitHub: [adityasays](https://github.com/adityasays)
+
+
+#### Name: [Koduri Mohan](https://github.com/kodurimohan)
+
+- Place: Chennai, Tamil Nadu, India
+- Bio: I'm a Research Spealist at CODIIS.
+- GitHub: [Koduri Mohan](https://github.com/kodurimohan)
+
+#### Name: [Sithum](https://github.com/sithum20210380)
+
+- Place: Colombo, Western, SriLanka
+- Bio: 3rd year undergrad pursuing BSc.Computer Science at University of Westminster and Software Engineer intern at 99X Technology
+- GitHub: [sithum20210380](https://github.com/sithum20210380)
+
+#### Name: [Prashansa](https://github.com/op-amateur)
+
+- Place: Kolkata, WB, India
+- Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
+- GitHub: [op-amateur](https://github.com/op-amateur)
+
 #### Name: [Tanvi Shah](https://github.com/Tanvi-shah02)
 
 - Place: Vadodara, Gjarat, India
 - Bio: Women TechMakers, Software Developer
 - GitHub: [Tanvi-shah02](https://github.com/Tanvi-shah02)
+
