@@ -1,3 +1,10 @@
+#### Name: [Prajwal M Pawar](https://github.com/praj-pawar)
+
+- Place: Bangalore, India
+- Bio: AIML Engineering Undergrad, RVCE | Fullstack Developer
+- Personal Website: [praj-pawar](https://praj-pawar.github.io/personal-website/)
+
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
