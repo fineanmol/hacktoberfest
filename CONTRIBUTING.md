@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Jidhun](https://github.com/jidhxn)
+
+- Place: Delhi, India
+- Bio: 3rd Year Undergraduate pursuing BSc (Hons.) Computer Science from University of Delhi
+- GitHub: [Jidhxn](https://github.com/Jidhxn)
