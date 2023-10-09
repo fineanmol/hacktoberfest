@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [SharathChandra](https://github.com/Sharathchandra345)
+
+- Place: Hyderabad , Telangana , India
+- Bio: Sophomore at Thapar University , Computer Science Engineering.
+- GitHub: [Sharathchandra345](https://github.com/Sharathchandra345)
