@@ -16,6 +16,12 @@
 - Bio: I am Computer Science Engineering student from Government Engineering College Bharatpur
 - GitHub: [anubhav1450](https://github.com/anubhav1450)
 
+#### Name: [Shubham Kumar](https://github.com/MysticWanderer142)
+
+- Place: New Delhi, Delhi, India
+- Bio: Senior year pursuing BTech in Information Tehnology?
+- GitHub: [GitHub account name](GitHub link)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
