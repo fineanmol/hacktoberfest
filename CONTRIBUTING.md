@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Shubhansu Kumar Singh](https://github.com/shubhansu-kr)
+
+- Place: Phagwara, Pujab, India
+- Bio: B.Tech CSE undergrad
+- GitHub: [shubhansu-kr](https://github.com/shubhansu-kr)
