@@ -2832,6 +2832,11 @@
 - GitHub: [adityasays](https://github.com/adityasays)
 
 
+#### Name: [Swastik Chatterjee](https://github.com/swastik2207)
+ - Place : Kolkata ,West Bengal ,India
+ - Bio :  Second Year undergrad pursuing B.tech in Information Technology
+ - Github:[swastik2207]( https://github.com/swastik2207)
+
 #### Name: [Koduri Mohan](https://github.com/kodurimohan)
 
 - Place: Chennai, Tamil Nadu, India
