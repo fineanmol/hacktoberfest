@@ -10,6 +10,12 @@
 - Bio: I am a Computer Science Engineering student from Maulana Abul Kalam Azad University of Technology,West Bengal and I am a full Stack developer
 - GitHub: [07tAnYa](https://github.com/07tAnYa)
 
+#### Name: [Govind Sankar](https://github.com/sxnkr)
+
+- Place: Kochi, Kerala, India
+- Bio: Fullstack Developer
+- GitHub: [Govind Sankar](https://github.com/sxnkr)
+
 #### Name: [Anubhav Kulshreshtha](https://github.com/anubhav1450)
 
 - Place: Shikohabad,Uttar Pradesh, India
