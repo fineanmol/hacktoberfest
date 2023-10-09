@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Robert Palmer](https://github.com/RJPalmer)
+
+- Place: Brooklyn, New York
+- Bio: I'm a novice software developer and pixel artist.
+- GitHub: [Palmtree Productions](https://github.com/RJPalmer)
