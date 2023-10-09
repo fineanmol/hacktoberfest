@@ -2838,6 +2838,12 @@
 - Bio: I'm a Research Spealist at CODIIS.
 - GitHub: [Koduri Mohan](https://github.com/kodurimohan)
 
+#### Name: [Trishan Wagle](https://github.com/trishan9)
+
+- Place: Nepal, Kathmandu
+- Bio: Full Stack Developer
+- GitHub: [Trishan Wagle](https://github.com/trishan9)
+
 #### Name: [Sithum](https://github.com/sithum20210380)
 
 - Place: Colombo, Western, SriLanka
