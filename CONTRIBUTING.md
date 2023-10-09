@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Abhi](https://github.com/mrap10)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Second Year undergrad pursuing B.tech in CSE
+- GitHub: [mrap10](https://github.com/mrap10)
