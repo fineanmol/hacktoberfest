@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Sai Aryan](https://github.com/SaiAryan1784)
+
+- Place: Noida, UP, India
+- Bio: Second Year undergrad pursuing B.tech in Computer Science Engineering (DATA SCIENCE)
+- GitHub: [SaiAryan1784](https://github.com/SaiAryan1784)
