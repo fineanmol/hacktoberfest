@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Varun](https://github.com/warooon)
+
+- Place: Gurugram, HR, India
+- Bio: CSE student at VIT.
+- GitHub: [warooon](https://github.com/warooon)
