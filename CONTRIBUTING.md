@@ -4,6 +4,12 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [Soumojit Shome](https://github.com/Soumojitshome2023)
+
+- Place: West Bengal, India
+- Bio: Front-end Developer | Programmer 
+- GitHub: [Soumojit Shome](https://github.com/Soumojitshome2023)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
