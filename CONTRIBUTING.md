@@ -983,6 +983,12 @@
 - Bio: Chemical Engineer wanna be da best developer!!!
 - GitHub: [coded hola](https://github.com/codedhola)
 
+#### Name: [Hardik Pawar](https://github.com/Hardvan)
+
+- Place: Bangalore, India
+- Bio: Student, Full Stack Web Dev
+- GitHub: [Hardvan](https://github.com/Hardvan)
+
 #### Name: [Harsh Shah](https://github.com/harsh-0986)
 
 - Place: Surat, India
