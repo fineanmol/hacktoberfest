@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Santanu](https://github.com/Santanujana2001)
+
+- Place: Kolkata, WB, India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [GitHub account name](https://github.com/Santanujana2001)
