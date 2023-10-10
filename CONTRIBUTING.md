@@ -1,3 +1,9 @@
+#### Name: [Daksh Choudhary](https://github.com/medakshchoudhary)
+
+- Place: Jammu,J & K, Bharat
+- Bio: Beginer in web development || AI/ML enthusiast
+- GitHub: [medakshchoudhary](https://github.com/medakshchoudhary)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
