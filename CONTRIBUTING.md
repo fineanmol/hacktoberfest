@@ -2850,3 +2850,10 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [Hamza](https://github.com/mostuselessboy)
+
+- Place: New Delhi, Delhi, India
+- Bio: Full Stack Web Developer and B. Tech. pursuing student
+- GitHub: [mostuselessboy](https://github.com/mostuselessboy)
+
