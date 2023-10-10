@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Kanin](https://github.com/knmixsiri)
+
+- Place: Bangkok, Thailand
+- Bio: Software developer | Algorithmic Trader
+- GitHub: [Kanin](https://github.com/knmixsiri)
