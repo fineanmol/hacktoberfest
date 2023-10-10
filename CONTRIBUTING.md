@@ -81,6 +81,12 @@
 - Bio: Computer Science Enginner
 - Github: [Github Account](https://github.com/Shubhamjain287)
 
+#### Name: [ODANOU Massahoud](https://github.com/massahoudou)
+
+- Place: Agoè, Lomé, TOGO
+- Bio: Self-taught in web development, UI design, and mobile development, with a strong ability to learn quickly in a team
+- GitHub: [Massahoudou](https://github.com/massahoudou)
+
 #### Name: [Ashish Mohite](https://github.com/ashish16052)
 
 - Place: Pune, Maharashtra, INDIA
