@@ -2068,7 +2068,12 @@
 - Place: Lahore, Pakistan
 - Bio: Ruby on Rails
 - GitHub: [Shehroz Irfan](https://github.com/ShehrozIrfan)
+#### Name: [Sanyam Jain](https://github.com/Sanyam-2026)
 
+- Place: Indore, Madhya Pradesh, India
+- Bio: A Hustler hustling to get Remote Job in Cloud Engineer role , DevOps also be fine . 
+- GitHub: [op-amateur](https://github.com/Sanyam-2026)
+  
 #### Name: [Shivam Agrahari](https://github.com/shivamagraharii)
 
 - Place: Jabalpurl, MP, India
@@ -2850,9 +2855,5 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
-#### Name: [Sanyam Jain](https://github.com/Sanyam-2026)
 
-- Place: Indore, Madhya Pradesh, India
-- Bio: A Hustler hustling to get Remote Job in Cloud Engineer role , DevOps also be fine . 
-- GitHub: [op-amateur](https://github.com/Sanyam-2026)
 
