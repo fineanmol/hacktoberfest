@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Parikshit](https://github.com/parikshitadhikari)
+
+- Place: Nakkhu, Nepal
+- Bio: Third Year computer engineering student
+- GitHub: [parikshitadhikari](https://github.com/parikshitadhikari)
+
