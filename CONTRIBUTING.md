@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Jigyashu Suman](https://github.com/jigs-bot)
+
+- Place: Patna, Bihar, India
+- Bio: I am a Computer Science student at NIT Warangal.
+- GitHub: [jigs-bot](https://github.com/jigs-bot)
+
