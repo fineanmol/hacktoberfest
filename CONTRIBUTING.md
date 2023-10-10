@@ -467,6 +467,12 @@
 - Bio: CS Undergrad
 - GitHub: [Amogh1001](https://github.com/Amogh1001)
 
+#### Name: [BISWA BAIBHAB SUBUDHI](https://github.com/biswabaibahab007)
+
+- Place: Odisha, India
+- Bio: Passionate frontend developer
+- GitHub: [biswabaibhab007](https://github.com/biswabaibhab007)
+  
 #### Name: [Amogh Patel](https://github.com/AmoghPatel1)
 
 - Place: Sri City, Chittoor, Andhra Pradesh, India
