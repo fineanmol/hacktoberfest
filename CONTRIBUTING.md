@@ -2854,4 +2854,4 @@
 
 - Place: Waterloo, ON, Canada
 - Bio: Just a backend enginner tryna master DSA and front-end.
-- GitHub: [op-amateur](https://github.com/parthsolanki1498)
+- GitHub: [op-amateur](https://github.com/parthsolanki1498) 
