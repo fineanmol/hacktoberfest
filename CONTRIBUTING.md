@@ -1,3 +1,9 @@
+#### Name: [DEEPNDRA-KUMAR](https://github.com/Deep-1507)
+
+- Place: Jhansi, Uttar Pradesh, India
+- Bio: A budding engineer, currently exploring and learning Web Development.
+- GitHub: [Deep-1507](https://github.com/Deep-1507)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
