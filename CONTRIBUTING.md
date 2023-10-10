@@ -2850,3 +2850,11 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Prashansa](https://github.com/op-amateur)
+
+- Place: Pune, Maharashtra, India
+- Bio: Third Year undergrad pursuing B.tech at VIT Pune
+- GitHub: [Mayureshd-18](https://github.com/Mayureshd-18)
+
+  
+
