@@ -2818,4 +2818,4 @@
 
 - Place: Chandigarh, India
 - Bio: Second Year undergrad pursuing B.tech in Computer Science and Engineering
-- GitHub: [Sa2003hil](https://github.com/sa2003hil)
+- GitHub: [sa2003hil](https://github.com/sa2003hil)
