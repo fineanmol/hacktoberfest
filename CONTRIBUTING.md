@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Parth Solanki](https://github.com/parthsolanki1498)
+
+- Place: Waterloo, ON, Canada
+- Bio: Just a backend enginner tryna master DSA and front-end.
+- GitHub: [op-amateur](https://github.com/parthsolanki1498)
