@@ -1499,6 +1499,13 @@
 - Bio: QA Analyst
 - GitHub: [nfiscus](https://github.com/nfiscus)
 
+
+#### Name: [Siddhi Shah](https://github.com/siddhishah109)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Web developer, data analyst
+- GitHub: [Siddhi Shah](https://github.com/siddhishah109)
+
 #### Name: [Naufal Hisyam](https://github.com/naufalhisyam)
 
 - Place: West Java, Indonesia
