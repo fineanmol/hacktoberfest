@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Tan Tai](https://github.com/tantai1123)
+
+- Place: Ho Chi Minh city, VietNam
+- Bio: Software engineer, Devops engineer
+- GitHub: [Trương Tấn Tài](https://github.com/tantai1123)
