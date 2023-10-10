@@ -2852,6 +2852,6 @@
 
 #### Name: [Santanu](https://github.com/Santanujana2001)
 
-- Place: Kolkata, WB, India
+- Place: Kolkata, West bengal, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science and Engineering
 - GitHub: [GitHub account name](https://github.com/Santanujana2001)
