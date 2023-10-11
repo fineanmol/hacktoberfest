@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Seemantkaushal](https://github.com/seemantkaushal/)
+
+- Place: indore, MP , India
+- Bio: I am an data science entusiast .
+- GitHub: [_seemantkaushal](https://github.com/seemantkaushal/)
