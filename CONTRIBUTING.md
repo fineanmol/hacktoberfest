@@ -2852,6 +2852,6 @@
 
 #### Name: [Usama Irshad](https://github.com/usamairshad)
 
-- Place: Karachi, Pakistan.
+- Place: Karachi, Sindh, Pakistan.
 - Bio: Computer Science Student at Iqra University.
-- GitHub: [Usama Irshad](https://github.com/musamairshad)
+- GitHub: [musamairshad](https://github.com/musamairshad)
