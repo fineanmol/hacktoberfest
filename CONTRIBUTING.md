@@ -2819,6 +2819,12 @@
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
 
+#### Name: [Dasith Rathnasinghe](https://github.com/MasterD98)
+
+- Place: Karapitiya, Galle, Sri Lanka
+- Bio: Undergraduate at the University of Moratuwa Faculty of Information Technology
+- GitHub: [MasterD98](https://github.com/MasterD98)
+- 
 #### Name: [Vaibhav](https://github.com/vaibhav-009)
 
 -Place: Delhi, India
@@ -2849,4 +2855,3 @@
 - Place: Kolkata, WB, India
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
-
