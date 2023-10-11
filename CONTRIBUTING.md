@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Diya Talwar](https://github.com/diyaatalwar)
+
+- Place: Manipal, Karnataka, India
+- Bio: A final year undergrad pursuing a B.Tech in Information Technology.
+- GitHub: [diyaatalwar](https://github.com/diyaatalwar)
+
