@@ -1,3 +1,10 @@
+
+#### Name: [Aleksey Kim](https://github.com/alekseykim-dev)
+
+- Place: Seoul, South Korea
+- Bio: Full-stack developer
+- GitHub: [alekseykim-dev](https://github.com/alekseykim-dev)
+=======
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
@@ -15,6 +22,7 @@
 - Place: Shikohabad,Uttar Pradesh, India
 - Bio: I am Computer Science Engineering student from Government Engineering College Bharatpur
 - GitHub: [anubhav1450](https://github.com/anubhav1450)
+
 
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
