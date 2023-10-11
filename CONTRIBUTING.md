@@ -1,3 +1,9 @@
+#### Name: [Atesam Abdullah](https://github.com/ATESAM-ABDULLAH)
+
+- Place: Karachi, Pakistan
+- Bio: AI/DS developer | junior @ giki | AGI researcher
+- GitHub: [ATESAM-ABDULLAH](https://github.com/ATESAM-ABDULLAH)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
