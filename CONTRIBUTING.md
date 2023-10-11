@@ -2850,3 +2850,10 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+### Name: [JSon Wells](https://github.com/jwells80)
+
+- Place: Springfield, MO, USA
+- Bio: Full-stack developer, woodworker, bike enthusist
+- GitHub: [jwells80](https://github.com/jwells80)
+
