@@ -3,11 +3,13 @@
   "configurations": [
     {
       "name": "C/C++ Runner: Debug Session",
-      "type": "lldb",
+      "type": "cppvsdbg",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/saishree/Desktop/hacktoberfest/scripts",
-      "program": "/Users/saishree/Desktop/hacktoberfest/scripts/build/Debug/outDebug"
+      "stopAtEntry": false,
+      "console": "externalTerminal",
+      "cwd": ".",
+      "program": "build/Debug/outDebug"
     }
   ]
 }
