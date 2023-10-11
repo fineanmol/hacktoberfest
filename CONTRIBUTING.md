@@ -126,7 +126,11 @@
 - Bio: Student at IGDTUW
 - GitHub: [nancy0119](https://github.com/nancy0119)
 
+#### Name: [Nibida](https://github.com/NibidaGhimire)
+
+
 #### Name: [Ayush Sagar](https://github.com/itsmeAYUSH)
+
 
 - Place: Kalyan, maharashtra, India
 - Bio: I am a student.
