@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Sai Krishna Reddy](https://github.com/saikrishna823)
+
+-Place: Visakhapatnam,Andhra Pradesh,India
+-Bio: Fourth Year Undergraduate pursuing B.tech in Gayatri Vidhya Parishad College of Engineering
+-Github: [saikrishna823](https://github.com/saikrishna823)
+
