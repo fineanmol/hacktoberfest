@@ -1,3 +1,9 @@
+#### Name: [RAGHAVAN B](https://github.com/Raghavan-B)
+
+- Place: Chennai , Tamil Nadu, India
+- Bio: First year postgraduate pursuing Msc.Data Science at VIT Chennai.
+- GitHub: [Raghavan-B](https://github.com/Raghavan-B)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
