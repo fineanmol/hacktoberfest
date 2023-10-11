@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Gia Phu Huynh](https://github.com/Ya-Foo)
+
+- Place: Ho Chi Minh City, Viet Nam
+- Bio: Highschool sophomore (grade 10) who enjoys Computer Science
+- GitHub: [Ya-Foo](https://github.com/Ya-Foo)
