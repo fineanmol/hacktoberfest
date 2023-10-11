@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Rellot](https://github.com/Rellotscrewdriver)
+
+- Place: Dehradun, UK, India
+- Bio: a highschool student pursing the depths of programming
+- GitHub: [Rellot's Screwdriver](https://github.com/Rellotscrewdriver)
+
