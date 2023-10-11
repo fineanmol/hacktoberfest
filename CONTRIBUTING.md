@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [Shubham](https://www.linkedin.com/in/shubham-real/)
+
+- Place: Rajasthan, India
+- Bio: Just a simple persone trying to break into tech comming from a non tech background
+- GitHub: [op-amateur](https://github.com/shubham1091)
