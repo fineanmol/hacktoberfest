@@ -1000,7 +1000,13 @@
 - Place: Thiruvananthapuram, Kerala, INDIA
 - Bio: Undergrad Student
 - GitHub: [harshavar1](https://github.com/harshavar1)
+- 
+#### Name: [Nikhar Behera](https://github.com/SoulNikhar)
 
+- Place: Odisha, India
+- Bio: Computer Science Student
+- GitHub: [SoulNikhar](https://github.com/SoulNikhar)
+- 
 #### Name: [Harshit Gupta](https://github.com/harshit0015)
 
 - Place: New Delhi,INDIA
