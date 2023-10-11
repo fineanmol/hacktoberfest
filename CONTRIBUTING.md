@@ -1,3 +1,9 @@
+#### Name: [Aabha Lokhande](https://github.com/gitwithaabha)
+
+- Place:Amt,Maharashtra, India
+- Bio: I am Student 
+- GitHub: [gitwithaabha](https://github.com/gitwithaabha)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
