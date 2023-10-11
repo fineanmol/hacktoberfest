@@ -2801,6 +2801,12 @@
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
 
+#### Name: [Abhishek Shukla](https://github.com/Shuklaaa)
+
+- Place: Agra, UP, India
+- Bio: A final year undergrad pursuing B.Tech in Computer Science.
+- GitHub: [Shuklaaa](https://github.com/Shuklaaa)
+
 #### Name: [Thanapoom](https://github.com/thanapoom21)
 
 - Place: Las Vegas, NV, USA
