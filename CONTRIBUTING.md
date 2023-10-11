@@ -2850,3 +2850,11 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Spandan](https://github.com/spandan0724)
+
+- Place: Bhawanipatna, Odisha, India
+- Bio: Machine Learning Freelancer
+- GitHub: [spandan0724](https://github.com/spandan724)
+
+
+
