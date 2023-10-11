@@ -10,7 +10,7 @@ University of Mumbai
 
 ### Interests
 
-- Music
+- Music 
 - Frontend technologies
 
 ### Development
