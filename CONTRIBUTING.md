@@ -2852,6 +2852,6 @@
 
 #### Name: [Sukanya](https://github.com/sithum20210380)
 
-- Place: Mumbai,Maharashtra,India
+- Place: India
 - Bio: Front End Developer, Working as Mainframe operator
 - GitHub: [sukanyagurav](https://github.com/sukanyagurav)
