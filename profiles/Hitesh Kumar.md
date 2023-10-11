@@ -2,7 +2,7 @@
 
 ### Location
 
-, INDIA
+Jamshedpur, INDIA
 
 ### Academics
 
