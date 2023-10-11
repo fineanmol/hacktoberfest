@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Jekoyu](https://github.com/Jekoyu)
+
+- Place: Yogyakarta, Indonesia
+- Bio: 2nd Year of studying at the Yogyakarta University of Technology
+- GitHub: [Jekoyu](https://github.com/Jekoyu)
