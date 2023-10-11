@@ -2813,9 +2813,8 @@
 - Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [adityasays](https://github.com/adityasays)
 
-
 #### Name: [Sahil](https://github.com/sa2003hil)
 
 - Place: Chandigarh, India
-- Bio: Second Year undergrad pursuing B.tech in Computer Science and Engineering
+- Bio: Second Year Undergrad pursuing B.tech in Computer Science and Engineering
 - GitHub: [sa2003hil](https://github.com/sa2003hil)
