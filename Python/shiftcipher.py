@@ -1,6 +1,8 @@
-from sympy.crypto.crypto import AZ
+#import sympy library
+from sympy.crypto.crypto import AZ 
 from sympy.crypto.crypto import encipher_shift, decipher_shift
 
+# ask for user input
 s = AZ(input("Enter Plaintext: "))
 key = int(input("Enter Key: "))
 print("Plain Text:", s)
