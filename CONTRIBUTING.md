@@ -41,6 +41,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -52,6 +53,12 @@
 -Place: kalyan,Thane,Maharashtra India
 -Bio: I am a student at Dr.D.Y.Patil College of Engineering.
 -GitHub: [AmanPathan](https://github.com/AmanPathan)
+
+#### Name: [YOUR NAME](GitHub link)
+
+- Place: Medan, Sumatera Utara, Indonesia
+- Bio: Computer Science Student
+- GitHub: [hawryyyy30](https://github.com/hawryyyy30)
 
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 
@@ -2831,7 +2838,6 @@
 - Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [adityasays](https://github.com/adityasays)
 
-
 #### Name: [Koduri Mohan](https://github.com/kodurimohan)
 
 - Place: Chennai, Tamil Nadu, India
@@ -2849,4 +2855,3 @@
 - Place: Kolkata, WB, India
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
-
