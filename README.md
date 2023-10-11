@@ -118,7 +118,7 @@ Don't forget to include the comments as seen above. Feel free to include additio
 
 Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.com/fineanmol/hacktoberfest/blob/master/scripts/hello_world_anmol_agarwal.js)
 
-### Choose one or all 3, make a pull request for your work and wait for it to be merged!
+### Choose one or all 3, make a pull request for your work, and wait for it to be merged!
 
 ## Our Top Contributors ♥️
 <p align="center"><a href="https://github.com/fineanmol/hacktoberfest/graphs/contributors">
@@ -152,6 +152,6 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
 
 ## Additional references for Contributors
-- Contributions make the open source community such an amazing place to learn, inspire, and create.
+- Contributions make the open-source community such an amazing place to learn, inspire, and create.
 - Any contributions you make are **truly appreciated**.
 - Check out our [`contributors`](./CONTRIBUTING.md) for more information.
