@@ -13,6 +13,7 @@ Iqra University
 - Programming
 - Travelling
 - Swimming
+- Table Tennis
 
 ### Development
 
