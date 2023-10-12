@@ -2849,4 +2849,10 @@
 - Place: Kolkata, WB, India
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
+- 
+#### Name: [Harshal](https://github.com/Harshal-Deshattiwar)
+
+- Place: Nagpur, Maharashtra, India
+- Bio: Working as React Native Developer
+- GitHub: [harshal-deshattiwar](https://github.com/Harshal-Deshattiwar)
 
