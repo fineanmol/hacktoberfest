@@ -1,0 +1,1 @@
+console.lof("hello world");
