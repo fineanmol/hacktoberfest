@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Aryan Garg](https://github.com/jsrjhbaryan959)
+
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: I am a 3rd year under graduate pursing my major in ECE branch.
+- GitHub: [Aryan Garg](https://github.com/jsrjhbaryan959)
