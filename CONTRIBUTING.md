@@ -1,3 +1,9 @@
+#### Name: [Chloe Wray](https://github.com/Wraytheon)
+
+- Place: Dayton, OH, USA
+- Bio: Chloe is a fullstack engineer with a background in Systems Administration who is currently look for an opportunity to develop solutions at a company that supports growth.
+- GitHub: [Wraytheon](https://github.com/Wraytheon)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
