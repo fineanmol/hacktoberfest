@@ -8,10 +8,15 @@
 
 body {
     height: 100vh;
-    display: flex;
     align-items: center;
     justify-content: center;
     background: #06283D;
+    display:grid;
+
+}
+h1{
+    color:#dff6ff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .container {
