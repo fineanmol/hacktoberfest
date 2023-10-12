@@ -1997,6 +1997,12 @@
 - Bio: Filmmaker + Creative Software Developer
 - GitHub: [Sarah Alli](https://github.com/se7en-illa)
 
+#### Name: [Sarah Yack](https://github.com/sarahyack)
+
+- Place: USA
+- Bio: Student
+- GitHub: [sarahyack](https://github.com/sarahyack)
+
 #### Name: [Sarthak Rajput](https://github.com/rsarthak)
 
 - Place: Shamli,Uttar pradesh,INDIA
