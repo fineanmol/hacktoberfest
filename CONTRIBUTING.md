@@ -1,3 +1,10 @@
+#### Name: [Suman Shaw](https://github.com/Shaw145)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Python Develper | Web Developer
+- GitHub: [Shaw145](https://github.com/Shaw145)
+
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
