@@ -12,7 +12,6 @@ jobs:
           issuesOpened: |
              @{{ author }} Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label for the event.
              Meanwhile if you want to work on this issue, Please raise the PR and we will review and merge it.
-       
             👋 @{{ author }}
             Thank you for raising an issue. We will will investigate into the matter and get back to you as soon as possible.
             Please make sure you have given us as much context as possible.
