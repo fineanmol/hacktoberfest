@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Aditya](https://github.com/adityax0)
+
+- Place: Patna, Bihar, India
+- Bio: !st Year CS Undergrad | Full Stack Web Developer
+- GitHub: [adityax0](https://github.com/adityax0)
