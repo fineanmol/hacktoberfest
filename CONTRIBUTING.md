@@ -1,3 +1,8 @@
+#### Name:[Suvrayan Bandyopadhyay](https://github.com/SuvrayanBandyopadhyay)
+-Place: Patna,Bihar,India
+-Bio: Student at the Indian Institute of Technology,Patna
+-Github: [Suvrayan Bandyopadhyay](https://github.com/SuvrayanBandyopadhyay)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
