@@ -7,7 +7,7 @@
 #### Name: [Sashank Thapa](https://github.com/kozuedoingregression)
 
 - Place: Dehradun,Uttarakhand,India
-- Bio: CSE student focused on algorithmic trading, blockchain development, and machine learning.
+- Bio: CSE student at GEHU focused on algorithmic trading, blockchain development, and machine learning.
 - GitHub: [kozuedoingregression](https://github.com/kozuedoingregression)
 
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)

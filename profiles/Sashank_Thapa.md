@@ -6,7 +6,7 @@ Dehradun,India
 
 ### Academics
 
-Graphic Era Hill University
+Graphic Era Hill University.
 
 ### Interests
 
