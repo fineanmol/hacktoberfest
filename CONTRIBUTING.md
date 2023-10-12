@@ -1,3 +1,9 @@
+#### Name: [Dinesh Gupta](https://github.com/iamdiinesh)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Computer science professional with expertise in C, JavaScript, CSS, and HTML for web design and development. Strong communication and leadership skills. Proficient in Microsoft Word and PowerPoint. Enthusiastic about basketball and tennis
+- GitHub: [iamdiinesh](https://github.com/iamdiinesh)
+  
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
