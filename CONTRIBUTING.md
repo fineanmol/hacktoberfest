@@ -1,3 +1,9 @@
+#### Name: [Vansh](https://github.com/vansh1190)
+
+- Place: Punjab, India
+- Bio: Fullstack Developer | Mobile App Developer | ML/AI Enthusiast
+- GitHub: [Vansh1190](https://github.com/vansh1190)
+  
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
