@@ -14,4 +14,4 @@ New Delhi, Delhi,India
 
 ### Profile Link
 
-- [Aman Singh](https://github.com/Srijan-Baniyal)
+- [Srijan Baniyal](https://github.com/Srijan-Baniyal)
