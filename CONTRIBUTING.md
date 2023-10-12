@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Davi Batista](https://github.com/Davi-s-Brain)
+
+- Place: São Paulo, São Paulo, Brasil
+- Bio: First Year undergrad persuing B.Information systems on Universidade de São Paulo
+- GitHub: [Davi-S-Brain](https://github.com/Davi-s-Brain)
