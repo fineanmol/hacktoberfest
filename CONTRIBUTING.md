@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Aditya Shrimali](https://github.com/aditya-shrimali)
+
+- Place: Ujjain, M.P., India
+- Bio: Third year student persuing B.Tech in IOT.
+- GitHub: [aditya-shrimali](https://github.com/aditya-shrimali) 
