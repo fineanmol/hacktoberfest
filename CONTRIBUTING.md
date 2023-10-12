@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Rishabh Dhawad](https://github.com/RishabhDhawad)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: Final year Student
+- GitHub: [RishabhDhawad](https://github.com/RishabhDhawad)
