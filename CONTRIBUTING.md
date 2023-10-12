@@ -1,3 +1,8 @@
+#### Name: [Tejas Naringrekar](https://github.com/legend100k)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: An Electronics student trying to learn CS
+- GitHub: [legend100k](https://github.com/legend100k)
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
