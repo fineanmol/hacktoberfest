@@ -6,7 +6,7 @@
 
 #### Name: [Sashank Thapa](https://github.com/kozuedoingregression)
 
-- Place: Hehradun,Uttarakhand,India
+- Place: Dehradun,Uttarakhand,India
 - Bio: CSE student focused on algorithmic trading, blockchain development, and machine learning.
 - GitHub: [kozuedoingregression](https://github.com/kozuedoingregression)
 

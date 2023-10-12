@@ -2,7 +2,7 @@
 
 ### Location
 
-Dehradun, India
+Dehradun,India
 
 ### Academics
 
