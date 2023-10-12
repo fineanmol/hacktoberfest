@@ -75,6 +75,12 @@
 - Bio: I am a Communication Signal Processing student.
 - GitHub: [Anjali1609](https://github.com/Anjali1609)
 
+#### Name: [Rohit570k](https://github.com/Rohit570k)
+
+-Place: Patna,Bihar, India 
+-Bio: Final Year Btech CSE student at RCET Bhilai, and have an interest in Android Development and building unique applications.
+-Github: [Rohit570k](https://github.com/Rohit570k)
+
 #### Name: [Shubham Jain](https://github.com/Shubhamjain287)
 
 - Place: Indore MP
