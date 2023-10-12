@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Uday](https://github.com/luckyuday)
+
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Third Year undergrad pursuing BCA
+- GitHub: [GitHub account name](https://github.com/luckyuday)
