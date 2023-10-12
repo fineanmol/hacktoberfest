@@ -989,6 +989,12 @@
 - Bio: Student, Web developer
 - GitHub: [Harsh-0986](https://github.com/Harsh-0986)
 
+#### Name: [Harsh Yadav](https://github.com/harsxhh)
+
+- Place: Una, Himachal Pradesh, India
+- Bio: Programmer, Student
+- GitHub: [Harsh Yadav](https://github.com/harsxhh)
+
 #### Name: [Harsh Walia](https://github.com/waliaharsh74)
 
 - Place: Haridwar, Uttarakhand, India
