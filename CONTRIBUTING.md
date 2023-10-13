@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Ashutosh Maharana](https://github.com/triad7)
+
+- Place: Bhubaneswar, Odisha, India
+- Bio: Junior Software Engineer (ReactJS and similar TECH Stacks)
+- GitHub: [triad7](https://github.com/triad7)
+
