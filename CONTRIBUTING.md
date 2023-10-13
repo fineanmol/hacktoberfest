@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Gabriel](https://github.com/staiton)
+
+- Place: Natal, RN, Brazil
+- Bio: First Year of Computer Networks at Estácio de Sá University, trying to specialize in cybersecurity
+- GitHub: [staiton](https://github.com/staiton)
