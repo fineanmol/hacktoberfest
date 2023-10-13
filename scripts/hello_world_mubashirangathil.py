@@ -1,9 +1,7 @@
-# ==================================== Hello World ==============================================================
 # LANGUAGE: Python
-# ENV    : Python3.5
-# AUTHOR : Mubashir Angathil
-# GITHUB : https://github.com/mubashir-angathil
-# ================================================================================================================
+# ENV: Python3.5
+# AUTHOR: Mubashir Angathil
+# GITHUB: https://github.com/mubashir-angathil
 
 def hello_world():
     print("Hello World 👋")
