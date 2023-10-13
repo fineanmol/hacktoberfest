@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Ikechukwu Kalu](https://github.com/ikechukwu750)
+
+- Place: Umuahia, Abia State, Nigeria
+- Bio: Third Year undergraduate pursuing B.Sc in Computer Science
+- GitHub: [Ikechukwu750](https://github.com/ikechukwu750)
