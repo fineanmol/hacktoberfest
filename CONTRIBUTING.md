@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [MinhDuong](https://github.com/MinhDuongg)
+
+- Place: Ha Noi,VietNam
+- Bio: Software Engineer
+- GitHub: [minhduong](https://github.com/MinhDuongg)
