@@ -1,4 +1,10 @@
-#### Name: [3mYouOL](https://github.com/3mYouOL)
+#### Name: [Sriram S](https://github.com/sriramnjr7)
+
+- Place: Banglore, Karnataka, India
+- Bio: Analyst | Data Scientist
+- GitHub: [sriramnjr7](https://gitthub.com/sriramnjr7)
+
+- #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
