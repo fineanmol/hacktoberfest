@@ -1,3 +1,9 @@
+#### Name: [ASHISH GUPTA](https://github.com/AshishGupta18)
+
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: Web Developer | App Developer | Software Engineer
+- GitHub: [Ashish Gupta](https://github.com/AshishGupta18)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
