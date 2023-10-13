@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Sahil](https://github.com/dotslashbit)
+
+- Place: Hyderabad, Telangana, India
+- Bio: I'm a M.Tech CS student at IIT Kharagpur
+- GitHub: [Sahil](https://github.com/dotslashbit)
+
