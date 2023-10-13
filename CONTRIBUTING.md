@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Abhishek](https://github.com/diabl0-NEMESIS)
+
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: Final Year Student at Kalinga Institute of Industrial Technology.
+- GitHub: [diabl0-NEMESIS](https://github.com/diabl0-NEMESIS)
+
