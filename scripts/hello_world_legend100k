@@ -1,6 +1,6 @@
 // LANGUAGE: Python
 // ENV: Python
 // AUTHOR: Tejas Naringrekar
-// GITHUB: https://github.com/legend100k
+// GITHUB: https://github.com/legend100k 
 
 print('Hello, world!')
