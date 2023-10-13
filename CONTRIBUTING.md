@@ -100,6 +100,12 @@
 - Place: New Delhi, Delhi, INDIA
 - Bio: Flutter Developer and B. Tech. pursuing student
 
+#### Name: [Vaibhav1808](https://github.com/Vaibhav1808)
+
+- Place: Chandigarh, Chandigarh, INDIA
+- Bio: Data Analyst
+- GitHub: [Vaibhav1808](https://github.com/Vaibhav1808)
+
 #### Name: [ABHISHEK KAYAL](https://github.com/Drako-Rexon)
 
 - Place: New Delhi, Delhi, INDIA
