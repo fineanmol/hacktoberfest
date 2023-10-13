@@ -22,8 +22,3 @@
 - Place: Indonesia
 - Bio: Front End Web Developer
 - GitHub: [Faiz Syahrullah](https://github.com/bersekerblade)
-
-#### Name: [Rishabh Kemni](https://github.com/rishabhkemni)
-- Place: Pune, Maharashtra, India
-- Bio: A enthusiastic developer
-- GitHub:  [Rishabh Kemni](https://github.com/rishabhkemni)
