@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Dhwanish](https://github.com/dhwanish-3)
+
+- Place: Kasaragod, Kerala, India
+- Bio: Third year CSE undergrad at NIT Calicut
+- GitHub: [dhwanish-3](https://github.com/dhwanish-3)
