@@ -2850,3 +2850,10 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [Kshitij B](https://github.com/kshitij9896)
+
+- Place: Mumbai, India
+- Bio: Self Taught Developer
+- GitHub: [kshitij9896](https://github.com/kshitij9896)
+
