@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Kartik Gupta](https://github.com/kartik3110)
+
+- Place: Patiala, Punjab, India
+- Bio: MERN developer, 3rd year computer engineering undergrad, TIET
+- GitHub: [kartik3110](https://github.com/kartik3110)
+
