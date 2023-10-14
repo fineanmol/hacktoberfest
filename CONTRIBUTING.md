@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [JP](https://github.com/jplexer)
+
+- Place: Cologne, NRW, Germany
+- Bio: Highschool Student wanring to pursue BSc in Computer Science
+- GitHUb: [jplexer](https://github.com/jplexer)
