@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Aditya Chaturvedi](https://github.com/Adityachaturvedi2906)
+
+- Place: Shahdol, MP, India
+- Bio: A proactive developer with a strong track record of meeting project deadlines. Ability to solve issues and provide innovative software solutions.
+- GitHub: [Adityachaturvedi2906](https://github.com/Adityachaturvedi2906)
