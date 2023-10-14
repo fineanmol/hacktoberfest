@@ -2850,3 +2850,16 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Harsh Kushwaha](https://github.com/harshkushwaha2001)
+
+- Place: Kanpur, India
+- Bio: Final year student , Persuing B.Tech in CSE from HBTU.
+- GitHub: [Harsh Kushwaha](https://github.com/harshkushwaha2001)
+  
+#### Name: [Abdul Rehan](https://github.com/abrehan2)
+
+- Place: Islāmābād, Pakistan
+- Bio: Hello 👋, I'm Rehan, a final-year software engineering student from Air University.
+- GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+  
