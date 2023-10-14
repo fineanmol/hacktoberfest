@@ -2,7 +2,7 @@
 
 - Place: Hapur, Uttar Pradesh, India
 - Bio: App Developer
-- GitHub: [Mayank0604](https://github.com/Mayank0604)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
