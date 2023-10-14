@@ -14,9 +14,6 @@ Hapur/Uttar Pradesh
 
 
 
-### Projects
-
-- [BusPlus](https://github.com/Mayank0604/bus_plus) 
 
 ### Profile Link
 
