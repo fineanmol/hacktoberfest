@@ -1,7 +1,8 @@
-#### Name: [Mayank Kumar]
+#### Name: [Mayank Kumar](https://github.com/Mayank0604)
 
 - Place: Hapur, Uttar Pradesh, India
 - Bio: App Developer
+- -Github: [Mayank0604](https://github.com/Mayank0604)
 
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
