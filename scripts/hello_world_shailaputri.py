@@ -126,7 +126,7 @@ class HelloWorld:
 		langCodeStrategy.printHelloWorld()
 
 def main():
-	print('Say Hello World in the language of your choice!')
+	print('Say Hello, World! in the language of your choice!')
 	print(f'We offer these languages: {ValidLang.choices()}')
 	print('__________________________')
 
