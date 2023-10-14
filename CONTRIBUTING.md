@@ -2854,4 +2854,4 @@
 
 - Place: Bangalore, Karnataka, India
 - Bio: I am Computer Science Engineering student in PES University with a passion for AI/ML
-- GitHub: [shreyyy12](https://github.com/shreyyy12)
+- GitHub: [shreyyy12](https://github.com/shreyyy12) 
