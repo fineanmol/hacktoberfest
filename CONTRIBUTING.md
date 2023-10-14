@@ -40,6 +40,11 @@
 -Bio: Bachelor's degree, comic and like coding
 -GitHub: https://github.com/KariSims
 
+#### Name: [Jennie Nguyen](https://github.com/jennienguyendev)
+- Place: CA, USA
+- Bio: Software Engineer
+- GitHub: [Alex Marrujo](https://github.com/jennienguyendev)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
