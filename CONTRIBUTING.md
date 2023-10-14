@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Abhi](https://github.com/AbhiTheModder)
+
+- Place: Faridabad, UP, India
+- Bio: NEET Aspirant, Loves coding 
+- GitHub: [AbhiTheModder](https://github.com/AbhiTheModder)
+
