@@ -15,6 +15,3 @@ Hapur/Uttar Pradesh
 
 
 
-### Profile Link
-
-[Mayank Kumar](https://github.com/Mayank0604)
