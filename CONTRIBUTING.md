@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Shreya Srikant](https://github.com/shreyyy12)
+
+- Place: Bangalore, Karnataka, India
+- Bio: I am Computer Science Engineering student in PES University with a passion for AI/ML
+- GitHub: [shreyyy12](https://github.com/shreyyy12) 
