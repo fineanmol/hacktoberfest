@@ -2850,3 +2850,10 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [Yashaswini B](https://github.com/yashashwini16/)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Final Year undergrad pursuing B.tech in computer science and Engineering
+- GitHub: [yashashwini16](https://github.com/yashashwini16/)
+
