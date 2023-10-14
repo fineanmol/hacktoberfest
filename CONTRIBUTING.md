@@ -1,3 +1,10 @@
+#### Name: [Shailaputri](https://github.com/Shailaputri)
+
+- Place: Bangalore, India
+- Bio: Fullstack Developer | Aspiring Backend Developer | ex-Banker
+I have jumped careers quite a many times.
+- GitHub: [Shailaputri](https://github.com/Shailaputri)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
