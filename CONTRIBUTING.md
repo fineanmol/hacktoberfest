@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [Preet Shah](https://github.com/PreetShah77)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: 3rd year undergrad pursuing B-Tech in Computer Science at Ganpat University
+- GitHub: [op-amateur](https://github.com/PreetShah77)
