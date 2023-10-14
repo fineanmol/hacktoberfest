@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Aryan Saxena](https://github.com/AryanSaxenaa)
+
+- Place: Aligarh, Uttar Pradesh, India
+- Bio: Second year undergrad pursuing Bachelor of Computer Engineering at Thapar Institute of Engineering and Technology 
+- GitHub: [AryanSaxenaa](https://github.com/AryanSaxenaa)
