@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Abdulqadir](https://github.com/AQL17)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Final Year undergrad pursuing B.E in CSE at Mumbai University.
+- GitHub: [AQL17](https://github.com/AQL17)
