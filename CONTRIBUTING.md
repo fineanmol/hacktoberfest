@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [SAROJ SWADITHYA](https://github.com/Saroj-Swadithya)
+
+- Place: Coimbatore, India
+- Bio: I am a Computer Science Engineering student from Karunya University
+- GitHub: [Saroj-Swadithya](https://github.com/Saroj-Swadithya)
