@@ -10,7 +10,7 @@ Information Technology B.Tech 3rd year Student.
 
 ### Interests
 
-- I am an tech enthusiast who also love to play chess.
+- I am a tech enthusiast who also love to play chess.
 
 ### Development
 
