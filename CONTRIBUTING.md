@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Anushka](https://github.com/SaraswatAnushka)
+
+- Place: Uttar Pradesh, India
+- Bio: 3rd year undergraduate pursuing Btech in Computer  Science
+- Github: [SaraswatAnushka](https://github.com/SaraswatAnushka)
+
