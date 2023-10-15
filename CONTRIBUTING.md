@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Patrick Navarro](https://github.com/PatrickNv23)
+
+- Place: Chimbote, Peru
+- Bio: Fullstack Developer | Web Developer
+- GitHub: [PatrickNv23](https://github.com/PatrickNv23)
