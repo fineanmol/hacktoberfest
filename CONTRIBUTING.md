@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Zishan](https://github.com/Zish303)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: Third Year undergrad pursuing B.tech in Information Technology
+- GitHub: [Zish303](https://github.com/Zish303)
+
