@@ -2844,9 +2844,14 @@
 - Bio: 3rd year undergrad pursuing BSc.Computer Science at University of Westminster and Software Engineer intern at 99X Technology
 - GitHub: [sithum20210380](https://github.com/sithum20210380)
 
-#### Name: [Prashansa](https://github.com/op-amateur)
+#### Name: [Prashansa](https://github.com/op-amateur)[kartik
 
 - Place: Kolkata, WB, India
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
+
+#### Name: [Kartik Negi](https://github.com/kartik21777)
+- Place: Dehradun, Uttarakhand, India
+- Bio: 1st Year Studen in Graphic Era, pursuing B.Tech in Computer Science
+- GitHub: [kartik21777](https://github.com/kartik21777)
 
