@@ -1,3 +1,10 @@
+#### Name: [Kudaya Paul Yao](https://github.com/0xNunana)
+
+- Place:Accra, Ghana
+- Bio: Software Devekoper,Open Source Contributor , Traveller
+- Affiliation : Envisio Live
+- GitHub: [0xNunana](https://github.com/0xNunana)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
