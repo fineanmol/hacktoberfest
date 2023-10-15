@@ -1,3 +1,9 @@
+#### Name: [Saadat Shaikh](https://github.com/saadatshaikh)
+
+- Place: Pune, Maharashtra, India
+- Bio: Fullstack Developer
+- GitHub: [saadatshaikh](https://github.com/saadatshaikh)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
