@@ -1,4 +1,4 @@
-// LANGUAGE: Brainf*ck
+// LANGUAGE: Javascript
 // ENV: Node.js
 // AUTHOR: Nixora!!
 // GITHUB: https://github.com/unxw
