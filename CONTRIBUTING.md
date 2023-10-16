@@ -4,7 +4,7 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
-#### Name: [Nayan Bramhane](https://github.com/NayanBramhane)
+#### Name: [Nayan M Bramhane](https://github.com/NayanBramhane)
 
 - Place: Mumbai, Maharashtra, India
 - Bio: I am a BSc Computer Science Graduate from University of Mumbai and I am a Full Stack Developer (MERN)
