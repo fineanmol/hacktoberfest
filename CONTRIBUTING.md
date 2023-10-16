@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Tarak Shaw](https://github.com/taraksh01)
+
+- Place: Kolkata, WB, India
+- Bio: In love with **JavaScript**.
+- GitHub: [taraksh01](https://github.com/taraksh01)
