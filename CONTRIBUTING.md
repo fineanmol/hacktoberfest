@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+### Name: [Bhuvin](https://github.com/silver-spar)
+
+- Place: Madhira,Telangana,India
+- Bio: fronend and backend developer
+- Github: [silver-spar](https://github.com/silver-spar)
