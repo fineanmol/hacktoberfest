@@ -1,3 +1,9 @@
+ ### Name: [Subham yadav](https://github.com/subham7061)
+
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: I am a Computer Science Engineering student from university of lucknow and a frontend developer.
+- GitHub: [subham7061](https://github.com/subham7061)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
