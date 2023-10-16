@@ -221,6 +221,12 @@
 - Bio: Web Developer and B.Tech. pursuing student
 - GitHub: [Adarsh Pradhan](https://github.com/AdarshPradhan1508)
 
+#### Name: [Sathya Narayana Rangappagari](https://github.com/sathyaar5)
+
+- Place: Bengaluru, Karntaka, India
+- Bio: Backend Developer
+- GitHub: [Sathyaar5](https://github.com/sathyaar5)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 
 - Place: Poland
