@@ -2850,3 +2850,10 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name:[Parishi] (https://github.com/ParishiB)
+
+- Place: India
+- Bio - Fresher
+- GitHub: [ParishiB] (https://github.com/ParishiB)
+
+  
