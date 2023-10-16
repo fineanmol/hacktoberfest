@@ -1,3 +1,9 @@
+#### Name: [Mohammed Aman](https://giithub.com/beastaman)
+
+- Place: Hyderabad, Telangana, India
+- Bio: Frontend  Developer | ReactJs Developer | Tech Enthusiast
+- GitHub: [beastaman](https://github.com/beastaman)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
