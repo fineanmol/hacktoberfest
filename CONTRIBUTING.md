@@ -161,6 +161,12 @@
 -Bio: I am a final year student.
 -GitHub: [Github](https://github.com/saqlainkaleem)
 
+#### Name: [BARKHA GUPTA](https://github.com/barkha-gupta)
+
+- Place: Noida, Uttar Pradesh, India
+- Bio: I am a full stack developer. I like to see ideas come to screen.
+- GitHub: [barkha-gupta](https://github.com/barkha-gupta)
+
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 
 -Place: Kolkata, West Bengal, India
