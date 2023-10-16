@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Saroj Regmi](https://github.com/sarojregmi200)
+
+- Place: Butwal, Rupandehi, Nepal
+- Bio: A Full-Stack software developer, who believes in building software that impacts peoples life. 
+- GitHub: [Saroj Regmi](https://github.com/sarojregmi200)
