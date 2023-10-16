@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Siddharth](https://github.com/siddHacks)
+
+- Place: Bangalore, India
+- Bio: Graduate electrical engineer pursuing Java full stack
+- GitHub: [siddHacks](https://github.com/siddHacks)
