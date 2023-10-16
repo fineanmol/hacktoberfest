@@ -1,5 +1,4 @@
 // LANGUAGE: Javascript
-// ENV: Node.js
 // AUTHOR: Aveek Bhattacharyya
 // GITHUB: https://github.com/AveekBhatt
 
