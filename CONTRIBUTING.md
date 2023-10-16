@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Gabriel Brisolara](https://github.com/brisolarag)
+
+- Place: Rio Grande do Sul, SA, Brazil
+- Bio: Second year graduating Software Engineering
+- GitHub: [Gabriel Brisolara](https://github.com/brisolarag)
+
