@@ -1,6 +1,6 @@
 #### Name : [Aveek Bhattacharyya](https://github.com/AveekBhatt)
 - Place : Kolkata , West Bengal , India
-- Bio : I am a Computer Science Engineering student from Guru Nanak Institute Of Technology , West Bengal and I am a Backend Developer
+- Bio : I am a Computer Science Engineering student from Guru Nanak Institute Of Technology and I am a Backend Developer
 - Github: [AveekBhatt](https://github.com/AveekBhatt)
 
 #### Name: [3mYouOL](https://github.com/3mYouOL)
