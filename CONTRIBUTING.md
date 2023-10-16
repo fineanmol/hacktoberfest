@@ -2800,3 +2800,9 @@
 - Place: Faridkot, Punjab, India
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Mrudang Vora](https://github.com/mrudang-vora)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: 15 yrs, Ex-CTO, Ex-TCS, Expert in engg. mgmt & solutions delivery, Led teams with servant leadership, Seeking #NewChallenges #EnggManagerPlusRoles
+- GitHub: [mrudang-vora](https://github.com/mrudang-vora)
