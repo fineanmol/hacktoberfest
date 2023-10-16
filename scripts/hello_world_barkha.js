@@ -1,9 +1,6 @@
-/**
- * 
- * @param {string} name 
- */
-function greetings(name){
-    return `Hello world from ${name}!!`
-}
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Barkha Gupta
+// GITHUB: https://github.com/barkha-gupta
 
-console.log(greetings('barkha'));
+console.log('Hello, World!');
