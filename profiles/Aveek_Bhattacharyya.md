@@ -6,7 +6,7 @@ Kolkata , India
 
 ### Acadamics: 
 
-B.Tech in CSE from Guru Nanak Institute Of Technology , Kolkata
+B.Tech in Computer Science Engineering from Guru Nanak Institute Of Technology , Kolkata
 
 ### Interests: 
 
