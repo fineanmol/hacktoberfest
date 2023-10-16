@@ -2819,6 +2819,12 @@
 - Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 - GitHub: [harmanjot2002](https://github.com/harmanjot2002)
 
+#### Name: [Mrudang Vora](https://github.com/mrudang-vora)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: 15 yrs, Ex-CTO, Ex-TCS, Expert in engg. mgmt & solutions delivery, Led teams with servant leadership, Seeking #NewChallenges #EnggManagerPlusRoles
+- GitHub: [mrudang-vora](https://github.com/mrudang-vora)
+
 #### Name: [Vaibhav](https://github.com/vaibhav-009)
 
 -Place: Delhi, India
@@ -2849,4 +2855,4 @@
 - Place: Kolkata, WB, India
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
-
+- 
