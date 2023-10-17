@@ -2315,6 +2315,12 @@
 - Bio: Web-Developer and Cyber-Security Enthusiast
 - GitHub: [Vaibhav Asawale](https://github.com/vaibhav-87)
 
+#### Name: [RAVI M DAMOR](https://github.com/ravithemore)
+
+- Place: GUJARAT, Country
+- Bio: UI-UX Developer< ML enginner
+- GitHub: [ravithemore](https://github.com/ravithemore)
+
 #### Name: [Valentina](https://github.com/vale-c)
 
 - Place: Parma, Italy
