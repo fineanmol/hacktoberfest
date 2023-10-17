@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Sidhanth Pandey](https://www.linkedin.com/in/sidhanthpandey)
+
+- Place: North East Delhi, Delhi, India
+- Bio: I'm a Frontend developer
+- GitHub: [sidpan2011](https://www.linkedin.com/in/sidhanthpandey)
