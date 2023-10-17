@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Spandan](https://github.com/Spandan-Bhattacharya)
+
+- Place: Kolkata, West Bengal, India
+- Bio: A Computer Science and Engineering Student dabbling in Hacktoberfest for the first time.
+- GitHub: [Spandan-Bhattacharya](https://github.com/Spandan-Bhattacharya)
+
