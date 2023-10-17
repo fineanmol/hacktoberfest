@@ -252,9 +252,9 @@
 - GitHub: [coderDaiyan](https://github.com/coderDaiyan)
 
 #### Name: [Abdulqoyyum Ibrahim](https://github.com/devbayo)
-
 - Place: Lagos, Nigera.
 - Bio: Frontend Developer, Mechanical Engineering Undergraduate.
+
 - GitHub: [devBayo](https://github.com/devbayo)
 
 #### Name: [Abhibhab Mitra Thakur](https://github.com/Abhibhab)
@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Harianant](https://github.com/Hsinha1109) 
+
+- Place: Kanpur,India
+- Bio: 3rd year undergrad pursuin B.tech in Computer science and Engineering
+- Github: [Hsinha1109](https://github.com/Hsinha1109) 
