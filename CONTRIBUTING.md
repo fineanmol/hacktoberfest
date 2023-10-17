@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [Akbar Anung Yudha Saputra](https://github.com/akbarsaputrait)
+
+- Place: Malang, East Java, Indonesia
+- Bio: I'm a Frontend Web Developer at SURGE (Indonesia)
+- GitHub: [akbarsaputrait](https://github.com/akbarsaputrait)
