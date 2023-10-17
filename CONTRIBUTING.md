@@ -10,6 +10,12 @@
 - Bio: I am a Computer Science Engineering student from Maulana Abul Kalam Azad University of Technology,West Bengal and I am a full Stack developer
 - GitHub: [07tAnYa](https://github.com/07tAnYa)
 
+#### Name: [Bratajit Das](https://github.com/Bratajit-03)
+
+- Place: Durgapur, West Bengal, India
+- Bio: I am a CSE Student
+- GitHub: [Bratajit-03](https://github.com/Bratajit-03)
+
 #### Name: [Anubhav Kulshreshtha](https://github.com/anubhav1450)
 
 - Place: Shikohabad,Uttar Pradesh, India
