@@ -2853,6 +2853,6 @@
 #### Name: [Spandan](https://github.com/Spandan-Bhattacharya)
 
 - Place: Kolkata, West Bengal, India
-- Bio: A Computer Science and Engineering Student dabbling in Hacktoberfest for the first time.
+- Bio: A Computer Science and Engineering Student dabbling in Hacktoberfest for the first time. I am interested in contributing more to the open-source community.
 - GitHub: [Spandan-Bhattacharya](https://github.com/Spandan-Bhattacharya)
 
