@@ -1,3 +1,9 @@
+#### Name: [Caroline Gilbert](https://github.com/carolinecgilbert)
+
+- Place: West Lafayette, IN, USA
+- Bio: Undergraduate Computer Engineering student at Purdue University interested in software engineering and embedded systems.
+- GitHub: [carolinecgilbert](https://github.com/carolinecgilbert)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
