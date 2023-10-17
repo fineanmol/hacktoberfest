@@ -2850,3 +2850,6 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+- Place: Thane, Maharashtra, India
+- Bio: Third Year undergrad pursuing B.E. in Information Technology from Dr D.Y. Patil of Engineering
+- GitHub: [Sahil873](https://github.com/Sahil873)
