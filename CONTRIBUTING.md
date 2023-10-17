@@ -28,6 +28,12 @@
 - Bio: Interesting in code and I am a Software Developer
 - GitHub: [EyeOfCode](https://github.com/EyeOfCode)
 
+#### Name: [Aditya D](https://github.com/adityadeshpande09)
+
+- Place: Mumbai, India
+- Bio: I am a CSE student
+- GitHub: [Aditya D](https://github.com/adityadeshpande09)
+
 #### Name: [Victor Oderinde](https://github.com/Vctcode)
 
 - Place: Lagos, Nigeria
