@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Vinay Kumar](https://github.com/Linuxinet)
+
+- Place: Nellore, AP, India
+- Bio: Security Researcher
+- GitHub: [Vinay Kumar](https://github.com/Linuxinet)
