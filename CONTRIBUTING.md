@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Shobhit Gupta](https://github.com/shobhitexe)
+
+- Place: Madhya Pradesh , India
+- Bio: Dev | Passionate about tech & gaming | Exploring the future
+- GitHub: [shobhitexe](https://github.com/shobhitexe)
+
