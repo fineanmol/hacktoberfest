@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Tushar](https://github.com/tusharmali)
+
+- Place: Ahmedabad, GJ, India
+- Bio: First year graduated & persuing m.tech degree at Nirma University
+- GitHub: [tusharmali](https://github.com/tusharmali)
