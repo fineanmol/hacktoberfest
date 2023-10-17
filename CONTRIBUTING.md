@@ -1,3 +1,9 @@
+#### Name: [Xiaoren Chung](https://github.com/smoll-xiao)
+
+- Place: Bellevue, Washington, USA
+- Bio: AP CSP student at Newport Highschool
+- GitHub: [smoll-xiao](https://github.com/smoll-xiao)
+  
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
