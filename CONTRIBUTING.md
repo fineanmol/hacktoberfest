@@ -1,3 +1,9 @@
+#### Name: [MOHD ABBAS HAIDAR](https://www.github.com/the-hdr)
+
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Computer science student who loves building things from scratch.
+- GitHub: [the-hdr](https://www.github.com/the-hdr)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
