@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Chiming Zhao](https://github.com/op-amateur)
+
+- Place: Detroit, Michigan, USA
+- Bio: Software Development Engineer with one year of experience
+- GitHub: [zhaochiming](https://github.com/zhaochiming)
