@@ -10,13 +10,6 @@
 - Bio: I am a Computer Science Engineering student from Maulana Abul Kalam Azad University of Technology,West Bengal and I am a full Stack developer
 - GitHub: [07tAnYa](https://github.com/07tAnYa)
 
-
-#### Name: [Aryan Sharma](https://github.com/aryan2909)
-
-- Place: Ghaziabad, Uttar Pradesh, India 
-- Bio: A computer science engineer 
-- GitHub: [aryan2909](https://github.com/aryan2909)
-
 #### Name: [Anubhav Kulshreshtha](https://github.com/anubhav1450)
 
 - Place: Shikohabad,Uttar Pradesh, India
@@ -2857,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Aryan Sharma](https://github.com/aryan2909)
+
+- Place: Ghaziabad, Uttar Pradesh, India 
+- Bio: A computer science engineer 
+- GitHub: [aryan2909](https://github.com/aryan2909)
