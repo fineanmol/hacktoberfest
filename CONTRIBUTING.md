@@ -1,3 +1,9 @@
+#### Name: [Noor Alam](https://github.com/nooralamf42)
+
+- Place: Kannauj, Uttar Pradesh
+- Bio: Fullstack Developer | YouTuber
+- GitHub: [Noor Alam](https://github.com/nooralamf42)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
