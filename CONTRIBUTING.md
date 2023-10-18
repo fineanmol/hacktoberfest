@@ -4,6 +4,12 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [Abhisek Dogra](https://github.com/Abhi169)
+
+- Place: Himachal Pradesh, India
+- Bio: Fullstack Developer | Pre-Final Year Student at Panjab University | Cyber Security Enthusiast
+- GitHub: [Abhi169](https://github.com/Abhi169)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
