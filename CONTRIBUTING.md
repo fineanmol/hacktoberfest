@@ -4,6 +4,12 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [NIKHAR BEHERA](https://github.com/SoulNikhar)
+
+- Place: Bhubaneswar, Odisha, India
+- Bio: I am a Computer Science Engineering student from Odisha University Of Technology and Reserch,Odisha and I am a full Stack developer
+- GitHub: [Nikhar](https://github.com/SoulNikhar)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
