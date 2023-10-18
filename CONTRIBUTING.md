@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Akshat Naruka](https://github.com/AkshatNaruka)
+
+- Place: chennai, Tamil Nadu, India
+- Bio: Third Year Student pursuing B.tech in Computer Engineering
+- GitHub: [AkshatNaruka](https://github.com/AkshatNaruka)
