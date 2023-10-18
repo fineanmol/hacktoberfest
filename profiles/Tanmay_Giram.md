@@ -14,4 +14,4 @@ Web Development
 
 ### Profile Link
 
-[Tanmay Giram](https://github.com/Tanmay-Giram)
+[Tanmay_Giram](https://github.com/Tanmay-Giram)
