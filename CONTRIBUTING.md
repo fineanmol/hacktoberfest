@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Ariel](https://github.com/acurtido)
+
+- Place: Asunción, Paraguay
+- Bio: Fullstack Developer | Game Developer 
+- GitHub: [acurtido](https://github.com/acurtido)
+
