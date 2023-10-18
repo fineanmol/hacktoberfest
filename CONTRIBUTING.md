@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Harsh Prajapati](https://github.com/HarshPrajapati2003)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: Third Year undergrad pursuing B.tech in Computer Engineering at L.D.College Of Engineering
+- GitHub: [HarshPrajapati2003](https://github.com/HarshPrajapati2003)
+
