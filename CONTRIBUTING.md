@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Abhishek](https://github.com/abhishek12202)
+
+- Place: MH, India
+- Bio: Mechanical Engineer And Berojgar
+- GitHub: [abhishek12202](https://github.com/abhishek12202)
