@@ -1,3 +1,9 @@
+#### Name: [Jackroj](https://github.com/Jackroj)
+
+- Place: Madurai, TamilNadu, Country
+- Bio: Full Stack Developer | React & Next.js 🌐 Node.js Enthusiast 🛠️ Serverless Architect 🐍 Ruby on Rails | 💻 Laravel PHP 🌟 Tech Innovator.
+- GitHub: [Jackroj](https://github.com/Jackroj)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
