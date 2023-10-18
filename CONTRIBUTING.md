@@ -4,6 +4,12 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [Yusuf](https://github.com/unchaineddev)
+
+- Place: Bangalore, India
+- Bio: Python Developer
+- GitHub: [unchaineddev](https://github.com/unchaineddev)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
