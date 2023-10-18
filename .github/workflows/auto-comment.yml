@@ -1,26 +1,29 @@
-name: Auto Comment
-on: [issues, pull_request]
-permissions: write-all
+on:
+   pull_request:
+     types:
+       - opened
 jobs:
-  run:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: wow-actions/auto-comment@v1.1.2
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          issuesOpened: |
-             @{{ author }} Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label for the event.
-             Meanwhile if you want to work on this issue, Please raise the PR and we will review and merge it.
-       
+   comment:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: wow-actions/auto-comment@v1.1.2
+          with:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            issuesOpened: |
+               @{{ author }} Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label for the event.
+               Meanwhile if you want to work on this issue, Please raise the PR and we will review and merge it.
+         
+        - name: Checkout code
+          uses: actions/checkout@v2
 
-          pullRequestOpened: |
-             @{{ author }} Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label for the event.
-             
-          pullRequestUnlabeled: |
-             @{{ author }} Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label to participate in the event.
-          pullRequestSynchronize: |
-             @{{ author }} Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label to participate in the event.
-          pullRequestClosed: |
-             @{{ author }} As your PR is closed now, Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label to participate in the event.
-          pullRequestReopened: |
-             @{{ author }} As your PR is closed now, Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label to participate in the event.
+         - name: Debug GitHub Token
+            run: echo "GitHub Token: ${{ secrets.GITHUB_TOKEN }}"
+     
+         - name: Comment on PR
+            uses: wow-actions/auto-comment@v1.1.2
+            with:
+               action: opened
+               event: pullRequestOpened
+               start comment: "@{{ author }} Please Star ⭐️ the repo to earn '**_hacktober-accepted_**' label for the event."
+            env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
