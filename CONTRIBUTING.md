@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Aryan Sharma](https://github.com/aryan2909)
+
+- Place: Ghaziabad, Uttar Pradesh, India 
+- Bio: A computer science engineer 
+- GitHub: [aryan2909](https://github.com/aryan2909)
