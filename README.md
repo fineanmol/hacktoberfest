@@ -7,7 +7,7 @@
 
 Contribute here to complete your HacktoberFest Event. 
 
-# 🎃 HacktoberFest Starter Project 🎃
+# 🎃 HacktoberFest-2023 Starter Project 🎃
 
 Use this project to make your first contribution to an open source project on GitHub.
 Celebrate [Hacktoberfest](https://hacktoberfest.com/) by getting involved in the open source community by completing some simple tasks in this project.
