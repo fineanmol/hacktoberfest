@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+- #### Name: [Tanmay](https://github.com/Tanmay-Giram)
+
+- Place: Kolkata, WB, India
+- Bio: Final Year undergrad pursuing B.tech in Electronics and communication Engineering
+- GitHub: [Tanmay-Giram]([https://github.com/op-amateur](https://github.com/Tanmay-Giram)https://github.com/Tanmay-Giram)
+
