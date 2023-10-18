@@ -1,3 +1,9 @@
+#### Name: [Sarvesh Pandit](https://github.com/crystaxit)
+
+- Place: Sydney, New South Wales, Australia
+- Bio: DevOps Engineer | Bug bounty Hunter | Gamer 
+- GitHub: [CrYsTAxiT](https://github.com/crystaxit)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
