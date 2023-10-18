@@ -4,6 +4,12 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [Mahesh Lamba](https://github.com/AlienMonk)
+
+- Place: Haryana,India
+- Bio: Fullstack Developer ,Completed my Btech from NSUT EAST CAMPUS.
+- GitHub: [Mahesh Lamba](https://github.com/AlienMonk)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
