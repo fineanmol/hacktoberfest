@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Pallav Goswami](https://github.com/pallavgoswami)
+
+- Place: Bareilly, UP, India
+- Bio: Final Year undergrad pursuing B.Tech in Computer Science and Engineering
+- GitHub: [pallavgoswami](https://github.com/pallavgoswami)
+
