@@ -87,6 +87,12 @@
 - Bio: Node Developer, guy who codes and lift iron
 - GitHub: [Ashish Mohite](https://github.com/ashish16052)
 
+#### Name: [Shubham Vartak](https://github.com/shubham-vartak)
+
+- Place: Mumbai, Maharashtra, INDIA
+- Bio: Java Developer, works in IOT based startup
+- GitHub: [Shubham Vartak](https://github.com/shubham-vartak)
+
 #### Name: [Satwika](https://github.com/VSatwika)
 
 - Place: Hyderabad,Telangana,India
