@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Gabriela Lima](https://github.com/gabirlima)
+
+- Place: Porto Alegre, RS, Brazil
+- Bio: Software Quality Engineer
+- GitHub: [gabirlima](https://github.com/gabirlima)
