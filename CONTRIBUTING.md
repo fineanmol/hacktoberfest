@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Prakarti](https://github.com/prakartigoel24)
+
+- Place: New Delhi, Delhi, India
+- Bio: Final Year undergrad student pursuing B.Tech in Computer Science and Engineering and also an enthusiastic learner, coder, developer. Ex-SWE Intern at Microsoft, India.
+- GitHub: [prakartigoel24](https://github.com/prakartigoel24)   
+
