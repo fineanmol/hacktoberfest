@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Vivek Dagar](https://github.com/vivekkdagar)
+
+- Place: New Delhi, Delhi, India
+- Bio: A 3rd year undegrad pursuing B.tech in CSE 
+- GitHub: [vivekkdagar](https://github.com/vivekkdagar)
