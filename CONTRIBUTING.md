@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Rohit Kanojiya](https://github.com/rohit010pro)
+
+- Place: Vadodara, Gujarat, India
+- Bio: I'm currently in my Last Year of Computer Engineering.
+- GitHub: [rohit010pro](https://github.com/rohit010pro)
