@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Harshit Kumar Vishwakarma](https://github.com/harsh9709)
+
+- Place: bhubaneswar, odisha, india
+- Bio: backend developer | AI/ML Enthusiast | Data Analyst |
+- GitHub: [harsh9709](https://github.com/harsh9709)
