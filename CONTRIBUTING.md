@@ -2854,5 +2854,5 @@
 
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad student pursuing B.Tech in Computer Science and Engineering and also an enthusiastic learner, coder, developer. Ex-SWE Intern at Microsoft, India.
-- GitHub: [prakartigoel24](https://github.com/prakartigoel24)
+- GitHub: [prakartigoel24](https://github.com/prakartigoel24)   
 
