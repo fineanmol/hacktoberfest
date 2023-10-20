@@ -22,6 +22,12 @@
 - Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
 - GitHub: [adityasharma270103](https://github.com/adityasharma270103)
 
+#### Name: [DevBen](https://github.com/git-create-devben)
+
+- place: Lagos, Nigeria
+- Bio: Front-end dev 💡 building the future of the web 🌐
+- Github: [git-create-devben](https://github.com/git-create-devben)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
@@ -41,6 +47,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -2831,7 +2838,6 @@
 - Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [adityasays](https://github.com/adityasays)
 
-
 #### Name: [Koduri Mohan](https://github.com/kodurimohan)
 
 - Place: Chennai, Tamil Nadu, India
@@ -2849,4 +2855,3 @@
 - Place: Kolkata, WB, India
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
-
