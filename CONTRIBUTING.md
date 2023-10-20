@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [ROHAN KUMAR](https://github.com/rohan37kumar)
+
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: Just a "non-average" developer!!!
+- GitHub: [rohan37kumar](https://github.com/rohan37kumar)
