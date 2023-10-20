@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Kuldeep Ahlawat](https://github.com/op-amateur)
+
+- Place: Bengaluru, KN, India
+- 💼 SDE Intern [@Inkers.ai](https://www.inkers.ai/)
+- GitHub: [@imkuldeepahlawat](https://github.com/imkuldeepahlawat)
+
