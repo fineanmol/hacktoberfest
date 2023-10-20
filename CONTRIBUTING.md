@@ -2853,5 +2853,5 @@
 #### Name: [Mayank Gongal](https://github.com/mayankgongal5)
 
 - Place: Nagpur, Maharashtra, India
-- Bio: @nd year student at Government College of Engineering Nagpur and a flutter developer
+- Bio: 2nd year student at Government College of Engineering Nagpur and a flutter developer
 - GitHub: [mayankgongal5](https://github.com/mayankgongal5)

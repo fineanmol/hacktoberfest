@@ -17,6 +17,7 @@ Government College of Engineering Nagpur
 - Fitness
 - Gym
 - Music
+- movies
 
 ### Development
 
