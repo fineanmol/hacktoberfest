@@ -2850,3 +2850,7 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Sakshi Umredkar](https://github.com/saakshii12)
+-Place: Pune
+-Bio- Second year undergrad pursuing Instrumentation and Control engineering
+-Github: [Sakshi](https://github.com/saakshii12)
