@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Yan Penalva](https://github.com/yanbrasiliano)
+
+- Place: Bahia, Brasil
+- Bio: Software Engineer
+- GitHub: [Yan Penalva](https://github.com/yanbrasiliano)
