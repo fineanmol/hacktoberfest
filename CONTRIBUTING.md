@@ -10,6 +10,12 @@
 - Bio: I am a Computer Science Engineering student from Maulana Abul Kalam Azad University of Technology,West Bengal and I am a full Stack developer
 - GitHub: [07tAnYa](https://github.com/07tAnYa)
 
+#### Name: [KRATIN AGGARWAL](https://github.com/kratin01)
+
+- Place: FARIDABAD, HARAYANA, INDIA
+- Bio: I am Kratin Aggarwal, a dedicated student currently pursuing a Bachelor of Technology (B.Tech) degree at IIIT Kota. I am passionate about computer science and have a particular interest in web development. My enthusiasm for the world of web technologies drives me to constantly explore and enhance my skills in this field.
+- GitHub: [kratin01](https://github.com/kratin01)
+
 #### Name: [Anubhav Kulshreshtha](https://github.com/anubhav1450)
 
 - Place: Shikohabad,Uttar Pradesh, India
