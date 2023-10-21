@@ -2854,4 +2854,4 @@
 
 - Place: Pilkhuwa, UP, India
 - Bio: Third Year undergrad pursuing B.tech in CSE AIML
-- GitHub: [tiwari00ayush](https://github.com/tiwari00ayush)
+- GitHub: [op-amateur](https://github.com/tiwari00ayush)
