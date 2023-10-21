@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Ram Vijay Yadav](https://github.com/12345rams)
+
+- Place: Azamgarh, Uttarpradesh, India
+- Bio: Second Year udergrad pursuing BTech In CSE from NIT Manipur
+- GitHub: [12345rams](https://github.com/12345rams)
