@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Sander](https://github.com/soncksander)
+
+- Place: Aalst, Belgium
+- Bio: 2th year pursuing bachelor in applied informatics at HoGent 
+- GitHub: [soncksander](https://github.com/soncksander)
