@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Rishabh](https://github.com/R1shA3h)
+
+- Place: Nagpur, Maharastra, India
+- Bio: Third Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [r1sha3h](https://github.com/R1shA3h)
+
