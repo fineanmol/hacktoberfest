@@ -4,6 +4,12 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [EJIRO OSIEPHRI](https://github.com/EjiroOsiephri)
+
+- Place: Lagos, State, Nigeria
+- Bio: I am a Developer and digital marketer?
+- GitHub: [Ejiro Osiephri](https://github.com/EjiroOsiephri)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
