@@ -1,5 +1,5 @@
-""" LANGUAGE: Javascript
- AUTHOR: Anmol Agarwal
-GITHUB: https://github.com/fineanmol"""
+""" LANGUAGE: Python
+ AUTHOR: Manognya B
+GITHUB: https://github.com/manognya-b"""
 
 print("Hello, World!\n")
