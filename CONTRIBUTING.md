@@ -4,6 +4,12 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [Ali Amanat Ali](https://github.com/aliamanatali)
+
+- Place: Lahore, Punjab, Pakistan
+- Bio: I am a Computer Science student from Punjab University College of Information and Technology, Anarkali Lahore and I am a full Stack Web developer.
+- GitHub: [aliamanatali](https://github.com/aliamanatali)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
