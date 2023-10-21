@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Sushant](https://github.com/Sushant626)
+
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: Sophomore at BIT Mesra, pursuing B.Tech in Electronics and communications engg. <3
+- GitHub: [Sushant626](https://github.com/Sushant626)
