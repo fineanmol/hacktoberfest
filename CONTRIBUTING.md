@@ -2852,6 +2852,6 @@
 
 #### Name: [Sander](https://github.com/soncksander)
 
-- Place: Kolkata, WB, India
+- Place: Aalst, Belgium
 - Bio: 2th year pursuing bachelor in applied informatics at HoGent 
 - GitHub: [soncksander](https://github.com/soncksander)
