@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Calvin]((https://github.com/Calvinfred123))
+
+- Place: Seattle, Washington, USA
+- Bio: Networking student W/ CCNA certification
+- GitHub: [Calvinfred123](https://github.com/Calvinfred123)
