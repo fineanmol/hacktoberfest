@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Muzammil Siddiqui](https://github.com/Muz4mmil)
+
+- Place: Aurangabad, Maharashtra, India
+- Bio: Student and a Junior web developer persuing b.tech in CS
+- GitHub: [GitHub account name](https://github.com/Muz4mmil)
