@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [Mohak Purwar](https://github.com/mohakpurwar)
+
+- Place: Delhi, India
+- Bio: I am a Computer Science Engineering B.Tech student.
+- GitHub: [mohakpurwar](https://github.com/mohakpurwar)
