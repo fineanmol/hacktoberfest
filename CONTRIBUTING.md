@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Chandan arya](https://github.com/alpha2lucifer)
+
+- Place: Delhi, New Delhi, Bharat
+- Bio: 3rd year undergrad pursuing B.tech Computer Science at NSUT Delhi and Executive Head at AimL Society of Our College
+- GitHub: [alpha2lucifer](https://github.com/alpha2lucifer)
