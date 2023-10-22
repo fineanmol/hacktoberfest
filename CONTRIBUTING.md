@@ -1,3 +1,9 @@
+#### Name: [Harsh](https://github.com/hrs4real)
+
+- Place: India
+- Bio: Aspiring DevOps Engineer
+- GitHub: [hrs4real](https://github.com/hrs4real)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
