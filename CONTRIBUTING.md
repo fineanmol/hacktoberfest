@@ -1,3 +1,9 @@
+#### Name: [Mubarak Muhammad Ibrahim](https://github.com/DigitalAkhee)
+
+- Place: Gombe State, Nigeria
+- Bio: Computer Science Student | Webflow Developer | Tech Enthusiast
+- GitHub: [Digital Akhee](https://github.com/DigitalAkhee)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
