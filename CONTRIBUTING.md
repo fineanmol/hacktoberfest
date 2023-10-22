@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Kaif-ALi-khan](https://github.com/Kaif8420)
+
+- Place: Kolkata, West-Bengal, India
+- Bio: 2nd year Engineering Undergrad pursuing Btech in CSE
+- GitHub: [Kaif8420](https://github.com/Kaif8420)
