@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Anmol Agarwal](https://github.com/onemole6022)
+
+- Place: Kharagpur, WB, India
+- Bio: Game Dev and Web Dev enthusiast currenlty persuing Metallurgical Engineering from IITKGP
+- GitHub: [onemole6022](https://github.com/onemole6022)
