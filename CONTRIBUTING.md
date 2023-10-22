@@ -1,3 +1,9 @@
+#### Name: [IqraMahmood](https://github.com/IqraMahmood)
+
+- Place: Sahiwal, Punjab, Pakistan
+- Bio: Data Scientist | Data Analyst
+- GitHub: [IqraMahmood]([GitHub link](https://github.com/IqraMahmood))
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
