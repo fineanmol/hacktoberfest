@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Chisom Jude](https://github.com/chisomjude)
+
+- Place: Ikeja, Lagos, Nigeria
+- Bio: Experienced DevOps Engineer and Technical Writer
+- GitHub: [Chisom Jude](https://github.com/chisomjude)
+
