@@ -56,6 +56,7 @@ class CircularLinkList():
                     break
 if __name__ == '__main__' :
     ll = CircularLinkList()
+    ll.add_at_start(4)
     ll.add_at_start(3)
     ll.add_at_start(2)
     ll.add_at_start(1)
