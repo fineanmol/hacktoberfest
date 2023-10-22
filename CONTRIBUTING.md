@@ -41,6 +41,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -2830,7 +2831,7 @@
 - Place: Lucknow, UP, India
 - Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [adityasays](https://github.com/adityasays)
-
+- 
 
 #### Name: [Koduri Mohan](https://github.com/kodurimohan)
 
@@ -2850,3 +2851,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Mohan Majhi](https://github.com/mohan060104)
+
+- Place: Purulia, West Bengal, India
+- Bio: I'm a tech enthusiast.
+- GitHub: [Mohan Majhi](https://github.com/mohan060104)
