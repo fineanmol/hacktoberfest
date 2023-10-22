@@ -1,11 +1,37 @@
-#Python program to draw Rainbow benzene
+import turtle
 
-import turtle 
-colors = ['red','purple','blue','green','orange','yellow']
-t = turtle.Pen()
-turtle.bgcolor('black')
-for x in range(360):
-    t.pencolor(colors[x%6])
-    t.width(x//100 + 1) 
-    t.forward(x)
-    t.left(59)
+# Set up the Turtle screen
+wn = turtle.Screen()
+wn.bgcolor("white")
+
+# Create a Turtle object
+benzene = turtle.Turtle()
+benzene.speed(10)
+
+# Function to draw a semi-circle with a specified radius and color
+def semi_circle(radius, color):
+    benzene.fillcolor(color)
+    benzene.begin_fill()
+    benzene.circle(radius, 180)
+    benzene.right(180)
+    benzene.forward(10)
+    benzene.right(180)
+    benzene.circle(radius, 180)
+    benzene.end_fill()
+
+# Set initial position
+benzene.penup()
+benzene.goto(0, -100)
+benzene.pendown()
+
+# Draw the rainbow benzene ring
+colors = ["red", "orange", "yellow", "green", "blue", "purple"]
+
+for color in colors:
+    semi_circle(100, color)
+
+# Hide the Turtle
+benzene.hideturtle()
+
+# Close the Turtle graphics window on click
+wn.exitonclick()
