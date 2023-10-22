@@ -1,3 +1,9 @@
+#### Name: [Alaf](https://github.com/3mYouOL)
+
+- Place: Palaiseau, France
+- Bio: I am a master's student in electrical engineering with a background in telecommunications and automation, primarily focused on the Internet of Things (IoT).
+- GitHub: [alafSantos](https://github.com/alafSantos)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
