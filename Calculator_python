@@ -1,25 +1,40 @@
-first = input("enter first number:")
-operator = input("enter operator (+, -, *, /, %) : ")
-second = input("enter second number:")
+import tkinter as tk
 
-first = int(first)
-second = int(second)
+# Function to evaluate the expression and update the display
+def evaluate():
+    try:
+        result = str(eval(entry.get()))
+        result_label.config(text="Result: " + result)
+    except Exception as e:
+        result_label.config(text="Invalid input")
 
-if operator == "+":
-    print(first + second)
-    
-elif operator == "-":
-    print(first - second)  
-     
-elif operator == "*":
-    print(first * second)
-    
-elif operator == "/":
-    print(first / second)
-    
-elif operator == "%":
-    print(first % second)
-       
-    
-else:
-    print("Invalid operator") 
+# Create the main window
+window = tk.Tk()
+window.title("Simple Calculator")
+
+# Create an Entry widget for user input
+entry = tk.Entry(window, width=30)
+entry.grid(row=0, column=0, columnspan=4)
+
+# Create buttons for numbers and operators
+buttons = [
+    '7', '8', '9', '/',
+    '4', '5', '6', '*',
+    '1', '2', '3', '-',
+    '0', '.', '=', '+'
+]
+
+row, col = 1, 0
+for button in buttons:
+    tk.Button(window, text=button, padx=20, pady=20, command=lambda b=button: entry.insert(tk.END, b) if b != '=' else evaluate()).grid(row=row, column=col)
+    col += 1
+    if col > 3:
+        col = 0
+        row += 1
+
+# Create a label to display the result
+result_label = tk.Label(window, text="Result: ")
+result_label.grid(row=5, column=0, columnspan=4)
+
+# Run the GUI
+window.mainloop()
