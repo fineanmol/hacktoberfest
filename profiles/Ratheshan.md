@@ -6,7 +6,7 @@ Kandy, Sri Lanka
 
 ### Academics
 
-- Pursuing BSc Computer Science at IIT
+- Pursuing BSc Computer Science at IIT Sri Lanka
 
 ### Interests
 
