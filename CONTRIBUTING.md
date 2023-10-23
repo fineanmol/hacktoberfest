@@ -2831,6 +2831,12 @@
 - Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [adityasays](https://github.com/adityasays)
 
+#### Name: [Anushka Pandit](https://github.com/anushkp1107)
+
+- Place: Agra, Uttar Pradesh, India
+- Bio: Second Year undergrad pursuing B.tech in Information Technology-Business Informatics at IIIT-Allahabad
+- GitHub: [anushkp1107](https://github.com/anushkp1107)
+
 
 #### Name: [Koduri Mohan](https://github.com/kodurimohan)
 
@@ -2849,4 +2855,5 @@
 - Place: Kolkata, WB, India
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
+
 
