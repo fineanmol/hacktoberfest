@@ -1,3 +1,9 @@
+#### Name: [Atul Anand Oraon](https://github.com/OAtulA)
+
+- Place: Ranchi, Jharkhand
+- Bio: B.Tech CSE 2nd year student, Enthusiastic about DevOps.
+- GitHub: [OAtulA](https://github.com/OAtulA)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
