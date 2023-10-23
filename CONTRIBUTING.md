@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Tejeshwar-SM](https://github.com/Tejeshwar-SM)
+
+- Place: Nagpur, Maharashtra, India
+- Bio: Third year Bachelor of Technology from VNIT Nagput
+- GitHub: [Tejeshwar-SM](https://github.com/Tejeshwar-SM)
+
