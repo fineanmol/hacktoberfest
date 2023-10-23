@@ -1,3 +1,9 @@
+### Name: [mayankm1004](https://github.com/mayankm1004)
+
+- Place:jabalpur, India
+- Bio : Artificial inteligence and data science student
+- Github : [mayankm1004](https://github.com/mayankm1004)
+  
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
