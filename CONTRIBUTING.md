@@ -2850,3 +2850,11 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Yuvraj Verma](https://github.com/yuvrajverma25)
+
+- Place: Madhya Pradesh, India
+- Bio: Third Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [https://github.com/yuvrajverma25)
+
+  
+
