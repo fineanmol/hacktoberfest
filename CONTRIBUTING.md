@@ -172,7 +172,12 @@
 - Place: Colombo, WP, SL
 - Bio: IT Student
 - GitHub: https://github.com/LakshithaSamod
+- 
+#### Name: [Lakshay Bansal](https://github.com/LALSHAYBANSAL879)
 
+- Place:FARIDBAD ,HARYANA INDIA
+- Bio: I AM A BTECH 2ND YEAR STUDENT FROM DELHI AND A FULL STACK WEB DEVELOPER ALSO LEARNING FLUTTER AND EPLORING THINGS 
+- GitHub: https://github.com/LAKSHAYBANSAL879
 #### Name: [Aditya srivastava](https://github.com/Aditya-040)
 
 -place Ghaziabad,Uttar Pradesh, India
