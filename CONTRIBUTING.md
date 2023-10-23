@@ -4,6 +4,12 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [Nitin Shukla](https://github.com/Nitinshukla88)
+
+- Place: Kanpur,Uttar Pradesh,India
+- Bio: Fullstack developer,CS undergrad at Pranveer singh institute of Technology,Cloud enthusiast
+- Github: [Nitinshukla88](https://github.com/Nitinshukla88)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
