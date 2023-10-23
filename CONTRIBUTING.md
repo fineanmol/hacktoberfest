@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Prashansa](https://github.com/op-amateur)
+
+- Place: Bhopal, MP, India
+- Bio: Software Engineer
+- GitHub: [DiptanshuG](https://github.com/DiptanshuG)
