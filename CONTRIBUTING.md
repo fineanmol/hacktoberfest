@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Shreyan Shukla](https://github.com/shreyan01)
+
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: Third year undergrad in CSE. WEb developer and aspiring to be an entrepreneur
+- GitHub: [shreyan01](https://github.com/shreyan01)
