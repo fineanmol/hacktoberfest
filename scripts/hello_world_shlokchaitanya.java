@@ -1,4 +1,8 @@
-public class hello_world_shlokchaitanya {
+// LANGUAGE: Java
+// AUTHOR: Shlok Chaitanya
+// GITHUB: https://github.com/shlokchaitaya
+
+public class Main {
     public static void main(String[] args) {
         String h = "hello world";
         String abc = "abcdefghijklmnopqrstuvwxyz";
