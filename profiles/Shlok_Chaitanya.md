@@ -1,24 +1,30 @@
-# Your Name
+# Shlok Chaitanya
 
-### Location
+### Location : New Delhi, Delhi NCR, Inida
 
-New Delhi, Delhi NCR, Inida
+### Academics : School
 
-### Academics
+### Interests : Web devlopment and Software Developement
+- Interests
+- Anime
+- Backend (NodeJS)
+- Gaming
+- Singing
+- Music
+- Learning Enthusiast
+- DSA (C++)
+- Skills
+- C++
+- JavaScript
+- NodeJS
+- CSS
 
-School
-
-### Interests
-
-Web devlopment and Software Developement
-
-### Development
-
-- Made a video conferencing 
+### Development : Maded a video conferencing app
 
 ### Projects
 
-- [My Project](GitHub Link) Short Description
+- [Web](https://github.com/ShlokChaitanya) Short Description
+
 
 ### Profile Link
 
