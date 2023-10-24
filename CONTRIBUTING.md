@@ -1,3 +1,9 @@
+#### Name: [Shanker Singh](https://github.com/shankersingh01)
+
+- Place: Bangalore, Karnataka, India
+- Bio: MCA student at PES University Bangalore
+- GitHub: [shankersingh01](https://github.com/shankersingh01)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
