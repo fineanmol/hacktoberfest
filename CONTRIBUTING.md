@@ -2850,3 +2850,10 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Aqsa Isha](https://github.com/aqsa-isha)
+
+- Place: Hyderabad, Pakistan
+- Bio: Third Year undergraduate Software Engineering Student
+- GitHub: [Aqsa Isha](https://github.com/aqsa-isha)
+  
+
