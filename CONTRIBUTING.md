@@ -2850,3 +2850,10 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [Pushkaran](https://github.com/Karan9616)
+
+- Place: Banglore, India
+- Bio: fourth Year undergrad pursuing B.tech  Engineering
+- GitHub: [op-amateur](https://github.com/Karan9616)
+
