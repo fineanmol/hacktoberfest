@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Pratham V Bhat](https://github.com/prathamvbhat)
+
+-Place: Mangalore, Karnataka, India
+-Bio: 2nd Yr Computer Science Engineering Student
+-Github: [Pratham V Bhat](https://github.com/prathamvbhat)
