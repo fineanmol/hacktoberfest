@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Mohd Faiz Aslam](https://github.com/faizaslam11)
+
+- Place: Aligarh, India
+- Bio: Software Developer | MS in SSE | ML/AI Enthusiast
+- GitHub: [Mohd Faiz Aslam](https://github.com/faizaslam11)
