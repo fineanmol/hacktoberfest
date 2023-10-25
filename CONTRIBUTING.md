@@ -40,7 +40,14 @@
 -Bio: Bachelor's degree, comic and like coding
 -GitHub: https://github.com/KariSims
 
+#### Name: [Ankush Kalsotra](https://github.com/AnkushKalsotra)
+
+- Place: Bengaluru, Karnataka, India
+- Bio: Final year student pursing my bachelor's of engineering, I like to code.
+- GitHub: [Ankush Kalsotra](https://github.com/AnkushKalsotra)
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -2831,7 +2838,6 @@
 - Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [adityasays](https://github.com/adityasays)
 
-
 #### Name: [Koduri Mohan](https://github.com/kodurimohan)
 
 - Place: Chennai, Tamil Nadu, India
@@ -2849,4 +2855,3 @@
 - Place: Kolkata, WB, India
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
-
