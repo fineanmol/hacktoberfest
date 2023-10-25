@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Trine Marie Sandberg](https://github.com/trine-marie-sandberg)
+
+- Place: Norway
+- Bio: Graduating this year from Noroff school of technology and digital
+media as a front end developer.
+- GitHub: [op-amateur](https://github.com/trine-marie-sandberg)
