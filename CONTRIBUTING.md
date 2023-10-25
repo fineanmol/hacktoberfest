@@ -2850,3 +2850,10 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Kumud Verma](https://github.com/KUMUD-TECH)
+
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: 2nd year undergraduate student pursuing B.tech in Information Technology
+- Github: [KUMUD-TECH](https://github.com/KUMUD-TECH)
+
+
