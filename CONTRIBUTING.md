@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Vee](https://github.com/veesesh)
+
+- Place: Hyderabad, Telengana, India
+- Bio: I am an open source enthusiast who loves participating in hackathons and organising technical events as a part of community work.
+- GitHub: [veesesh](https://github.com/veesesh)
