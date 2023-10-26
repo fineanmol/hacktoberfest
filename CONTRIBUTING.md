@@ -4,6 +4,14 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+
+#### Name: [SHUBHAM KARMVEER](https://GitHub.com/karmveershubham)
+
+- Place: New Delhi, Delhi, India
+- Bio: I am currently pursuing MCA from NIT Kurukhetra.
+- GitHub: [Shubham](https://GitHub.com/karmveershubham)
+
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
