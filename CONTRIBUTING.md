@@ -16,6 +16,12 @@
 - Bio: I am Computer Science Engineering student from Government Engineering College Bharatpur
 - GitHub: [anubhav1450](https://github.com/anubhav1450)
 
+#### Name: [SHUBHAM KARMVEER](https://GitHub.com/karmveershubham)
+
+- Place: New Delhi, Delhi, India
+- Bio: I am currently pursuing MCA from NIT Kurukhetra.
+- GitHub: [Shubham](https://GitHub.com/karmveershubham)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
