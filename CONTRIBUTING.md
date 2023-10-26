@@ -2850,7 +2850,7 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
-#### Name: [Prashansa](https://github.com/op-amateur)
+#### Name: [Kunal Agrawal](https://github.com/its-kunal)
 
 - Place: Kunal Agrawal, CG, India
 - Bio: Third Year undergrad pursuing B.tech in Computer Science Engineering
