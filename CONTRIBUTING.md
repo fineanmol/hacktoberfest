@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Saadaan Hassan](https://github.com/Saadaan-Hassan)
+
+- Place: Lahore, Punjab, Pakistan
+- Bio: Second Year undergrad pursuing BSCS in Computer Science
+- GitHub: [Saadaan Hassan](https://github.com/Saadaan-Hassan)
+
