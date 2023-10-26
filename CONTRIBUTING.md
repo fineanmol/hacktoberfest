@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Neha Kumari](https://github.com/Neha5679)
+
+- Place: Hazaribagh, Jharkhand, India
+- Bio: Third Year undergrad pursuing B.tech
+- GitHub: [Neha](https://github.com/Neha5679)
