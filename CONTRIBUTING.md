@@ -1,3 +1,9 @@
+#### Name: [Umar-Khan-Yousafzai](https://github.com/Umar-Khan-Yousafzai)
+
+- Place: Lahore, Pakistan
+- Bio: Fullstack Laravel & PHP Developer along with expertise in Flutter & React-native app development
+- GitHub: [Umar-Khan-Yousafzai](https://github.com/Umar-Khan-Yousafzai)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
