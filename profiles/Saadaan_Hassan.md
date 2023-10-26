@@ -19,7 +19,7 @@ COMSATS University Islamabad
 
 ### Development
 
-- Inventor of the My Pillow
+- Fullstack Webdeveloper Engineer
 
 ### Projects
 
