@@ -2850,3 +2850,10 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Vysakh Premkumar](https://github.com/tellmeY18)
+
+- Place: Kochi, Kerala, India
+- Bio: Final Year UG Student B.tech in Electronics and Communication Engineering
+- GitHub: [tellmeY18](https://github.com/tellmeY18)
+
+
