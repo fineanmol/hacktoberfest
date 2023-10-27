@@ -1,3 +1,9 @@
+#### Name: [G Rutvik Sharma](https://github.com/Rutvik-121)
+
+- Place: Bengaluru,Karnataka,India
+- Bio:  I am a Computer Science undergrad eager to learn new things. Interested in coding and currently a front-end web developer. Aspiring to become a software Engineer. 
+- GitHub: [Rutvik-121](https://github.com/Rutvik-121)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
