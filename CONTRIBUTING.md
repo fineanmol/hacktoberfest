@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Arun Kumar](https://github.com/arunks2003)
+
+- Place: Varanasi, UP, India
+- Bio: Third Year undergrad pursuing B.tech in Civil Engineering in IIT BHU
+- GitHub: [arunk2003](https://github.com/arunks2003)
