@@ -2851,10 +2851,10 @@
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
 
-#### Name: [hiteshkarvil](https://github.com/op-amateur)
+#### Name: [hiteshkarvil](https://github.com/hiteshkarvil)
 
 - Place: jaipur,rajasthan,india
 - Bio: second Year undergrad pursuing B.tech in data science engineering.
-- GitHub: [op-amateur](https://github.com/op-amateur)
+- GitHub: [hiteshkarvil](https://github.com/hiteshkarvil)
 
 
