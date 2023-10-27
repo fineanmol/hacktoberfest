@@ -1,6 +1,11 @@
 // LANGUAGE: Javascript
-// ENV: Node.js
-// AUTHOR: Anmol Agarwal
-// GITHUB: https://github.com/fineanmol
+// ENV: (Only js)
+// AUTHOR: G Rutvik Sharma
+// GITHUB: https://github.com/Rutvik-121
 
-console.log('Hello, World!');
+const greet = (name) => {
+  console.log(`Hello, ${name}! Welcome to the Digital Universe.`);
+}
+
+greet("Future Tech Wizard");
+
