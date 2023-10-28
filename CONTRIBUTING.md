@@ -2387,6 +2387,12 @@
 - Bio: FS Developer
 - GitHub: [dsnoeijer](https://github.com/dsnoeijer)
 
+#### Name: [Jeremy Crossan](https://github.com/jeremycrossan)
+
+- Place: Grobbendonk, België
+- Bio: Student IT
+- GitHub: [jeremycrossan](https://github.com/jeremycrossan)
+
 #### Name: [Wahid Ari](https://github.com/wahid-ari)
 
 - Place: Surabaya, Indonesia
