@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Amit Kumar](https://github.com/Tealspider23)
+
+- Place: Bhubaneshwar , India
+- Bio: Second Year Sophomore , handling B-tech in Computer Science 
+- GitHub: [Tealspider23](https://github.com/Tealspider23)
+

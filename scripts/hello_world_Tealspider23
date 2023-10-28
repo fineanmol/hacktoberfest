@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Amit Kumar
+// GITHUB: https://github.com/Tealspider23
+
+console.log('Hello, World!');
