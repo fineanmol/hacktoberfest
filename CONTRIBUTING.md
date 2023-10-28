@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Nikhil Saini](https://github.com/c0derdx)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: Just another developer
+- GitHub: [c0derdx](https://github.com/c0derdx)
