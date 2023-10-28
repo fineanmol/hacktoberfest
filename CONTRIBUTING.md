@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Pratim](https://github.com/ro78ldt)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Working professional in web devlopment.
+- GitHub: [ro78ldt](https://github.com/ro78ldt)
+
