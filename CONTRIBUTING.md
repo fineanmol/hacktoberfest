@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Prakhar](https://github.com/Prakhar0204)
+
+- Place: Moradabad,UP, India
+- Bio: Second Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [Prakhar0204](https://github.com/Prakhar0204)
+
