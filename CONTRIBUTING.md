@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Vaibhav](https://www.github.com/Vaibhav-Sawate)
+
+- Place: Pune, Maharashtra,India
+- Bio: Third Year undergrad pursuing B.tech in Computer Engineering
+- GitHub: [Vaibhav-Sawate](https://www.github.com/Vaibhav-Sawate)
