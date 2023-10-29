@@ -1,18 +1,19 @@
-Alankrit Agarwal
-Location
+#**Alankrit Agarwal**
+
+##**Location**
 AGRA, INDIA
 
-Academics
+##**Academics**
 Persuing B.Tech. IT
 
-Interests
+##**Interests**
 Frontend(HTML, CSS, JS}
 JAVA
 Music
 C
 Python
 
-Skills
+##**Skills**
 C
 JavaScript
 CSS
@@ -20,5 +21,5 @@ Git & GitHub
 Java
 Good knowledge in Programming Language
 
-Profile Link
-https://github.com/alankrit98
+##**Profile Link**
+[Alankrit Agarwal](https://github.com/alankrit98)
