@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Elisa Abedrapo](https://github.com/eabedrapo)
+
+- Place: Chicago, IL, US
+- Bio: Open Source lover with little time to work on side projects, but trying to keep up with Hacktoberfest. Thanks for putting this fun repo to get it done!
+- GitHub: [eabedrapo](https://github.com/eabedrapo)
