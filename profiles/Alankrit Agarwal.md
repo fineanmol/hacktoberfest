@@ -1,4 +1,4 @@
-> # **Alankrit Agarwal**
+> #000000 # **Alankrit Agarwal**
 
 > ## **Location**
 > AGRA, INDIA
@@ -10,16 +10,24 @@
 > Frontend(HTML, CSS, JS}
 > 
 > JAVA
+> 
 > Music
+> 
 > C
+> 
 > Python
 
 > ## **Skills**
 > C
+> 
 > JavaScript
+> 
 > CSS
+> 
 > Git & GitHub
+> 
 > Java
+> 
 > Good knowledge in Programming Language
 
 > ## **Profile Link**
