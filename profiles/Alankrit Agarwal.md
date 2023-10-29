@@ -1,4 +1,4 @@
-> #000000 # **Alankrit Agarwal**
+> `rgb(0,0,0)` # **Alankrit Agarwal**
 
 > ## **Location**
 > AGRA, INDIA
