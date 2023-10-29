@@ -1,0 +1,4 @@
+- Siya Pandey
+- MCA 2nd Year 
+- Shri Ramswaroop College of Engineering and Management Lucknow Uttar Pradesh
+- Skills : MERN Stack Development , C++ , Java , Python for Data Science 
