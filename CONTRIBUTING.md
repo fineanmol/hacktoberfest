@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Rohan](https://github.com/darkrider0007)
+
+- Place: Durgapur, WB, India
+- Bio: Third Year undergrad pursuing B.tech in Information Technology
+- GitHub: [darkrider0007](https://github.com/darkrider0007)
