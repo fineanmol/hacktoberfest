@@ -1,3 +1,9 @@
+#### Name: [HARSH KUMAR](https://github.com/HarshKr290802)
+
+- Place: Ranchi, Jharkhand, India
+- Bio: I am currently a sophomore in Information Technology branch at Kalinga Institute of Industrial Technology, Odisha.
+- GitHub: [HarshKr290802](https://github.com/HarshKr290802)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
