@@ -2852,7 +2852,7 @@
 
 #### Name: [Jay](https://github.com/jayg2309)
 
-- Place: Puhe, Maharashtra, India
+- Place: Pune, Maharashtra, India
 - Bio: Second Year undergrad pursuing B.tech in Computer Science
 - GitHub: [jayg2309](https://github.com/jayg2309)
 
