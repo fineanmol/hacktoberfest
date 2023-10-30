@@ -87,6 +87,12 @@
 - Bio: Node Developer, guy who codes and lift iron
 - GitHub: [Ashish Mohite](https://github.com/ashish16052)
 
+#### Name: [NIRMAL M](https://github.com/nirmal1508)
+
+- Place: Udumalpet, TamilNadu, INDIA
+- Bio: Software Developer
+- GitHub: [NIRMAL M](https://github.com/NIRMAL1508)
+
 #### Name: [Satwika](https://github.com/VSatwika)
 
 - Place: Hyderabad,Telangana,India
