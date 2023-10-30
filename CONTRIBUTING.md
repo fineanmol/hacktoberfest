@@ -22,6 +22,12 @@
 - Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
 - GitHub: [adityasharma270103](https://github.com/adityasharma270103)
 
+#### Name: [SURAJITH PRANAV]([https://github.com/SrSurajithpranav](https://github.com/SrSurajithpranav))
+
+- Place: Chennai, India
+- Bio: I am a Computer Science Engineering student from SRM University,Chennai and I am a Data Analyst
+- GitHub: [07tAnYa](https://github.com/SrSurajithpranav)
+- 
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
