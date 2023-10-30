@@ -1,3 +1,9 @@
+#### Name: [Nikhil](https://github.com/tymnec)
+
+- Place: Ambala Cantt, Haryana, India
+- Bio: I love to help people with issues that are impaired by the decisions they make changes within their lives to live a stress-free life.
+- GitHub: [tymnec](https://github.com/tymnec)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
