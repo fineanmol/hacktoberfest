@@ -34,6 +34,13 @@
 - Bio: I am a Software Developer, graduate of Mathematics
 - GitHub: [Vctcode](https://github.com/Vctcode)
 
+#### Name: [Sashank Bhardwaj](https://github.com/Madara909)
+
+- Place: Ghaziabad, UP, India
+- Bio: 4th Year undergrad pursuing B.tech in Information Techonology Engineering
+- GitHub: [Madara909](https://github.com/Madara909)
+
+
 #### Name: [SP KariSims](https://github.com/KariSims)
 
 -Place: Dakar, DAKAR, SENEGAL
