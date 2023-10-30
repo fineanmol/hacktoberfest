@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [rexjohannes](https://github.com/rexjohannes)
+
+- Place: Hannover, Lower Saxony, Germany
+- Bio: [click](https://rexum.space/about/)
+- GitHub: [rexjohannes](https://github.com/rexjohannes)
