@@ -16,6 +16,11 @@
 - Bio: I am Computer Science Engineering student from Government Engineering College Bharatpur
 - GitHub: [anubhav1450](https://github.com/anubhav1450)
 
+##### Name: [NIRMAL M](https://github.com/NIRMAL1508)
+
+- Place: UDUMALPET,TAMILNADU, India
+- Bio: I am a Computer Science Engineering student from PSG College of Technology- GitHub: [NIRMAL](https://github.com/NIRMAL1508)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India

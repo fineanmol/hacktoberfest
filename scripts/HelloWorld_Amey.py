@@ -3,7 +3,7 @@
 
 import datetime
 
-name = input("Enter your name: ")
+name = input("Please Enter your name: ")
 finalName = ""
 for word in name.split(" "):
     finalName += word[0].upper() + word[1:].lower()
