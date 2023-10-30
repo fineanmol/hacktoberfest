@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Raymond Lam](https://github.com/rayoloo)
+
+- Place: Toronto, Canada
+- Bio: A computer engineering graduate seeking for development opportunities
+- GitHub: [rayoloo](https://github.com/rayoloo)
