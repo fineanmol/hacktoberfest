@@ -1,7 +1,9 @@
-#include <iostream>
+//#include <iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
 int main()
 {
+  court<<endl;
   cout<<"hello world by arslan mumtaz"<<endl; // this would print the hello world command by arslan mumtaz  
 }
