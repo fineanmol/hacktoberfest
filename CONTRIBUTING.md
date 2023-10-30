@@ -4,6 +4,12 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [NIKHIL RANJAN](https://github.com/NIKHIL-bot27)
+
+- Place: JAMSHEDPUR,JHARKHAND,INDIA
+- Bio: FULL STACK WEB DEVELOPER
+- GitHub: [NIKHIL-bot27](https://github.com/NIKHIL-bot27)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
