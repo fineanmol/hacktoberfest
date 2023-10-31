@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Aayush Mohan](https://github.com/AayushMohan)
+
+- Place: Delhi, India
+- Bio: Engineering Student and Self-taught Programmer
+- GitHub: [Aayush Mohan](https://github.com/AayushMohan)
