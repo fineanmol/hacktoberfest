@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Shubhayan](https://github.com/ShubhayanS)
+
+- Place: Seattle, WA, USA
+- Bio: Data Engineer in USA
+- GitHub: [ShubhayanS](https://github.com/ShubhayanS)
+
