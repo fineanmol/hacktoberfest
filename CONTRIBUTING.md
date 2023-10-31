@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+### Name: [Salvador Perez](https://github.com/salvadorperezm)
+
+- Place: Managua, Nicaragua
+- Bio: Full stack software developer, on the final year of Computer Engineering at Universidad Nacional de Ingenieria
+- GitHub: [salvadorperezm](https://github.com/salvadorperezm)
