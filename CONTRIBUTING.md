@@ -2850,3 +2850,10 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [palutz](https://github.com/palutz)
+
+- Place: London, UK
+- Bio: Geek, functional aficionados, Rust practictioner, Mathematician on the making
+- GitHub: [palutz](https://github.com/palutz)
+
