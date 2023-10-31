@@ -1,3 +1,9 @@
+#### Name: [Zaidh Imran](https://github.com/zaihdo)
+
+- Place: Gaborone, Botswana
+- Bio: Developer and activist looking to make an impact! 🚀
+- GitHub: [zaihdo](https://github.com/zaihdo)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
