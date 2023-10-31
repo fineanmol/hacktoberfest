@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Sparsh Manni](https://github.com/sparshmanni/)
+
+- Place: Jalandhar, Punjab, India
+- Bio: 3rd year CSE Student
+- GitHub: [sprshmanni](https://github.com/sparshmanni/)
+
