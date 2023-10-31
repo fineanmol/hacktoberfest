@@ -1,38 +1,29 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pharadorn Boonruam
-==========================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pharadorn Boonruam
 
-Software and Cloud Engineer
--------------------------------------
-
-# Your Name
+## Software and Cloud Engineer
 
 ### Location
 
-Your City/Country
+* 🌍  I'm based in Bangkok, Thailand
 
 ### Academics
 
-Your School
+* 🌍 BSC. Information Science (Class honor)
 
-### Interests
+### Activity
 
-- Some Things You Like
-
-- Inventor of the My Pillow
-
-### Projects
-
-- [My Project](GitHub Link) Short Description
-
-### Profile Link
-
-[PharadornB](https://github.com/pharadornb)
-
-Welcome, I'm pharadorn boonruam call me bom, this about of code developer
-* 🌍  I'm based in Bangkok, Thailand
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting project
 * ⚡  traveling, photographer
+
+### Projects
+
+### [angular-structure](https://github.com/pharadornb/angular-structure) : add resoures and knowledge for starter project
+
+
+### Profile Link
+
+### [PharadornB - GitHub](https://github.com/pharadornb)
 
 ### Development
 <p align="left">
