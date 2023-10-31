@@ -2333,6 +2333,12 @@
 - Bio: B.Tech CSE Graduate
 - GitHub: [VEDANGIBHUJANG]([https://github.com/VEDANGIBHUJANG])
 
+#### Name: [Tushar Sohal](https://github.com/tush47)
+
+- Place: Ambala , Haryana , India
+- Bio: B.Tech CSE Graduate
+- GitHub: [tush47]([https://github.com/tush47])
+
 #### Name: [Victor Pinheiro](https://github.com/victorhpinheiro)
 
 - Place: Sydney, NSW, Australia
