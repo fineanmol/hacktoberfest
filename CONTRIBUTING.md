@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Jaydeep Solanki](https://github.com/WhoIsJayD/)
+
+- Place: Ahemdabad, Gujarat, India
+- Bio: Second Year UG student pursuing B.tech in ECE.
+- GitHub: [WhoIsJayD](https://github.com/WhoIsJayD/)
