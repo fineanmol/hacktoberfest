@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Edwin Molina](https://github.com/EdwinMolina)
+
+- Place: San Juan De Oriente, Masaya, Nicaragua
+- Bio: Estudiante de Ingenieria en Sistemas y desarrollador web.
+- GitHub: [EdwinMolina](https://github.com/EdwinMolina)
