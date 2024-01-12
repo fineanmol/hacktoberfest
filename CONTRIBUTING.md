@@ -1,3 +1,27 @@
+#### Name: [3mYouOL](https://github.com/3mYouOL)
+
+- Place: Iloilo, Philippines
+- Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
+- GitHub: [3mYouOL](https://github.com/3mYouOL)
+
+#### Name: [TANYA KUMARI](https://github.com/07tAnYa)
+
+- Place: Bokaro Steel City, Jharkhand, India
+- Bio: I am a Computer Science Engineering student from Maulana Abul Kalam Azad University of Technology,West Bengal and I am a full Stack developer
+- GitHub: [07tAnYa](https://github.com/07tAnYa)
+
+#### Name: [Anubhav Kulshreshtha](https://github.com/anubhav1450)
+
+- Place: Shikohabad,Uttar Pradesh, India
+- Bio: I am Computer Science Engineering student from Government Engineering College Bharatpur
+- GitHub: [anubhav1450](https://github.com/anubhav1450)
+
+#### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
+
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
+- GitHub: [adityasharma270103](https://github.com/adityasharma270103)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
@@ -15,6 +39,11 @@
 -Place: Dakar, DAKAR, SENEGAL
 -Bio: Bachelor's degree, comic and like coding
 -GitHub: https://github.com/KariSims
+
+#### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+- Place: California
+- Bio: Software Developer
+- GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
 #### Name: [Arslan Mumtaz](https://github.com/bhavya-sharma26)
 
@@ -2771,3 +2800,53 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Thanapoom](https://github.com/thanapoom21)
+
+- Place: Las Vegas, NV, USA
+- Bio: Front End Developer
+- GitHub: [thanapoom21](https://github.com/thanapoom21)
+
+#### Name: [Dhruv](https://github.com/ogdhruv)
+
+- Place: New Delhi, Delhi, India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Harmanjot Kaur](https://github.com/harmanjot2002)
+
+- Place: Faridkot, Punjab, India
+- Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
+- GitHub: [harmanjot2002](https://github.com/harmanjot2002)
+
+#### Name: [Vaibhav](https://github.com/vaibhav-009)
+
+-Place: Delhi, India
+-Bio: Final Year Btech CSE student at Delhi Technological University
+-Github: [vaibhav-009](https://github.com/vaibhav-009)
+
+#### Name: [Aditya](https://github.com/adityasays)
+
+- Place: Lucknow, UP, India
+- Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
+- GitHub: [adityasays](https://github.com/adityasays)
+
+
+#### Name: [Koduri Mohan](https://github.com/kodurimohan)
+
+- Place: Chennai, Tamil Nadu, India
+- Bio: I'm a Research Spealist at CODIIS.
+- GitHub: [Koduri Mohan](https://github.com/kodurimohan)
+
+#### Name: [Sithum](https://github.com/sithum20210380)
+
+- Place: Colombo, Western, SriLanka
+- Bio: 3rd year undergrad pursuing BSc.Computer Science at University of Westminster and Software Engineer intern at 99X Technology
+- GitHub: [sithum20210380](https://github.com/sithum20210380)
+
+#### Name: [Prashansa](https://github.com/op-amateur)
+
+- Place: Kolkata, WB, India
+- Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
+- GitHub: [op-amateur](https://github.com/op-amateur)
+
