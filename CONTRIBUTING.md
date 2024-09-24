@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Aryashi](https://github.com/mintera10)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Inquisitive data scientist in the making, diving deep into the realms of machine learning and AI!
+- GitHub: [mintera10](https://github.com/mintera10)
