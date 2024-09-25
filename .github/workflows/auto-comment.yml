@@ -1,26 +1,37 @@
 name: Auto Comment
-on: [issues, pull_request]
-permissions: write-all
+on:
+  issues:
+    types: [opened]  # Trigger on issues being opened
+  pull_request:
+    types: [opened, unlabeled, synchronize, closed, reopened]  # Specify the pull request events
+
+permissions:
+  issues: write
+  pull-requests: write
+  contents: write
+
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
       - uses: wow-actions/auto-comment@v1.1.2
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}  # Correct key for token
           issuesOpened: |
              @{{ author }} Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label for the event.
-             Meanwhile if you want to work on this issue, Please raise the PR and we will review and merge it.
-       
+             Meanwhile, if you want to work on this issue, please raise the PR and we will review and merge it.
 
           pullRequestOpened: |
              @{{ author }} Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label for the event.
              
           pullRequestUnlabeled: |
              @{{ author }} Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label to participate in the event.
+             
           pullRequestSynchronize: |
              @{{ author }} Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label to participate in the event.
+             
           pullRequestClosed: |
-             @{{ author }} As your PR is closed now, Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label to participate in the event.
+             @{{ author }} As your PR is closed now, please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label to participate in the event.
+             
           pullRequestReopened: |
-             @{{ author }} As your PR is closed now, Please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label to participate in the event.
+             @{{ author }} As your PR is reopened now, please Star ⭐️ the repo to earn "**_hacktober-accepted_**" label to participate in the event.
