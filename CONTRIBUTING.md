@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Andre Timm](https://github.com/andretimm)
+
+- Place: Joinville, SC, Brazil
+- Bio: Fullstack software developer
+- GitHub: [andretimm](https://github.com/andretimm)
