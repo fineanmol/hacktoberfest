@@ -2853,6 +2853,6 @@
 #### Name: [Sakshi Thorat](https://github.com/Sthorat22)
 
 - Place: Pune, Maharashtra, India
-- Bio: I am learner and on path to become front end developer
+- Bio: I am learner and on path to become full stack developer.
 - GitHub: [Sthorat](https://github.com/Sthorat22)
 
