@@ -2,4 +2,4 @@
 # AUTHOR: Shivansh Jain
 # GITHUB: https://github.com/thunder-blaze
 
-print("Hello, World!")
+print('Hello, World!')
