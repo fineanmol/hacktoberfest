@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Sakshi Thorat](https://github.com/Sthorat22)
+
+- Place: Pune, Maharashtra, India
+- Bio: I am learner and on path to become full stack developer.
+- GitHub: [Sthorat](https://github.com/Sthorat22)
+
