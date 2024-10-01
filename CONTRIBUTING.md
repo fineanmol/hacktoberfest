@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Shivansh Jain](https://github.com/Thunder-Blaze)
+
+- Place: Kota, Rajasthan, India
+- Bio: Fresher pursuing B-Tech in Computer Science
+- GitHub: [Thunder-Blaze](https://github.com/Thunder-Blaze)
