@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Sayan Kundu](https://github.com/electro-coder)
+- Place: Andhra Pradesh, India
+- Bio: Student, Software Developer
+- Github: [electro-coder](https://github.com/electro-coder)
+
