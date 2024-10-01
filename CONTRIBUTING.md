@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Ramya](https://github.com/Ramya-Clg)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: Third Year undergrad pursuing B.tech in Information and communication technology
+- GitHub: [Ramya-Clg](https://github.com/Ramya-Clg)
