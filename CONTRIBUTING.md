@@ -4,6 +4,11 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+### Name: [Nalin Khanna](https://github.com/Nalin-khanna)
+- Place : Delhi , India 
+- Bio : Machine learning , full stack developer
+- githuv: [Nalin-khanna](https://github.com/Nalin-khanna)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
