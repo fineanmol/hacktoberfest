@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Vishwas Kulkarni](https://github.com/vishwasvk35)
+
+- Place: Ch. Sambhajinagar, Maharashtra, India
+- Bio: Sophomore pursuing B.Tech Computer Science and Engineering. Passionate developer with interests in algorithms, web development, and problem-solving.
+- GitHub: [vishwasvk35](https://github.com/vishwasvk35)
