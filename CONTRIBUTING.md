@@ -6,7 +6,7 @@
 
 ### Name: [Nalin Khanna](https://github.com/Nalin-khanna)
 - Place : Delhi , India 
-- Bio : Machine learning , full stack developer
+- Bio : Machine learning , full-stack developer 
 - github: [Nalin-khanna](https://github.com/Nalin-khanna)
 
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
