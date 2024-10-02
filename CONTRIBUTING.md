@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [D'yara Williams](https://github.com/dyarawilliams)
+
+- Place: Denmark, South Carolina, USA
+- Bio: Passionate Software Engineer interested in AI/ML
+- GitHub: [dyarawilliams](https://github.com/dyarawilliams)
