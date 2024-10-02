@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Sanchit](https://github.com/Sanchitagarwal7)
+
+- Place: Bareilly, Uttar Pradesh, India
+- Bio: Final year undergrad pursuing B.tech in CSE from G L Bajaj ITM, greater noida
+- GitHub: [Sanchitagarwal7](https://github.com/Sanchitagarwal7)
