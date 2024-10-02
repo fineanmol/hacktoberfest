@@ -1,3 +1,9 @@
+#### Name: [Shivam Narkar](https://github.com/shivamnarkar47)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Aspiring Developer and Linux Enthusiast
+- GitHub: [shivamnarkar47](https://github.com/shivamnarkar47)
+  
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
