@@ -2853,5 +2853,5 @@
 #### Name: [Sanchit](https://github.com/Sanchitagarwal7)
 
 - Place: Bareilly, Uttar Pradesh, India
-- Bio: Final year undergrad pursuing B.tech in CSE from G L Bajaj ITM, greater noida
+- Bio: Final year undergrad pursuing B.tech in CSE from GL Bajaj ITM, greater noida
 - GitHub: [Sanchitagarwal7](https://github.com/Sanchitagarwal7)
