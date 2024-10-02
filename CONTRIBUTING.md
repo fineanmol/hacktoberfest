@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [YashMishra](https://github.com/CodeCraftedYash)
+
+- Place: Jamshedpur, Jharkhand , India
+- Bio: I am a second year Student pursuing a BSC degree in IT
+- GitHub: [CodeCraftedYash](https://github.com/CodeCraftedYash)
