@@ -1,3 +1,9 @@
+#### Name: [ABHINAYA DANDA](https://github.com/Abhinayadanda)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: I am a final year IT engineering student from VESIT.
+- GitHub: [Abhinayadanda](https://github.com/Abhinayadanda)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
