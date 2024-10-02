@@ -167,6 +167,12 @@
 -Bio: I am a student.
 -GitHub: https://github.com/papaihactober2k21
 
+#### Name: [Navi](https://github.com/CRIMSONHydra)
+
+-Place: Bangalore, Karnataka, India
+-Bio: I am a first year student at Scaler School of Technology.
+-GitHub: https://github.com/CRIMSONHydra
+
 #### Name: [Lakshitha Samod](https://github.com/LakshithaSamod)
 
 - Place: Colombo, WP, SL
