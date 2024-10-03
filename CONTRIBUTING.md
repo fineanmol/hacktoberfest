@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+### Name [Marissa Aragon](https://github.com/marissaaragon)
+
+- Place: Colorado, USA
+- Bio: Undergrad CS Student
+- Github: [marissaaragon](https://github.com/marissaaragon)
