@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Aryan Gupta](https://github.com/Aryang08)
+
+- Place: Indore, MP, India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [Aryang08](https://github.com/Aryang08)
+
