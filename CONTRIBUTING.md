@@ -2779,7 +2779,7 @@
 - Bio: Web Development Student
 - Github: [Matheus T Koch](https://github.com/MatheusTKoch)
 
-### NAME: [arnavvgupta](https://github.com/arnavvgupta))
+### NAME: [arnavvgupta](https://github.com/arnavvgupta)
 
 - Bio: Student
 - Github: https://github.com/arnavvgupta
@@ -2849,4 +2849,10 @@
 - Place: Kolkata, WB, India
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
+
+#### Name: [Manahil Iqbal](https://github.com/manahiliqbal)
+
+- Place: Lahore, Pakistan
+- Bio: final year comp sci student 
+- GitHub: [manahiliqbal](https://github.com/manahiliqbal)
 
