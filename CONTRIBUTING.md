@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Siddharth Joshi](https://github.com/0-SiddharthJoshi-0)
+
+- Place: Dehradun , Uttarakhand , INDIA
+- Bio: CSE Undergrad Student
+- GitHub: [tamil-code](https://github.com/0-SiddharthJoshi-0)
