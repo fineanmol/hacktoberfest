@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Vijayendher_Gatla](https://github.com/wizaye)
+
+- Place: Hyderabad, Telangana, India
+- Bio: I'm a final year undergraduate student pursuing a Bachelor of Engineering (B.E.) degree in Artificial Intelligence and Data Science, with a passion for full-stack development, blockchain, and building AI models.
+- GitHub: [wizaye](https://github.com/wizaye)
