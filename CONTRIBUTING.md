@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Praise Idowu](https://github.com/praise002)
+
+- Place: Akure, Ondo, Nigeria
+- Bio: I am a final year Applied Geophysics student and also a self-taught Full-stack Engineer and Technical Writer.
+- GitHub: [praise002](https://github.com/praise002)
+
