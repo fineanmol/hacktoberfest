@@ -2850,3 +2850,10 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Shivakumar Mazhuvan](https://github.com/smazhuvan)
+
+- Place: Chennai, TN, India
+- Bio: Front-end developer in a startup named Farm2Flavour
+- GitHub: [smazhuvan](https://github.com/smazhuvan)
+
+
