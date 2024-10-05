@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Raghav Ghulyani](https://github.com/vahghar)
+
+- Place: New Delhi, Delhi, India
+- Bio: Software engineer, passionate about web development, machine learning, and open source.
+- GitHub: [vahghar](https://github.com/vahghar)
