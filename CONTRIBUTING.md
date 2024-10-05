@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Lamtei Wahlang](https://github.com/themaverik)
+
+- Place: Shillong, Meghalaya, India
+- Bio: Backend Developer
+- GitHub: [The Maverick](https://github.com/themaverik)
