@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Anukrati Chaturvedi](https://github.com/anukraticodes)
+
+- Place: Noida, Uttar Pradesh, India
+- Bio: Second Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [anukraticodes](https://github.com/anukraticodes)
+
