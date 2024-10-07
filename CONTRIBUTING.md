@@ -2426,6 +2426,12 @@
 - Bio: Frontend Web developer and mobile developer
 - GitHub: [yodifm](https://github.com/yodifm)
 
+#### Name: [Yangmei J](https://github.com/Apecool)
+
+- Place: Shanghai, China
+- Bio: Full stack developer
+- GitHub: [Apecool](https://github.com/Apecool)
+
 #### Name: [Zoe Blogg](https://github.com/ZoCodes/)
 
 - Place: Leeds, UK
