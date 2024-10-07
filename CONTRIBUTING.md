@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Rishabh Gupta](https://github.com/RISHABH-GUPTA-RG)
+
+- Place: Prayagraj, UP, India
+- Bio: Pre-Final year student at VIT bhopal
+- GitHub: [op-amateur](https://github.com/RISHABH-GUPTA-RG)
+
