@@ -11,7 +11,9 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #06283D;
+    background-image : url('https://i.pinimg.com/originals/3d/1c/e3/3d1ce3fb1985505ba88e01e525a8f841.gif');
+    background-repeat: repeat;
+    background-size: 20%;
 }
 
 .container {
