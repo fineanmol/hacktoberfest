@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Rishabh_Gupta](https://github.com/RISHABH-GUPTA-RG)
+
+- Place: Allahabad, UP, India
+- Bio: Pre-Final year VIT-Bhopal student
+- GitHub: [op-amateur](https://github.com/RISHABH-GUPTA-RG)
+
