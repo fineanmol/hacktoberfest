@@ -2343,7 +2343,7 @@
 
 - Place: Sydney, NSW, Australia
 - Bio: Data engineer
-- GitHub: [victorhpinheiro](https://github.com/victorhpinheiro))
+- GitHub: [victorhpinheiro](https://github.com/victorhpinheiro)
 
 #### Name: [Vijay Adhikari](https://github.com/17vijay2002)
 
@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Mohamed ibourki](https://github.com/mohamedibourki)
+
+- Place: Tangier, Morocco
+- Bio: Student in CS field, always looking for new opportunities to learn and grow.
+- GitHub: [mohamedibourki](https://github.com/mohamedibourki)
