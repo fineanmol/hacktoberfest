@@ -69,6 +69,12 @@
 - Bio: I am a student.
 - GitHub: [GitHub account name](https://github.com/pavanpakhare)
 
+#### Name : [Rajat Bagaddeo](https://github.com/WEBDEV-Rajat)
+
+- Place : Hyderabad, Telangana, India
+- Bio : I am a student studying at MNNIT Allahabad
+- Github : [WEBDEV-Rajat](https://github.com/WEBDEV-Rajat)
+
 #### Name: [Anjali Verma](https://github.com/Anjali1609)
 
 - Place: Bilaspur, Chattisgrah, India
