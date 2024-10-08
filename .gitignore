@@ -1,4 +1,5 @@
 .DS_Store
 # CONTRIBUTING.md
 .github/
+.idea/
 thumbs.db
