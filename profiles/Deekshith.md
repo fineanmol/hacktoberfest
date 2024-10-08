@@ -1,4 +1,4 @@
-#### Name: [Anmol Pal](https://github.com/deekshithhh)
+#### Name: [deekshithhh](https://github.com/deekshithhh)
 
 - Place: Tangerang , Banten , Indonesia
 - Bio: I/UX Designer
