@@ -2854,4 +2854,4 @@
 
 - Place: Bengaluru, India
 - Bio: Working at a IT company
-- GitHub: [deekshithhh]https://github.com/deekshithhh)
+- GitHub: [deekshithhh](https://github.com/deekshithhh)
