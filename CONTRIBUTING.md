@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Anand](https://github.com/pandeyanand9023)
+
+- Place: Bengaluru, Karnataka, India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [pandeyanand9023](https://github.com/pandeyanand9023)
+
