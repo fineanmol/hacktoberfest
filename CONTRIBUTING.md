@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Deekshith](https://github.com/deekshithhh)
+
+- Place: Bengaluru, India
+- Bio: Working at a IT company
+- GitHub: [deekshithhh]https://github.com/deekshithhh)
