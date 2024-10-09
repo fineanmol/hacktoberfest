@@ -293,6 +293,12 @@
 - Bio: Undergrad Student
 - GitHub: [ABHINAV0307](https://github.com/ABHINAV0307)
 
+#### Name: [Sowmya Tejaswini](https://github.com/Tejaswini-628)
+
+- Place: Bhimavaram,Andhra Pradesh,INDIA
+- Bio: Undergrad Student
+- GitHub: [Tejaswini-628](https://github.com/Tejaswini-628)
+
 #### Name: [Abhishek Anand](https://github.com/picturepatch07)
 
 - Place: Pune, Maharashtra, India
