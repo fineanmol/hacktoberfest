@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Sonal Gupta](https://github.com/Sonalgupta2005)
+
+- Place: Obra, Uttar Pradesh, India
+- Bio: Second Year undergrad pursuing B.tech in CSE(AI) | MERN Full Stack developer
+- GitHub: [Sonalgupta2005](https://github.com/Sonalgupta2005) 
