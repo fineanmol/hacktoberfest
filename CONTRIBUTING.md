@@ -296,7 +296,7 @@
 #### Name: [Sowmya Tejaswini](https://github.com/Tejaswini-628)
 
 - Place: Bhimavaram,Andhra Pradesh,INDIA
-- Bio: Undergrad Student
+- Bio: Undergrad Student(B.Tech)
 - GitHub: [Tejaswini-628](https://github.com/Tejaswini-628)
 
 #### Name: [Abhishek Anand](https://github.com/picturepatch07)
