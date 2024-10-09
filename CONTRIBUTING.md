@@ -2854,4 +2854,4 @@
 
 - Place: Obra, Uttar Pradesh, India
 - Bio: Second Year undergrad pursuing B.tech in CSE(AI) | MERN Full Stack developer
-- GitHub: [Sonalgupta2005](https://github.com/Sonalgupta2005)
+- GitHub: [Sonalgupta2005](https://github.com/Sonalgupta2005) 
