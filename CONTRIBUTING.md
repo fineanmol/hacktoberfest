@@ -1,3 +1,9 @@
+#### Name: [Aswin kumar](https://github.com/Aswin-111/hacktoberfest)
+
+- Place: Kerala, India
+- Bio: Iam fullstack developer, passionate about rust, gen ai and blockchain
+- GitHub: [Aswin-111](https://github.com/Aswin-111/hacktoberfest)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
