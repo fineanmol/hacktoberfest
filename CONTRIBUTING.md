@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Gourav Chandra](https://github.com/gauravnetes)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Second Year undergrad pursing B-Tech in Information Technology 
+- GitHub: [gauravnetes](https://github.com/gauravnetes)
