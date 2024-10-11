@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Navjot](https://github.com/NavjotSingh1608)
+
+- Place: Pune, Maharashtra, India
+- Bio: Pre-Final Year BE CSE Student, who loves to develop.
+- GitHub: [NavjotSingh1608](https://github.com/NavjotSingh1608)
