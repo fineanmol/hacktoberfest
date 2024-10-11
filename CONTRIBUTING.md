@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Simran](https://github.com/simran0963)
+
+- Place: Dehradun, Uttarakhand, India
+- Bio: final Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [simran0963](https://github.com/simran0963)
