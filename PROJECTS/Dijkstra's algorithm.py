@@ -41,4 +41,8 @@ start_vertex = 'A'
 shortest_distances = dijkstra(graph, start_vertex)
 
 for vertex, distance in shortest_distances.items():
-    print(f'Shortest distance from {start_vertex} to {vertex} is {distance}')
+    if distance == float('infinity'):
+        print(f'Shortest distance from {start_vertex} to {vertex} is unreachable')
+    else:
+        print(f'Shortest distance from {start_vertex} to {vertex} is {distance}')
+
