@@ -2852,6 +2852,6 @@
 
 #### Name: [Utkarsh](https://github.com/utkarshgola)
 
-- Place: Delhi,India
+- Place: Delhi, India
 - Bio: Working professional
 - GitHub: [UtkarshGola](https://github.com/utkarshgola)
