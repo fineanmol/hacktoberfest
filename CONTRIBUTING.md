@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Utkarsh](https://github.com/utkarshgola)
+
+- Place: Delhi,India
+- Bio: Working professional
+- GitHub: [UtkarshGola](https://github.com/utkarshgola)
