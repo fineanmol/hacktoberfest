@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Navya Pai](https://github.com/nvpai)
+
+- Place: Austin, Texas, USA
+- Bio: Software Engineer
+- GitHub: [nvpai](Ghttps://github.com/nvpai)
+
