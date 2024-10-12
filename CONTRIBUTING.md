@@ -1,3 +1,9 @@
+#### Name: [SNEHA JAIN](https://github.com/snehaa1011)
+
+- Place: Mumbai, Maharashtra, India
+- Bio:  I am a Computer Engineering student from Sardar Patel Institute of Technology,Maharashtra.
+- GitHub: [snehaa1011](https://github.com/snehaa1011)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
