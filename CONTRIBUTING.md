@@ -4,6 +4,12 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [Jatin Vishwakarma](https://github.com/coddingjatin)
+
+-Place: Pune,Maharashtra India
+-Bio: FullStack Developer | Student | Eager to learn new technologies | Thats All About Me 
+-GitHub: [Jatin Vishwakarma](https://github.com/coddingjatin)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
