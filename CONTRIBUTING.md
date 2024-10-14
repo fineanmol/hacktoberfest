@@ -1427,6 +1427,12 @@
 - Bio: Frontend Developer
 - GitHub: [Mohasin Haque](https://github.com/Mohasin-Haque)
 
+#### Name: [Moin Shaikh](https://github.com/moingshaikh/)
+
+- Place: Canada
+- Bio: Business Analyst
+- GitHub: [MoinGShaikh](https://github.com/moingshaikh/)
+
 #### Name: [MoitreyoChak](https://github.com/MoitreyoChak)
 
 - Place: Kolkata, West Bengal, India
