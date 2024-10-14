@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Kartik](https://github.com/KartikXx)
+
+- Place: Chennai, Tamil Nadu, India
+- Bio: Third year B.tech student pursuing CSE from SRMIST.
+- GitHub: [KartikXx](https://github.com/KartikXx)
