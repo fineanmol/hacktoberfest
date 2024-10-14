@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Carol](https://github.com/CarolDsillva/)
+
+- Place: bangalore, karnataka, India
+- Bio: Designer and Developer
+- GitHub: [CarolDsillva](https://github.com/CarolDsillva/hacktoberfest)
