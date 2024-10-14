@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Jaseem C K](https://github.com/Jaseemck)
+
+- Place: Calicut, Kerala, India
+- Bio: Data Analyst
+- GitHub: [Jaseemck](https://github.com/Jaseemck)
+
