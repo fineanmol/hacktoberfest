@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "hello_world_PauLopNun",
+      "request": "launch",
+      "mainClass": "hello_world_PauLopNun",
+      "projectName": "hacktoberfest_b5d71490"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "lldb",
       "request": "launch",
