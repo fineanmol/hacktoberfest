@@ -2850,3 +2850,10 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [Sachin Kukkar](https://github.com/SachinKukkar)
+
+- Place: Jaipur, Raj, India
+- Bio: Third Year undergrad pursuing B.tech in Computer Science and Engineering with specialization in Artificial Intelligence
+- GitHub: [SachinKukkar](https://github.com/SachinKukkar)
+
