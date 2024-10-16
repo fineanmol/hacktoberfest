@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Jyoti Maurya](https://github.com/Jyoti404)
+
+- Place: Gorakhpur, Uttar Pradesh, India
+- Bio: I am a third year undergrad student pursuing Computer Science and Engineering at Madan Mohan Malviya University Of Technology
+- GitHub: [Jyoti404](https://github.com/Jyoti404)
