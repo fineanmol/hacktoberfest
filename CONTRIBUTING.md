@@ -53,6 +53,15 @@
 -Bio: I am a student at Dr.D.Y.Patil College of Engineering.
 -GitHub: [AmanPathan](https://github.com/AmanPathan)
 
+#### Name: [Aryan Agrahari](https://github.com/AryanAgrahari07)
+-Place : Jabalpur, India
+-Bio : Full Stack Developer
+
+
+#### Name: [Aryan Agrahari](https://github.com/AryanAgrahari07)
+-Place : Jabalpur, India
+-Bio : Full Stack Developer
+
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 
 -Place: Kolkata, West Bengal, India
