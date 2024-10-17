@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Alana](https://github.com/nicegrrrl)
+
+- Place: Fortaleza, Ceará, Brasil
+- Bio: I'm a frontend developer, photography enthusiast, swiftie, mother of one little girl. Currently I'm working with Angular and trying to figure out all this amazing open source thing.
+- GitHub: [nicegrrrl](https://github.com/nicegrrrl)
