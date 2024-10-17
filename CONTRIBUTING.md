@@ -1,3 +1,10 @@
+#### Name: [Sparsh Singh](https://github.com/unsparsh)
+
+- Place: Jaipur, Rajasthan
+- Bio: Mern Stack Developer | DSA in JAVA | CSE(AI) Student
+- GitHub: [Sparsh Singh Chundawat](https://github.com/unsparsh)
+
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
