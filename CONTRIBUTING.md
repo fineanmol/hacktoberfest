@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Dillon Maks](https://github.com/Dillon-Maks)
+
+- Place: Texas, United States
+- Bio: Aspiring cybersecurity associate
+- Github: [Dillon Maks](https://github.com/Dillon-Maks/hacktoberfest.git)
