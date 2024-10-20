@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Nani](https://github.com/nani67)
+
+- Place: Hyderabad, Telangana, India
+- Bio: Pursuing M.Tech in NIT Agartala, specializing in Data Science and Engineering
+- GitHub: [nani67](https://github.com/nani67)
