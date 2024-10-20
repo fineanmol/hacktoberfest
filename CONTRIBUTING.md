@@ -287,6 +287,12 @@
 - Bio: Full Stack Engineer
 - GitHub: [abhinavtiwary04](https://github.com/abhinavtiwary04)
 
+#### Name: [Raghul S](https://github.com/raghul3)
+
+- Place: Vellore Tamil Nadu, India
+- Bio: Loving the tech exploring it deep
+- GitHub: [raghul3](https://github.com/raghul3)
+
 #### Name: [Abhinav Tripathi](https://github.com/ABHINAV0307)
 
 - Place: Gorakhpur,Uttar pradesh,INDIA
