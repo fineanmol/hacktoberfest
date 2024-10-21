@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Kei-R](https://github.com/Kei07R)
+
+- Place: Mumbai, MH, India
+- Bio: Final Year B.Tech CS B.tech Student
+- GitHub: [FreeThread01](https://github.com/Kei07R)
