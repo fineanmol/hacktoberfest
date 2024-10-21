@@ -563,6 +563,12 @@
 - Bio: "24/7 Student"
 - GitHub: [Ansi007](https://github.com/Ansi007)
 
+#### Name: [Chidinma Chieke](https://github.com/Assistantkiwi)
+
+- Place: Bariga, Lagos, Nigeria
+- Bio: Undergrad Student || Frontend Engineer
+- GitHub: [Assistantkiwi](https://github.com/Assistantkiwi)
+
 #### Name: [Anshu Priya](https://github.com/1anshu-56)
 
 - Place: Kolkata, India🇮🇳
