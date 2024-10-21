@@ -2779,7 +2779,7 @@
 - Bio: Web Development Student
 - Github: [Matheus T Koch](https://github.com/MatheusTKoch)
 
-### NAME: [arnavvgupta](https://github.com/arnavvgupta))
+### NAME: [arnavvgupta](https://github.com/arnavvgupta)
 
 - Bio: Student
 - Github: https://github.com/arnavvgupta
@@ -2850,3 +2850,7 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+### Name: [Athar Ramzan](https://github.com/oathar)
+- Place: Jammu and Kashmir, India
+- Bio: 1st year Computer Science student.
+- GitHub: [oathar](https://github.com/oathar)
