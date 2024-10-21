@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Kanishk Rastogi](https://github.com/KanishkRastogi46)
+
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: 4th Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [KanishkRastogi46](https://github.com/KanishkRastogi46)
+
