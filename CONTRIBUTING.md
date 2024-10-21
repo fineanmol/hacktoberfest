@@ -2850,7 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+```markdown
 ### Name: [Athar Ramzan](https://github.com/oathar)
 - Place: Jammu and Kashmir, India
 - Bio: 1st year Computer Science student.
 - GitHub: [oathar](https://github.com/oathar)
+```
