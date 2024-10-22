@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Nisha Rao](https://github.com/Nisha-Rao21)
+
+- Place: Pune, Maharashtra, India
+- Bio: Full Stack Developer
+- GitHub: [Nisha-Rao21](https://github.com/Nisha-Rao21)
