@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [Tushkar](https://github.com/Lucifer-Phantom)
+
+- Place: Kolkata, WB, India
+- Bio: Third Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [Lucifer-Phantom](https://github.com/Lucifer-Phantom)
