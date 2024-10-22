@@ -22,6 +22,12 @@
 - Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
 - GitHub: [adityasharma270103](https://github.com/adityasharma270103)
 
+#### Name: [SURENDRA KUMAR](https://github.com/surendra-sk)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: I am a Computer Science Engineering student from Institute Of Engineering and Technology, MLSU,Udaipur
+- GitHub: [surendra-sk](https://github.com/surendra-sk)
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
