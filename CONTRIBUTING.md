@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Shuvayu](GitHub link)
+
+- Place: Kolkata, WB, India
+- Bio: Pre Final Year Computer Science Student in National Institue of technology Goa.
+Building Apps on Next.js and Flutter
+- GitHub: [ShuvayuSarkar](https://github.com/ShuvayuSarkar)
