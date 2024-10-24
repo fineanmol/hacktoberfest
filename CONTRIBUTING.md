@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Cherry](https://github.com/Cherry3939)
+
+- Place: Singapore
+- Bio: Student
+- GitHub: [Cherry3939](https://github.com/Cherry3939)
