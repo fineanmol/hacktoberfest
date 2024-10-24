@@ -13,7 +13,7 @@
 
 - **-it**: interactive, connect the main cmd to container cmd , and don't disconnect
 
-- **-t**: tag (name)
+- **-t**: tag
 
   
 
