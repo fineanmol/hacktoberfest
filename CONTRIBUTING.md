@@ -1,3 +1,10 @@
+#### Name: [Suvam Das](https://github.com/vamus092)
+
+- Place: Kolkata, West Bengal
+- Bio: Fullstack Developer | Java | Web Dev
+- GitHub: [Suvam Das](https://github.com/vamus092)
+
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
