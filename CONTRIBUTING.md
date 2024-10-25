@@ -1,3 +1,9 @@
+#### Name: [Vedant](https://github.com/vedantdhande04)
+
+- Place: Maharahtra , India
+- Bio: I am a Computer Science Engineering student from Nagpur
+- GitHub: [vedantdhande04](https://github.com/vedantdhande04)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
@@ -7,7 +13,7 @@
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
-- Bio: I am a Computer Science Engineering student from Maulana Abul Kalam Azad University of Technology,West Bengal and I am a full Stack developer
+- Bio: s
 - GitHub: [07tAnYa](https://github.com/07tAnYa)
 
 #### Name: [Anubhav Kulshreshtha](https://github.com/anubhav1450)
@@ -41,6 +47,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -2831,7 +2838,6 @@
 - Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [adityasays](https://github.com/adityasays)
 
-
 #### Name: [Koduri Mohan](https://github.com/kodurimohan)
 
 - Place: Chennai, Tamil Nadu, India
@@ -2849,4 +2855,3 @@
 - Place: Kolkata, WB, India
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
-
