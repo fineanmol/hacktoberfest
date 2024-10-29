@@ -1,0 +1,6 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Lakshay
+// GITHUB: https://github.com/lakshaypanwar7
+
+console.log('Hello, World!');
