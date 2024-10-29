@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+### Name:[Adarsha M S](https://github.com/adarshpatelmulluru)
+
+-Place : Mysuru , Karnataka ,India
+-Bio: Final Year Undergrad pursuing B.tech in Computer Science and Engineering at Sri Jayachamarajendra College of Engineering (Formely SJCE) Mysuru.
+-Github : [adarshpatelmulluru](https://github.com/adarshpatelmulluru)
