@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Lakshay](https://github.com/lakshaypanwar7)
+
+- Place: BLR, Karnataka, India
+- Bio: Third Year Comp-Sci Majors
+- GitHub: [lakshaypanwar7](https://github.com/lakshaypanwar7)
