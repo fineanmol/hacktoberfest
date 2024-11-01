@@ -3,6 +3,9 @@ on: [issues, pull_request_target]
 jobs:
   test:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
     steps:
       - uses: actions/checkout@v2
       - name: 🚧　Install
@@ -11,13 +14,13 @@ jobs:
       - name: 📦　Build
         run: |
           yarn build
-      - uses: ./
+      - uses: ./ # Ensure this points to the correct action path
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           issuesOpened: >
             👋 @{{ author }}
             
-            Thank you for raising an issue. We will investigate into the matter and get back to you as soon as possible.
+            Thank you for raising an issue. We will investigate the matter and get back to you as soon as possible.
             
             Please make sure you have given us as much context as possible.
           pullRequestOpened: >
@@ -25,4 +28,4 @@ jobs:
             
             Thank you for raising your pull request.
             
-            Please make sure you have followed our contributing guidelines. We will review it as soon as possible
+            Please make sure you have followed our contributing guidelines. We will review it as soon as possible.
