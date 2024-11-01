@@ -25,8 +25,7 @@ Chennai, INDIA
 - Python
 
 ### Projects
-
-- [Portfolio] https://github.com/WannaCry016
+- [Smart FAQ Module](https://github.com/WannaCry016/SMARTFAQ-MODULE) - A Smart Faq Module that recommend Faqs based on search
 
 ### Profile Link
 
