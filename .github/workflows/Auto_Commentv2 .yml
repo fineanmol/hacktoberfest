@@ -1,5 +1,5 @@
 name: Auto Commentv2
-on: [issues, pull_request_target]
+on: [issues, pull_request, pull_request_target] # Include pull_request here for commenting
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -8,10 +8,10 @@ jobs:
       pull-requests: write
     steps:
       - uses: actions/checkout@v2
-      - name: 🚧　Install
+      - name: 🚧 Install
         run: |
           yarn
-      - name: 📦　Build
+      - name: 📦 Build
         run: |
           yarn build
       - uses: ./ # Ensure this points to the correct action path
