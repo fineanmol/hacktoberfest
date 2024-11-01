@@ -1,3 +1,9 @@
+#### Name: [Ayushman Pal](https://github.com/WannaCry016)
+
+- Place: Chennai, India
+- Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
+- GitHub: [WannaCry016](https://github.com/WannaCry016)
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
