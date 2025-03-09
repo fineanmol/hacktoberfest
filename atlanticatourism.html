@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atlantic Tourism</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            background-color: #f4f4f4;
+        }
+        header {
+            background-image: url('https://source.unsplash.com/1600x900/?ocean,atlantic');
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            color: white;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        header h1 {
+            font-size: 4rem;
+        }
+        header p {
+            font-size: 1.5rem;
+        }
+        nav {
+            background-color: #007BFF;
+            padding: 15px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-size: 1.2rem;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 50px 20px;
+            text-align: center;
+        }
+        .destination {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .destination div {
+            background-color: white;
+            margin: 15px;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            width: 300px;
+        }
+        .destination img {
+            width: 100%;
+            border-radius: 10px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        #contactModal {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        #contactModal h2 {
+            margin-bottom: 15px;
+        }
+        #contactModal button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Explore The Beauty of Atlantic</h1>
+    <p>Discover the most beautiful places in Atlantic</p>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#places">Places to Visit</a>
+    <a href="#contact" onclick="openContact()">Contact</a>
+</nav>
+
+<section id="places">
+    <h2>Top Places to Visit in Atlantic</h2>
+    <div class="destination">
+        <div>
+            <img src="https://source.unsplash.com/300x200/?beach" alt="Beach">
+            <h3>Beautiful Beaches</h3>
+            <p>Experience the stunning beaches with clear blue water.</p>
+        </div>
+        <div>
+            <img src="https://source.unsplash.com/300x200/?mountain" alt="Mountains">
+            <h3>Scenic Mountains</h3>
+            <p>Explore the majestic mountains of the Atlantic region.</p>
+        </div>
+        <div>
+            <img src="https://source.unsplash.com/300x200/?city,night" alt="City">
+            <h3>Modern Cities</h3>
+            <p>Visit the modern and vibrant cities along the Atlantic.</p>
+        </div>
+    </div>
+</section>
+
+<div id="contactModal">
+    <h2>Contact Us</h2>
+    <p>Email: support@atlantic.com</p>
+    <p>Phone: +123 456 7890</p>
+    <button onclick="closeContact()">Close</button>
+</div>
+
+<footer>
+    <p>&copy; 2025 Atlantic Tourism. All Rights Reserved.</p>
+</footer>
+
+<script>
+    function openContact() {
+        document.getElementById('contactModal').style.display = 'block';
+    }
+
+    function closeContact() {
+        document.getElementById('contactModal').style.display = 'none';
+    }
+
+    window.addEventListener('scroll', function() {
+        const nav = document.querySelector('nav');
+        if(window.scrollY > 50) {
+            nav.style.backgroundColor = '#0056b3';
+        } else {
+            nav.style.backgroundColor = '#007BFF';
+        }
+    });
+</script>
+
+</body>
+</html>
