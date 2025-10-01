@@ -2850,3 +2850,7 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: Aryan (https://github.com/notAryan10)
+- Place: Pune, India
+- Bio: Engineering student and game dev enthusiast
+- GitHub: [notAryan10](https://github.com/notAryan10)
