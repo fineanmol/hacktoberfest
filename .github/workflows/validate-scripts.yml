@@ -1,0 +1,21 @@
+# .github/workflows/validate-scripts.yml
+name: Validate scripts on PR
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  validate-scripts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'  # LTS
+
+      - name: Run scripts validator
+        run: node tools/validate-scripts.js
