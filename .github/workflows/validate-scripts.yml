@@ -1,3 +1,10 @@
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+
+
 # .github/workflows/validate-scripts.yml
 name: Validate scripts on PR
 
@@ -19,3 +26,4 @@ jobs:
 
       - name: Run scripts validator
         run: node tools/validate-scripts.js
+
