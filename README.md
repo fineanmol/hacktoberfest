@@ -1,4 +1,4 @@
-## Hacktoberfest-2024
+## Hacktoberfest-2025
 
 **Check out this project as well: [Annoying Button😡](https://annoyingsubmitbutton.netlify.app/). It's Hacktoberfest GitHub repo: [https://github.com/fineanmol/Annoying-submit-button](https://github.com/fineanmol/Annoying-submit-button)**
 
@@ -10,7 +10,7 @@ In this current repo, there are a lot of conflicts; we are not merging until all
 
 P.S. Star ⭐ and share this repository if you had fun!! 😍
 
-Hacktoberfest 2024
+Hacktoberfest 2025
 ![Event Completed](/scripts/Event_Completed_.png)
 
 # 📌 Videos 📽️:
@@ -97,7 +97,7 @@ For more information on syncing forks, [read this article from GitHub](https://h
 
 ## Swags of Hacktoberfest:
 
-Many candidates get attracted to Hacktoberfest for the swags. After 4 successfully merged pull requests, as of 2024, you will be eligible to get a Hacktoberfest T-shirt and some stickers delivered to your doorstep.
+Many candidates get attracted to Hacktoberfest for the swags. After 4 successfully merged pull requests, as of 2025, you will be eligible to get a Hacktoberfest T-shirt and some stickers delivered to your doorstep.
 
 <li><B><p><img src="https://miro.medium.com/max/1050/1*4JctIO7irt8hFxBmTvUpiQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="t-shirt image"></a></p><p><img src="https://miro.medium.com/max/1050/1*jkffr74bq5RsQ_xqDhgqYQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="stickers image"></p>
 </b></li>
@@ -114,12 +114,12 @@ Many candidates get attracted to Hacktoberfest for the swags. After 4 successful
   - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
 - Should I come closer to the text saying 'Don't come closer' on the left side of the home tab?
   - Nope.
-- How many pull requests (PRs) must be made if I want to get an awesome T-shirt from Hacktoberfest 2024?
+- How many pull requests (PRs) must be made if I want to get an awesome T-shirt from Hacktoberfest 2025?
   - 4
-- How do I track my progress to get an awesome shirt from Hacktoberfest 2024?
+- How do I track my progress to get an awesome shirt from Hacktoberfest 2025?
   - [Go to:](https://hacktoberfest.digitalocean.com/profile/). (Check out your own stats at the top right)
-- What is the duration of Hacktoberfest 2024?
-  - It is from 1st October to 31st October 2024.
+- What is the duration of Hacktoberfest 2025?
+  - It is from 1st October to 31st October 2025.
 - What is the event for?
   - For open source community engagement and to learn how to contribute to open source.
 
