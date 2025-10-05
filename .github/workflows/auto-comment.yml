@@ -23,12 +23,13 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            github.rest.issues.createComment({
+            const username = context.payload.issue.user.login;
+            await github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '@${{ github.event.issue.user.login }} Please Star ⭐️ the repo to earn \'**_hacktober-accepted_**\' label for the event.\nMeanwhile, if you want to work on this issue, please raise a PR, and we will review and merge it.'
-            })
+              body: `@${username} Please Star ⭐️ the repo to earn '**_hacktober-accepted_**' label for the event.\n\nMeanwhile, if you want to work on this issue, please raise a PR, and we will review and merge it.`
+            });
 
       - name: Comment on PR
         if: github.event_name == 'pull_request'
@@ -36,9 +37,10 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            github.rest.issues.createComment({
+            const username = context.payload.pull_request.user.login;
+            await github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '@${{ github.event.pull_request.user.login }} Please Star ⭐️ the repo to earn \'**_hacktober-accepted_**\' label for the event.'
-            })
+              body: `@${username} Please Star ⭐️ the repo to earn '**_hacktober-accepted_**' label for the event.`
+            });
