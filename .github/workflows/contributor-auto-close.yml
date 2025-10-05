@@ -15,7 +15,7 @@ permissions:
 jobs:
   check-contributor-pr:
     runs-on: ubuntu-latest
-    if: github.repository == 'fineanmol/Hacktoberfest2024'
+    if: github.repository == 'fineanmol/Hacktoberfest2025'
     
     steps:
       - name: 🔄 Checkout repository
@@ -61,7 +61,7 @@ jobs:
           echo "🎉 Closing contributor-only PR #$pr_number by @$author"
           
           # Close the PR with a thank you message
-          gh pr close $pr_number --comment "🎉 Thank you for your contribution to Hacktoberfest 2024! Your changes have been merged automatically into the main branch to resolve merge conflicts. ✅ Your contribution is now live! 🌟 You're officially part of Hacktoberfest 2024! Thank you @$author for participating in open source! 🚀 This PR was automatically closed because your contributor information has already been merged. #Hacktoberfest #OpenSource"
+          gh pr close $pr_number --comment "🎉 Thank you for your contribution to Hacktoberfest 2025! Your changes have been merged automatically into the main branch to resolve merge conflicts. ✅ Your contribution is now live! 🌟 You're officially part of Hacktoberfest 2025! Thank you @$author for participating in open source! 🚀 This PR was automatically closed because your contributor information has already been merged. #Hacktoberfest #OpenSource"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

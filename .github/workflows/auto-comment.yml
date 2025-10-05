@@ -8,12 +8,17 @@ on:
     types:
       - opened
 
+permissions:
+  contents: read
+  issues: write
+  pull-requests: write
+
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
       - name: Check out the repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Determine event type and set variables
         run: |
@@ -31,18 +36,13 @@ jobs:
           fi
         shell: bash
 
-      - name: Unset GITHUB_TOKEN and authenticate GitHub CLI
-        run: |
-          unset GITHUB_TOKEN
-          echo "${{ secrets.AUTOMERGE_TOKEN }}" | gh auth login --with-token
-        shell: bash
-
       - name: Comment on issue/PR
         if: env.GH_COMMAND != ''
         run: |
           echo "Commenting on $GH_COMMAND #$ITEM_NUMBER..."
           gh $GH_COMMAND comment $ITEM_NUMBER --body "$COMMENT_BODY"
         env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMENT_BODY: ${{ env.COMMENT_BODY }}
           ITEM_NUMBER: ${{ env.ITEM_NUMBER }}
           GH_COMMAND: ${{ env.GH_COMMAND }}

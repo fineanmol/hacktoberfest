@@ -77,7 +77,7 @@ jobs:
               if [ "$contributors_only" = "true" ]; then
                 echo "🎉 Closing contributor-only PR #$pr_number with thank you message"
                 gh pr close "$pr_number" \
-                  --comment "🎉 Thank you for your contribution to Hacktoberfest 2024! Your changes have been merged automatically into the main branch to resolve merge conflicts. ✅ Your contribution is now live! 🌟 You're officially part of Hacktoberfest 2024! Thank you for participating in open source! 🚀 #Hacktoberfest #OpenSource"
+                  --comment "🎉 Thank you for your contribution to Hacktoberfest 2025! Your changes have been merged automatically into the main branch to resolve merge conflicts. ✅ Your contribution is now live! 🌟 You're officially part of Hacktoberfest 2025! Thank you for participating in open source! 🚀 #Hacktoberfest #OpenSource"
               elif [ "$pr_mergeable" = "MERGEABLE" ] || [ "$pr_mergeable" = "true" ]; then
                 echo "✅ Auto-merging valuable PR #$pr_number"
                 gh pr merge "$pr_number" \
