@@ -2,11 +2,15 @@
 
 **Check out this project as well: [Annoying Button😡](https://annoyingsubmitbutton.netlify.app/). It's Hacktoberfest GitHub repo: [https://github.com/fineanmol/Annoying-submit-button](https://github.com/fineanmol/Annoying-submit-button)**
 
-# Submit your PR on this new repo [Hacktoberfest](https://github.com/fineanmol/hacktoberfest). We are merging all PRs there.
+# 🎉 NEW: Automatic Contributor Recognition!
 
-In this current repo, there are a lot of conflicts; we are not merging until all conflicts are resolved. Hacktoberfest { [Live Website](https://fineanmol.github.io/Hacktoberfest2025/) }
+When you make **ANY contribution** to this project, you'll automatically appear on our [**Contributors Page**](https://fineanmol.github.io/Hacktoberfest2025/) with your GitHub avatar and stats!
 
-**This is a beginner-friendly project to help you get started with your [Hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below and read the contribution rules. Happy Learning <3 💙 !!**
+**No need to manually add your name** - GitHub API tracks everything automatically! ✨
+
+**This is a beginner-friendly project to help you get started with [Hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below and read the contribution rules. Happy Learning <3 💙 !!**
+
+[**Live Website**](https://fineanmol.github.io/Hacktoberfest2025/) | [**Contributors**](https://fineanmol.github.io/Hacktoberfest2025/#contributors)
 
 P.S. Star ⭐ and share this repository if you had fun!! 😍
 
@@ -19,14 +23,30 @@ Hacktoberfest 2025
 - [How to pull request [Overview]](https://youtu.be/DIj2q02gvKs)
 - [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
 
+# 🎯 How Your Contribution Counts
+
+**When you make any of these contributions, you'll automatically appear on our contributors page:**
+
+- 🐛 **Bug fixes** - Fix issues, improve error handling
+- ✨ **New features** - Add new functionality
+- 📝 **Documentation** - Improve README, add guides
+- 🎨 **UI/UX improvements** - Enhance design, accessibility
+- ♻️ **Code refactoring** - Improve code quality
+- ✅ **Tests** - Add unit or integration tests
+- 🔧 **Configuration** - Improve workflows, add tools
+- 🌐 **Translations** - Add i18n support
+
 # Contribution Rules📚:
 
-- You are allowed to make pull requests that break the rules. We just merge it ;)
-- Do NOT add any build steps, e.g., npm install (we want to keep this a simple static site)
-- Do NOT remove other content.
-- Styling/code can be pretty, ugly, or stupid, big or small, as long as it works
-<!-- - Add your name to the contributorsList file. -->
-- Try to keep pull requests small to minimize merge conflicts
+- ✅ Make meaningful contributions (code, docs, design)
+- ✅ Keep pull requests focused and small
+- ✅ Do NOT add build steps (keep it a simple static site)
+- ✅ Do NOT remove other content
+- ✅ Test your changes before submitting
+- ✅ Follow existing code style
+- ❌ **NO** need to manually add your name (it's automatic!)
+
+**💡 Tip:** Quality over quantity! One good PR is better than ten spam PRs.
 
 ## Getting Started 🤩🤗:
 
