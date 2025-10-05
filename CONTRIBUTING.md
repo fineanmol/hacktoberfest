@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Subrat](https://github.com/Subratkb02)
+
+- Place: Pune, Maharashtra, India
+- Bio: A Final Year undergrad pursuing B.E. in Electronics and Telecommunication at Army Institute of Technology
+- GitHub: [Subratkb02](https://github.com/Subratkb02)
