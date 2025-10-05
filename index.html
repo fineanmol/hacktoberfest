@@ -125,8 +125,25 @@
             <div class="tdnn">
                 <div class="moon"></div>
             </div>
+            <!-- Contributor Stats -->
+            <div style="text-align: center; margin: 20px 0; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; color: white;">
+                <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+                    <div>
+                        <div style="font-size: 2em; font-weight: bold;" id="total-contributors-count">...</div>
+                        <div style="font-size: 0.9em; opacity: 0.9;">Contributors</div>
+                    </div>
+                    <div>
+                        <div style="font-size: 2em; font-weight: bold;" id="github-contributors-count">...</div>
+                        <div style="font-size: 0.9em; opacity: 0.9;">From GitHub API</div>
+                    </div>
+                </div>
+                <div style="margin-top: 10px; font-size: 0.85em; opacity: 0.8;">
+                    ✨ Live data from GitHub • Auto-updates every 5 minutes
+                </div>
+            </div>
+            
             <div class="d-flex justify-content-between align-items-center">
-                <p class="rubberBand delay-4s">Add yourself to the list if you contribute.</p>
+                <p class="rubberBand delay-4s">🎉 Make ANY contribution - you'll appear automatically!</p>
                 <div class="inputs mr-3">
                     <i class="fa fa-search"></i>
                     <input type="text" id="search" class="form-control" placeholder="Search Contributors.." aria-label="Search contributors" aria-controls="contributors">
@@ -138,6 +155,25 @@
                     Get "HacktoberFest-Accepted" label, Star ✩ the repo </a>
             </div>
             <hr style="width:90%">
+            
+            <!-- Loading Indicator -->
+            <div id="loading-contributors" style="display:none; text-align:center; padding:40px;">
+                <div style="display:inline-block;">
+                    <div style="border: 4px solid #f3f3f3; border-top: 4px solid #FF0844; border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; margin: 0 auto;"></div>
+                    <p style="margin-top: 15px; color: #FF0844; font-weight: bold;">
+                        Loading contributors from GitHub API...
+                    </p>
+                    <p style="font-size: 0.9em; color: #666;">
+                        Fetching live data • Falls back to manual list if needed
+                    </p>
+                </div>
+            </div>
+            <style>
+                @keyframes spin {
+                    0% { transform: rotate(0deg); }
+                    100% { transform: rotate(360deg); }
+                }
+            </style>
         </div>
         <div class="container-fluid">
             <!-- Contributors will be displayed here -->
@@ -188,8 +224,12 @@
 
     <!-- Custom Scripts -->
     <script src="./scripts/menu.js"></script>
+    <!-- Load manual contributors list as fallback -->
     <script src="./contributors/contributorsList.js"></script>
+    <!-- Main script - handles display logic -->
     <script src="./scripts/main.js"></script>
+    <!-- GitHub API integration - fetches live contributors (with fallback to manual list) -->
+    <script src="./scripts/github-contributors.js"></script>
     <script src="./scripts/scroll.js"></script>
 </body>
 
