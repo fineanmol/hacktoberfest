@@ -2873,3 +2873,10 @@
 - Place: Belo Horizonte, Minas Gerais, Brazil
 - Bio: A senior frontend engineer focused on React/React Native.
 - GitHub: [tchesa](https://github.com/tchesa)
+
+#### Name: [NIKIK Digital](https://github.com/nikikdigital)
+
+- Place: Calgary, Albert, Canada
+- Bio: Technology Enthusiast since Y2K
+- GitHub: [NIKIK Digital](https://github.com/nikikdigital)
+- 
