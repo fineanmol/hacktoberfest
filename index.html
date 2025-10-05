@@ -8,8 +8,27 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
-    <meta name="description"
-        content="This is a static website serving as a beginner friendly project to help developers get started with hacktoberfest - Gateway to open source.">
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Join 450+ contributors in Hacktoberfest 2025! Contribute code and appear automatically on our contributors page. Beginner-friendly open source project.">
+    <meta name="keywords" content="hacktoberfest, open source, github, contributions, 2025, beginners, pull requests">
+    <meta name="author" content="Anmol Agarwal">
+    <link rel="canonical" href="https://fineanmol.github.io/Hacktoberfest2025/">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://fineanmol.github.io/Hacktoberfest2025/">
+    <meta property="og:title" content="Hacktoberfest 2025 - Contributors">
+    <meta property="og:description" content="Join 450+ contributors in Hacktoberfest 2025! Your contributions count automatically.">
+    <meta property="og:image" content="https://fineanmol.github.io/Hacktoberfest2025/scripts/Event_Completed_.png">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://fineanmol.github.io/Hacktoberfest2025/">
+    <meta name="twitter:title" content="Hacktoberfest 2025 - Contributors">
+    <meta name="twitter:description" content="Join 450+ contributors! Make meaningful contributions and appear automatically.">
+    <meta name="twitter:image" content="https://fineanmol.github.io/Hacktoberfest2025/scripts/Event_Completed_.png">
+    
     <link rel="icon" href="https://hacktoberfestswaglist.com/img/hacktoberfest-favicon.ico" type="image/x-icon">
 
     <!-- CSS Dependencies -->
@@ -22,6 +41,7 @@
     <link rel="stylesheet" href="./css/contributors.css">
     <link rel="stylesheet" href="./css/navbar.css">
     <link rel="stylesheet" href="./css/footer.css">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
 
     <title>Hacktoberfest - Contributors</title>
     <style>
@@ -69,9 +89,12 @@
         }
 
         @keyframes pulse {
-            0%, 100% {
+
+            0%,
+            100% {
                 transform: scale(1);
             }
+
             50% {
                 transform: scale(1.1);
             }
@@ -115,7 +138,7 @@
     <button id="back-to-top-btn" title="Go to top" aria-label="Back to top">
         <i class="fa fa-angle-double-up" aria-hidden="true"></i>
     </button>
-    
+
     <!--
         __  __              __    __          __                 ____             __
       / / / /____ _ _____ / /__ / /_ ____   / /_   ___   _____ / __/___   _____ / /_
@@ -156,10 +179,11 @@
                 <div class="moon"></div>
             </div>
             <div class="d-flex justify-content-between align-items-center">
-                <p class="rubberBand delay-4s">Add yourself to the list if you contribute.</p>
+                <p class="rubberBand delay-4s">🎉 Make ANY contribution - you'll appear automatically!</p>
                 <div class="inputs mr-3">
                     <i class="fa fa-search"></i>
-                    <input type="text" id="search" class="form-control" placeholder="Search Contributors.." aria-label="Search contributors" aria-controls="contributors">
+                    <input type="text" id="search" class="form-control" placeholder="Search Contributors.."
+                        aria-label="Search contributors" aria-controls="contributors">
                 </div>
             </div>
             <div>
@@ -168,15 +192,43 @@
                     Get "HacktoberFest-Accepted" label, Star ✩ the repo </a>
             </div>
             <hr style="width:90%">
+
+            <!-- Loading Indicator -->
+            <div id="loading-contributors" style="display:none; text-align:center; padding:40px;">
+                <div style="display:inline-block;">
+                    <div
+                        style="border: 4px solid #f3f3f3; border-top: 4px solid #FF0844; border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; margin: 0 auto;">
+                    </div>
+                    <p style="margin-top: 15px; color: #FF0844; font-weight: bold;">
+                        Loading contributors from GitHub API...
+                    </p>
+                    <p style="font-size: 0.9em; color: #666;">
+                        Fetching live data •
+                    </p>
+                </div>
+            </div>
+            <style>
+                @keyframes spin {
+                    0% {
+                        transform: rotate(0deg);
+                    }
+
+                    100% {
+                        transform: rotate(360deg);
+                    }
+                }
+            </style>
         </div>
         <div class="container-fluid">
             <!-- Contributors will be displayed here -->
-            <div class="box mx-auto my-5 justify-content-center" id="contributors" role="list" data-aos="zoom-in-down"></div>
+            <div class="box mx-auto my-5 justify-content-center" id="contributors" role="list" data-aos="zoom-in-down">
+            </div>
         </div>
     </div>
 
     <div class="box mx-auto my-5 justify-content-center" id="box">
-        <a data-aos="zoom-in-down" class="btn btn-outline-secondary btn-lg load-more" id="loadMore" role="button" aria-label="Load more contributors"><u>Load More</u></a>
+        <a data-aos="zoom-in-down" class="btn btn-outline-secondary btn-lg load-more" id="loadMore" role="button"
+            aria-label="Load more contributors"><u>Load More</u></a>
     </div>
 
     <!-- Footer -->
@@ -218,8 +270,12 @@
 
     <!-- Custom Scripts -->
     <script src="./scripts/menu.js"></script>
+    <!-- Load manual contributors list as fallback -->
     <script src="./contributors/contributorsList.js"></script>
+    <!-- Main script - handles display logic -->
     <script src="./scripts/main.js"></script>
+    <!-- GitHub API integration - fetches live contributors (with fallback to manual list) -->
+    <script src="./scripts/github-contributors.js"></script>
     <script src="./scripts/scroll.js"></script>
     <script src="./scripts/typing-animation.js"></script>
 </body>
