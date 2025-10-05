@@ -2850,6 +2850,12 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Pratik](https://github.com/ipratiik)
+
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: A final year student pursuing MCA at NIT Bhopal.
+- GitHub: [ipratiik](https://github.com/ipratiik)
+
 #### Name: [Subrat](https://github.com/Subratkb02)
 
 - Place: Pune, Maharashtra, India
