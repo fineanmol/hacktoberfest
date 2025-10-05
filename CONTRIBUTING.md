@@ -47,6 +47,7 @@
 -GitHub: https://github.com/KariSims
 
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
@@ -2837,7 +2838,6 @@
 - Bio: Second Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [adityasays](https://github.com/adityasays)
 
-
 #### Name: [Koduri Mohan](https://github.com/kodurimohan)
 
 - Place: Chennai, Tamil Nadu, India
@@ -2867,3 +2867,9 @@
 - Place: Pune, Maharashtra, India
 - Bio: A Final Year undergrad pursuing B.E. in Electronics and Telecommunication at Army Institute of Technology
 - GitHub: [Subratkb02](https://github.com/Subratkb02)
+
+#### Name: [Cesar Lima](https://github.com/tchesa)
+
+- Place: Belo Horizonte, Minas Gerais, Brazil
+- Bio: A senior frontend engineer focused on React/React Native.
+- GitHub: [tchesa](https://github.com/tchesa)
