@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+- #### Name: [Arshad Ariff](https://github.com/ArshadAriff)
+
+- Place: Chennai, TN, India
+- Bio: Final Year undergrad pursuing B.tech in CSE
+- GitHub: [ArshadAriff](https://github.com/ArshadAriff)
+
