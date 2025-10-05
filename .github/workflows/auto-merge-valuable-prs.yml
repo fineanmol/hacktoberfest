@@ -24,28 +24,19 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Find all open PRs (with mergeable & files)
-        id: find-prs
         run: |
-          # Fetch all open PRs, including mergeable status and changed files
-          all_prs=$(gh pr list \
+          # Fetch all open PRs and save to file to avoid shell escaping issues
+          gh pr list \
             --state open \
             --json number,title,author,mergeable,files \
-            --limit 3000)
-
-          # Store JSON blob as a multiline output
-          echo "all_prs<<EOF" >> $GITHUB_OUTPUT
-          echo "$all_prs"        >> $GITHUB_OUTPUT
-          echo "EOF"             >> $GITHUB_OUTPUT
+            --limit 3000 > all_prs.json
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Auto-merge non-conflicting PRs
         run: |
-          # Dump the JSON into a temporary file so jq can parse it
-          echo "${{ steps.find-prs.outputs.all_prs }}" > all_prs.json
-
           # Loop over each PR entry (encoded in base64)
-          jq -r '.[] | @base64' all_prs.json | while IFS= read -r pr_data; do
+          cat all_prs.json | jq -r '.[] | @base64' | while IFS= read -r pr_data; do
             if [ -z "$pr_data" ]; then
               continue
             fi
