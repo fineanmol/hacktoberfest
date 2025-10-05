@@ -17,33 +17,28 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out the repository
-        uses: actions/checkout@v4
+      - name: Comment on issue
+        if: github.event_name == 'issues'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '@${{ github.event.issue.user.login }} Please Star ⭐️ the repo to earn \'**_hacktober-accepted_**\' label for the event.\nMeanwhile, if you want to work on this issue, please raise a PR, and we will review and merge it.'
+            })
 
-      - name: Determine event type and set variables
-        run: |
-          if [[ "${{ github.event_name }}" == 'issues' ]]; then
-            echo "COMMENT_BODY=@${{ github.event.issue.user.login }} Please Star ⭐️ the repo to earn '**_hacktober-accepted_**' label for the event.\nMeanwhile, if you want to work on this issue, please raise a PR, and we will review and merge it." >> $GITHUB_ENV
-            echo "ITEM_NUMBER=${{ github.event.issue.number }}" >> $GITHUB_ENV
-            echo "GH_COMMAND=issue" >> $GITHUB_ENV
-          elif [[ "${{ github.event_name }}" == 'pull_request' ]]; then
-            echo "COMMENT_BODY=@${{ github.event.pull_request.user.login }} Please Star ⭐️ the repo to earn '**_hacktober-accepted_**' label for the event." >> $GITHUB_ENV
-            echo "ITEM_NUMBER=${{ github.event.pull_request.number }}" >> $GITHUB_ENV
-            echo "GH_COMMAND=pr" >> $GITHUB_ENV
-          else
-            echo "Unsupported event type: ${{ github.event_name }}"
-            exit 1
-          fi
-        shell: bash
-
-      - name: Comment on issue/PR
-        if: env.GH_COMMAND != ''
-        run: |
-          echo "Commenting on $GH_COMMAND #$ITEM_NUMBER..."
-          gh $GH_COMMAND comment $ITEM_NUMBER --body "$COMMENT_BODY"
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMENT_BODY: ${{ env.COMMENT_BODY }}
-          ITEM_NUMBER: ${{ env.ITEM_NUMBER }}
-          GH_COMMAND: ${{ env.GH_COMMAND }}
-        shell: bash
+      - name: Comment on PR
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '@${{ github.event.pull_request.user.login }} Please Star ⭐️ the repo to earn \'**_hacktober-accepted_**\' label for the event.'
+            })

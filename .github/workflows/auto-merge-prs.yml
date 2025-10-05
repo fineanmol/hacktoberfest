@@ -25,21 +25,17 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 📋 Get open PRs
-        id: get-prs
+      - name: 📋 Get open PRs and save to file
         run: |
-          # This returns an array of PR objects in JSON.
-          prs=$(gh pr list --state open --json number,title,author,mergeable,files --limit 100)
-          echo "prs=$prs" >> $GITHUB_OUTPUT
+          # Save PR list to a file to avoid shell escaping issues
+          gh pr list --state open --json number,title,author,mergeable,files --limit 100 > prs.json
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 🔍 Process PRs
         run: |
-          echo "${{ steps.get-prs.outputs.prs }}" \
-            | jq -r '.[] | @base64' \
-            | while IFS= read -r pr_data; do
-              pr=$(echo "$pr_data" | base64 -d)
+          cat prs.json | jq -r '.[] | @base64' | while IFS= read -r pr_data; do
+              pr=$(echo "$pr_data" | base64 --decode)
               pr_number=$(echo "$pr" | jq -r '.number')
               pr_title=$(echo "$pr" | jq -r '.title')
               pr_author=$(echo "$pr" | jq -r '.author.login')
