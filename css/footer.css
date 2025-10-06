@@ -115,18 +115,20 @@ footer {
   align-items: center;
   justify-content: center;
   margin: 1rem 0 3rem 0;
-}
-
-.socials li {
-  margin: 0 10px;
+	padding: 0;
+	gap: 1rem;
 }
 
 .socials a {
   text-decoration: none;
   color: #fff;
   border: 1.1px solid white;
-  padding: 5px;
   border-radius: 50%;
+	width: 32px;
+	height: 32px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .socials a i {
@@ -180,24 +182,6 @@ footer {
 
 .footer-menu {
   float: right;
-}
-
-.footer-menu ul {
-  display: flex;
-}
-
-.footer-menu ul li {
-  padding-right: 10px;
-  display: block;
-}
-
-.footer-menu ul li a {
-  color: #cfd2d6;
-  text-decoration: none;
-}
-
-.footer-menu ul li a:hover {
-  color: #27bcda;
 }
 
 @media (max-width: 500px) {
