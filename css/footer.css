@@ -1,3 +1,4 @@
+
 #footer {
     position: fixed;
     left: 0;
@@ -13,7 +14,7 @@
 }
 #footer h3 {
   padding: 5rem;
-  height: 30px;
+  height: 25px;
 }
 .footer-icon {
   color: #ff2222;
@@ -81,7 +82,7 @@ footer {
   right: 0;
   background: #111;
   height: auto;
-  width: 100vw;
+  width: auto;
   padding-top: 40px;
   color: #fff;
 }
@@ -135,8 +136,20 @@ footer {
   transition: color .4s ease;
 }
 
-.socials a:hover i {
-  color: aqua;
+.socials a[href*="facebook.com"]:hover i {
+  color: #3b5998; /* Facebook blue */
+}
+
+.socials a[href*="twitter.com"]:hover i {
+  color: #1DA1F2; /* Twitter blue */
+}
+
+.socials a[href*="instagram.com"]:hover i {
+  color: #C13584; /* Instagram gradient color */
+}
+
+.socials a[href*="linkedin.com"]:hover i {
+  color: #0077b5; /* LinkedIn blue */
 }
 
 .footer-bottom {
