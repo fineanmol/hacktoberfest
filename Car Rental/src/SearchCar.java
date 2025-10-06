@@ -46,6 +46,8 @@ public class SearchCar extends JFrame {
         add(p2,BorderLayout.CENTER);
         add(p3,BorderLayout.SOUTH);
     }
+
+    // Action Listener Class
     public class MyActionListener implements ActionListener, Serializable {
         private static final long serialVersionUID = 1L;
 
