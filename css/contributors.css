@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&subset=latin-ext);
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Poppins:wght@400;500;600;700&display=swap");
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900&subset=latin-ext);
 :root {
   --white: white;
@@ -44,7 +44,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Montserrat, sans-serif;
+  font-family: "JetBrains Mono", monospace;
   line-height: 1.5;
 }
 body,
@@ -64,14 +64,12 @@ body {
   min-height: 100vh;
   padding: 0 0 1.5rem;
   position: relative;
-  font-family: "Open Sans", sans-serif;
+  font-family: "JetBrains Mono", monospace;
   font-size: 13px;
 }
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-    "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "JetBrains Mono", monospace;
   font-size: 1rem;
   font-weight: 500;
   line-height: 1.5;
@@ -107,8 +105,8 @@ body {
   transition: 0.5s;
 }
 .light #back-to-top-btn {
-  color: #7c7575;
-  background-color: rgba(255, 255, 255, 0.1);
+  color: rgb(242, 244, 251);
+  background-color: #d43370;
 }
 .container {
   position: relative;
@@ -175,7 +173,7 @@ a:hover {
   font-weight: 700;
   cursor: default;
   font-size: 2rem;
-  font-family: "Special Elite", cursive;
+  font-family: "JetBrains Mono", monospace;
   transition: all 1s;
 }
 .heading:hover {
@@ -183,7 +181,7 @@ a:hover {
   transition: 1s;
 }
 .content {
-  margin-top: 80px;
+  margin-top: 100px;
 }
 .box {
   position: relative;
@@ -235,7 +233,7 @@ a:hover {
   letter-spacing: 2px;
   font-weight: 700;
   /* transform: rotate(3deg); */
-  transition: left 1s cubic-bezier(0.86, 0, 0.07, 1);
+  transition: color 0.3s ease-in-out, left 1s cubic-bezier(0.86, 0, 0.07, 1);
 }
 .box-item::before {
   content: "";
@@ -301,7 +299,7 @@ a:hover {
 }
 #stats {
   background-color: var(--footer-color);
-  padding: 20px;
+  padding: 30px;
   border-radius: 20px;
   display: flex;
   justify-content: center;
@@ -538,6 +536,7 @@ body {
   transition: all 0.2s ease-in-out;
   background: var(--darkbg);
   color: var(--darkt);
+  font-family: "JetBrains Mono", monospace;
 }
 .light {
   background: var(--lightbg);
