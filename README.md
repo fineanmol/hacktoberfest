@@ -1,3 +1,4 @@
+[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=github)](https://hacktoberfest.com/)
 ## 🎃 Hacktoberfest-2025
 
 **Check out this project as well: [Annoying Button😡](https://annoyingsubmitbutton.netlify.app/). It's Hacktoberfest GitHub repo: [https://github.com/fineanmol/Annoying-submit-button](https://github.com/fineanmol/Annoying-submit-button)**
@@ -158,7 +159,7 @@ Many candidates get attracted to Hacktoberfest for the swags. After 4 successful
 - What is the event for?
   - For open source community engagement and to learn how to contribute to open source.
 - Can I contribute to any repository on github?
-  - No, Only on the repositories under the tag of Hacktoberfest 2024
+  - No, Only on the repositories under the tag of Hacktoberfest 2025
 
 ###### _We will do our best to merge as much as possible from everyone. However, time is limited, and the merge conflicts are horrible :astonished: <3_
 
