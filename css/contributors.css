@@ -204,7 +204,7 @@ a:hover {
   overflow: hidden;
   white-space: nowrap;
   letter-spacing: 0;
-  transition: letter-spacing 0.5s;
+  transition: letter-spacing 0.5s, transform 0.3s ease-out; /* Added transform to transition */
 }
 @media (min-width: 768px) {
   .box {
@@ -228,12 +228,11 @@ a:hover {
   z-index: 10;
 }
 .box-item:hover {
-  size: 30cm;
   color: rgb(255, 255, 255);
   letter-spacing: 2px;
   font-weight: 700;
-  /* transform: rotate(3deg); */
-  transition: color 0.3s ease-in-out, left 1s cubic-bezier(0.86, 0, 0.07, 1);
+  transform: translateY(-5px) scale(1.02); /* Added lift and scale effect */
+  transition: left 1s cubic-bezier(0.86, 0, 0.07, 1);
 }
 .box-item::before {
   content: "";
