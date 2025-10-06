@@ -84,7 +84,48 @@ def merge_json_files(file_paths: Iterable[str]) -> Dict[str, Any]:
     return merged
 
 
-__all__ = ["save_json_atomic", "load_json_safe", "pretty_print_json", "merge_json_files"]
+def deep_merge_dicts(a: Dict[str, Any], b: Dict[str, Any]) -> Dict[str, Any]:
+    """Recursively merge two dicts, returning a new dict.
+
+    - If a key exists in both and both values are dicts, merge recursively.
+    - Otherwise, the value from `b` overrides `a`.
+    Lists and non-dict values are replaced by the value from `b`.
+    """
+    result: Dict[str, Any] = dict(a)
+    for k, v in b.items():
+        if k in result and isinstance(result[k], dict) and isinstance(v, dict):
+            result[k] = deep_merge_dicts(result[k], v)
+        else:
+            result[k] = v
+    return result
+
+
+def deep_merge_json_files(file_paths: Iterable[str]) -> Dict[str, Any]:
+    """Deep merge multiple JSON files into a single dictionary.
+
+    Later files override/merge into earlier ones using `deep_merge_dicts`.
+    Non-dict JSON roots are ignored.
+    """
+    accumulated: Dict[str, Any] = {}
+    for p in file_paths:
+        try:
+            with open(p, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            if isinstance(data, dict):
+                accumulated = deep_merge_dicts(accumulated, data)
+        except Exception:
+            continue
+    return accumulated
+
+
+__all__ = [
+    "save_json_atomic",
+    "load_json_safe",
+    "pretty_print_json",
+    "merge_json_files",
+    "deep_merge_dicts",
+    "deep_merge_json_files",
+]
 
 
 if __name__ == "__main__":
@@ -102,6 +143,8 @@ if __name__ == "__main__":
 
     p_merge = sub.add_parser("merge", help="Merge multiple JSON files and print result")
     p_merge.add_argument("files", nargs="+")
+    p_merge_deep = sub.add_parser("merge-deep", help="Deep merge multiple JSON files and print result")
+    p_merge_deep.add_argument("files", nargs="+")
 
     args = parser.parse_args()
     if args.cmd == "save":
@@ -112,5 +155,7 @@ if __name__ == "__main__":
         print(load_json_safe(args.file))
     elif args.cmd == "merge":
         print(pretty_print_json(merge_json_files(args.files)))
+    elif args.cmd == "merge-deep":
+        print(pretty_print_json(deep_merge_json_files(args.files)))
     else:
         parser.print_help()
