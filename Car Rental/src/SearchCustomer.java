@@ -4,6 +4,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.Serializable;
 import java.util.ArrayList;
+
+// Search Customer Class
 public class SearchCustomer extends JFrame {
     private static final long serialVersionUID = 1L;
     JLabel l1;
