@@ -1,0 +1,3 @@
+@echo off
+echo Starting Auto Git Backup Tool...
+python main.py
