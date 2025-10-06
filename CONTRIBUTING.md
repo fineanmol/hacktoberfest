@@ -2244,6 +2244,12 @@
 - Bio: A Learner
 - GitHub: [Surajwakka](https://github.com/surajwakka)
 
+#### Name: [Supratim Ghosh](https://github.com/sgindeed)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Software Developer
+- GitHub: [sgindeed](https://github.com/sgindeed)
+
 #### Name: [Sushant Prasad Agawane](https://github.com/Sushant-1999)
 
 - Place: Pune, Maharashtra, India
