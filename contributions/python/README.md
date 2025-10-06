@@ -47,7 +47,3 @@ Run the bundled no-deps test runner (works without installing pytest):
 python contributions/python/run_tests.py
 ```
 
-Notes
-
-- This is an additive contribution — it doesn't modify or remove any existing files.
-- The utilities are intentionally small and dependency-free.
