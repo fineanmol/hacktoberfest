@@ -9,7 +9,7 @@ public:
     Person(string n, int a) : name(n), age(a) {}
     void birthday() { age++; }
     void display() {
-        cout << "Name: " << name << ", Age: " << age << endl;
+        cout<< name << "! After your bithday you will be " << age << endl;
     }
 };
 
