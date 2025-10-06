@@ -28,6 +28,25 @@ Merge multiple files:
 python -m contributions.python.json_utils merge a.json b.json
 ```
 
+Deep merge multiple files (recursive merge of nested dicts):
+
+```powershell
+python -m contributions.python.json_utils merge-deep a.json b.json
+```
+
+Run tests (requires pytest):
+
+```powershell
+pip install pytest
+pytest contributions/python/tests -q
+```
+
+Run the bundled no-deps test runner (works without installing pytest):
+
+```powershell
+python contributions/python/run_tests.py
+```
+
 Notes
 
 - This is an additive contribution — it doesn't modify or remove any existing files.
