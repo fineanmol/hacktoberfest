@@ -1,19 +1,19 @@
+/* This is a comment .. */
 #footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100vw;
-    /* height: 100px; */
-    background: linear-gradient(to left, #FF0844, #FF4563);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-    color: blue;
-    text-align: center;
-    z-index: 1000;
-
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100vw;
+  /* height: 100px; */
+  background: linear-gradient(to left, #ff0844, #ff4563);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  color: blue;
+  text-align: center;
+  z-index: 1000;
 }
 #footer h3 {
   padding: 5rem;
-  height: 30px;
+  height: 25px;
 }
 .footer-icon {
   color: #ff2222;
@@ -81,7 +81,7 @@ footer {
   right: 0;
   background: #111;
   height: auto;
-  width: 100vw;
+  width: auto;
   padding-top: 40px;
   color: #fff;
 }
@@ -132,11 +132,23 @@ footer {
 .socials a i {
   font-size: 1.1rem;
   width: 20px;
-  transition: color .4s ease;
+  transition: color 0.4s ease;
 }
 
-.socials a:hover i {
-  color: aqua;
+.socials a[href*="facebook.com"]:hover i {
+  color: #3b5998; /* Facebook blue */
+}
+
+.socials a[href*="twitter.com"]:hover i {
+  color: #1DA1F2; /* Twitter blue */
+}
+
+.socials a[href*="instagram.com"]:hover i {
+  color: #C13584; /* Instagram gradient color */
+}
+
+.socials a[href*="linkedin.com"]:hover i {
+  color: #0077b5; /* LinkedIn blue */
 }
 
 .footer-bottom {
@@ -162,7 +174,7 @@ footer {
 
 .footer-bottom span {
   text-transform: uppercase;
-  opacity: .4;
+  opacity: 0.4;
   font-weight: 200;
 }
 
@@ -188,7 +200,7 @@ footer {
   color: #27bcda;
 }
 
-@media (max-width:500px) {
+@media (max-width: 500px) {
   .footer-menu ul {
     display: flex;
     margin-top: 10px;
