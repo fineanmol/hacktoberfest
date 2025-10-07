@@ -1,7 +1,7 @@
 [![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=github)](https://hacktoberfest.com/)
 ## 🎃 Hacktoberfest-2025
 
-**Check out this project as well: [Annoying Button😡](https://annoyingsubmitbutton.netlify.app/). It's Hacktoberfest GitHub repo: [https://github.com/fineanmol/Annoying-submit-button](https://github.com/fineanmol/Annoying-submit-button)**
+**Check out this project: [Annoying Button😡](https://annoyingsubmitbutton.netlify.app/). It's Hacktoberfest GitHub repo: [https://github.com/fineanmol/Annoying-submit-button](https://github.com/fineanmol/Annoying-submit-button)**
 
 # 🎉 Automatic Contributor Recognition!
 
@@ -124,7 +124,7 @@ To pull any new changes from your parent repo, simply run:
 git merge upstream/master
 ```
 
-This will give you any eventual conflicts and allow you to easily solve them in your repo. It's a good idea to use it frequently in between your own commits to make sure that your repo is up to date with its parent.
+This will give you any eventual conflicts and allow you to solve them in your repo easily. It's a good idea to use it frequently in between your own commits to make sure that your repo is up to date with its parent.
 
 For more information on syncing forks, [read this article from GitHub](https://help.github.com/articles/syncing-a-fork/).
 
