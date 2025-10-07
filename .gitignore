@@ -48,7 +48,7 @@ build/
 *.dll
 *.so
 *.dylib
-
+*.class
 # Backup files
 *.bak
 *.swp
@@ -57,6 +57,3 @@ build/
 # Package-lock and yarn files
 package-lock.json
 yarn.lock
-
-# GitHub specific directories
-.github/
