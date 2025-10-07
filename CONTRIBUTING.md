@@ -2952,3 +2952,8 @@
 - Place: Bangalore, Karnataka, India
 - Bio: Techy Cinematographer In The Making
 - GitHub: [ItzSouraseez](https://github.com/ItzSouraseez)
+
+#### Name: [Soumyaditya](https://github.com/Soumyaditya25)
+- Place: Bangalore, Karnataka, India
+- Bio: AI developer
+- GitHub: [Soumyaditya25](https://github.com/Soumyaditya25)
