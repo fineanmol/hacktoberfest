@@ -7,8 +7,8 @@ contributors = [
 
   {
     id: 2,
-    fullname: "Amitava Mitra",
-    username: "https://github.com/Amitava123",
+    fullname: "Sachin", 
+    username: "https://github.com/mugenkyou", 
   },
 
   {
@@ -2701,5 +2701,10 @@ contributors = [
     id: 473,
     fullname: "Rajesh Roy",
     username: "https://github.com/jaycss9",
+  },
+  {
+    id: 474 ,
+    fullname: "Amitava Mitra",
+    username: "https://github.com/Amitava123",
   },
 ];
