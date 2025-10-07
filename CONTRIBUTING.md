@@ -2906,3 +2906,8 @@
 - Place: Kolkata, India
 - Bio: Aspiring Software Engineer, Full-Stack Developer and AI Enthusiast.
 - GitHub: [vidhimantry](https://github.com/vidhimantry)
+
+#### Name: Nithin S
+- Place: Bangalore, India
+- Bio: Learning MERN stack & DSA
+- GitHub: [nithin-s](https://github.com/NITHIN-S-18)
