@@ -2929,3 +2929,9 @@
 - Place: Meerut, India
 - Bio: A 1st year student at DTU pursuing BTech in Software Eng , learning  Ai-ML 
 - GitHub: [Deepanshu-Nain](https://github.com/Deepanshu-Nain)
+
+#### Name: Swagato
+- Place: Mumbai, India
+- Bio: Learning Python
+- GitHub: [dark-coder155](https://github.com/dark-coder155)
+- 
