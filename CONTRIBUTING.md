@@ -2946,3 +2946,8 @@
 - Place: Bangalore, Karnataka, India
 - Bio: developer
 - GitHub: [Varadraj75](https://github.com/Varadraj75)
+#### Name: [Dhruvika Rawat](https://github.com/dhruvika11rawat)
+
+- Place: Dehradun, Uttarakhand, India
+- Bio: A 1st year student at IIIT Lucknow pursuing B.Tech in Computer Science and Business
+- GitHub: [dhruvika11rawat](https://github.com/dhruvika11rawat)
