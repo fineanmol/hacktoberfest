@@ -31,17 +31,27 @@ function getGithubUsernameFromUrl(possibleUrl) {
   }
 }
 
-function createAvatarImg(username) {
+function createAvatarImg(username, eager = false) {
   const img = document.createElement("img");
-  img.loading = "lazy";
+  img.loading = eager ? "eager" : "lazy";
+  img.decoding = "async";
+  img.width = 40;
+  img.height = 40;
+  // lightweight placeholder to reserve space
+  img.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==";
   img.dataset.src = username
     ? `https://avatars.githubusercontent.com/${username}`
     : "https://avatars.githubusercontent.com/ghost";
+  if (eager) {
+    img.src = img.dataset.src;
+    img.removeAttribute("data-src");
+    img.setAttribute("fetchpriority", "high");
+  }
   img.alt = username ? `${username}'s avatar` : "avatar";
   return img;
 }
 
-function createContributorAnchor(item) {
+function createContributorAnchor(item, eager = false) {
   const anchor = document.createElement("a");
   anchor.className = "box-item";
   const username = getGithubUsernameFromUrl(item.username);
@@ -56,7 +66,7 @@ function createContributorAnchor(item) {
   nameSpan.textContent = item.fullname || "Anonymous";
   anchor.appendChild(nameSpan);
 
-  const img = createAvatarImg(username);
+  const img = createAvatarImg(username, eager);
   anchor.appendChild(img);
   return anchor;
 }
@@ -126,8 +136,10 @@ function render(array, options = { paginate: true }) {
   const list = options.paginate
     ? array.slice(0, currentPage * pageSize)
     : array;
-  list.forEach((item) => {
-    const anchor = createContributorAnchor(item);
+  list.forEach((item, index) => {
+    // Eager-load the first row or two on initial page for faster perceived load
+    const shouldEagerLoad = currentPage === 1 && index < 12;
+    const anchor = createContributorAnchor(item, shouldEagerLoad);
     anchor.setAttribute("id", item.id);
     container.appendChild(anchor);
   });
@@ -198,7 +210,7 @@ function setupLazyLoadImages() {
         observer.unobserve(img);
       }
     });
-  }, { rootMargin: "100px 0px", threshold: 0.01 });
+  }, { rootMargin: "300px 0px", threshold: 0.01 });
   images.forEach((img) => imgObserver.observe(img));
 }
 
