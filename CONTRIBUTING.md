@@ -16,11 +16,17 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [Sachini Sahasra](https://github.com/Sahasra0108)
+
+- Place: Kalutara , SriLanka
+- Bio:Full-Stack Developer| IT Undergraduate| University of Moratuwa
+- GitHub: [3mYouOL](https://github.com/Sahasra0108)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
 - Bio: I am a Computer Science Engineering student from Maulana Abul Kalam Azad University of Technology,West Bengal and I am a full Stack developer
-- GitHub: [07tAnYa](https://github.com/07tAnYa)
+- GitHub: [Sahasra0108](https://github.com/07tAn)
 
 #### Name: [Anubhav Kulshreshtha](https://github.com/anubhav1450)
 
