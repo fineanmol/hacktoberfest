@@ -2940,3 +2940,9 @@
 - Bio: Learning Python
 - GitHub: [dark-coder155](https://github.com/dark-coder155)
 - 
+
+#### Name: [Varad Agrawal](https://github.com/Varadraj75)
+
+- Place: Bangalore, Karnataka, India
+- Bio: developer
+- GitHub: [Varadraj75](https://github.com/Varadraj75)
