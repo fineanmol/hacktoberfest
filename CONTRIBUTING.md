@@ -2923,3 +2923,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: I am Team Leader in Newgen
 - GitHub: [Taranpreet1407](https://github.com/Taranpreet1407)
+
+- #### Name: [Deepanshu Nain](https://github.com/Deepanshu-Nain)
+
+- Place: Meerut, India
+- Bio: A 1st year student at DTU pursuing BTech in Software Eng , learning  Ai-ML 
+- GitHub: [Deepanshu-Nain](https://github.com/Deepanshu-Nain)
