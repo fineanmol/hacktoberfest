@@ -2929,3 +2929,9 @@
 - Place: Meerut, India
 - Bio: A 1st year student at DTU pursuing BTech in Software Eng , learning  Ai-ML 
 - GitHub: [Deepanshu-Nain](https://github.com/Deepanshu-Nain)
+
+#### Name: [Chaitanya Shah](https://github.com/ChaitanyaShah26)
+
+- Place: Mumbai, India
+- Bio: Third Year Engineering Student pursuing B.Tech.(AI & DS)
+- GitHub: [ChaitanyaShah26](https://github.com/ChaitanyaShah26)
