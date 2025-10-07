@@ -1,17 +1,47 @@
-## Hacktoberfest-2024
+[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=github)](https://hacktoberfest.com/)
+## 🎃 Hacktoberfest-2025
 
 **Check out this project: [Annoying Button😡](https://annoyingsubmitbutton.netlify.app/). It's Hacktoberfest GitHub repo: [https://github.com/fineanmol/Annoying-submit-button](https://github.com/fineanmol/Annoying-submit-button)**
 
-# Submit your PR on this new repo [Hacktoberfest](https://github.com/fineanmol/hacktoberfest). We are merging all PRs there.
+# 🎉 Automatic Contributor Recognition!
 
-In this current repo, there are a lot of conflicts; we are not merging until all conflicts are resolved. Hacktoberfest { [Live Website](https://fineanmol.github.io/Hacktoberfest2024/) }
+When you make **ANY contribution** to this project, you'll automatically appear on our [**Contributors Page**](https://fineanmol.github.io/Hacktoberfest2025/) with your GitHub avatar and stats!
 
-**This is a beginner-friendly project to help you get started with your [Hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below and read the contribution rules. Happy Learning <3 💙 !!**
+**✨ No need to manually add your name** - our GitHub API integration tracks everything automatically!
 
-P.S. Star ⭐ and share this repository if you had fun!! 😍
+**What counts as a contribution?**
+- 🐛 Bug fixes
+- ✨ New features  
+- 📝 Documentation improvements
+- 🎨 UI/UX enhancements
+- ♻️ Code refactoring
+- ✅ Tests
+- 🔧 Configuration improvements
 
-Hacktoberfest 2024
-![Event Completed](/scripts/Event_Completed_.png)
+**This is a beginner-friendly project to help you get started with [Hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below and read the contribution rules. Happy Learning <3 💙 !!**
+
+[**Live Website**](https://fineanmol.github.io/Hacktoberfest2025/) | [**Contributors**](https://fineanmol.github.io/Hacktoberfest2025/#contributors)
+
+P.S. Star ⭐ and share this repository if you had fun! 😍
+
+## 📅 Hacktoberfest 2025 is LIVE! (October 1-31, 2025)
+
+Join us in celebrating open source! 🎉
+
+<details>
+  <summary>Table of Contents</summary>
+
+- [📌 Videos 📽️:](#-videos-️)
+- [Contribution Rules📚:](#contribution-rules)
+  - [Getting Started 🤩🤗:](#getting-started-)
+  - [Avoid Conflicts {Syncing your fork}](#avoid-conflicts-syncing-your-fork)
+  - [Swags of Hacktoberfest:](#swags-of-hacktoberfest)
+- [FAQs (Frequently Asked Questions)](#faqs-frequently-asked-questions)
+  - [Our Top Contributors](#our-top-contributors)
+
+</details>
+
+<br />
 
 # 📌 Videos 📽️:
 
@@ -19,14 +49,17 @@ Hacktoberfest 2024
 - [How to pull request [Overview]](https://youtu.be/DIj2q02gvKs)
 - [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
 
-# Contribution Rules📚:
+# Contribution Rules 📚:
 
-- You are allowed to make pull requests that break the rules. We just merge it ;)
-- Do NOT add any build steps, e.g., npm install (we want to keep this a simple static site)
-- Do NOT remove other content.
-- Styling/code can be pretty, ugly, or stupid, big or small, as long as it works
-<!-- - Add your name to the contributorsList file. -->
-- Try to keep pull requests small to minimize merge conflicts
+- ✅ Make meaningful contributions (code, docs, design)
+- ✅ Keep pull requests focused and small
+- ✅ Do NOT add build steps (keep it a simple static site)
+- ✅ Do NOT remove other content
+- ✅ Test your changes before submitting
+- ✅ Follow existing code style
+- ❌ **NO** need to manually add your name (it's automatic!)
+
+**💡 Tip:** Quality over quantity! One good PR is better than ten spam PRs.
 
 ## Getting Started 🤩🤗:
 
@@ -34,13 +67,13 @@ Hacktoberfest 2024
 - Clone it on your local machine
 
 ```terminal
-git clone https://github.com/fineanmol/Hacktoberfest2024.git
+git clone https://github.com/fineanmol/Hacktoberfest2025.git
 ```
 
 - Navigate to the project directory.
 
 ```terminal
-cd Hacktoberfest2024
+cd Hacktoberfest2025
 ```
 
 - Create a new branch
@@ -73,10 +106,10 @@ git push origin my-new-branch
 
 ## Avoid Conflicts {Syncing your fork}
 
-An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PRs may be merged while you're working on your branch/fork.   
+An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PRs may be merged while you're working on your branch/fork.
 
 ```terminal
-git remote add upstream https://github.com/fineanmol/Hacktoberfest2024
+git remote add upstream https://github.com/fineanmol/Hacktoberfest2025
 ```
 
 You can verify that the new remote has been added by typing:
@@ -97,7 +130,7 @@ For more information on syncing forks, [read this article from GitHub](https://h
 
 ## Swags of Hacktoberfest:
 
-Many candidates get attracted to Hacktoberfest for the swags. After 4 successfully merged pull requests, as of 2024, you will be eligible to get a Hacktoberfest T-shirt and some stickers delivered to your doorstep.
+Many candidates get attracted to Hacktoberfest for the swags. After 4 successfully merged pull requests, as of 2025, you will be eligible to get a Hacktoberfest T-shirt and some stickers delivered to your doorstep.
 
 <li><B><p><img src="https://miro.medium.com/max/1050/1*4JctIO7irt8hFxBmTvUpiQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="t-shirt image"></a></p><p><img src="https://miro.medium.com/max/1050/1*jkffr74bq5RsQ_xqDhgqYQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="stickers image"></p>
 </b></li>
@@ -114,20 +147,24 @@ Many candidates get attracted to Hacktoberfest for the swags. After 4 successful
   - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
 - Should I come closer to the text saying 'Don't come closer' on the left side of the home tab?
   - Nope.
-- How many pull requests (PRs) must be made if I want to get an awesome T-shirt from Hacktoberfest 2024?
+- How many pull requests (PRs) must be made if I want to get an awesome T-shirt from Hacktoberfest 2025?
   - 4
-- How do I track my progress to get an awesome shirt from Hacktoberfest 2024?
+- How do I track my progress to get an awesome shirt from Hacktoberfest 2025?
   - [Go to:](https://hacktoberfest.digitalocean.com/profile/). (Check out your own stats at the top right)
-- What is the duration of Hacktoberfest 2024?
-  - It is from 1st October to 31st October 2024.
+- What is the duration of Hacktoberfest 2025?
+  - It is from 1st October to 31st October 2025.
 - What is the event for?
   - For open source community engagement and to learn how to contribute to open source.
+- Can I contribute to any repository on github?
+  - No, Only on the repositories under the tag of Hacktoberfest 2025
 
-###### *We will do our best to merge as much as possible from everyone. However, time is limited, and the merge conflicts are horrible :astonished: <3*
+###### _We will do our best to merge as much as possible from everyone. However, time is limited, and the merge conflicts are horrible :astonished: <3_
+
 <br>
 
-## Our Top Contributors 
+## Our Top Contributors
 
-<p align="center"><a href="https://github.com/fineanmol/Hacktoberfest2024/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=fineanmol/Hacktoberfest2024" max={1000} columns={100} anon={1}/>
+<p align="center"><a href="https://github.com/fineanmol/Hacktoberfest2025/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=fineanmol/Hacktoberfest2025" max={1000} columns={100} anon={1}/>
 </a></p>
+<p>Liked it</p>

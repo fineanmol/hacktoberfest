@@ -1,60 +1,77 @@
-.navbar{
-  padding:.5rem 2rem
+:root {
+  --nav-color: #fff;
+  --nav-text: #212529;
+  --nav-hover: #df271a;
 }
-nav{
-  background-color:var(--nav-color)
+
+.navbar {
+  background-color: var(--nav-color);
+  transition: background-color 0.3s ease;
 }
-.navbar-nav{
-  width:100%
+.navbar-brand svg {
+  fill: var(--nav-hover);
 }
-.navbar-brand{
-  line-height:1;
-  margin-right:1rem
+
+.navbar-light .navbar-nav .nav-link {
+  color: var(--nav-text);
+  font-weight: 500;
+  position: relative;
+  transition: color 0.3s ease;
 }
-.navbar-brand svg{
-  height:37px;
-  width:auto;
-  vertical-align:middle
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: var(--nav-hover);
 }
-.navbar-light .navbar-nav .nav-link{
-  color:var(--text);
-  position:relative;
-  padding:5px;
-  margin:0 10px!important
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: var(--nav-hover);
+  font-weight: 700;
 }
-.navbar-light .navbar-nav .active{
-  background-color:#f1ffc5
+
+.navbar-toggler {
+  border: none;
 }
-.navbar-light .navbar-nav .active>.nav-link{
-  color:#df271a;
-  font-weight:700
+
+.navbar-toggler:focus {
+  box-shadow: none;
 }
-.navbar-light .navbar-nav .nav-link::before{
-  background-color:currentColor;
-  bottom:-1px;
-  content:"";
-  height:1px;
-  left:auto;
-  right:0;
-  position:absolute;
-  -webkit-transition:width .2s ease-in-out;
-  -o-transition:width .2s ease-in-out;
-  transition:width .2s ease-in-out;
-  width:0
+
+@media (max-width: 991px) {
+  .navbar-collapse {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  }
+
+  .navbar {
+    padding: 0 10px;
+  }
 }
-.navbar-light .navbar-nav .nav-link:hover{
-  color:#000
-}
-.navbar-light .navbar-nav .nav-link:hover::before{
-  left:0;
-  right:auto;
-  width:100%
-}
-.nav-link svg{
-  width:auto;
-  height:25px;
-  vertical-align:text-top
-}
-.navbar-light .navbar-nav .nav-link:hover{
-  color:#dc143c
+
+@media (min-width: 992px) {
+  .navbar {
+    padding: 10px 30px;
+  }
+
+  .dropdown-menu[data-bs-popper] {
+    left: -70px !important;
+  }
+
+  .dropdown-menu.show .dropdown-item {
+    padding: 0px;
+  }
+
+  .dropdown-menu.show li {
+    padding: 5px 10px;
+    font-size: 14px;
+  }
+
+  .menu-links {
+    justify-content: end;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 }
