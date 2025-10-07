@@ -2458,6 +2458,10 @@ contributors = [
     fullname: "Yajnesh Kumar",
     username: "https://github.com/yajneshkumar790",
   },
+    {
+    id: 428,
+    fullname: "Uğur Özcan",
+    username: "https://github.com/uozcan12",
   {
     id: 428,
     fullname: "Mohd Sameer",
