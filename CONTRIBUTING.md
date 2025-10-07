@@ -4,6 +4,11 @@
 - Bio: Backend Developer
 - GitHub: [Hverma1206](https://github.com/Hverma1206)
 
+#### Name: Tais Rossetto
+- Place: Paraná, Brazil
+- Bio: Software Engineering student, cat & tattoo loverrr <3
+- GitHub: [Loorea](https://github.com/Loorea)
+
 #### Name: [Kishan Garhwal](https://github.com/Kishan8548)
 
 - Place: Lucknow, Uttar Pradesh, India
