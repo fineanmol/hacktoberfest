@@ -42,7 +42,7 @@
 
 #### Name: [SP KariSims](https://github.com/KariSims)
 
--Place: Dakar, DAKAR, SENEGAL
+- Place: Dakar, DAKAR, SENEGAL
 -Bio: Bachelor's degree, comic and like coding
 -GitHub: https://github.com/KariSims
 
@@ -56,17 +56,17 @@
 
 #### Name: [Aman Pathan](https://github.com/AmanPathan)
 
--Place: kalyan,Thane,Maharashtra India
+- Place: kalyan,Thane,Maharashtra India
 -Bio: I am a student at Dr.D.Y.Patil College of Engineering.
 -GitHub: [AmanPathan](https://github.com/AmanPathan)
 
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 
--Place: Kolkata, West Bengal, India
+- Place: Kolkata, West Bengal, India
 
 #### Name: [Krishnansh Agarwal](https://github.com/Krishnansh5)
 
--Place: Kanpur, U.P., India
+- Place: Kanpur, U.P., India
 -Bio: I am a student.
 -GitHub: [Krishnansh5]https://github.com/Krishnansh5
 
@@ -164,13 +164,13 @@
 
 #### Name: [Mohd Kaleem Saqlaini](https://github.com/saqlainkaleem)
 
--Place: New Delhi, India
+- Place: New Delhi, India
 -Bio: I am a final year student.
 -GitHub: [Github](https://github.com/saqlainkaleem)
 
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 
--Place: Kolkata, West Bengal, India
+- Place: Kolkata, West Bengal, India
 -Bio: I am a student.
 -GitHub: https://github.com/papaihactober2k21
 
@@ -2834,7 +2834,7 @@
 
 #### Name: [Vaibhav](https://github.com/vaibhav-009)
 
--Place: Delhi, India
+- Place: Delhi, India
 -Bio: Final Year Btech CSE student at Delhi Technological University
 -Github: [vaibhav-009](https://github.com/vaibhav-009)
 
@@ -2911,3 +2911,9 @@
 - Place: Bangalore, India
 - Bio: Learning MERN stack & DSA
 - GitHub: [nithin-s](https://github.com/NITHIN-S-18)
+
+#### Name: [Taranpreet Singh](https://github.com/Taranpreet1407)
+
+- Place: New Delhi, Delhi, India
+- Bio: I am Team Leader in Newgen
+- GitHub: [Taranpreet1407](https://github.com/Taranpreet1407)
