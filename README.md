@@ -22,7 +22,7 @@ When you make **ANY contribution** to this project, you'll automatically appear 
 
 [**Live Website**](https://fineanmol.github.io/Hacktoberfest2025/) | [**Contributors**](https://fineanmol.github.io/Hacktoberfest2025/#contributors)
 
-P.S. Star ⭐ and share this repository if you had fun!! 😍
+P.S. Star ⭐ and share this repository if you had fun! 😍
 
 ## 📅 Hacktoberfest 2025 is LIVE! (October 1-31, 2025)
 
