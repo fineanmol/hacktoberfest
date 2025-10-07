@@ -2899,3 +2899,10 @@
 - Place: Makati, NCR, Philippines
 - Bio: A junior programmer
 - GitHub: [fnable](https://github.com/fnable)
+- 
+- 
+- #### Name: [Vidhi Mantry](https://github.com/vidhimantry)
+
+- Place: Kolkata, India
+- Bio: Aspiring Software Engineer, Full-Stack Developer and AI Enthusiast.
+- GitHub: [vidhimantry](https://github.com/vidhimantry)
