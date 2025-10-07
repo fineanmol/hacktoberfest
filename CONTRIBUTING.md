@@ -2885,14 +2885,17 @@
 - Place: Calgary, Albert, Canada
 - Bio: Technology Enthusiast since Y2K
 - GitHub: [NIKIK Digital](https://github.com/nikikdigital)
-- 
-
+-
 
 #### Name: [Srijan Patel](https://github.com/Srijan76-code)
 
-- Place:  Rewa, Madhya Pradesh, India
+- Place: Rewa, Madhya Pradesh, India
 - Bio: A 2nd year student pursuing BTech at Newton School of Technology.
 - GitHub: [Srijan76-code](https://github.com/Srijan76-code)
-- 
+-
 
+#### Name: [Francis Nable](https://github.com/fnable)
 
+- Place: Makati, NCR, Philippines
+- Bio: A junior programmer
+- GitHub: [fnable](https://github.com/fnable)
