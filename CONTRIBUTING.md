@@ -2946,3 +2946,9 @@
 - Place: Bangalore, Karnataka, India
 - Bio: developer
 - GitHub: [Varadraj75](https://github.com/Varadraj75)
+
+
+#### Name: [Sourashis Ghosh Roy](https://github.com/ItzSouraseez)
+- Place: Bangalore, Karnataka, India
+- Bio: Techy Cinematographer In The Making
+- GitHub: [ItzSouraseez](https://github.com/ItzSouraseez)
