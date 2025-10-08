@@ -1,8 +1,3 @@
-#### Name: [Hareram Kushwah](https://github.com/ha-re-ram)
-- Place: Birgunj, Madhesh province, Nepal
-- Bio: CSE Student at KPRIET, coimbatore | Introvert <3
-- GitHub: [ha-re-ram](https://github.com/ha-re-ram)
-
 #### Name: [Himanshu Verma](https://github.com/Hverma1206)
 
 - Place: gurgaon,Haryana, India
@@ -2968,9 +2963,20 @@
 - Bio: AI developer
 - GitHub: [Soumyaditya25](https://github.com/Soumyaditya25)
 
-
+-
+-
 #### Name: [Dhruv Parihar](https://github.com/Dhruv-parihar)
 - Place: Dehradun, uttarakhand,India
 - Bio: A 2nd year student at DIT university pursuing BTech in cse ,  Ai-ML 
 - GitHub: [Dhruv-parihar](https://github.com/Dhruv-parihar)
+#### Name: [Dhruvika Rawat](https://github.com/dhruvika11rawat)
+- Place: Dehradun,Uttarakhand,India
+- Bio: A 1st year student at IIIT Lucknow pursuing B.Tech in Computer Science and Business.
+- GitHub: [dhruvika11rawat](https://github.com/dhruvika11rawat)
 
+
+#### Name: [Subhankar Pal](https://github.com/subhankarpal306)
+
+- Place: kolkat, West Bengal, India
+- Bio: A 2nd year student at MAKUAT university pursuing BTech in CSE 
+- GitHub: [subhankarpal306](https://github.com/subhankarpal306)
