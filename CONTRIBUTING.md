@@ -1,3 +1,8 @@
+#### Name: Hareram Kushwah
+- Place: Birgunj, Madhesh province, Nepal
+- Bio: CSE Student at KPRIET, coimbatore | Introvert <3
+- GitHub: [ha-re-ram](https://github.com/ha-re-ram)
+
 #### Name: [Himanshu Verma](https://github.com/Hverma1206)
 
 - Place: gurgaon,Haryana, India
