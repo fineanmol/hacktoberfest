@@ -2969,3 +2969,7 @@
 - Place: Dehradun, uttarakhand,India
 - Bio: A 2nd year student at DIT university pursuing BTech in cse ,  Ai-ML 
 - GitHub: [Dhruv-parihar](https://github.com/Dhruv-parihar)
+#### Name: [Dhruvika Rawat](https://github.com/dhruvika11rawat)
+- Place: Dehradun,Uttarakhand,India
+- Bio: A 1st year student at IIIT Lucknow pursuing B.Tech in Computer Science and Business.
+- GitHub: [dhruvika11rawat](https://github.com/dhruvika11rawat)
