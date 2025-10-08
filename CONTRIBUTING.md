@@ -1,4 +1,4 @@
-#### Name: Hareram Kushwah
+#### Name: [Hareram Kushwah](https://github.com/ha-re-ram)
 - Place: Birgunj, Madhesh province, Nepal
 - Bio: CSE Student at KPRIET, coimbatore | Introvert <3
 - GitHub: [ha-re-ram](https://github.com/ha-re-ram)
