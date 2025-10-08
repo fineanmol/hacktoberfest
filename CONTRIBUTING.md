@@ -2968,9 +2968,9 @@
 - Bio: AI developer
 - GitHub: [Soumyaditya25](https://github.com/Soumyaditya25)
 
--
--
+
 #### Name: [Dhruv Parihar](https://github.com/Dhruv-parihar)
 - Place: Dehradun, uttarakhand,India
 - Bio: A 2nd year student at DIT university pursuing BTech in cse ,  Ai-ML 
 - GitHub: [Dhruv-parihar](https://github.com/Dhruv-parihar)
+
