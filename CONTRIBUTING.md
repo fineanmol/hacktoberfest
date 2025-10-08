@@ -2973,3 +2973,10 @@
 - Place: Dehradun,Uttarakhand,India
 - Bio: A 1st year student at IIIT Lucknow pursuing B.Tech in Computer Science and Business.
 - GitHub: [dhruvika11rawat](https://github.com/dhruvika11rawat)
+
+
+#### Name: [Subhankar Pal](https://github.com/subhankarpal306)
+
+- Place: kolkat, West Bengal, India
+- Bio: A 2nd year student at MAKUAT university pursuing BTech in CSE 
+- GitHub: [subhankarpal306](https://github.com/subhankarpal306)
