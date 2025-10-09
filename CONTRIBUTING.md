@@ -2983,3 +2983,9 @@
 - Place: kolkat, West Bengal, India
 - Bio: A 2nd year student at MAKUAT university pursuing BTech in CSE 
 - GitHub: [subhankarpal306](https://github.com/subhankarpal306)
+
+### Name: Lelien Panda
+
+- Place: Bhubaneswar, Odisha, India
+- Bio: Java Fullstack Developer + MERN & a bit of python+Flask
+- GitHub: [Lelien Panda](https://github.com/lelixn)
