@@ -2,3 +2,4 @@
 # CONTRIBUTING.md
 # .github/
 thumbs.db
+**/venv/
