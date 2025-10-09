@@ -21,6 +21,12 @@
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
 
+#### Name: [Jeffarson Amenya](https://github.com/aspects19)
+
+- Place: Wendani, Nairobi, Kenya
+- Bio: I am a systems developer in Rust with skills in Django and React. I love programming microcontrollers.
+- GitHub: [aspects19](https://github.com/aspects19)
+
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
 - Place: Bokaro Steel City, Jharkhand, India
