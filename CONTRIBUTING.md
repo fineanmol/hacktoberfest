@@ -2420,6 +2420,11 @@
 - Bio: FS Developer
 - GitHub: [dsnoeijer](https://github.com/dsnoeijer)
 
+#### Name: [Wahengbam Nirvash Singh](https://github.com/vashprog)
+- Place: Imphal, Manipur, India
+- Bio: AI & Web Developer | Researcher | Innovator
+- GitHub: [vashprog](https://github.com/vashprog)
+
 #### Name: [Wahid Ari](https://github.com/wahid-ari)
 
 - Place: Surabaya, Indonesia
