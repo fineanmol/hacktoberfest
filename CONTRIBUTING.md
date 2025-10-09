@@ -75,6 +75,9 @@
 
 - Place: Kolkata, West Bengal, India
 
+#### Name: [Hell-maker07](https://github.com/Hell-maker07)
+- Place: Bengluru, Karnataka, India
+
 #### Name: [Krishnansh Agarwal](https://github.com/Krishnansh5)
 
 - Place: Kanpur, U.P., India
