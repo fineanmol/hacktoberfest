@@ -3000,3 +3000,10 @@
 - Place: Bhubaneswar, Odisha, India
 - Bio: Java Fullstack Developer + MERN & a bit of python+Flask
 - GitHub: [Lelien Panda](https://github.com/lelixn)
+
+  #### Name: Sunrit Singha
+
+- Place: Durgapur,West Bengal, India
+- Bio: Fullstack Developer
+- GitHub: [sunritsingha8-ux](https://github.com/sunritsingha8-ux)
+
