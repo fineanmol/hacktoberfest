@@ -188,6 +188,11 @@
 - Bio: I am a student.
 - GitHub: [GitHub account name](https://github.com/suhas-m-svit)
 
+- #### Name: [Shimmer200](https://github.com/pavanpakhare)
+- Place: India
+- Bio: b.tech Computer Science graduate
+- Github: [itsmeAYUSH](https://github.com/itsmeAYUSH)
+
 #### Name: [Mohd Kaleem Saqlaini](https://github.com/saqlainkaleem)
 
 - Place: New Delhi, India
