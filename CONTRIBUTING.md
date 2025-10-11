@@ -3025,3 +3025,11 @@
 - Bio: Building cloud-native applications
 - Github: [sahilcmd3](https://github.com/sahilcmd3)
 
+#### Name:Saanidhi Gade
+
+- Place: Pune, India
+- Bio: Python-developer,Frontend developer, Aspiring AI/ML Engineer. Currently buildings    projects on data science.
+- Github: [saanidhi-git](https://github.com/saanidhi-git)
+
+
+
