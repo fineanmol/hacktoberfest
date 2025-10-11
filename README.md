@@ -126,6 +126,35 @@ Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.c
 </a></p>
 
 
+## ⚠️ Common Mistakes & How to Fix Them
+
+- ❌ Forgot to create a new branch?  
+  👉 Use `git checkout -b your-branch-name` before making changes.
+
+- ❌ PR not showing on Hacktoberfest profile?  
+  👉 Ensure the PR is **merged, labeled “hacktoberfest-accepted,”** or the repo is **participating** in Hacktoberfest.
+
+- ❌ Merge conflict?  
+  👉 Run `git pull upstream main` to sync before pushing again.
+
+## 🧠 Git & GitHub Quick Commands
+
+| Action | Command |
+|--------|----------|
+| Clone your fork | `git clone <your-fork-url>` |
+| Create branch | `git checkout -b my-branch` |
+| Stage changes | `git add .` |
+| Commit | `git commit -m "My first contribution!"` |
+| Push | `git push origin my-branch` |
+| Sync fork | `git pull upstream main` |
+## 🌍 Beginner-Friendly Open Source Projects
+
+If you enjoyed this, check out:
+- [First Contributions](https://github.com/firstcontributions/first-contributions)
+- [EddieHub Community](https://github.com/EddieHubCommunity)
+- [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
+
+
 ## BONUS!
 - Merging All Pull Requests
 - See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
@@ -155,3 +184,4 @@ GitHub license explained [https://choosealicense.com](https://choosealicense.com
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
 - Any contributions you make are **truly appreciated**.
 - Check out our [`contributors`](./CONTRIBUTING.md) for more information.
+
