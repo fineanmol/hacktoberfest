@@ -1,3 +1,9 @@
+#### Name: [Varnit Kumar](https://github.com/vannu07)
+
+- Place: Delhi, India
+- Bio: Data Analyst | ML Enthusiast | MCA Student at Guru Gobind Singh Indraprastha University (GGSIPU)
+- GitHub: [Vannu07](https://github.com/vannu07)
+
 #### Name: [Himanshu Verma](https://github.com/Hverma1206)
 
 - Place: gurgaon,Haryana, India
