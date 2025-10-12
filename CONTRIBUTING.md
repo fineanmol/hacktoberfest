@@ -3043,3 +3043,8 @@
 - Bio: Estudante e entusiasta de tecnologia
 - GitHub: [Aquno](https://github.com/Aquno)
 
+#### Name: [V Sharanya](https://github.com/V-Sharanya)
+
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: Full Stack Developer 
+- GitHub: [V Sharanya](https://github.com/V-Sharanya)
