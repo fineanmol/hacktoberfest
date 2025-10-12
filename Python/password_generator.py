@@ -1,3 +1,8 @@
+# LANGUAGE: Python
+# ENV: python3 
+# DESCRIPTION: A simple password generator with customizable options.
+# AUTHOR: Ash Nicolus
+# GITHUB: AshNicolus
 import random
 import string
 
