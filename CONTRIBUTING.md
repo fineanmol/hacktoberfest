@@ -2917,3 +2917,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: I am Team Leader in Newgen
 - GitHub: [Taranpreet1407](https://github.com/Taranpreet1407)
+
+#### Name: [YOUR NAME](https://github.com/studentpiyush)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: Student, Open Source Contributor, Coder
+- GitHub: [GitHub account name](https://github.com/studentpiyush)
