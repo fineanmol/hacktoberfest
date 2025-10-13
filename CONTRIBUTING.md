@@ -3065,3 +3065,9 @@
 - Place: Seattle, WA, USA 
 - Bio: Student
 - GitHub: [Ti-v](https://github.com/ti-v/hacktoberfest.git)
+
+#### Name: Yash Bhalodiya
+
+- Place: Ahmedabad, Gujarat, India 
+- Bio: Student
+- GitHub: [YashBhalodiya](https://github.com/YashBhalodiya)
