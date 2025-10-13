@@ -3053,3 +3053,9 @@
 - Place: Chennai, Tamil Nadu, India
 - Bio: 3rd year Undergrad pursuing Bachelor of Technology
 - GitHub: [Rashwanth P](https://github.com/Rashwanth1407)
+
+#### Name: Tivisha Sinha
+
+- Place: Seattle, WA, USA 
+- Bio: Student
+- GitHub: [Ti-v](https://github.com/ti-v/hacktoberfest.git)
