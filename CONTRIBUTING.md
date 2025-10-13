@@ -3048,3 +3048,8 @@
 - Place: Bhopal, Madhya Pradesh, India
 - Bio: Full Stack Developer 
 - GitHub: [V Sharanya](https://github.com/V-Sharanya)
+
+#### Name: Rashwanth P
+- Place: Chennai, Tamil Nadu, India
+- Bio: 3rd year Undergrad pursuing Bachelor of Technology
+- GitHub: [Rashwanth P](https://github.com/Rashwanth1407)
