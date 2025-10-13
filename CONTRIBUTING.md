@@ -1,3 +1,9 @@
+#### Name: [Krishna Singh](https://github.com/Drag0nop)
+
+- Place: Uttarakhand, India
+- Bio: Btech in CSE with specializing in AI/ML
+- GitHub: [Drag0nop](https://github.com/Drag0nop)
+
 #### Name: [Jaya Rani .Y.S.](https://github.com/jayalloyd)
 
 - Place: Kochi, Kerala, India
