@@ -1,0 +1,20 @@
+import random
+
+def roll_dice():
+    while True:
+        sides = input("Enter the number of sides on your die (e.g., 6): ")
+        if not sides.isdigit() or int(sides) < 2:
+            print("Please enter a valid number greater than 1.")
+            continue
+        
+        sides = int(sides)
+        result = random.randint(1, sides)
+        print(f"🎲 You rolled a {result}!")
+
+        again = input("Roll again? (y/n): ").lower()
+        if again != 'y':
+            print("Thanks for playing!")
+            break
+
+if __name__ == "__main__":
+    roll_dice()
