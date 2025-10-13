@@ -1,3 +1,9 @@
+#### Name: [Jaya Rani .Y.S.](https://github.com/jayalloyd)
+- Place: Kochi, Kerala, India
+- Bio: Full-stack developer specializing in MERN and performance optimization.
+- GitHub: [jayalloyd](https://github.com/jayalloyd)
+
+
 #### Name: [Moulika Nandepu](https://github.com/Moulika-21)
 
 - Place: Bhimavaram, Andhra Pradesh, India
