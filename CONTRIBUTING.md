@@ -3087,3 +3087,9 @@
 - Place: Pitampura, Delhi, India
 - Bio: 2nd year CSE student
 - GitHub: [hlo28](https://github.com/hlo28)
+
+#### Name: Kshitiz Jain
+
+- Place: Gurugram, Haryana, India
+- Bio: 2nd year CSE student
+- GitHub: [kshitizjain11](https://github.com/kshitizjain11)
