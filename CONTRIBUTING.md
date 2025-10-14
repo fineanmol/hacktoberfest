@@ -3112,8 +3112,14 @@
 - Bio: 3rd year CSE student
 - GitHub: [kshitizjain11](https://github.com/NarenCk11)
 
-#### Name: Ayaan Shaikh(GitHub link)
+#### Name: Ayaan Shaikh
 
 - Place: Mumbai, Maharashtra, India
 - Bio: Final Year CSE Student, Ambitious Programmer
 - GitHub: [ayaantuts](https://github.com/ayaantuts)
+
+#### Name: Divya Gandhi
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Final Year CSE Student
+- GitHub: [Digaa2710](https://github.com/Digaa2710)
