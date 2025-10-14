@@ -1,3 +1,9 @@
+#### Name: [Sonu-3](https://github.com/Drag0nop)
+
+- Place: Odisha, India
+- Bio: Physics Honours
+- GitHub: [Sonu-3](https://github.com/Sonu-3)
+
 #### Name: [Krishna Singh](https://github.com/Drag0nop)
 
 - Place: Uttarakhand, India
