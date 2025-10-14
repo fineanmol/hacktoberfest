@@ -3099,3 +3099,9 @@
 - Place: Gurugram, Haryana, India
 - Bio: 2nd year CSE student
 - GitHub: [kshitizjain11](https://github.com/kshitizjain11)
+
+#### Name: Naren
+
+- Place: Hyderabad, India
+- Bio: 3rd year CSE student
+- GitHub: [kshitizjain11](https://github.com/NarenCk11)
