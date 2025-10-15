@@ -3141,3 +3141,9 @@
 - Place: Dehradun, Uttarakhand, India  
 - Bio: Fullstack Developer & Budding Entrepreneur  
 - GitHub: [ShubhangiGupta07](https://github.com/ShubhangiGupta07)
+
+#### Name: [Adam Bell](https://github.com/ABCSP4)
+
+- Place: Seattle, WA
+- Bio: AP CSP student  
+- GitHub: [ABCSP4](https://github.com/ABCSP4)
