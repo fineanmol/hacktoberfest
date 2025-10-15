@@ -3153,3 +3153,9 @@
 - Place: Dhaka, Bangladesh
 - Bio: A human till now!
 - GitHub: [mursalatul](https://github.com/mursalatul)
+
+#### Name: [Vidhi Mantry](https://github.com/vidhimantry)
+
+- Place: Kolkata, India
+- Bio: Aspiring Software Engineer!
+- GitHub: [vidhimantry](https://github.com/vidhimantry)
