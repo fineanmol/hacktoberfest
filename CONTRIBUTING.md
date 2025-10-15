@@ -3141,3 +3141,9 @@
 - Place: Dehradun, Uttarakhand, India  
 - Bio: Fullstack Developer & Budding Entrepreneur  
 - GitHub: [ShubhangiGupta07](https://github.com/ShubhangiGupta07)
+
+#### Name: [Seth Stegman](https://github.com/sstegmanbsd)
+
+- Place: Washington, USA
+- Bio: AP CSP Student
+- GitHub: [Seth Stegman](https://github.com/sstegmanbsd)
