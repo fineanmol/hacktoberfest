@@ -3135,3 +3135,9 @@
 - Place: Chandigarh, India
 - Bio: First Year CSE Student, Aspiring Web Developer
 - GitHub: [erleen0307](https://github.com/erleen0307)
+
+#### Name: [Shubhangi Gupta](https://github.com/ShubhangiGupta07)
+
+- Place: Dehradun, Uttarakhand, India  
+- Bio: Fullstack Developer & Budding Entrepreneur  
+- GitHub: [ShubhangiGupta07](https://github.com/ShubhangiGupta07)
