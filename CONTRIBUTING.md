@@ -3123,3 +3123,9 @@
 - Place: Mumbai, Maharashtra, India
 - Bio: Final Year CSE Student
 - GitHub: [Digaa2710](https://github.com/Digaa2710)
+
+#### Name: Haris Iftikhar
+
+- Place: Austin, USA
+- Bio: Software Engineer
+- GitHub: [haris-bit](https://github.com/haris-bit)
