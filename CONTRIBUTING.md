@@ -3147,3 +3147,9 @@
 - Place: Seattle, WA
 - Bio: AP CSP student  
 - GitHub: [ABCSP4](https://github.com/ABCSP4)
+
+#### Name: [Md Mursalatul Islam Pallob](https://github.com/mursalatul)
+
+- Place: Dhaka, Bangladesh
+- Bio: A human till now!
+- GitHub: [mursalatul](https://github.com/mursalatul)
