@@ -10,6 +10,11 @@
 - Bio: Btech in CSE with specializing in AI/ML
 - GitHub: [Drag0nop](https://github.com/Drag0nop)
 
+#### Name: [Chanchal Kuntal](https://github.com/Chanchal-D)
+- Place: Jaipur, Rajasthan, India  
+- Bio: Azure Developer Lead | AI Innovator & Open Source Enthusiast  
+- GitHub: [chanchalkuntal](https://github.com/Chanchal-D)
+
 #### Name: [Jaya Rani .Y.S.](https://github.com/jayalloyd)
 
 - Place: Kochi, Kerala, India
