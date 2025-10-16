@@ -3164,3 +3164,9 @@
 - Place: Kolkata, India
 - Bio: Aspiring Software Engineer!
 - GitHub: [vidhimantry](https://github.com/vidhimantry)
+
+#### Name: [Cameron](https://github.com/cjbseattle)
+
+- Place: Seattle, WA, USA
+- Bio: AP CSP High-school student
+- GitHub: [cjbseattle](https://github.com/cjbseattle)
