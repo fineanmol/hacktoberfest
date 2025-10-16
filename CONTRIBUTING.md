@@ -3165,7 +3165,7 @@
 - Bio: Aspiring Software Engineer!
 - GitHub: [vidhimantry](https://github.com/vidhimantry)
 
-#### Name: [Cameron](https://github.com/cjbseattle)
+#### Name: [Cameron Baum](https://github.com/cjbseattle)
 
 - Place: Seattle, WA, USA
 - Bio: AP CSP High-school student
