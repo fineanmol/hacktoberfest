@@ -10,23 +10,17 @@ public class Calculator {
         char operator = scanner.next().charAt(0);
         System.out.println("Enter second number:");
         double num2 = scanner.nextDouble();
-        double result = 0;
         boolean valid = true;
 
         switch (operator) {
             case '+':
-                result = num1 + num2;
                 break;
             case '-':
-                result = num1 - num2;
                 break;
             case '*':
-                result = num1 * num2;
                 break;
             case '/':
-                if (num2 != 0) {
-                    result = num1 / num2;
-                } else {
+                if (num2 == 0) {
                     System.out.println("Error: Division by zero");
                     valid = false;
                 }
@@ -37,6 +31,13 @@ public class Calculator {
         }
 
         if (valid) {
+            double result = switch (operator) {
+                case '+' -> num1 + num2;
+                case '-' -> num1 - num2;
+                case '*' -> num1 * num2;
+                case '/' -> num1 / num2;
+                default -> 0;
+            };
             System.out.println("Result: " + result);
         }
 
