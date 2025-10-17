@@ -7,7 +7,7 @@ def sudochecker(r):
             if x != a.index(x)+1:
                 print(21)
                 return False
-    #check coloumns
+    #check columns
     for i in range(9):
         a=[]
         for j in range(9):
