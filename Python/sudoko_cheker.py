@@ -31,7 +31,7 @@ def sudochecker(r):
                 if x != a.index(x)+1:
                     print(1312)
                     return False
-                
+     return True           
 
 if __name__=="__main__":
     r=[]
