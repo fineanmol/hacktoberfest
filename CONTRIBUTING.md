@@ -3176,3 +3176,9 @@
 - Place: Seattle, WA, USA
 - Bio: AP CSP High-school student
 - GitHub: [cjbseattle](https://github.com/cjbseattle)
+
+#### Name: [Anand Misra]https://github.com/anacodermisra
+
+- Place: New Delhi, Delhi, India
+- Bio: BTECH undergrad 3rd year CSE, BVCOE 
+- GitHub: [anacodermisra](https://github.com/anacodermisra)
