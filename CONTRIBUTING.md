@@ -4,6 +4,12 @@
 - Bio: Physics Honours
 - GitHub: [Sonu-3](https://github.com/Sonu-3)
 
+#### Name: [Abhishek Dubey](https://github.com/abhishekluck1987)
+
+- Place: Kanpur, India
+- Bio: B.E Computer Science
+- GitHub: [Abhishek Dubey](https://github.com/abhishekluck1987)
+
 #### Name: [Krishna Singh](https://github.com/Drag0nop)
 
 - Place: Uttarakhand, India
