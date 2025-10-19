@@ -3182,3 +3182,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: BTECH undergrad 3rd year CSE, BVCOE 
 - GitHub: [anacodermisra](https://github.com/anacodermisra)
+
+#### Name: [Harsh Sankhe]https://github.com/harsh-sankhe
+
+- Place: Mumbai, India
+- Bio: B.Tech VJTI
+- GitHub: [harsh-sankhe](https://github.com/harsh-sankhe)
