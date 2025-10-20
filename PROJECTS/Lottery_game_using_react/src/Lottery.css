@@ -1,0 +1,12 @@
+h1 {
+  margin:40px;
+}
+button{
+  margin: 20px;
+  box-shadow: 10px #fff;
+}
+button:hover {
+  color: black;
+  background: #ffffff;
+  transform: scale(1.08);
+}
