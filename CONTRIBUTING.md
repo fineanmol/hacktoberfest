@@ -656,6 +656,12 @@
 - Bio: Software Developer
 - GitHub: [agusardi](https://github.com/AntishK)
 
+#### Name: [Ajith]([GitHub link](https://github.com/ajithh404)
+
+- Place: Hyderabad, Telangana, India
+- Bio: Software grad with keen interest in latest tech
+- GitHub: [ajithh404](https://github.com/ajithh404)
+
 #### Name: [Anubhav Jain](https://github.com/anubhav823)
 
 - Place: Pune, Maharashtra, India
