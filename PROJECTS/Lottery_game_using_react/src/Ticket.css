@@ -1,0 +1,11 @@
+.ticket{
+  border: 1px solid whitesmoke;
+  height:240px;
+  width: 420px;
+  font-size:150px;
+  text-align: center;
+}
+.ticket span{
+  display: flexbox;
+  margin: 0px 20px;
+}
