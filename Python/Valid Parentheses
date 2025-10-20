@@ -1,0 +1,23 @@
+def isValid(self, s: str) -> bool:
+    stack = []
+    if len(s) % 2 != 0:
+        return False
+
+    for bracket in s:
+        if bracket in '({[':
+            stack.append(bracket)
+        else:
+            if len(stack) != 0:
+                left_bracket = stack.pop()
+                if bracket == ')' and left_bracket != '(':
+                    return False
+                
+                if bracket == '}' and left_bracket != '{':
+                    return False
+                
+                if bracket == ']' and left_bracket != '[':
+                    return False
+            else:
+                return False
+
+    return True if len(stack) == 0 else False
