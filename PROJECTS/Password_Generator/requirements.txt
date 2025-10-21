@@ -1,0 +1,50 @@
+# Password Generator Requirements
+
+This file lists the requirements for the Advanced Password Generator project.
+
+## Core Requirements
+
+- Python 3.6 or higher
+- Standard library modules only (no external dependencies required)
+
+## Optional Dependencies
+
+For enhanced functionality, you may want to install:
+
+```bash
+pip install bcrypt  # For advanced password hashing
+pip install cryptography  # For additional cryptographic functions
+pip install requests  # For online password breach checking
+```
+
+## Standard Library Modules Used
+
+- `random` - Random number generation
+- `secrets` - Cryptographically secure random number generation
+- `string` - String constants and utilities
+- `hashlib` - Hash functions
+- `re` - Regular expressions
+- `math` - Mathematical functions
+- `datetime` - Date and time handling
+- `json` - JSON data handling
+- `os` - Operating system interface
+
+## System Requirements
+
+- Any operating system supporting Python 3.6+
+- Minimum 1MB RAM
+- No special hardware requirements
+
+## Installation
+
+No installation required - just run the Python script directly:
+
+```bash
+python password_generator.py
+```
+
+Or import as a module:
+
+```python
+from password_generator import PasswordGenerator
+```
