@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Palindrome Checker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>Palindrome Checker</h1>
+
+    <form id="pal-form" aria-label="Palindrome form">
+      <label for="text">Enter text</label>
+      <input id="text" name="text" type="text" placeholder="Type a word or phrase" required />
+      <div class="controls">
+        <button id="checkBtn" type="submit">Check</button>
+        <button id="clearBtn" type="button">Clear</button>
+      </div>
+    </form>
+
+    <section id="result" aria-live="polite" class="result" hidden></section>
+
+    <small class="hint">Ignoring spaces, punctuation and capitalization.</small>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sizing Units</title>
+    <style>
+            * {
+              margin: 0;
+              padding: 0;
+            }
+            body {
+              background-color: rgba(241, 236, 236, 0.478);
+              padding: 2em;
+              margin: 2em;
+            }
+            hr {
+              border: none;
+              height: 3px;
+              background-color: rgb(26, 151, 254);
+              margin-bottom: 2em;
+            }
+            #main {
+              background-color: white;
+              border: none;
+              border-radius: 10px;
+              border-color: rgb(122, 22, 22);
+              padding: 3rem;
+              margin: 0 auto;
+              width: 90vw;
+              max-width: 1000px;
+            }
+            h1 {
+              text-align: center;
+              margin-bottom: 20.5px;
+              font-size: xx-large;
+            }
+            #view {
+              background-color: rgb(246, 243, 243);
+              border: none;
+              border: 1px solid rgb(158, 157, 157);
+              margin-bottom: 2rem;
+              border-radius: 10px;
+              border: 2px solid rgb(223, 221, 221);
+            }
+            h2 {
+              color: rgb(6, 129, 190);
+              padding: 15px;
+              font-size: 35px;
+            }
+            #wid {
+              background-color: rgb(70, 182, 182);
+              width: 55vw;
+              margin: 1em auto;
+              text-align: center;
+              padding: 20px;
+              display: block;
+            }
+            #he {
+              background-color: rgb(27, 182, 221);
+              color: white;
+              width: 45vw;
+              height: 9vh;
+              margin: 1em auto;
+              padding: 1em;
+              display: block;
+              text-align: left;
+            }
+            .v{
+              background-color: rgb(208, 239, 249);
+              width: 500w;
+              height: 10vh;
+              margin: 30px;
+              padding: 10px;
+              display: block;
+             border-left: 4px solid blue;
+             border-radius: 5px;
+            }
+            #rem {
+              background-color: rgb(246, 243, 243);
+              border: none;
+              border: 1px solid rgb(158, 157, 157);
+              margin-bottom: 2rem;
+              border-radius: 10px;
+              border: 2px solid rgb(223, 221, 221);
+            }
+            #green {
+              background-color: rgb(116, 220, 180);
+              padding: 1rem;
+              border-radius: 5px;
+              font-size: 1rem;
+              display: block;
+              margin: 10px;
+            }
+            #yellow {
+              background-color: rgb(243, 187, 32);
+              border: none;
+              margin: 10px;
+              padding: 1rem;
+              height: 10vh;
+              text-align: center;
+              border-radius: 5px;
+              font-size: 2rem;
+              display: block;
+              color: black;
+            }
+            #pink {
+              background-color: rgb(243, 113, 206);
+              margin: 1em;
+              display: block;
+              border: none;
+              border: 1px solid rgb(243, 113, 206);
+              padding: 0.5em;
+              border-radius: 5px;
+              font-size: small;
+            }
+            #normal{
+              background-color: rgb(208, 239, 249);
+              display: block;
+              margin: 1rem;
+              padding: 0.5em;
+              border-left: 4px solid blue;
+              border-radius: 5px;
+            }
+            #em{
+              background-color: rgb(246, 243, 243);
+              border: none;
+              border: 1px solid rgb(158, 157, 157);
+              margin-bottom: 2rem;
+              border-radius: 10px;
+              border: 2px solid rgb(223, 221, 221);
+            }
+            #parent{
+              background-color: rgb(112, 220, 187);
+              height: 15vh;
+              margin: 1em;
+              border-radius: 5px;
+              display: block;
+              padding: 2em;
+              text-align: center;
+
+            }
+            #childish{
+              background-color: rgb(255, 205, 131);
+              margin: 0.5em;
+              border-radius: 5px;
+              color: black;
+            }
+            #unit{
+              background-color: rgb(208, 239, 249);
+              display: block;
+              margin: 1rem;
+              padding: 0.5em;
+              border-left: 4px solid blue;
+              border-radius: 5px;
+            }
+            #percent{
+              background-color: rgb(246, 243, 243);
+              border: none;
+              border: 1px solid rgb(158, 157, 157);
+              margin-bottom: 2rem;
+              border-radius: 10px;
+              border: 2px solid rgb(223, 221, 221);
+            }
+            #voilet{
+              background-color: rgb(207, 146, 207);
+              margin: 10px;
+              padding: 20px;
+              border-radius: 5px;
+              height: 15vh;
+            }
+            #parents{
+              background-color: lightgreen;
+              margin: 10px;
+              padding: 10px;
+              width: 50%;
+              text-align: center;
+
+            }
+            #wi{
+              background-color:rgba(0, 255, 255, 0.591);
+              margin: 10px;
+              padding: 10px;
+              text-align: center;
+              width: 75%;
+            }
+            #width{
+              background-color: rgb(208, 239, 249);
+              display: block;
+              margin: 1rem;
+              padding: 0.5em;
+              border-left: 4px solid blue;
+              border-radius: 5px;
+            }
+            #pixel
+            {
+                background-color: rgb(246, 243, 243);
+                border: 2px solid rgb(223, 221, 221);
+                margin-bottom: 2rem;
+                border-radius: 10px;
+                padding: 2rem;
+            }
+
+            #pixi
+            {
+                background-color: rgb(243, 169, 175);
+                border-radius: 5px;
+                margin: 2rem;
+                padding: 4rem;
+            }
+
+            #small
+            {
+                background-color: rgb(246, 222, 195);
+                width: 100px;
+                height: 50px;
+                margin: 10px;
+                padding: 15px;
+                border-radius: 5px;
+                text-align: center;
+                font-weight: bold;
+            }
+
+            #larges 
+            {
+                background-color: rgb(250, 250, 152);
+                width: 200px;
+                height: 80px;
+                margin: 10px;
+                padding: 30px;
+                border-radius: 5px;
+                text-align: center;
+                font-weight: bold;
+            }
+
+            #largest 
+            {
+                background-color: lightgreen;
+                width: 600px;
+                height: 100px;
+                margin: 10px;
+                padding: 40px;
+                border-radius: 5px;
+                text-align: center;
+                font-weight: bold;
+            }
+
+            footer 
+            {
+                background-color: rgb(62, 61, 61);
+                color: white;
+                padding: 30px;
+                border-radius: 5px;
+                text-align: center;
+                margin-top: 2rem;
+            }
+
+            #px 
+            {
+                background-color: rgb(208, 239, 249);
+                margin: 1rem;
+                padding: 1rem;
+                border-radius: 5px;
+                border-left: 4px solid blue;
+            }
+    </style>
+  </head>
+  <body>
+    <div id="main">
+      <header>
+        <h1>CSS Sizing Units</h1>
+        <hr />
+      </header>
+      <main>
+        <div id="view">
+          <h2>Viewport Units (vw,vh)</h2>
+          <h3><span id="wid">50vw width (50% of screen width)</span></h3>
+          <h3><span id="he">15vh height (15% of screen height)</span></h3>
+          <span class="v">
+            vw = viewport width (1vw = 1% of screen width) vh = viewport height
+            (1vh = 1% of screen height) These change when you resize your
+            browser window!
+          </span>
+        </div>
+        <div id="rem">
+          <h2>REM units</h2>
+          <span id="green">This is 1rem (base font size)</span>
+          <h2><span id="yellow">This is 2rem (twice the base)</span></h2>
+          <span id="pink"> This is 0.8rem (smaller than base)</span>
+          <span id="normal">
+            rem = relative to root element's font size Usually 1rem = 16px, but
+            it scales with user's browser settings</span
+          >
+        </div>
+        <div id="em">
+          <h2>EM Units</h2>
+          <div id="parent">
+            <strong>Parent element (20px font-size) </strong>
+            <div id="childish">
+              <h2>Child element (1.5em = 30px)</h2>
+            </div>
+          </div>
+          <span id="unit">
+            em = relative to parent element's font size In the example: parent
+            is 20px, child is 1.5em = 1.5 × 20px = 30px
+          </span>
+        </div>
+        <div id="percent">
+          <h2>Percentage (%)</h2>
+          <div id="voilet">
+            <div id="parents">
+              <span><strong>50% width of parent</strong></span>
+            </div>
+            <div id="wi">
+              <span><strong>75% width of parent</strong></span>
+            </div>
+          </div>
+          <span id="width">
+            % = relative to parent element's size Width % is based on parent's
+            width, height % on parent's height
+          </span>
+        </div>
+        <div id="pixel">
+          <h2>Pixel Units (px)</h2>
+          <div id="pixi">
+            <span id="small">100px</span>
+            <span id="larges">200px</span>
+            <span id="largest">300px</span>
+          </div>
+          <span id="px">
+            px = absolute pixel units These stay the same size no matter what -
+            fixed and precise!
+          </span>
+        </div>
+      </main>
+      <footer>
+        <span>
+          🎯 Master these sizing units to build responsive websites!
+        </span>
+      </footer>
+    </div>
+  </body>
+</html>
