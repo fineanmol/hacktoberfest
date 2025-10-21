@@ -1,3 +1,9 @@
+#### Name: [Puspal Paul](https://github.com/keenpaul29)
+
+- Place: Khardaha, India
+- Bio: Software Engineer
+- Github: [keenpaul29](https://github.com/keenpaul29)
+
 #### Name: [Sonu-3](https://github.com/Drag0nop)
 
 - Place: Odisha, India
