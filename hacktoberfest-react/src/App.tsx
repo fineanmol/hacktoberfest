@@ -1,14 +1,16 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import ContributorCard from './components/ContributorCard';
 import { FaSearch, FaGithub, FaStar } from 'react-icons/fa';
 import { motion } from 'framer-motion';
+import { Toaster, toast } from 'react-hot-toast';
 // Import contributor lists from the monorepo root contributors folder
 // These are JS arrays exported as default
 // Path: ../../contributors/<file>.js
 import listA from '../../contributors/contributorslist.js';
 import listB from '../../contributors/contributorsList1.js';
+import Loader from './components/Loader';
 
 interface Contributor {
   name: string;
@@ -47,14 +49,27 @@ export default function App() {
   const [searchTerm, setSearchTerm] = useState('');
   const [contributors, setContributors] = useState<Contributor[]>([]);
   const [loading, setLoading] = useState(true);
+  const [showSplash, setShowSplash] = useState(true);
+  const envToken = (import.meta as any).env?.VITE_GITHUB_TOKEN as string | undefined;
   const [visibleContributors, setVisibleContributors] = useState(12);
-  const [profileCache, setProfileCache] = useState<Record<string, GithubUser>>({});
-  const [locationFilter, setLocationFilter] = useState('');
-  const [companyFilter, setCompanyFilter] = useState('');
-  const [minRepos, setMinRepos] = useState(0);
-  const [sortBy, setSortBy] = useState<'name' | 'repos'>('name');
-  const [sortDir, setSortDir] = useState<'asc' | 'desc'>('asc');
+  const [profileCache, setProfileCache] = useState<Record<string, GithubUser>>(() => {
+    try {
+      const raw = localStorage.getItem('gh_profile_cache');
+      return raw ? (JSON.parse(raw) as Record<string, GithubUser>) : {};
+    } catch {
+      return {};
+    }
+  });
+  const [locationFilter] = useState('');
+  const [companyFilter] = useState('');
+  const [minRepos] = useState(0);
+  const [sortBy] = useState<'name' | 'repos'>('name');
+  const [sortDir] = useState<'asc' | 'desc'>('asc');
   const [rateLimited, setRateLimited] = useState(false);
+  const hasToastedRateLimit = useRef(false);
+
+  // Prefer .env token over UI/localStorage token when present
+  const authToken = (envToken && envToken.trim()) ? envToken.trim() : '';
 
   // Debounced inputs to reduce re-renders/fetches
   const [debouncedSearch, setDebouncedSearch] = useState(searchTerm);
@@ -109,6 +124,8 @@ export default function App() {
     setLoading(false);
   }, []);
 
+  // Build filter options from cached GitHub profiles (disabled UI currently)
+
   const baseFiltered = contributors.filter(contributor => 
     contributor.name.toLowerCase().includes(debouncedSearch.toLowerCase()) ||
     contributor.username.toLowerCase().includes(debouncedSearch.toLowerCase())
@@ -162,9 +179,12 @@ export default function App() {
     Promise.all(
       batch.map(async login => {
         try {
-          const res = await fetch(`https://api.github.com/users/${login}`);
+          const headers: Record<string, string> = { 'Accept': 'application/vnd.github+json' };
+          if (authToken) headers['Authorization'] = `Bearer ${authToken}`;
+          const res = await fetch(`https://api.github.com/users/${login}`, { headers });
           if (!res.ok) {
             if (res.status === 403) setRateLimited(true);
+            if (res.status === 401) toast.error('Invalid GitHub token. Please verify and try again.');
             throw new Error(`GitHub ${res.status}`);
           }
           const data = (await res.json()) as GithubUser;
@@ -179,25 +199,47 @@ export default function App() {
         for (const r of results) {
           if (r.data) next[r.login] = r.data;
         }
+        try { localStorage.setItem('gh_profile_cache', JSON.stringify(next)); } catch {}
         return next;
       });
     });
-  }, [filteredContributors, visibleContributors, loading]);
+  }, [filteredContributors, visibleContributors, loading, authToken]);
 
   useEffect(() => {
     setVisibleContributors(12);
   }, [debouncedSearch, debouncedLocation, debouncedCompany, debouncedMinRepos, sortBy, sortDir]);
 
-  if (loading) {
+  // Toast once when hitting GitHub API rate limit
+  useEffect(() => {
+    if (rateLimited && !hasToastedRateLimit.current) {
+      toast.error('GitHub API rate limit reached. Some data may be incomplete. Please try again later.');
+      hasToastedRateLimit.current = true;
+      // allow another toast after 60s if it happens again
+      const t = setTimeout(() => { hasToastedRateLimit.current = false; }, 60000);
+      return () => clearTimeout(t);
+    }
+  }, [rateLimited]);
+
+  useEffect(() => {
+    const minSplashMs = 7000;
+    const timer = setTimeout(() => setShowSplash(false), minSplashMs);
+    return () => clearTimeout(timer);
+  }, []);
+
+  if (loading || showSplash) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-gray-900">
-        <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-hacktoberfest-pink"></div>
+      <div className="min-h-screen bg-gray-900">
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-gray-900">
+          <Loader />
+        </div>
+        <Toaster position="top-right" />
       </div>
     );
   }
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-900">
+      <Toaster position="top-right" />
       <Navbar />
       
       <main className="flex-grow pt-24 px-4 sm:px-6 lg:px-8">
@@ -256,8 +298,8 @@ export default function App() {
               </p>
               
               <div className="max-w-5xl mx-auto mb-12">
-                <div className="relative max-w-md mx-auto sm:mx-0">
-                  <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                <div className="relative max-w-xl mx-auto">
+                  <div className="absolute inset-y-0 pl-3 flex items-center pointer-events-none">
                     <FaSearch className="text-gray-500" />
                   </div>
                   <input
@@ -269,27 +311,35 @@ export default function App() {
                   />
                 </div>
 
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mt-4">
-                  <input
-                    type="text"
+
+                {/* <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mt-4">
+                  <select
                     className="input-field w-full"
-                    placeholder="Filter by location"
                     value={locationFilter}
                     onChange={(e) => setLocationFilter(e.target.value)}
-                  />
-                  <input
-                    type="text"
+                  >
+                    <option value="">Location: All</option>
+                    {uniqueLocations.map((loc: string) => (
+                      <option key={loc} value={loc}>{loc}</option>
+                    ))}
+                  </select>
+                  <select
                     className="input-field w-full"
-                    placeholder="Filter by company"
                     value={companyFilter}
                     onChange={(e) => setCompanyFilter(e.target.value)}
-                  />
-                  <div className="flex items-center gap-2">
+                  >
+                    <option value="">Company: All</option>
+                    {uniqueCompanies.map((comp: string) => (
+                      <option key={comp} value={comp}>{comp}</option>
+                    ))}
+                  </select>
+                  <div className="card flex flex-col gap-2">
+                    <label className="text-sm text-gray-400">Min public repos: <span className="text-white font-medium">{minRepos}</span></label>
                     <input
-                      type="number"
+                      type="range"
                       min={0}
-                      className="input-field w-full"
-                      placeholder="Min repos"
+                      max={Math.max(10, maxRepos)}
+                      step={1}
                       value={minRepos}
                       onChange={(e) => setMinRepos(Number(e.target.value) || 0)}
                     />
@@ -315,9 +365,9 @@ export default function App() {
                 </div>
                 {(locationFilter || companyFilter || minRepos > 0) && (
                   <p className="text-gray-500 text-sm mt-2">Profile-based filters use GitHub data and may take a moment to fetch.</p>
-                )}
+                )} */}
                 {rateLimited && (
-                  <p className="text-red-400 text-sm mt-2">GitHub API rate limit reached. Some profile-based filters and data may be incomplete. Please try again later.</p>
+                  <p className="text-red-400 text-sm mt-2">GitHub API rate limit reached. Set VITE_GITHUB_TOKEN in your .env to increase limits, or continue using cached data.</p>
                 )}
               </div>
 
