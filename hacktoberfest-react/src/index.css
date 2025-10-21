@@ -1,0 +1,83 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+@theme {
+  --color-hacktoberfest-pink: #FF0844;
+  --color-hacktoberfest-purple: #6f42c1;
+  --color-hacktoberfest-dark: #1a1a2e;
+  --font-special-elite: "Special Elite", cursive;
+}
+
+@layer base {
+  body {
+    @apply bg-gray-900 text-gray-100 min-h-screen;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-2 bg-hacktoberfest-pink text-white rounded-lg font-medium hover:bg-hacktoberfest-pink/90 transition-all duration-200;
+  }
+  
+  .card {
+    @apply bg-white/5 backdrop-blur-sm rounded-xl p-6 shadow-lg hover:shadow-xl transition-all duration-300;
+  }
+  
+  .input-field {
+    @apply w-full px-4 py-3 bg-gray-800 border border-gray-700 rounded-lg focus:outline-none focus:ring-2 focus:ring-hacktoberfest-pink focus:border-transparent text-white placeholder-gray-500;
+  }
+}
+
+/* Custom animations */
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-900;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-hacktoberfest-pink/50 rounded-full;
+  @apply hover:bg-hacktoberfest-pink/70;
+}
+
+/* Custom selection */
+::selection {
+  @apply bg-hacktoberfest-pink text-white;
+}
+
+/* Custom focus styles */
+*:focus {
+  @apply outline-none ring-2 ring-hacktoberfest-pink/50;
+}
+
+/* Custom animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+/* Custom gradient text */
+.text-gradient {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-hacktoberfest-pink to-purple-500;
+}
+
+/* Custom divider */
+.divider {
+  @apply w-24 h-1 bg-gradient-to-r from-hacktoberfest-pink to-purple-500 mx-auto my-6 rounded-full;
+}
