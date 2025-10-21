@@ -1,4 +1,4 @@
-contributors = [
+const contributors = [
   {
     id: 1,
     fullname: "Anmol Agarwal",
@@ -2727,3 +2727,5 @@ contributors = [
     username: "https://github.com/PLayerNightQueen16",
   },
 ];
+
+export default contributors;
