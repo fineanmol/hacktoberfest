@@ -49,6 +49,42 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [visibleContributors, setVisibleContributors] = useState(12);
   const [profileCache, setProfileCache] = useState<Record<string, GithubUser>>({});
+  const [locationFilter, setLocationFilter] = useState('');
+  const [companyFilter, setCompanyFilter] = useState('');
+  const [minRepos, setMinRepos] = useState(0);
+  const [sortBy, setSortBy] = useState<'name' | 'repos'>('name');
+  const [sortDir, setSortDir] = useState<'asc' | 'desc'>('asc');
+  const [rateLimited, setRateLimited] = useState(false);
+
+  // Debounced inputs to reduce re-renders/fetches
+  const [debouncedSearch, setDebouncedSearch] = useState(searchTerm);
+  const [debouncedLocation, setDebouncedLocation] = useState(locationFilter);
+  const [debouncedCompany, setDebouncedCompany] = useState(companyFilter);
+  const [debouncedMinRepos, setDebouncedMinRepos] = useState(minRepos);
+
+  useEffect(() => {
+    const t = setTimeout(() => setDebouncedSearch(searchTerm), 300);
+    return () => clearTimeout(t);
+  }, [searchTerm]);
+  useEffect(() => {
+    const t = setTimeout(() => setDebouncedLocation(locationFilter), 300);
+    return () => clearTimeout(t);
+  }, [locationFilter]);
+  useEffect(() => {
+    const t = setTimeout(() => setDebouncedCompany(companyFilter), 300);
+    return () => clearTimeout(t);
+  }, [companyFilter]);
+  useEffect(() => {
+    const t = setTimeout(() => setDebouncedMinRepos(minRepos), 300);
+    return () => clearTimeout(t);
+  }, [minRepos]);
+
+  const isDebouncing = (
+    searchTerm !== debouncedSearch ||
+    locationFilter !== debouncedLocation ||
+    companyFilter !== debouncedCompany ||
+    minRepos !== debouncedMinRepos
+  );
 
   useEffect(() => {
     const raws: RawContributor[] = ([] as RawContributor[])
@@ -73,10 +109,41 @@ export default function App() {
     setLoading(false);
   }, []);
 
-  const filteredContributors = contributors.filter(contributor => 
-    contributor.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    contributor.username.toLowerCase().includes(searchTerm.toLowerCase())
+  const baseFiltered = contributors.filter(contributor => 
+    contributor.name.toLowerCase().includes(debouncedSearch.toLowerCase()) ||
+    contributor.username.toLowerCase().includes(debouncedSearch.toLowerCase())
   );
+
+  const profileFiltered = baseFiltered.filter(contributor => {
+    const cached = profileCache[contributor.username];
+    if (debouncedLocation.trim()) {
+      const locOk = cached?.location ? cached.location.toLowerCase().includes(debouncedLocation.toLowerCase()) : false;
+      if (!locOk) return false;
+    }
+    if (debouncedCompany.trim()) {
+      const compOk = cached?.company ? cached.company.toLowerCase().includes(debouncedCompany.toLowerCase()) : false;
+      if (!compOk) return false;
+    }
+    if (debouncedMinRepos > 0) {
+      const repos = cached?.public_repos ?? -1;
+      if (repos < debouncedMinRepos) return false;
+    }
+    return true;
+  });
+
+  const filteredContributors = [...profileFiltered].sort((a, b) => {
+    if (sortBy === 'name') {
+      const an = (profileCache[a.username]?.name || a.name || a.username).toLowerCase();
+      const bn = (profileCache[b.username]?.name || b.name || b.username).toLowerCase();
+      const cmp = an.localeCompare(bn);
+      return sortDir === 'asc' ? cmp : -cmp;
+    } else {
+      const ar = profileCache[a.username]?.public_repos ?? a.contributions;
+      const br = profileCache[b.username]?.public_repos ?? b.contributions;
+      const cmp = ar - br;
+      return sortDir === 'asc' ? cmp : -cmp;
+    }
+  });
 
   const loadMore = () => {
     setVisibleContributors(prev => prev + 12);
@@ -96,7 +163,10 @@ export default function App() {
       batch.map(async login => {
         try {
           const res = await fetch(`https://api.github.com/users/${login}`);
-          if (!res.ok) throw new Error(`GitHub ${res.status}`);
+          if (!res.ok) {
+            if (res.status === 403) setRateLimited(true);
+            throw new Error(`GitHub ${res.status}`);
+          }
           const data = (await res.json()) as GithubUser;
           return { login, data } as const;
         } catch (e) {
@@ -113,6 +183,10 @@ export default function App() {
       });
     });
   }, [filteredContributors, visibleContributors, loading]);
+
+  useEffect(() => {
+    setVisibleContributors(12);
+  }, [debouncedSearch, debouncedLocation, debouncedCompany, debouncedMinRepos, sortBy, sortDir]);
 
   if (loading) {
     return (
@@ -181,17 +255,70 @@ export default function App() {
                 Join these amazing contributors who have helped make this project better. Your contribution could be next!
               </p>
               
-              <div className="relative max-w-md mx-auto mb-12">
-                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                  <FaSearch className="text-gray-500" />
+              <div className="max-w-5xl mx-auto mb-12">
+                <div className="relative max-w-md mx-auto sm:mx-0">
+                  <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                    <FaSearch className="text-gray-500" />
+                  </div>
+                  <input
+                    type="text"
+                    className="input-field pl-10 w-full"
+                    placeholder="Search by name or username..."
+                    value={searchTerm}
+                    onChange={(e) => setSearchTerm(e.target.value)}
+                  />
                 </div>
-                <input
-                  type="text"
-                  className="input-field pl-10"
-                  placeholder="Search contributors..."
-                  value={searchTerm}
-                  onChange={(e) => setSearchTerm(e.target.value)}
-                />
+
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mt-4">
+                  <input
+                    type="text"
+                    className="input-field w-full"
+                    placeholder="Filter by location"
+                    value={locationFilter}
+                    onChange={(e) => setLocationFilter(e.target.value)}
+                  />
+                  <input
+                    type="text"
+                    className="input-field w-full"
+                    placeholder="Filter by company"
+                    value={companyFilter}
+                    onChange={(e) => setCompanyFilter(e.target.value)}
+                  />
+                  <div className="flex items-center gap-2">
+                    <input
+                      type="number"
+                      min={0}
+                      className="input-field w-full"
+                      placeholder="Min repos"
+                      value={minRepos}
+                      onChange={(e) => setMinRepos(Number(e.target.value) || 0)}
+                    />
+                  </div>
+                  <div className="flex gap-2">
+                    <select
+                      className="input-field w-full"
+                      value={sortBy}
+                      onChange={(e) => setSortBy(e.target.value as 'name' | 'repos')}
+                    >
+                      <option value="name">Sort: Name</option>
+                      <option value="repos">Sort: Public Repos</option>
+                    </select>
+                    <select
+                      className="input-field w-full"
+                      value={sortDir}
+                      onChange={(e) => setSortDir(e.target.value as 'asc' | 'desc')}
+                    >
+                      <option value="asc">Asc</option>
+                      <option value="desc">Desc</option>
+                    </select>
+                  </div>
+                </div>
+                {(locationFilter || companyFilter || minRepos > 0) && (
+                  <p className="text-gray-500 text-sm mt-2">Profile-based filters use GitHub data and may take a moment to fetch.</p>
+                )}
+                {rateLimited && (
+                  <p className="text-red-400 text-sm mt-2">GitHub API rate limit reached. Some profile-based filters and data may be incomplete. Please try again later.</p>
+                )}
               </div>
 
               <div className="flex items-center justify-center gap-2 text-yellow-400 mb-8">
@@ -200,7 +327,27 @@ export default function App() {
               </div>
             </div>
 
-            {filteredContributors.length === 0 ? (
+            {isDebouncing ? (
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                {Array.from({ length: Math.min(visibleContributors, 12) }).map((_, index) => (
+                  <div key={index} className="bg-white/5 backdrop-blur-sm rounded-xl overflow-hidden shadow-lg">
+                    <div className="p-6 animate-pulse duration-300">
+                      <div className="flex items-center space-x-4">
+                        <div className="w-16 h-16 rounded-full bg-gray-700" />
+                        <div className="flex-1 min-w-0">
+                          <div className="h-4 bg-gray-700 rounded w-2/3 mb-2" />
+                          <div className="h-3 bg-gray-700 rounded w-1/3" />
+                        </div>
+                      </div>
+                      <div className="mt-4 flex items-center justify-between">
+                        <div className="h-6 bg-gray-700 rounded w-24" />
+                        <div className="h-4 bg-gray-700 rounded w-20" />
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            ) : filteredContributors.length === 0 ? (
               <div className="text-center py-12">
                 <p className="text-gray-400 text-lg">No contributors found matching "{searchTerm}"</p>
               </div>
