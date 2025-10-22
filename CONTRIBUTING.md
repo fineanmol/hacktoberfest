@@ -3237,3 +3237,9 @@
 - Place: Bhubaneswar, India
 - Bio: AI Enthusiast, Web Developer, and Researcher exploring ML & Automation.
 - GitHub: [Singhranashivang](https://github.com/Singhranashivang)
+
+
+#### Name: [Anas Khan](https://github.com/Anas2604-web)
+- Place: Jabalpur, India
+- Bio: Software Developer skilled in Java and Web Development .
+- GitHub: [Anas2604-web](https://github.com/Anas2604-web)
