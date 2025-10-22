@@ -3230,3 +3230,10 @@
 - Place: Vellore, Tamil Nadu, India.
 - Bio: Second year CSE student
 - GitHub: [SayakMondal](https://github.com/ElixerAxiomCalculus)
+
+
+
+#### Name: [Rana Shivang Singh](https://github.com/Singhranashivang)
+- Place: Bhubaneswar, India
+- Bio: AI Enthusiast, Web Developer, and Researcher exploring ML & Automation.
+- GitHub: [Singhranashivang](https://github.com/Singhranashivang)
