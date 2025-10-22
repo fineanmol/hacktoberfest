@@ -3224,3 +3224,9 @@
 - place: One Piece, Egghead Island
 - Bio:  second member of the Straw Hat Pirates
 - Github: [YuvrajSHAD](https://github.com/YuvrajSHAD)
+
+#### Name: [Sayak Mondal](https://github.com/ElixerAxiomCalculus)
+
+- Place: Vellore, Tamil Nadu, India.
+- Bio: Second year CSE student
+- GitHub: [SayakMondal](https://github.com/ElixerAxiomCalculus)
