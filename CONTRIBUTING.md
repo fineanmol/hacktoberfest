@@ -3218,3 +3218,9 @@
 - Place: Hyderabad, Telangana, India
 - Bio: First year cs student
 - GitHub: [AnjanaKamle](https://github.com/AnjanaKamle)
+
+#### Name: [Roronoa Zoro](https://github.com/YuvrajSHAD)
+
+- place: One Piece, Egghead Island
+- Bio:  second member of the Straw Hat Pirates
+- Github: [YuvrajSHAD](https://github.com/YuvrajSHAD)
