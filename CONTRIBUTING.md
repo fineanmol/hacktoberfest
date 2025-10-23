@@ -3243,3 +3243,9 @@
 - Place: Jabalpur, India
 - Bio: Software Developer skilled in Java and Web Development .
 - GitHub: [Anas2604-web](https://github.com/Anas2604-web)
+
+
+#### Name: [Darshan Thakare](https://github.com/DarshanCode2005)
+- Place: Nashik, India
+- Bio: AI Engineer skilled in ML, DL and AI Agents
+- Github: [DarshanCode2005](https://github.com/DarshanCode2005)
