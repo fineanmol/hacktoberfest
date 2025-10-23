@@ -3249,3 +3249,8 @@
 - Place: Nashik, India
 - Bio: AI Engineer skilled in ML, DL and AI Agents
 - Github: [DarshanCode2005](https://github.com/DarshanCode2005)
+
+#### Name: [Shubhang Sagar Shukla](https://github.com/Shubhang-Sagar-Shukla)
+- Place: Lucknoow, India
+- Bio: Aspiring Mern full stack developer
+- Github: [Shubhang Sagar Shukla](https://github.com/Shubhang-Sagar-Shukla)
