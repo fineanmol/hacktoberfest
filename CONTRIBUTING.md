@@ -3249,3 +3249,9 @@
 - Place: Nashik, India
 - Bio: AI Engineer skilled in ML, DL and AI Agents
 - Github: [DarshanCode2005](https://github.com/DarshanCode2005)
+
+
+#### Name: [Yash Pratap Singh Solanki](https://github.com/yashpss01)
+- Place: Pune, India
+- Bio: B.Tech undergrad (computer science)
+- Github: [yashpss01](https://github.com/yashpss01)
