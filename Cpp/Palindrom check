@@ -1,0 +1,38 @@
+#include <iostream>
+#include <string>
+#include <algorithm> // For transform function
+
+// Function to check whether a string is a palindrome
+bool isPalindrome(const std::string& str) {
+    int left = 0;
+    int right = str.length() - 1;
+
+    while (left < right) {
+        // Skip non-alphanumeric characters (optional)
+        while (left < right && !isalnum(str[left])) left++;
+        while (left < right && !isalnum(str[right])) right--;
+
+        // Compare characters (case insensitive)
+        if (tolower(str[left]) != tolower(str[right])) {
+            return false;
+        }
+        left++;
+        right--;
+    }
+    return true;
+}
+
+int main() {
+    std::string input;
+
+    std::cout << "Enter a string to check palindrome: ";
+    std::getline(std::cin, input);
+
+    if (isPalindrome(input)) {
+        std::cout << "\"" << input << "\" is a palindrome." << std::endl;
+    } else {
+        std::cout << "\"" << input << "\" is not a palindrome." << std::endl;
+    }
+
+    return 0;
+}
