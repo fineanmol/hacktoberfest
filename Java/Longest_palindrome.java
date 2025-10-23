@@ -1,3 +1,11 @@
+/**
+ * Longest Palindromic Substring Solver
+ * Hacktoberfest Contribution - Your Name
+ */
+
+public class LongestPalindrome {
+    // existing code unchanged
+}
 import java.util.Scanner;
 
 public class Longest_palindrome {
