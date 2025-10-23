@@ -4,6 +4,14 @@
 - Bio: Software Engineer
 - Github: [keenpaul29](https://github.com/keenpaul29)
 
+
+#### Name: [Siddharth Swami](https://github.com/siddharthswami23)
+
+- Place: Maharashtra, India
+- Bio: Student
+- Github: [siddharthswami23](https://github.com/siddharthswami23)
+
+
 #### Name: [Sonu-3](https://github.com/Drag0nop)
 
 - Place: Odisha, India
