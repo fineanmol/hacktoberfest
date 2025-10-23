@@ -2726,6 +2726,11 @@ const contributors = [
     fullname: "Shreya Pal",
     username: "https://github.com/PLayerNightQueen16",
   },
+  {
+    id: 476,
+    fullname: "Yash Pratap Singh Solanki",
+    username: "https://github.com/yashpss01",
+  },
 ];
 
 export default contributors;
