@@ -1,3 +1,10 @@
+"""
+LANGUAGE: Python
+ENV: Python 3.10
+AUTHOR: Naznin Akhtar
+GITHUB: https://github.com/nazninakhtar
+"""
+
 def calculator(a, b, op):
     if op == '+':
         return a + b
