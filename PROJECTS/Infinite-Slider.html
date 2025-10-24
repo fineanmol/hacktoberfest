@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Infinite Slider</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #111;
+    margin: 0;
+    overflow: hidden;
+  }
+  .slider {
+    width: 800px;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 20px;
+    box-shadow: 0 0 25px rgba(0,0,0,0.6);
+    position: relative;
+  }
+  .slides {
+    display: flex;
+    width: calc(200%);
+    height: 100%;
+    animation: scroll 15s linear infinite;
+  }
+  .slide {
+    width: 20%;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #fff;
+  }
+  .slide:nth-child(1){background:#ff4d4d;}
+  .slide:nth-child(2){background:#4d79ff;}
+  .slide:nth-child(3){background:#4dff88;}
+  .slide:nth-child(4){background:#ffd24d;}
+  .slide:nth-child(5){background:#b84dff;}
+  @keyframes scroll {
+    0% {transform: translateX(0);}
+    100% {transform: translateX(-50%);}
+  }
+</style>
+</head>
+<body>
+  <div class="slider">
+    <div class="slides">
+      <div class="slide">Red</div>
+      <div class="slide">Blue</div>
+      <div class="slide">Green</div>
+      <div class="slide">Yellow</div>
+      <div class="slide">Purple</div>
+      <div class="slide">Red</div>
+      <div class="slide">Blue</div>
+      <div class="slide">Green</div>
+      <div class="slide">Yellow</div>
+      <div class="slide">Purple</div>
+    </div>
+  </div>
+</body>
+</html>
