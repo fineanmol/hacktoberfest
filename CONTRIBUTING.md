@@ -3263,3 +3263,8 @@
 - Place: Pune, India
 - Bio: B.Tech undergrad (computer science)
 - Github: [yashpss01](https://github.com/yashpss01)
+
+#### Name: [Matheus Cruvinel](https://github.com/mcruvinel)
+- Place: Minas Gerais, Brazi
+- Bio: Backend Developer | S3 cloud developer
+- Github: [mcruvinel](https://github.com/mcruvinel)
