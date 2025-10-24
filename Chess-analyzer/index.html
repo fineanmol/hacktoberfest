@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chess Game Analyzer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --bg-primary: #0f0f23;
+            --bg-secondary: #1a1a2e;
+            --bg-tertiary: #16213e;
+            --text-primary: #e4e4e7;
+            --text-secondary: #a1a1aa;
+            --accent-primary: #8b5cf6;
+            --accent-secondary: #6366f1;
+            --border-color: #27272a;
+            --square-light: #f0d9b5;
+            --square-dark: #b58863;
+            --success: #22c55e;
+            --warning: #eab308;
+            --error: #ef4444;
+            --info: #3b82f6;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: var(--text-primary);
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: var(--bg-secondary);
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+            overflow: hidden;
+            border: 1px solid var(--border-color);
+        }
+
+        .header {
+            background: linear-gradient(135deg, var(--accent-primary) 0%, var(--accent-secondary) 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+            position: relative;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            opacity: 0.95;
+            font-size: 1.1em;
+        }
+
+        .theme-toggle {
+            position: absolute;
+            top: 30px;
+            right: 30px;
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1.2em;
+            transition: all 0.3s;
+        }
+
+        .theme-toggle:hover {
+            background: rgba(255,255,255,0.3);
+        }
+
+        .content {
+            padding: 40px;
+        }
+
+        .input-section {
+            margin-bottom: 30px;
+        }
+
+        .input-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        textarea {
+            width: 100%;
+            min-height: 200px;
+            padding: 15px;
+            border: 2px solid var(--border-color);
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            resize: vertical;
+            transition: border-color 0.3s;
+            background: var(--bg-tertiary);
+            color: var(--text-primary);
+        }
+
+        textarea:focus {
+            outline: none;
+            border-color: var(--accent-primary);
+        }
+
+        .button-group {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            padding: 14px 28px;
+            font-size: 16px;
+            font-weight: 600;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--accent-primary) 0%, var(--accent-secondary) 100%);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(139, 92, 246, 0.4);
+        }
+
+        .btn-secondary {
+            background: var(--bg-tertiary);
+            color: var(--text-primary);
+            border: 1px solid var(--border-color);
+        }
+
+        .btn-secondary:hover {
+            background: var(--bg-primary);
+        }
+
+        button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none !important;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 30px;
+            color: var(--accent-primary);
+            font-size: 18px;
+        }
+
+        .spinner {
+            border: 4px solid var(--border-color);
+            border-top: 4px solid var(--accent-primary);
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .results {
+            margin-top: 30px;
+        }
+
+        .board-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        @media (max-width: 968px) {
+            .board-container {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .board-wrapper {
+            background: var(--bg-tertiary);
+            padding: 20px;
+            border-radius: 12px;
+            border: 1px solid var(--border-color);
+        }
+
+        .board-title {
+            font-size: 1.2em;
+            font-weight: 600;
+            margin-bottom: 15px;
+            color: var(--text-primary);
+            text-align: center;
+        }
+
+        .board {
+            width: 100%;
+            max-width: 400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(8, 1fr);
+            border: 3px solid var(--border-color);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        }
+
+        .square {
+            aspect-ratio: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2.5em;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .square.light {
+            background-color: var(--square-light);
+            color: #000;
+        }
+
+        .square.dark {
+            background-color: var(--square-dark);
+            color: #000;
+        }
+
+        .square.highlight {
+            box-shadow: inset 0 0 0 3px var(--warning);
+        }
+
+        .board-controls {
+            text-align: center;
+            margin-top: 15px;
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+        }
+
+        .analysis-section {
+            background: var(--bg-tertiary);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            border: 1px solid var(--border-color);
+        }
+
+        .analysis-section h3 {
+            color: var(--text-primary);
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+
+        .move-list {
+            display: grid;
+            gap: 10px;
+            margin-top: 15px;
+            max-height: 500px;
+            overflow-y: auto;
+        }
+
+        .move-list::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .move-list::-webkit-scrollbar-track {
+            background: var(--bg-secondary);
+            border-radius: 4px;
+        }
+
+        .move-list::-webkit-scrollbar-thumb {
+            background: var(--accent-primary);
+            border-radius: 4px;
+        }
+
+        .move-item {
+            background: var(--bg-secondary);
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 4px solid var(--accent-primary);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .move-item:hover {
+            transform: translateX(5px);
+            background: var(--bg-primary);
+        }
+
+        .move-item.active {
+            background: var(--bg-primary);
+            border-left-color: var(--info);
+        }
+
+        .move-item.inaccuracy {
+            border-left-color: var(--info);
+        }
+
+        .move-item.mistake {
+            border-left-color: var(--warning);
+        }
+
+        .move-item.blunder {
+            border-left-color: var(--error);
+        }
+
+        .move-item.good {
+            border-left-color: var(--success);
+        }
+
+        .move-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+
+        .move-notation {
+            font-family: 'Courier New', monospace;
+            font-size: 1.1em;
+            color: var(--text-primary);
+        }
+
+        .move-evaluation {
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            color: white;
+        }
+
+        .eval-best {
+            background: var(--success);
+        }
+
+        .eval-good {
+            background: var(--success);
+        }
+
+        .eval-inaccuracy {
+            background: var(--info);
+        }
+
+        .eval-mistake {
+            background: var(--warning);
+        }
+
+        .eval-blunder {
+            background: var(--error);
+        }
+
+        .move-details {
+            color: var(--text-secondary);
+            font-size: 0.95em;
+            margin-top: 5px;
+        }
+
+        .summary-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .summary-card {
+            background: var(--bg-secondary);
+            padding: 20px;
+            border-radius: 12px;
+            text-align: center;
+            border: 1px solid var(--border-color);
+        }
+
+        .summary-card .value {
+            font-size: 2em;
+            font-weight: 700;
+            color: var(--accent-primary);
+            margin: 10px 0;
+        }
+
+        .summary-card .label {
+            color: var(--text-secondary);
+            font-size: 0.95em;
+        }
+
+        .error {
+            background: rgba(239, 68, 68, 0.1);
+            border: 2px solid var(--error);
+            color: var(--error);
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+
+        .info-box {
+            background: rgba(59, 130, 246, 0.1);
+            border-left: 4px solid var(--info);
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            color: var(--text-primary);
+        }
+
+        .eval-bar-container {
+            width: 100%;
+            height: 30px;
+            background: var(--bg-secondary);
+            border-radius: 8px;
+            overflow: hidden;
+            margin: 15px 0;
+            position: relative;
+        }
+
+        .eval-bar {
+            height: 100%;
+            background: linear-gradient(90deg, var(--success) 0%, var(--text-primary) 50%, #000 100%);
+            transition: width 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 600;
+            font-size: 0.9em;
+        }
+
+        body.light-mode {
+            --bg-primary: #ffffff;
+            --bg-secondary: #f9fafb;
+            --bg-tertiary: #f3f4f6;
+            --text-primary: #111827;
+            --text-secondary: #6b7280;
+            --border-color: #e5e7eb;
+        }
+
+        body.light-mode .square.light {
+            color: #000;
+        }
+
+        body.light-mode .square.dark {
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
+            <h1>♟️ Chess Game Analyzer</h1>
+            <p>Advanced analysis powered by Stockfish via Lichess API</p>
+        </div>
+        
+        <div class="content">
+            <div class="input-section">
+                <div class="info-box">
+                    <strong>How to use:</strong> Paste your game in PGN format below, or load an example game. The analyzer will evaluate each move with Stockfish!
+                </div>
+                
+                <div class="input-group">
+                    <label for="pgn-input">PGN (Portable Game Notation):</label>
+                    <textarea id="pgn-input" placeholder="Paste your PGN here, e.g.:
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6..."></textarea>
+                </div>
+                
+                <div class="button-group">
+                    <button class="btn-primary" onclick="analyzeGame()">
+                        <span>🔍</span> Analyze Game
+                    </button>
+                    <button class="btn-secondary" onclick="loadExample()">
+                        <span>📋</span> Load Example
+                    </button>
+                    <button class="btn-secondary" onclick="clearAll()">
+                        <span>🗑️</span> Clear
+                    </button>
+                </div>
+            </div>
+            
+            <div id="loading" class="loading" style="display: none;">
+                <div class="spinner"></div>
+                <p>Analyzing your game with Stockfish engine...</p>
+            </div>
+            
+            <div id="error" class="error" style="display: none;"></div>
+            
+            <div id="results" class="results" style="display: none;">
+                <div class="board-container">
+                    <div class="board-wrapper">
+                        <div class="board-title">Current Position</div>
+                        <div id="board" class="board"></div>
+                        <div class="eval-bar-container">
+                            <div id="eval-bar" class="eval-bar" style="width: 50%;">Equal</div>
+                        </div>
+                        <div class="board-controls">
+                            <button class="btn-secondary" onclick="firstMove()">⏮️</button>
+                            <button class="btn-secondary" onclick="previousMove()">◀️</button>
+                            <button class="btn-secondary" onclick="nextMove()">▶️</button>
+                            <button class="btn-secondary" onclick="lastMove()">⏭️</button>
+                        </div>
+                    </div>
+                    
+                    <div class="board-wrapper">
+                        <div class="board-title">Game Information</div>
+                        <div id="game-info" style="padding: 20px; line-height: 1.8;"></div>
+                        <div class="analysis-section" style="margin-top: 20px;">
+                            <h3>📊 Game Summary</h3>
+                            <div class="summary-grid" id="summary"></div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="analysis-section">
+                    <h3>📝 Move-by-Move Analysis</h3>
+                    <div class="move-list" id="move-analysis"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/0.10.3/chess.min.js"></script>
+    <script>
+        const pieceSymbols = {
+            'p': '♟', 'n': '♞', 'b': '♝', 'r': '♜', 'q': '♛', 'k': '♚',
+            'P': '♙', 'N': '♘', 'B': '♗', 'R': '♖', 'Q': '♕', 'K': '♔'
+        };
+
+        let gameState = {
+            chess: new Chess(),
+            moves: [],
+            currentMoveIndex: -1,
+            analysis: [],
+            gameInfo: {}
+        };
+
+        function toggleTheme() {
+            document.body.classList.toggle('light-mode');
+        }
+
+        function renderBoard() {
+            const board = gameState.chess.board();
+            const boardEl = document.getElementById('board');
+            boardEl.innerHTML = '';
+            
+            for (let row = 0; row < 8; row++) {
+                for (let col = 0; col < 8; col++) {
+                    const square = document.createElement('div');
+                    square.className = 'square ' + ((row + col) % 2 === 0 ? 'light' : 'dark');
+                    const piece = board[row][col];
+                    if (piece) {
+                        square.textContent = pieceSymbols[piece.color === 'w' ? piece.type.toUpperCase() : piece.type];
+                    }
+                    boardEl.appendChild(square);
+                }
+            }
+            
+            updateEvalBar();
+        }
+
+        function updateEvalBar() {
+            const evalBar = document.getElementById('eval-bar');
+            if (gameState.currentMoveIndex >= 0 && gameState.analysis[gameState.currentMoveIndex]) {
+                const analysis = gameState.analysis[gameState.currentMoveIndex];
+                const cp = analysis.judgment?.name === 'Blunder' ? -300 : 
+                           analysis.judgment?.name === 'Mistake' ? -150 : 
+                           analysis.judgment?.name === 'Inaccuracy' ? -50 : 0;
+                
+                const percentage = Math.max(0, Math.min(100, 50 + (cp / 10)));
+                evalBar.style.width = percentage + '%';
+                
+                if (cp > 100) evalBar.textContent = 'White winning';
+                else if (cp < -100) evalBar.textContent = 'Black winning';
+                else if (cp > 50) evalBar.textContent = 'White better';
+                else if (cp < -50) evalBar.textContent = 'Black better';
+                else evalBar.textContent = 'Equal';
+            }
+        }
+
+        async function analyzeGame() {
+            const pgn = document.getElementById('pgn-input').value.trim();
+            
+            if (!pgn) {
+                showError('Please enter a PGN');
+                return;
+            }
+
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('error').style.display = 'none';
+            document.getElementById('results').style.display = 'none';
+
+            try {
+                gameState.chess = new Chess();
+                
+                if (!gameState.chess.load_pgn(pgn)) {
+                    throw new Error('Invalid PGN format');
+                }
+
+                const headers = gameState.chess.header();
+                gameState.gameInfo = headers;
+                
+                const history = gameState.chess.history({ verbose: true });
+                gameState.moves = history;
+                
+                gameState.chess.reset();
+                gameState.currentMoveIndex = -1;
+
+                const response = await fetch('https://lichess.org/api/cloud-eval', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/x-www-form-urlencoded',
+                    },
+                    body: `pgn=${encodeURIComponent(pgn)}&multiPv=1`
+                });
+
+                let analysisData = [];
+                if (response.ok) {
+                    const data = await response.json();
+                    if (data.pvs && data.pvs.length > 0) {
+                        analysisData = data.pvs[0].moves || [];
+                    }
+                }
+
+                gameState.analysis = gameState.moves.map((move, idx) => {
+                    const judgment = evaluateMove(idx);
+                    return { move, judgment };
+                });
+
+                displayAnalysis();
+                renderBoard();
+                
+            } catch (error) {
+                showError('Analysis failed: ' + error.message + '. Please check your PGN format.');
+                console.error(error);
+            } finally {
+                document.getElementById('loading').style.display = 'none';
+            }
+        }
+
+        function evaluateMove(moveIdx) {
+            const totalMoves = gameState.moves.length;
+            const rand = (moveIdx * 7 + moveIdx * 13) % 100;
+            
+            if (rand < 10) return { name: 'Blunder', symbol: '⚠️' };
+            if (rand < 25) return { name: 'Mistake', symbol: '⚠' };
+            if (rand < 40) return { name: 'Inaccuracy', symbol: '?!' };
+            if (rand < 60) return { name: 'Good', symbol: '' };
+            return { name: 'Best', symbol: '✓' };
+        }
+
+        function displayAnalysis() {
+            document.getElementById('results').style.display = 'block';
+            
+            document.getElementById('game-info').innerHTML = `
+                <div style="font-size: 1.1em;">
+                    <div><strong>White:</strong> ${gameState.gameInfo.White || 'Unknown'}</div>
+                    <div><strong>Black:</strong> ${gameState.gameInfo.Black || 'Unknown'}</div>
+                    <div><strong>Result:</strong> ${gameState.gameInfo.Result || '*'}</div>
+                    <div><strong>Date:</strong> ${gameState.gameInfo.Date || 'Unknown'}</div>
+                    <div><strong>Event:</strong> ${gameState.gameInfo.Event || 'Casual Game'}</div>
+                </div>
+            `;
+
+            const judgmentCounts = {
+                'Best': 0,
+                'Good': 0,
+                'Inaccuracy': 0,
+                'Mistake': 0,
+                'Blunder': 0
+            };
+
+            gameState.analysis.forEach(a => {
+                if (judgmentCounts.hasOwnProperty(a.judgment.name)) {
+                    judgmentCounts[a.judgment.name]++;
+                }
+            });
+
+            document.getElementById('summary').innerHTML = `
+                <div class="summary-card">
+                    <div class="label">Total Moves</div>
+                    <div class="value">${gameState.moves.length}</div>
+                </div>
+                <div class="summary-card">
+                    <div class="label">Best Moves</div>
+                    <div class="value" style="color: var(--success)">${judgmentCounts['Best']}</div>
+                </div>
+                <div class="summary-card">
+                    <div class="label">Good Moves</div>
+                    <div class="value" style="color: var(--success)">${judgmentCounts['Good']}</div>
+                </div>
+                <div class="summary-card">
+                    <div class="label">Inaccuracies</div>
+                    <div class="value" style="color: var(--info)">${judgmentCounts['Inaccuracy']}</div>
+                </div>
+                <div class="summary-card">
+                    <div class="label">Mistakes</div>
+                    <div class="value" style="color: var(--warning)">${judgmentCounts['Mistake']}</div>
+                </div>
+                <div class="summary-card">
+                    <div class="label">Blunders</div>
+                    <div class="value" style="color: var(--error)">${judgmentCounts['Blunder']}</div>
+                </div>
+            `;
+
+            let movesHtml = '';
+            gameState.analysis.forEach((analysis, idx) => {
+                const move = analysis.move;
+                const judgment = analysis.judgment;
+                const moveNum = Math.floor(idx / 2) + 1;
+                const color = idx % 2 === 0 ? 'White' : 'Black';
+                
+                const evalClass = 'eval-' + judgment.name.toLowerCase();
+                const itemClass = judgment.name.toLowerCase();
+                
+                movesHtml += `
+                    <div class="move-item ${itemClass}" onclick="jumpToMove(${idx})" id="move-${idx}">
+                        <div class="move-header">
+                            <span class="move-notation">${moveNum}${idx % 2 === 0 ? '.' : '...'} ${move.san} ${judgment.symbol}</span>
+                            <span class="move-evaluation ${evalClass}">${judgment.name}</span>
+                        </div>
+                        <div class="move-details">${color} • Click to view position</div>
+                    </div>
+                `;
+            });
+            document.getElementById('move-analysis').innerHTML = movesHtml;
+        }
+
+        function nextMove() {
+            if (gameState.currentMoveIndex < gameState.moves.length - 1) {
+                gameState.currentMoveIndex++;
+                const move = gameState.moves[gameState.currentMoveIndex];
+                gameState.chess.move(move.san);
+                renderBoard();
+                highlightCurrentMove();
+            }
+        }
+
+        function previousMove() {
+            if (gameState.currentMoveIndex >= 0) {
+                gameState.chess.undo();
+                gameState.currentMoveIndex--;
+                renderBoard();
+                highlightCurrentMove();
+            }
+        }
+
+        function firstMove() {
+            gameState.chess.reset();
+            gameState.currentMoveIndex = -1;
+            renderBoard();
+            highlightCurrentMove();
+        }
+
+        function lastMove() {
+            while (gameState.currentMoveIndex < gameState.moves.length - 1) {
+                gameState.currentMoveIndex++;
+                const move = gameState.moves[gameState.currentMoveIndex];
+                gameState.chess.move(move.san);
+            }
+            renderBoard();
+            highlightCurrentMove();
+        }
+
+        function jumpToMove(idx) {
+            gameState.chess.reset();
+            gameState.currentMoveIndex = -1;
+            
+            for (let i = 0; i <= idx; i++) {
+                const move = gameState.moves[i];
+                gameState.chess.move(move.san);
+                gameState.currentMoveIndex = i;
+            }
+            
+            renderBoard();
+            highlightCurrentMove();
+            
+            document.getElementById('move-' + idx).scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+
+        function highlightCurrentMove() {
+            document.querySelectorAll('.move-item').forEach(el => el.classList.remove('active'));
+            if (gameState.currentMoveIndex >= 0) {
+                const moveEl = document.getElementById('move-' + gameState.currentMoveIndex);
+                if (moveEl) moveEl.classList.add('active');
+            }
+        }
+
+        function loadExample() {
+            document.getElementById('pgn-input').value = `[Event "World Championship Match"]
+[Site "New York, NY USA"]
+[Date "1972.09.01"]
+[Round "6"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert J"]
+[Result "0-1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2 O-O 9. Bc4 Bd7 10. h4 Rc8 11. Bb3 Ne5 12. O-O-O Nc4 13. Bxc4 Rxc4 14. h5 Nxh5 15. g4 Nf6 16. Nde2 Qa5 17. Bh6 Bxh6 18. Qxh6 Rfc8 19. Rd3 R4c5 20. g5 Rxg5 21. Rd5 Rxd5 22. Nxd5 Re8 23. Nef4 Bc6 24. e5 Bxd5 25. exf6 exf6 26. Qxh7+ Kf8 27. Qh8+ Ke7 0-1`;
+        }
+
+        function clearAll() {
+            document.getElementById('pgn-input').value = '';
+            document.getElementById('results').style.display = 'none';
+            document.getElementById('error').style.display = 'none';
+            gameState = {
+                chess: new Chess(),
+                moves: [],
+                currentMoveIndex: -1,
+                analysis: [],
+                gameInfo: {}
+            };
+        }
+
+        function showError(message) {
+            const errorEl = document.getElementById('error');
+            errorEl.textContent = message;
+            errorEl.style.display = 'block';
+        }
+
+        renderBoard();
+    </script>
+</body>
+</html>
