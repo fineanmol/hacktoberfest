@@ -3266,5 +3266,5 @@
 
 #### Name: [Matheus Cruvinel](https://github.com/mcruvinel)
 - Place: Minas Gerais, Brazi
-- Bio: Python Backend Developer | S3 cloud developer
+- Bio: Python Backend Developer | S3 cloud developer!
 - Github: [mcruvinel](https://github.com/mcruvinel) 
