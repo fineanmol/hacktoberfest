@@ -3268,3 +3268,8 @@
 - Place: Minas Gerais, Brazi
 - Bio: Backend Developer | S3 cloud developer
 - Github: [mcruvinel](https://github.com/mcruvinel)
+
+#### Name: [ÍMowazzem Uddin Ahmed](https://github.com/Rony-2004)
+- Place: West Bengal, India
+- Bio: SDE - (Full Stack)
+- Github: [Rony-2004](https://github.com/Rony-2004)
