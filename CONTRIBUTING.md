@@ -3285,3 +3285,7 @@
 - Bio: Engineering student
 - Github: [muskaankarwa](https://github.com/muskaankarwa)
 
+#### Name: [Elisabeth Erkekoglou](https://github.com/elic4vet)
+- Place: Gütersloh, NRW, Germany
+- Bio: Junior Frontend Developer
+- GitHub: [elic4vet](https://github.com/elic4vet)
