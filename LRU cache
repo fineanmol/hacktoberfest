@@ -1,0 +1,166 @@
+#include <stdlib.h>
+
+// Doubly linked list node structure
+typedef struct DLinkedNode {
+    int key;
+    int value;
+    struct DLinkedNode *prev;
+    struct DLinkedNode *next;
+} DLinkedNode;
+
+// Hash map entry structure
+typedef struct HashEntry {
+    int key;
+    DLinkedNode *node;
+    struct HashEntry *next;
+} HashEntry;
+
+#define HASH_SIZE 10007  // A prime number for better hash distribution
+
+typedef struct {
+    int capacity;
+    int size;
+    DLinkedNode *head;
+    DLinkedNode *tail;
+    HashEntry *table[HASH_SIZE];
+} LRUCache;
+
+// Utility: Create a new linked list node
+DLinkedNode* createNode(int key, int value) {
+    DLinkedNode* node = (DLinkedNode*)malloc(sizeof(DLinkedNode));
+    node->key = key;
+    node->value = value;
+    node->prev = node->next = NULL;
+    return node;
+}
+
+// Hash function
+int hashFunc(int key) {
+    return key % HASH_SIZE;
+}
+
+// Hash map: find entry
+DLinkedNode* hashGet(LRUCache* obj, int key) {
+    int hashIndex = hashFunc(key);
+    HashEntry* entry = obj->table[hashIndex];
+    while (entry) {
+        if (entry->key == key) return entry->node;
+        entry = entry->next;
+    }
+    return NULL;
+}
+
+// Hash map: insert entry
+void hashPut(LRUCache* obj, int key, DLinkedNode* node) {
+    int hashIndex = hashFunc(key);
+    HashEntry* newEntry = (HashEntry*)malloc(sizeof(HashEntry));
+    newEntry->key = key;
+    newEntry->node = node;
+    newEntry->next = obj->table[hashIndex];
+    obj->table[hashIndex] = newEntry;
+}
+
+// Hash map: remove entry
+void hashRemove(LRUCache* obj, int key) {
+    int hashIndex = hashFunc(key);
+    HashEntry* entry = obj->table[hashIndex];
+    HashEntry* prev = NULL;
+    while (entry) {
+        if (entry->key == key) {
+            if (prev) prev->next = entry->next;
+            else obj->table[hashIndex] = entry->next;
+            free(entry);
+            return;
+        }
+        prev = entry;
+        entry = entry->next;
+    }
+}
+
+// Initialize LRUCache
+LRUCache* lRUCacheCreate(int capacity) {
+    LRUCache* obj = (LRUCache*)malloc(sizeof(LRUCache));
+    obj->capacity = capacity;
+    obj->size = 0;
+    obj->head = createNode(0, 0);
+    obj->tail = createNode(0, 0);
+    obj->head->next = obj->tail;
+    obj->tail->prev = obj->head;
+    for (int i = 0; i < HASH_SIZE; i++)
+        obj->table[i] = NULL;
+    return obj;
+}
+
+// Add node right after head
+void addToHead(LRUCache* obj, DLinkedNode* node) {
+    node->prev = obj->head;
+    node->next = obj->head->next;
+    obj->head->next->prev = node;
+    obj->head->next = node;
+}
+
+// Remove a node
+void removeNode(DLinkedNode* node) {
+    node->prev->next = node->next;
+    node->next->prev = node->prev;
+}
+
+// Move node to head (mark as most recently used)
+void moveToHead(LRUCache* obj, DLinkedNode* node) {
+    removeNode(node);
+    addToHead(obj, node);
+}
+
+// Remove least recently used node (from tail)
+DLinkedNode* removeTail(LRUCache* obj) {
+    DLinkedNode* node = obj->tail->prev;
+    removeNode(node);
+    return node;
+}
+
+// Get operation
+int lRUCacheGet(LRUCache* obj, int key) {
+    DLinkedNode* node = hashGet(obj, key);
+    if (!node) return -1;
+    moveToHead(obj, node);
+    return node->value;
+}
+
+// Put operation
+void lRUCachePut(LRUCache* obj, int key, int value) {
+    DLinkedNode* node = hashGet(obj, key);
+    if (node) {
+        node->value = value;
+        moveToHead(obj, node);
+    } else {
+        DLinkedNode* newNode = createNode(key, value);
+        hashPut(obj, key, newNode);
+        addToHead(obj, newNode);
+        obj->size++;
+        if (obj->size > obj->capacity) {
+            DLinkedNode* tail = removeTail(obj);
+            hashRemove(obj, tail->key);
+            free(tail);
+            obj->size--;
+        }
+    }
+}
+
+// Free all memory
+void lRUCacheFree(LRUCache* obj) {
+    DLinkedNode* current = obj->head;
+    while (current) {
+        DLinkedNode* next = current->next;
+        free(current);
+        current = next;
+    }
+    for (int i = 0; i < HASH_SIZE; i++) {
+        HashEntry* entry = obj->table[i];
+        while (entry) {
+            HashEntry* next = entry->next;
+            free(entry);
+            entry = next;
+        }
+    }
+    free(obj);
+}
