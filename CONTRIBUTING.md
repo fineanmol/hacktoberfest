@@ -3273,3 +3273,15 @@
 - Place: West Bengal, India
 - Bio: SDE - (Full Stack)
 - Github: [Rony-2004](https://github.com/Rony-2004)
+
+
+#### Name: [Sumit Roy Chowdhury](https://github.com/SumitRoyChowdhury)
+- Place: West Bengal, India
+- Bio: CSE student
+- Github: [SumitRoyChowdhury](https://github.com/SumitRoyChowdhury)
+
+#### Name: [Muskaan Karwa](https://github.com/muskaankarwa)
+- Place: Mumbai, India
+- Bio: Engineering student
+- Github: [muskaankarwa](https://github.com/muskaankarwa)
+
