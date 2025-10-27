@@ -25,3 +25,4 @@ dist-ssr
 
 node_modules
 .vite
+package-lock.json
