@@ -35,6 +35,11 @@
 - Bio: Azure Developer Lead | AI Innovator & Open Source Enthusiast  
 - GitHub: [chanchalkuntal](https://github.com/Chanchal-D)
 
+#### Name: [Krish Sharma](https://github.com/krisharmaa)
+- Pace: Mumbai, Maharashtra, India
+- Bio: BTech Computer Science
+- Github: [krisharmaa](https://github.com/krisharmaa) 
+
 #### Name: [Jaya Rani .Y.S.](https://github.com/jayalloyd)
 
 - Place: Kochi, Kerala, India
