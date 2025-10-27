@@ -38,7 +38,7 @@
 #### Name: [Krish Sharma](https://github.com/krisharmaa)
 - Pace: Mumbai, Maharashtra, India
 - Bio: BTech Computer Science
-- Github: [krisharmaa](https://github.com/krisharmaa)
+- Github: [krisharmaa](https://github.com/krisharmaa) 
 
 #### Name: [Jaya Rani .Y.S.](https://github.com/jayalloyd)
 
