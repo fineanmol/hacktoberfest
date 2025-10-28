@@ -3310,4 +3310,9 @@
 - Bio: AI Student | Beginner in Open Source  
 - GitHub: [minalprasad08](https://github.com/minalprasad08)
 
+#### Name: [Kapil Gupta](https://github.com/mekapilgupta)
+- Place: Delhi, India
+- Bio: Hacktoberfest Contributor
+- GitHub: [mekapilgupta](https://github.com/mekapilgupta)
+
   
