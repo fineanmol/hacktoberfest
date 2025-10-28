@@ -3299,3 +3299,8 @@
 - Place: Gütersloh, NRW, Germany
 - Bio: Junior Frontend Developer
 - GitHub: [elic4vet](https://github.com/elic4vet)
+
+#### Name: [Nabiel Mada](https://github.com/nabielmada)
+- Place: Semarang, Jawa Tengah, Indonesia
+- Bio: Software Engineering
+- GitHub: [nabielmada](https://github.com/nabielmada)
