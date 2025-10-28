@@ -3304,3 +3304,10 @@
 - Place: Semarang, Jawa Tengah, Indonesia
 - Bio: Software Engineering
 - GitHub: [nabielmada](https://github.com/nabielmada)
+
+#### Name: [Minal Prasad](https://github.com/minalprasad08)
+- Place: Gujarat, India  
+- Bio: AI Student | Beginner in Open Source  
+- GitHub: [minalprasad08](https://github.com/minalprasad08)
+
+  
