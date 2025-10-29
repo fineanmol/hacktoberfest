@@ -3327,3 +3327,9 @@
 - Place: Bengaluru, India
 - Bio: Hacktoberfest Contributor
 - GitHub: [sarveshcore](https://github.com/sarveshcore)
+
+#### Name: [Rohan Gautam](https://github.com/Rohan-Gautam)
+
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: Hacktoberfest Contributor
+- GitHub: [Rohan-Gautam](https://github.com/Rohan-Gautam)
