@@ -4,13 +4,11 @@
 - Bio: Software Engineer
 - Github: [keenpaul29](https://github.com/keenpaul29)
 
-
 #### Name: [Siddharth Swami](https://github.com/siddharthswami23)
 
 - Place: Maharashtra, India
 - Bio: Student
 - Github: [siddharthswami23](https://github.com/siddharthswami23)
-
 
 #### Name: [Sonu-3](https://github.com/Drag0nop)
 
@@ -31,14 +29,16 @@
 - GitHub: [Drag0nop](https://github.com/Drag0nop)
 
 #### Name: [Chanchal Kuntal](https://github.com/Chanchal-D)
-- Place: Jaipur, Rajasthan, India  
-- Bio: Azure Developer Lead | AI Innovator & Open Source Enthusiast  
+
+- Place: Jaipur, Rajasthan, India
+- Bio: Azure Developer Lead | AI Innovator & Open Source Enthusiast
 - GitHub: [chanchalkuntal](https://github.com/Chanchal-D)
 
 #### Name: [Krish Sharma](https://github.com/krisharmaa)
+
 - Pace: Mumbai, Maharashtra, India
 - Bio: BTech Computer Science
-- Github: [krisharmaa](https://github.com/krisharmaa) 
+- Github: [krisharmaa](https://github.com/krisharmaa)
 
 #### Name: [Jaya Rani .Y.S.](https://github.com/jayalloyd)
 
@@ -3174,14 +3174,14 @@
 
 #### Name: [Shubhangi Gupta](https://github.com/ShubhangiGupta07)
 
-- Place: Dehradun, Uttarakhand, India  
-- Bio: Fullstack Developer & Budding Entrepreneur  
+- Place: Dehradun, Uttarakhand, India
+- Bio: Fullstack Developer & Budding Entrepreneur
 - GitHub: [ShubhangiGupta07](https://github.com/ShubhangiGupta07)
 
 #### Name: [Adam Bell](https://github.com/ABCSP4)
 
 - Place: Seattle, WA
-- Bio: AP CSP student  
+- Bio: AP CSP student
 - GitHub: [ABCSP4](https://github.com/ABCSP4)
 
 #### Name: [Md Mursalatul Islam Pallob](https://github.com/mursalatul)
@@ -3205,7 +3205,7 @@
 #### Name: [Anand Misra]https://github.com/anacodermisra
 
 - Place: New Delhi, Delhi, India
-- Bio: BTECH undergrad 3rd year CSE, BVCOE 
+- Bio: BTECH undergrad 3rd year CSE, BVCOE
 - GitHub: [anacodermisra](https://github.com/anacodermisra)
 
 #### Name:[Janvi Raj](https://github.com/Janvi75)
@@ -3217,7 +3217,7 @@
 #### Name: [Anand Misra]https://github.com/anacodermisra
 
 - Place: New Delhi, Delhi, India
-- Bio: BTECH undergrad 3rd year CSE, BVCOE 
+- Bio: BTECH undergrad 3rd year CSE, BVCOE
 - GitHub: [anacodermisra](https://github.com/anacodermisra)
 
 #### Name: [Soham Padalkar](https://github.com/SohamPadalkar)
@@ -3235,7 +3235,7 @@
 #### Name: [Roronoa Zoro](https://github.com/YuvrajSHAD)
 
 - place: One Piece, Egghead Island
-- Bio:  second member of the Straw Hat Pirates
+- Bio: second member of the Straw Hat Pirates
 - Github: [YuvrajSHAD](https://github.com/YuvrajSHAD)
 
 #### Name: [Sayak Mondal](https://github.com/ElixerAxiomCalculus)
@@ -3250,69 +3250,80 @@
 - Bio: Final Year CSE student
 - GitHub: [JasmineDorathy](https://github.com/jasminedorathy)
 
-
 #### Name: [Rana Shivang Singh](https://github.com/Singhranashivang)
+
 - Place: Bhubaneswar, India
 - Bio: AI Enthusiast, Web Developer, and Researcher exploring ML & Automation.
 - GitHub: [Singhranashivang](https://github.com/Singhranashivang)
 
-
 #### Name: [Anas Khan](https://github.com/Anas2604-web)
+
 - Place: Jabalpur, India
 - Bio: Software Developer skilled in Java and Web Development .
 - GitHub: [Anas2604-web](https://github.com/Anas2604-web)
 
-
 #### Name: [Darshan Thakare](https://github.com/DarshanCode2005)
+
 - Place: Nashik, India
 - Bio: AI Engineer skilled in ML, DL and AI Agents
 - Github: [DarshanCode2005](https://github.com/DarshanCode2005)
 
-
 #### Name: [Yash Pratap Singh Solanki](https://github.com/yashpss01)
+
 - Place: Pune, India
 - Bio: B.Tech undergrad (computer science)
 - Github: [yashpss01](https://github.com/yashpss01)
 
 #### Name: [Matheus Cruvinel](https://github.com/mcruvinel)
+
 - Place: Minas Gerais, Brazi
 - Bio: Backend Developer | S3 cloud developer
 - Github: [mcruvinel](https://github.com/mcruvinel)
 
 #### Name: [ÍMowazzem Uddin Ahmed](https://github.com/Rony-2004)
+
 - Place: West Bengal, India
 - Bio: SDE - (Full Stack)
 - Github: [Rony-2004](https://github.com/Rony-2004)
 
-
 #### Name: [Sumit Roy Chowdhury](https://github.com/SumitRoyChowdhury)
+
 - Place: West Bengal, India
 - Bio: CSE student
 - Github: [SumitRoyChowdhury](https://github.com/SumitRoyChowdhury)
 
 #### Name: [Muskaan Karwa](https://github.com/muskaankarwa)
+
 - Place: Mumbai, India
 - Bio: Engineering student
 - Github: [muskaankarwa](https://github.com/muskaankarwa)
 
 #### Name: [Elisabeth Erkekoglou](https://github.com/elic4vet)
+
 - Place: Gütersloh, NRW, Germany
 - Bio: Junior Frontend Developer
 - GitHub: [elic4vet](https://github.com/elic4vet)
 
 #### Name: [Nabiel Mada](https://github.com/nabielmada)
+
 - Place: Semarang, Jawa Tengah, Indonesia
 - Bio: Software Engineering
 - GitHub: [nabielmada](https://github.com/nabielmada)
 
 #### Name: [Minal Prasad](https://github.com/minalprasad08)
-- Place: Gujarat, India  
-- Bio: AI Student | Beginner in Open Source  
+
+- Place: Gujarat, India
+- Bio: AI Student | Beginner in Open Source
 - GitHub: [minalprasad08](https://github.com/minalprasad08)
 
 #### Name: [Kapil Gupta](https://github.com/mekapilgupta)
+
 - Place: Delhi, India
 - Bio: Hacktoberfest Contributor
 - GitHub: [mekapilgupta](https://github.com/mekapilgupta)
 
-  
+#### Name: [Sarvesh Srinath](https://github.com/sarveshcore)
+
+- Place: Bengaluru, India
+- Bio: Hacktoberfest Contributor
+- GitHub: [sarveshcore](https://github.com/sarveshcore)
