@@ -1,3 +1,9 @@
+#### Name: SOKE Honoré
+- Place: Ab-Calavi, Benin
+- Bio: autodidact software dev, 
+- GitHub: [RhooneN](https://github.com/RhooneN)
+
+
 #### Name: [Himanshu Verma](https://github.com/Hverma1206)
 
 - Place: gurgaon,Haryana, India
