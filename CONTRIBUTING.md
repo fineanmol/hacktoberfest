@@ -3333,3 +3333,9 @@
 - Place: Bhopal, Madhya Pradesh, India
 - Bio: Hacktoberfest Contributor
 - GitHub: [Rohan-Gautam](https://github.com/Rohan-Gautam)
+
+#### Name: [Dishi Gupta](https://github.com/DishiGpt)
+
+- Place: City, India
+- Bio: Aspiring Developer and Open Source Enthusiast
+- GitHub: [DishiGpt](https://github.com/DishiGpt)
