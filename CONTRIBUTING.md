@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Anshika](https://github.com/Anshikaa-agarwal)
+
+- Place: Delhi, India
+- Bio: Ruby on Rails Developer
+- GitHub: [Anshikaa-agarwal](https://github.com/Anshikaa-agarwal)
