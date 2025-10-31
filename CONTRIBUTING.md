@@ -2978,3 +2978,9 @@
 - Place: Carmo do Cajuru, MG, Brazil
 - Bio: Full-stack Software Engineer
 - GitHub: [gabrielrab](https://github.com/gabrielrab)
+
+
+#### Name: [Your Name](https://github.com/Oore2006)
+- Place: Akure, Ondo State, Nigeria
+- Bio: Aspiring web developer passionate about open source
+- GitHub: [your-username](https://github.com/Oore2006)
