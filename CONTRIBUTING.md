@@ -2966,3 +2966,9 @@
 - Place: Delhi, India
 - Bio: Ruby on Rails Developer
 - GitHub: [Anshikaa-agarwal](https://github.com/Anshikaa-agarwal)
+
+#### Name: [Angle Airdrop](https://github.com/AngleAirdrop)
+
+- Place: Karimun, Kepulauan Riau, Indonesia
+- Bio: I'm Designer Freelancer
+- GitHub: [AngleAirdrop](https://github.com/AngleAirdrop)
