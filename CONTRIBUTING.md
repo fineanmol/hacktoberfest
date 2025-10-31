@@ -2972,3 +2972,9 @@
 - Place: Karimun, Kepulauan Riau, Indonesia
 - Bio: I'm Designer Freelancer
 - GitHub: [AngleAirdrop](https://github.com/AngleAirdrop)
+
+#### Name: [Gabriel Rabelo](https://github.com/gabrielrab)
+
+- Place: Carmo do Cajuru, MG, Brazil
+- Bio: Full-stack Software Engineer
+- GitHub: [gabrielrab](https://github.com/gabrielrab)
