@@ -1,8 +1,0 @@
-# LANGUAGE: Python
-# AUTHOR: Goodness Oluseyi
-# GITHUB: https://github.com/Oore2006
-
-
-#print hello world 
-
-print("Hello World")
