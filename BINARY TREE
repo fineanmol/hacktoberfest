@@ -1,0 +1,76 @@
+# Diagonal Sum in Binary Tree
+# Addresses #3016
+
+from collections import deque, defaultdict
+
+# Definition for a binary tree node.
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.left = None
+        self.right = None
+
+
+def diagonalSum(root):
+    """
+    Function to calculate the diagonal sum of a binary tree.
+    Each diagonal is considered from top-right to bottom-left.
+
+    Args:
+        root (Node): Root node of the binary tree.
+
+    Returns:
+        List[int]: List containing sum of each diagonal.
+    """
+    if not root:
+        return []
+
+    q = deque([(root, 0)])  # (node, diagonal_index)
+    diag_sums = defaultdict(int)
+
+    while q:
+        node, d = q.popleft()
+        diag_sums[d] += node.data
+
+        # Left child goes to next diagonal
+        if node.left:
+            q.append((node.left, d + 1))
+
+        # Right child stays on the same diagonal
+        if node.right:
+            q.append((node.right, d))
+
+    # Return sums in order of diagonals
+    return [diag_sums[i] for i in sorted(diag_sums.keys())]
+
+
+# -----------------------
+# Example test case below
+# -----------------------
+if __name__ == "__main__":
+    """
+         8
+       /   \
+      3     10
+     / \      \
+    1   6      14
+       / \    /
+      4   7  13
+    Expected Output: [32, 29, 5]
+    Explanation:
+    Diagonals:
+    D0: [8, 10, 14] = 32
+    D1: [3, 6, 7, 13] = 29
+    D2: [1, 4] = 5
+    """
+    root = Node(8)
+    root.left = Node(3)
+    root.right = Node(10)
+    root.left.left = Node(1)
+    root.left.right = Node(6)
+    root.left.right.left = Node(4)
+    root.left.right.right = Node(7)
+    root.right.right = Node(14)
+    root.right.right.left = Node(13)
+
+    print(diagonalSum(root))
