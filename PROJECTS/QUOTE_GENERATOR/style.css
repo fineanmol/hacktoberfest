@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+  background: #3a9ea0;
+  background: -webkit-radial-gradient(center, #06BDC1, #6115da);
+  background: -moz-radial-gradient(center, #06BDC1, #68469F);
+  background: radial-gradient(ellipse at center, #55e1e4, #5b0db4);
+}
+
+.app {
+  width: 1280px;
+  margin: auto;
+}
+
+.quotes-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.inner-quotes-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 900px;
+  text-align: center;
+  min-height: 400px;
+  padding: 0 25px;
+  color: gray;
+  border-radius: 10px;
+  background-color: #232fd8;
+  border: 10px solid #21e9ec;
+  box-shadow: 0px 2px 6px 0px rgba(233, 232, 232, 0.9);
+}
+
+.inner-quotes-container p {
+  font-size: 1.5rem;
+  color: rgb(239, 238, 241);
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+.inner-quotes-container h3 {
+  font-size: 2rem;
+  color: rgb(224, 223, 231);
+  font-family: 'Dancing Script', cursive;
+}
+
+.quote-btn {
+  padding-top: 50px;
+
+}
+.btn.btn-info {
+    /* Button styles */
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(52, 6, 179);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .btn.btn-info:hover {
+    /* Button color styles on hover */
+    background-color: #615aa5;
+  }
+
+@media(max-width:1280px) {
+  .container {
+    width: 95%;
+  }
+}
+
+@media(max-width:900px) {
+  .inner-quotes-container {
+    width: 100%;
+  }
+}
+
+@media(max-width:480px) {
+  .inner-quotes-container p {
+    font-size: 1.2rem;
+  }
+
+  .inner-quotes-container h3 {
+    font-size: 1.5rem;
+  }
+}
+/*----------css for small screen-------------*/
+@media only screen and (max-width:600px){
+    .app {
+      width: 50%;
+      padding: 0 10px;
+    }
+  
+    .inner-quotes-container {
+      padding: 0 15px;
+    }
+  
+    .inner-quotes-container p {
+      font-size: 1.2rem;
+    }
+  
+    .inner-quotes-container h3 {
+      font-size: 1.3rem;
+    }
+  }
