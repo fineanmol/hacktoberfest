@@ -1,0 +1,66 @@
+import java.util.*;
+
+class Employee {
+    private String name;
+    private int[] hours;  
+
+    public Employee(String name, int[] hours) {
+        this.name = name;
+        this.hours = hours;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getTotalHours() {
+        int total = 0;
+        for (int h : hours) {
+            total += h;
+        }
+        return total;
+    }
+
+    public double getAverageHours() {
+        return (double) getTotalHours() / hours.length;
+    }
+
+    public int getOvertimeHours() {
+        int overtime = 0;
+        for (int h : hours) {
+            if (h > 8) {
+                overtime += (h - 8);
+            }
+        }
+        return overtime;
+    }
+
+    public void displayReport() {
+        System.out.println("----- Employee Work Report -----");
+        System.out.println("Name: " + name);
+        System.out.println("Total Hours Worked: " + getTotalHours());
+        System.out.println("Average Hours/Day: " + String.format("%.2f", getAverageHours()));
+        System.out.println("Total Overtime Hours: " + getOvertimeHours());
+        System.out.println("--------------------------------\n");
+    }
+}
+
+public class EmployeeWorkAnalysis {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter employee name: ");
+        String name = sc.nextLine();
+
+        int[] hours = new int[7];  // for 7 days
+
+        System.out.println("Enter hours worked for 7 days:");
+        for (int i = 0; i < 7; i++) {
+            System.out.print("Day " + (i + 1) + ": ");
+            hours[i] = sc.nextInt();
+        }
+
+        Employee emp = new Employee(name, hours);
+        emp.displayReport();
+    }
+}
