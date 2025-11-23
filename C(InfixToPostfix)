@@ -1,0 +1,67 @@
+#include <stdio.h>
+#include <ctype.h>
+#include <string.h>
+
+char stack[100];
+int top = -1;
+
+void push(char c) {
+    stack[++top] = c;
+}
+
+char pop() {
+    return stack[top--];
+}
+
+int precedence(char c) {
+    if (c == '+' || c == '-') return 1;
+    if (c == '*' || c == '/') return 2;
+    if (c == '^') return 3;
+    return 0;
+}
+
+void infixToPostfix(char infix[]) {
+    char postfix[100];
+    int j = 0;
+
+    for (int i = 0; i < strlen(infix); i++) {
+        char c = infix[i];
+
+        // operand
+        if (isalnum(c)) {
+            postfix[j++] = c;
+        }
+        // left bracket
+        else if (c == '(') {
+            push(c);
+        }
+        // right bracket
+        else if (c == ')') {
+            while (top != -1 && stack[top] != '(') {
+                postfix[j++] = pop();
+            }
+            pop(); // remove '('
+        }
+        // operator
+        else {
+            while (top != -1 && precedence(c) <= precedence(stack[top])) {
+                postfix[j++] = pop();
+            }
+            push(c);
+        }
+    }
+
+    // remaining operators
+    while (top != -1) {
+        postfix[j++] = pop();
+    }
+
+    postfix[j] = '\0';
+    printf("Postfix: %s", postfix);
+}
+
+int main() {
+    char infix[] = "A+B*(C-D)";
+    infixToPostfix(infix);
+    return 0;
+}
