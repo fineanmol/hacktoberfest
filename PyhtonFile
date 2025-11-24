@@ -1,0 +1,74 @@
+
+
+books = []
+
+def add_book():
+    book_id = input("Enter Book ID: ")
+    title = input("Enter Book Title: ")
+    author = input("Enter Author Name: ")
+    price = input("Enter Book Price: ")
+
+    books.append({
+        "id": book_id,
+        "title": title,
+        "author": author,
+        "price": price
+    })
+    print("Book added successfully!\n")
+
+
+def view_books():
+    if not books:
+        print("No books available.\n")
+        return
+    
+    print("\n--- Book List ---")
+    for book in books:
+        print(f"ID: {book['id']}, Title: {book['title']}, Author: {book['author']}, Price: {book['price']}")
+    print()
+
+
+def search_book():
+    book_id = input("Enter Book ID to search: ")
+    for book in books:
+        if book["id"] == book_id:
+            print("\nBook Found:")
+            print(f"ID: {book['id']}, Title: {book['title']}, Author: {book['author']}, Price: {book['price']}\n")
+            return
+    print("Book not found!\n")
+
+
+def delete_book():
+    book_id = input("Enter Book ID to delete: ")
+    for book in books:
+        if book["id"] == book_id:
+            books.remove(book)
+            print("Book deleted successfully!\n")
+            return
+    print("Book not found!\n")
+
+
+# Main Menu
+while True:
+    print("===== Book Management System =====")
+    print("1. Add Book")
+    print("2. View Books")
+    print("3. Search Book")
+    print("4. Delete Book")
+    print("5. Exit")
+
+    choice = input("Enter your choice: ")
+
+    if choice == "1":
+        add_book()
+    elif choice == "2":
+        view_books()
+    elif choice == "3":
+        search_book()
+    elif choice == "4":
+        delete_book()
+    elif choice == "5":
+        print("Exiting program...")
+        break
+    else:
+        print("Invalid choice! Try again.\n")
