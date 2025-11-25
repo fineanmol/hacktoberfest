@@ -1,0 +1,57 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+struct Node {
+    int data;
+    struct Node* left;
+    struct Node* right;
+};
+
+struct Node* newNode(int data) {
+    struct Node* node = (struct Node*)malloc(sizeof(struct Node));
+    node->data = data;
+    node->left = node->right = NULL;
+    return node;
+}
+
+void diagonalSumUtil(struct Node* root, int d, int sum[], int *max) {
+    if (root == NULL)
+        return;
+
+    sum[d] += root->data;
+    if (d > *max)
+        *max = d;
+
+    diagonalSumUtil(root->left, d + 1, sum, max);
+    diagonalSumUtil(root->right, d, sum, max);
+}
+
+void diagonalSum(struct Node* root) {
+    int sum[100] = {0};
+    int max = 0;
+
+    diagonalSumUtil(root, 0, sum, &max);
+
+    printf("Diagonal sums:\n");
+    for (int i = 0; i <= max; i++)
+        printf("Diagonal %d: %d\n", i, sum[i]);
+}
+
+
+int main() {
+  
+    struct Node* root = newNode(8);
+    root->left = newNode(3);
+    root->right = newNode(10);
+    root->left->left = newNode(1);
+    root->left->right = newNode(6);
+    root->left->right->left = newNode(4);
+    root->left->right->right = newNode(7);
+    root->right->right = newNode(14);
+    root->right->right->left = newNode(13);
+
+    diagonalSum(root);
+
+    return 0;
+}
