@@ -1,0 +1,75 @@
+import java.util.Stack;
+
+public class InfixToPostfix {
+
+    // function to return precedence of operators
+    static int precedence(char ch) {
+        switch (ch) {
+            case '+':
+            case '-':
+                return 1;
+            case '*':
+            case '/':
+            case '%':
+                return 2;
+            case '^':
+                return 3;
+        }
+        return -1;
+    }
+
+    // function to convert infix to postfix
+    public static String convert(String infix) {
+        Stack<Character> stack = new Stack<>();
+        StringBuilder postfix = new StringBuilder();
+
+        for (int i = 0; i < infix.length(); i++) {
+
+            char ch = infix.charAt(i);
+
+            // 1. Operand → directly add
+            if (Character.isLetterOrDigit(ch)) {
+                postfix.append(ch);
+            }
+
+            // 2. '(' → push to stack
+            else if (ch == '(') {
+                stack.push(ch);
+            }
+
+            // 3. ')' → pop until '('
+            else if (ch == ')') {
+                while (!stack.isEmpty() && stack.peek() != '(') {
+                    postfix.append(stack.pop());
+                }
+                stack.pop(); // remove '('
+            }
+
+            // 4. Operator
+            else {
+                while (!stack.isEmpty() && 
+                      precedence(ch) <= precedence(stack.peek())) {
+
+                    // exception for '^' (right associative)
+                    if (ch == '^' && stack.peek() == '^')
+                        break;
+
+                    postfix.append(stack.pop());
+                }
+                stack.push(ch);
+            }
+        }
+
+        // pop all remaining operators
+        while (!stack.isEmpty()) {
+            postfix.append(stack.pop());
+        }
+
+        return postfix.toString();
+    }
+
+    public static void main(String[] args) {
+        String infix = "A+(B*C-(D/E^F)*G)*H";
+        System.out.println("Postfix: " + convert(infix));
+    }
+}
