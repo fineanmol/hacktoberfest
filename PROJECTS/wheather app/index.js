@@ -1,11 +1,14 @@
 const container = document.querySelector('.container');
 const search = document.querySelector('.search-box button');
+const searchInputBox = document.querySelector(".search-box input")
 const weatherBox = document.querySelector('.weather-box');
 const weatherDetails = document.querySelector('.weather-details');
 const error404 = document.querySelector('.not-found');
 
-search.addEventListener('click', () => {
+let typingTimer;
+const doneTypingInterval = 200;
 
+const searchWeather = () =>{
     const APIKey = '6f42afa4f1275a6802a554ad79114ccd';
     const city = document.querySelector('.search-box input').value;
 
@@ -73,5 +76,21 @@ search.addEventListener('click', () => {
 
         });
 
+}
 
+search.addEventListener('click', () => {
+    searchWeather();
 });
+
+searchInputBox.addEventListener('keydown',(event)=>{
+    if(event.key == "Enter"){
+        searchWeather();
+    }
+});
+
+searchInputBox.addEventListener('input',()=>{
+    clearTimeout(typingTimer);
+    typingTimer = setTimeout(searchWeather,doneTypingInterval);
+});
+
+
