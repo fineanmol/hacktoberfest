@@ -124,6 +124,12 @@
   -Bio: Bachelor's degree, comic and like coding
   -GitHub: https://github.com/KariSims
 
+#### Name: [PRANAV TRIPATHI](https://github.com/mightyshibbu)
+
+-Place: Pune, INDIA
+-Bio: 2023 Graduate || SPPU - BE IT
+-GitHub: https://github.com/mightyshibbu
+
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 
 - Place: California
