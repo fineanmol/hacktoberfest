@@ -4,10 +4,11 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Contribute here to complete your HacktoberFest Event. 
+#  Welcome to **Hacktoberfest**
 
 # 🎃 HacktoberFest Starter Project 🎃
+
+## Contribute here to complete your HacktoberFest Event
 
 Use this project to make your first contribution to an open source project on GitHub.
 Celebrate [Hacktoberfest](https://hacktoberfest.com/) by getting involved in the open source community by completing some simple tasks in this project.
@@ -30,7 +31,7 @@ A month-long celebration from October 1st - 31st sponsored by `Digital Ocean` an
 git clone https://github.com/fineanmol/hacktoberfest.git
 ```
 
-- Create a branch
+### Create a branch
 
 ```markdown
 git checkout -b branch-name
