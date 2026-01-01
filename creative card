@@ -1,0 +1,31 @@
+import java.time.LocalTime;
+import java.util.Scanner;
+
+public class GreetingGenerator {
+
+    public static String getGreeting() {
+        int hour = LocalTime.now().getHour();
+
+        if (hour < 12) {
+            return "🌅 Good Morning!";
+        } else if (hour < 17) {
+            return "☀️ Good Afternoon!";
+        } else if (hour < 21) {
+            return "🌇 Good Evening!";
+        } else {
+            return "🌙 Good Night!";
+        }
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter your name: ");
+        String name = sc.nextLine();
+
+        System.out.println("\n" + getGreeting() + " " + name + " 😊");
+        System.out.println("Welcome to Open Source Engineering!");
+        
+        sc.close();
+    }
+}
