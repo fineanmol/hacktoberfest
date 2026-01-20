@@ -1,0 +1,38 @@
+import csv
+import fastavro
+
+def convert_csv_to_avro(csv_file_path, avro_file_path, schema):
+    # Read the CSV file and convert it to Avro records
+    avro_records = []
+    with open(csv_file_path, 'r', encoding='latin-1') as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=',')
+        next(csv_reader)  # Skip the header row
+        for row in csv_reader:
+            if len(row) == 4:  # Check if the row has the expected number of columns
+                avro_record = {
+                    'Name': row[0],
+                    'Age': int(row[1]),
+                    'salary': float(row[2]),
+                    'phone_number': row[3]
+                }
+                avro_records.append(avro_record)
+
+    # Write the Avro records to an Avro file
+    with open(avro_file_path, 'wb') as avro_file:
+        fastavro.writer(avro_file, schema, avro_records)
+
+# Example usage 
+csv_file_path = r'C:\\Users\\Dinesh.gupta\\Downloads\\dataset.csv'
+avro_file_path = r'C:\\Users\\Dinesh.gupta\\Desktop\\AVROFILES\\dataset.avro'
+avro_schema = {
+    'type': 'record',
+    'name': 'RecordName',
+    'fields': [
+        {'name': 'Name', 'type': 'string'},
+        {'name': 'Age', 'type': 'int'},
+        {'name': 'salary', 'type': 'double'},
+        {'name': 'phone_number', 'type': 'string'}
+    ]
+}
+
+convert_csv_to_avro(csv_file_path, avro_file_path, avro_schema)
