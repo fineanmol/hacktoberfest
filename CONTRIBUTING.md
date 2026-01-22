@@ -100,6 +100,12 @@
 - Bio: I am Computer Science Engineering student from Government Engineering College Bharatpur
 - GitHub: [anubhav1450](https://github.com/anubhav1450)
 
+#### Name: [Siddharth Verma](https://github.com/lordsid003)
+
+- Place: Gurgaon, Haryana, India
+- Bio: A Tech enthusiast exploring various domains. Student at Maharaja Surajmal Institue of Technology, New Delhi
+- GitHub: [lordsid003](https://github.com/lordsid003)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
