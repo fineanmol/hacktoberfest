@@ -10,7 +10,12 @@
 - Bio: Student
 - Github: [siddharthswami23](https://github.com/siddharthswami23)
 
-#### Name: [Sonu-3](https://github.com/Drag0nop)
+#### Name: [Summy Kumari](https://github.com/summykumari567)
+- Place: Patna, Bihar, India
+- Bio: Open source learner and contributor
+- GitHub: [summykumari567](https://github.com/summykumari567)
+- 
+- #### Name: [Sonu-3](https://github.com/Drag0nop)
 
 - Place: Odisha, India
 - Bio: Physics Honours
