@@ -4717,6 +4717,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: DevOps Engineer | Bug bounty Hunter | Gamer
 - GitHub: [CrYsTAxiT](https://github.com/crystaxit)
 
+#### Name: [Michael Quarcoo](https://github.com/Quarcoo-arc)
+
+- Place: Tarkwa, Western Region, Ghana
+- Bio: Full Stack Developer Associate at Speetar | Computer Science and Engineering graduate of the University of Mines and Technology
+- GitHub: [Quarcoo-arc](https://github.com/Quarcoo-arc)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
