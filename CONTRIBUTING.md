@@ -4563,6 +4563,12 @@ media as a front end developer.
 - Bio: Student in Highschool.
 - GitHub: [JasonMa170699](https://github.com/JasonMa170699)
 
+#### Name: [Nitin Shukla](https://github.com/Nitinshukla88)
+
+- Place: Kanpur,Uttar Pradesh,India
+- Bio: Fullstack developer,CS undergrad at Pranveer singh institute of Technology,Cloud enthusiast
+- Github: [Nitinshukla88](https://github.com/Nitinshukla88)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
