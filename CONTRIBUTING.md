@@ -3192,6 +3192,12 @@ Building Apps on Next.js and Flutter
 - Bio: Software Engineer
 - GitHub: [Md Kaioum Islam](https://github.com/kaiyumdev)
 
+#### Name: [VANSHIKA BUNDELA](https://github.com/Vanshika-Bundela)
+
+- Place: Indore,Madhya Pradesh, India
+- Bio: Web Developer| Software Engineer
+- GitHub: [Vsnshika-bundela](https://github.com/Vanshika-Bundela)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
