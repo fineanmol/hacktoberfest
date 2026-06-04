@@ -5402,6 +5402,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Undergraduate Student from University of Moratuwa, Faculty of Information Technology
 - GitHub: [Piumi Rathnayake](https://github.com/Piumir3)
 
+#### Name: [Sachidanand](https://github.com/Indicgamer)
+
+- Place: Kalaburgi, Karnataka, India
+- Bio: Im a 4th Year B.Tech (CS) student from India?
+- GitHub: [sachin_g](https://github.com/Indicgamer)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
