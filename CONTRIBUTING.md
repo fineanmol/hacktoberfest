@@ -5331,6 +5331,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Senior year pursuing BTech in Information Tehnology?
 - GitHub: [GitHub account name](GitHub link)
 
+#### Name: [Sahil Chaudhary](https://github.com/SahilChaudhary17)
+
+- Place: New Delhi, India
+- Bio: Undergrad pursuing B.tech in Computer Science & Engineering
+- GitHub: [SahilChaudhary17](https://github.com/SahilChaudhary17)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
