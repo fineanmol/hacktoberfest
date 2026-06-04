@@ -4495,6 +4495,11 @@ media as a front end developer.
 - Bio: I am an open source enthusiast who loves participating in hackathons and organising technical events as a part of community work.
 - GitHub: [veesesh](https://github.com/veesesh)
 
+#### Name: [Lakshay Bansal](https://github.com/LALSHAYBANSAL879)
+- Place:FARIDBAD ,HARYANA INDIA
+- Bio: I AM A BTECH 2ND YEAR STUDENT FROM DELHI AND A FULL STACK WEB DEVELOPER ALSO LEARNING FLUTTER AND EPLORING THINGS
+- GitHub: https://github.com/LAKSHAYBANSAL879
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
