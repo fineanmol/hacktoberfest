@@ -4898,6 +4898,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Junior Software Engineer (ReactJS and similar TECH Stacks)
 - GitHub: [triad7](https://github.com/triad7)
 
+#### Name: [Davi Batista](https://github.com/Davi-s-Brain)
+
+- Place: São Paulo, São Paulo, Brasil
+- Bio: First Year undergrad persuing B.Information systems on Universidade de São Paulo
+- GitHub: [Davi-S-Brain](https://github.com/Davi-s-Brain)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
