@@ -4687,6 +4687,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Fullstack Developer | YouTuber
 - GitHub: [Noor Alam](https://github.com/nooralamf42)
 
+#### Name: [Deependra Singh](https://github.com/trdxlucifer)
+
+- Place: Delhi, India
+- Bio: Front End developer
+- GitHub: [trdxlucifer](https://github.com/trdxlucifer)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
