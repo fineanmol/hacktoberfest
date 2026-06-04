@@ -5426,6 +5426,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final Year undergrad pursuing B.tech in Electronics and telecommunication
 - GitHub: [imnrb](https://github.com/ogdhruv)
 
+#### Name: [AnkanHalder](https://github.com/AnkanHalder)
+
+- Place: Kolkata,West Bengal, India
+- Bio: Nerdy, Passionate about Development and Looking to make some cool friends in the coding community
+- GitHub: [AnkanHalder](https://github.com/AnkanHalder)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
