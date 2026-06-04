@@ -5136,6 +5136,11 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Software engineer
 - GitHub: [hungrybear88](https://github.com/hungrybear88)
 
+#### Name: [shibs](https://github.com/shibs-01)
+- Place:Delhi,India
+- Bio: Pursuing Comp. Sc.
+- GitHub: [shibs-01](https://github.com/shibs-01)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
