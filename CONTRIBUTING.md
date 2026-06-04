@@ -3252,6 +3252,12 @@ Building Apps on Next.js and Flutter
 - Bio: Passionate Software Engineer interested in AI/ML
 - GitHub: [dyarawilliams](https://github.com/dyarawilliams)
 
+#### Name: [YashMishra](https://github.com/CodeCraftedYash)
+
+- Place: Jamshedpur, Jharkhand , India
+- Bio: I am a second year Student pursuing a BSC degree in IT
+- GitHub: [CodeCraftedYash](https://github.com/CodeCraftedYash)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
