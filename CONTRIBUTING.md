@@ -5301,6 +5301,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Web Developer & a Data Science student at Fast Nuces
 - GitHub: [Ali Abdullah](https://github.com/ali-ab-2003)
 
+#### Name: [KRITIK](https://github.com/Kritikmahajan)
+
+- Place: Punjab, India
+- Bio: Engineering Student | Android Developer
+- GitHub: [Kritikmahajan](https://github.com/Kritikmahajan)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
