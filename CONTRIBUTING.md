@@ -3180,6 +3180,12 @@ Building Apps on Next.js and Flutter
 - Bio: Student in CS field, always looking for new opportunities to learn and grow.
 - GitHub: [mohamedibourki](https://github.com/mohamedibourki)
 
+#### Name: [Yangmei J](https://github.com/Apecool)
+
+- Place: Shanghai, China
+- Bio: Full stack developer
+- GitHub: [Apecool](https://github.com/Apecool)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
