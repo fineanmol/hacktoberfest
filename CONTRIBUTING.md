@@ -4506,6 +4506,12 @@ media as a front end developer.
 - Bio: fourth Year undergrad pursuing B.tech  Engineering
 - GitHub: [op-amateur](https://github.com/Karan9616)
 
+#### Name: [Gaurav](https://github.com/gaurav9117)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Final Year Btech IT student
+- GitHub: [gaurav9117](https://github.com/gaurav9117)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
