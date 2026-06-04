@@ -4482,6 +4482,13 @@ Building Apps on Next.js and Flutter
 - Bio: I am Android developer Currently study in Gyan Ganga Collage of technology Jabalpur
 - GitHub: [Mohammad Saif](https://github.com/Msaif09)
 
+#### Name: [Trine Marie Sandberg](https://github.com/trine-marie-sandberg)
+
+- Place: Norway
+- Bio: Graduating this year from Noroff school of technology and digital
+media as a front end developer.
+- GitHub: [op-amateur](https://github.com/trine-marie-sandberg)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
