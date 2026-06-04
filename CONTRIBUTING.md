@@ -4778,6 +4778,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Student aspiring to learn
 - GitHub: [arun-dot-com](https://github.com/arun-dot-com)
 
+#### Name: [Jackroj](https://github.com/Jackroj)
+
+- Place: Madurai, TamilNadu, Country
+- Bio: Full Stack Developer | React & Next.js 🌐 Node.js Enthusiast 🛠️ Serverless Architect 🐍 Ruby on Rails | 💻 Laravel PHP 🌟 Tech Innovator.
+- GitHub: [Jackroj](https://github.com/Jackroj)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
