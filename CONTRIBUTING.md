@@ -3156,6 +3156,12 @@ Building Apps on Next.js and Flutter
 - Bio: Crypto Applications/Web3 Developer | Typescript/Node.JS Developer
 - GitHub: [Achal Singh](https://github.com/achal-singh)
 
+#### Name: [Sonal Gupta](https://github.com/Sonalgupta2005)
+
+- Place: Obra, Uttar Pradesh, India
+- Bio: Second Year undergrad pursuing B.tech in CSE(AI) | MERN Full Stack developer
+- GitHub: [Sonalgupta2005](https://github.com/Sonalgupta2005)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
