@@ -3080,6 +3080,10 @@ Building Apps on Next.js and Flutter
 - Bio: Mern Stack Developer | DSA in JAVA | CSE(AI) Student
 - GitHub: [Sparsh Singh Chundawat](https://github.com/unsparsh)
 
+#### Name: [Aryan Agrahari](https://github.com/AryanAgrahari07)
+-Place : Jabalpur, India
+-Bio : Full Stack Developer
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
