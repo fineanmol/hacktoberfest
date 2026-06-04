@@ -4669,6 +4669,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I'm currently in my Last Year of Computer Engineering.
 - GitHub: [rohit010pro](https://github.com/rohit010pro)
 
+#### Name: [Ariel](https://github.com/acurtido)
+
+- Place: Asunción, Paraguay
+- Bio: Fullstack Developer | Game Developer
+- GitHub: [acurtido](https://github.com/acurtido)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
