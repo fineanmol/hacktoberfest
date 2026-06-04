@@ -4856,6 +4856,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Third Year undergraduate pursuing B.Sc in Computer Science
 - GitHub: [Ikechukwu750](https://github.com/ikechukwu750)
 
+#### Name: [Bismillah](https://github.com/bsb-github)
+
+- Place: Attock, PN, Pakistan
+- Bio: 2nd Year undergrad pursuing Bachelors in Computer Sciences
+- GitHub: [op-amateur](https://github.com/bsb-github)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
