@@ -2,11 +2,11 @@
 
 ### Location
 
-Lucknow/India
+Kanpur/India
 
 ### Academics
 
-HBTU, Kanpur
+HBTU, kanpur
 
 ### Interests
 
@@ -14,11 +14,11 @@ HBTU, Kanpur
 
 ### Development
 
-- Front-end development
+- I am a front-end developer
 
 ### Projects
 
-- [KeepMyNotes](https://github.com/Prakhar047/Keep_Your_Notes.git) Created a notes keeper app where a user can create, edit, update and delete notes.
+- [KeepYourNotes](https://github.com/Prakhar047/Keep_Your_Notes.git) Created this application with the help of React.js, HTML/CSS which is used to keep, edit, delete notes.
 
 ### Profile Link
 
