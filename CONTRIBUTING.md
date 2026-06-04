@@ -3287,6 +3287,12 @@ Building Apps on Next.js and Flutter
 - Bio: Student, Software Developer
 - Github: [electro-coder](https://github.com/electro-coder)
 
+#### Name: [Aditya Kalburgi](https://github.com/adityakalburgi)
+
+- Place: Belagavi, Karnataka, India
+- Bio: Fullstack Developer | App Developer | ML/AI Enthusiast
+- GitHub: [adityakalburgi](https://github.com/adityakalburgi)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
