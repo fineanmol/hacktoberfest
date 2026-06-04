@@ -3120,6 +3120,12 @@ Building Apps on Next.js and Flutter
 -Bio: FullStack Developer | Student | Eager to learn new technologies | Thats All About Me
 -GitHub: [Jatin Vishwakarma](https://github.com/coddingjatin)
 
+#### Name: [SNEHA JAIN](https://github.com/snehaa1011)
+
+- Place: Mumbai, Maharashtra, India
+- Bio:  I am a Computer Engineering student from Sardar Patel Institute of Technology,Maharashtra.
+- GitHub: [snehaa1011](https://github.com/snehaa1011)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
