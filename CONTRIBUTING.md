@@ -5349,6 +5349,11 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Computer Scientist | Data Engineer | ML/AI Enthusiast
 - GitHub: [Muhammad Talha Khan](https://github.com/muhtalhakhan)
 
+#### Name: [Swastik Chatterjee](https://github.com/swastik2207)
+- Place : Kolkata ,West Bengal ,India
+- Bio :  Second Year undergrad pursuing B.tech in Information Technology
+- Github:[swastik2207]( https://github.com/swastik2207)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
