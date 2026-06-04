@@ -4657,6 +4657,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Frontend enthusiast
 - GitHub: [Atharv0003](https://github.com/Atharv0003)
 
+#### Name: [Harshit Kumar Vishwakarma](https://github.com/harsh9709)
+
+- Place: bhubaneswar, odisha, india
+- Bio: backend developer | AI/ML Enthusiast | Data Analyst |
+- GitHub: [harsh9709](https://github.com/harsh9709)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
