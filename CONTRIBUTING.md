@@ -5259,6 +5259,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a Software Developer and technical writer.
 - GitHub: [Temitopeoyedele](https://github.com/oyedeletemitope)
 
+#### Name: [Harsh Singh](https://github.com/LegendHARSH)
+
+- Place: Jamshedpur,Jharkhand, India
+- Bio: Second Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [Harsh Singh](https://github.com/LegendHARSH)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
