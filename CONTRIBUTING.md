@@ -5474,6 +5474,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Currently pursuing MCA.
 - GitHub: [RishitaGangwal](https://github.com/RishitaGangwal)
 
+#### Name: [Arunesh Unnithan](https://github.com/ashllxyy)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: I am Arunesh Unnithan. I'm a student doing B.Tech at NIT Trichy currently. I'm very interested in software. When I'm not on my keyboard, I'll be drawing or playing the guitar.
+- GitHub: [ashllxyy](https://github.com/ashllxyy)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
