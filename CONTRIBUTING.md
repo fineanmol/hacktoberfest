@@ -5414,6 +5414,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Machine Learning and Deep Learning Engineer
 - GitHub: [Sukanya41455](https://github.com/Sukanya41455)
 
+#### Name: [ADITYA SHARMA](https://github.com/onemineus)
+
+- Place: Kolkata, West Bengal, India
+- Bio: I am a Computer Science Engineering student
+- GitHub: [onemineus](https://github.com/onemineus)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
