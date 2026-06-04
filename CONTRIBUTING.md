@@ -4429,6 +4429,12 @@ Building Apps on Next.js and Flutter
 - Bio: Fullstack Backend (Laravel & Mobile Application Developer (Flutter / React-Native)
 - GitHub: [Umar-Khan-Yousafzai](https://github.com/Umar-Khan-Yousafzai)
 
+#### Name: [Arun Kumar](https://github.com/arunks2003)
+
+- Place: Varanasi, UP, India
+- Bio: Third Year undergrad pursuing B.tech in Civil Engineering in IIT BHU
+- GitHub: [arunk2003](https://github.com/arunks2003)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
