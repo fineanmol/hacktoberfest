@@ -5265,6 +5265,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Second Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [Harsh Singh](https://github.com/LegendHARSH)
 
+#### Name: [Ugur](https://github.com/uozcan12)
+
+- Place: Mentese, Mugla, Turkey
+- Bio: Data Engineer
+- GitHub: [Ugur](https://github.com/uozcan12)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
