@@ -4540,6 +4540,12 @@ media as a front end developer.
 -   Bio: Front End Developer
 -   GitHub: [Thawat Chaiyakey](https://github.com/thawat6)
 
+#### Name: [Ratheshan](https://github.com/Ratheshan03)
+
+- Place: Kandy, Central, Sri Lanka
+- Bio: Final Year Undergrad pursuing BSc Computer Science at Informatics Institute of Technology
+- GitHub: [ratheshan03](https://github.com/Ratheshan03)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
