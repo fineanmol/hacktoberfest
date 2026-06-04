@@ -4552,6 +4552,12 @@ media as a front end developer.
 - Bio: Second Year undergrad pursuing B.tech in Information Technology-Business Informatics at IIIT-Allahabad
 - GitHub: [anushkp1107](https://github.com/anushkp1107)
 
+#### Name: [Yuvraj Verma](https://github.com/yuvrajverma25)
+
+- Place: Madhya Pradesh, India
+- Bio: Third Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [https://github.com/yuvrajverma25)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
