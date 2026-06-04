@@ -5510,6 +5510,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Third Year undergrad pursuing B.tech in Computer Science & Engineering
 - GitHub: [AfthabEK](https://github.com/AfthabEK)
 
+#### Name: [Ashutosh Kumar Singh](https://github.com/Ashutosh0120)
+
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: 4th year student pursuing B.Tech Computer Science
+- GitHub: [Ashutosh0120](https://github.com/Ashutosh0120)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
