@@ -4766,6 +4766,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Affiliation : Envisio Live
 - GitHub: [0xNunana](https://github.com/0xNunana)
 
+#### Name: [Saadat Shaikh](https://github.com/saadatshaikh)
+
+- Place: Pune, Maharashtra, India
+- Bio: Fullstack Developer
+- GitHub: [saadatshaikh](https://github.com/saadatshaikh)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
