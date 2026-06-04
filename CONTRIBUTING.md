@@ -4604,6 +4604,12 @@ media as a front end developer.
 - Bio: Third Year undergrad pursuing B.tech in CSE AIML
 - GitHub: [op-amateur](https://github.com/tiwari00ayush)
 
+#### Name: [Chandan arya](https://github.com/alpha2lucifer)
+
+- Place: Delhi, New Delhi, Bharat
+- Bio: 3rd year undergrad pursuing B.tech Computer Science at NSUT Delhi and Executive Head at AimL Society of Our College
+- GitHub: [alpha2lucifer](https://github.com/alpha2lucifer)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
