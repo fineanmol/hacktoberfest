@@ -4711,6 +4711,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I'm a father learning to be a programmer.
 - GitHub: [Dkeys4]([)](https://github.com/Dkeys4)
 
+#### Name: [Sarvesh Pandit](https://github.com/crystaxit)
+
+- Place: Sydney, New South Wales, Australia
+- Bio: DevOps Engineer | Bug bounty Hunter | Gamer
+- GitHub: [CrYsTAxiT](https://github.com/crystaxit)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
