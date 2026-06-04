@@ -5095,6 +5095,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Second Year undergrad pursuing B.tech in Computer Science Engineering (DATA SCIENCE)
 - GitHub: [SaiAryan1784](https://github.com/SaiAryan1784)
 
+#### Name: [Prajwal M Pawar](https://github.com/praj-pawar)
+
+- Place: Bangalore, India
+- Bio: AIML Engineering Undergrad, RVCE | Fullstack Developer
+- Personal Website: [praj-pawar](https://praj-pawar.github.io/personal-website/)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
