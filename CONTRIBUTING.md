@@ -3258,6 +3258,12 @@ Building Apps on Next.js and Flutter
 - Bio: I am a second year Student pursuing a BSC degree in IT
 - GitHub: [CodeCraftedYash](https://github.com/CodeCraftedYash)
 
+#### Name: [Shivam Narkar](https://github.com/shivamnarkar47)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Aspiring Developer and Linux Enthusiast
+- GitHub: [shivamnarkar47](https://github.com/shivamnarkar47)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
