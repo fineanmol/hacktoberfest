@@ -4411,6 +4411,12 @@ Building Apps on Next.js and Flutter
 - Bio: Second Year Sophomore , handling B-tech in Computer Science
 - GitHub: [Tealspider23](https://github.com/Tealspider23)
 
+#### Name: [hiteshkarvil](https://github.com/hiteshkarvil)
+
+- Place: jaipur,rajasthan,india
+- Bio: second Year undergrad pursuing B.tech in data science engineering.
+- GitHub: [hiteshkarvil](https://github.com/hiteshkarvil)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
