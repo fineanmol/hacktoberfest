@@ -1,3 +1,11 @@
+<!-- Hacktoberfest 2026: maintainer entry stays at top; new contributors append at end. -->
+
+#### Name: [Anmol Agarwal](https://github.com/fineanmol)
+
+- Place: Old Street, UK,
+- Bio: I love DOGS! :dog:
+- GitHub: [Anmol Agarwal](https://github.com/fineanmol)
+
 #### Name: [Puspal Paul](https://github.com/keenpaul29)
 
 - Place: Khardaha, India
@@ -608,12 +616,6 @@
 - Place: Patna, Bihar,INDIA
 - Bio: Undergrad Student
 - GitHub: [codeburn12](https://github.com/codeburn12)
-
-#### Name: [Anmol Agarwal](https://github.com/fineanmol)
-
-- Place: Old Street, UK,
-- Bio: I love DOGS! :dog:
-- GitHub: [Anmol Agarwal](https://github.com/fineanmol)
 
 #### Name: [Anmol Pal](https://github.com/anmol111pal)
 
