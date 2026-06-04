@@ -3132,6 +3132,12 @@ Building Apps on Next.js and Flutter
 - Bio: Working professional
 - GitHub: [UtkarshGola](https://github.com/utkarshgola)
 
+#### Name: [SIMRAN](https://github.com/simran0963)
+
+- Place: Dehradun, Uttarakhand, India
+- Bio: I am final-year CSE student, curious about new technology and open to learning new things
+- GitHub: [simran0963](https://github.com/simran0963)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
