@@ -5486,6 +5486,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio:2nd-year student at the Indian Institute of Technology, Madras (IITM)
 - GitHub: [yashwanthvarma18](https://github.com/yashwanthvarma18)
 
+#### Name: [Aditya Walture](https://github.com/adityawalture)
+
+- Place: Maharashtra, India
+- Bio: Pre-final year in Int.Mtch Aiml VIT| Flutter Developer | Data Analytics | ML/AI Enthusiast
+- GitHub: [Aditya Walture](https://github.com/adityawalture)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
