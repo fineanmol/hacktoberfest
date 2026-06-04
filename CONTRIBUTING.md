@@ -3353,6 +3353,13 @@ Building Apps on Next.js and Flutter
 - Bio: FULL STACK WEB DEVELOPER
 - GitHub: [NIKHIL-bot27](https://github.com/NIKHIL-bot27)
 
+#### Name: [SURAJITH PRANAV]([https://github.com/SrSurajithpranav](https://github.com/SrSurajithpranav))
+
+- Place: Chennai, India
+- Bio: I am a Computer Science Engineering student from SRM University,Chennai and I am a Data Analyst
+- GitHub: [07tAnYa](https://github.com/SrSurajithpranav)
+-
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
