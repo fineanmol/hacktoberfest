@@ -2993,6 +2993,12 @@
 - Bio: autodidact software dev
 - GitHub: [RhooneN](https://github.com/RhooneN)
 
+#### Name: [Shubhang Sagar Shukla](https://github.com/Shubhang-Sagar-Shukla)
+
+- Place: Lucknoow, India
+- Bio: Aspiring Mern full stack developer
+- GitHub: [Shubhang-Sagar-Shukla](https://github.com/Shubhang-Sagar-Shukla)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
