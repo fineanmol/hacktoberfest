@@ -4862,6 +4862,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: 2nd Year undergrad pursuing Bachelors in Computer Sciences
 - GitHub: [op-amateur](https://github.com/bsb-github)
 
+#### Name: [Jiaxi Wu](https://github.com/wu-jiaxi)
+
+- Place: McKinney, TX, United States
+- Bio: Software Engineer with Fullstack skills
+- GitHub: [wu-jiaxi](https://github.com/wu-jiaxi)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
