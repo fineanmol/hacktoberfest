@@ -3023,6 +3023,12 @@
 - Bio:  am Computer Science Engineering student from Institute of Engineering and Technology Lucknow
 - GitHub: [ARhivam](https://github.com/ARhivam)
 
+#### Name: [Vedant](https://github.com/vedantdhande04)
+
+- Place: Maharahtra , India
+- Bio: I am a Computer Science Engineering student from Nagpur
+- GitHub: [vedantdhande04](https://github.com/vedantdhande04)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
