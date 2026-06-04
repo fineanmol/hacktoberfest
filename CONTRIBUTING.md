@@ -5022,6 +5022,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Self-taught in web development, UI design, and mobile development, with a strong ability to learn quickly in a team
 - GitHub: [ Massahoudou ](https://github.com/massahoudou)
 
+#### Name: [Bhaskar](https://github.com/Bhaskarsahu23)
+
+- Place: Raipur, chhattisgarh, India
+- Bio: I am a frontend developer, and my skills are HTMl, CSS, JavaScript, React, TailwindCss, Git, and Supabase.
+- GitHUb: [Bhaskarsahu23](https://github.com/Bhaskarsahu23)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
