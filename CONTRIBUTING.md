@@ -3144,6 +3144,12 @@ Building Apps on Next.js and Flutter
 - Bio: Second Year undergrad pursing B-Tech in Information Technology
 - GitHub: [gauravnetes](https://github.com/gauravnetes)
 
+#### Name: [Sowmya Tejaswini](https://github.com/Tejaswini-628)
+
+- Place: Bhimavaram,Andhra Pradesh,INDIA
+- Bio: Undergrad Student(B.Tech)
+- GitHub: [Tejaswini-628](https://github.com/Tejaswini-628)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
