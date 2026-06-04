@@ -3372,6 +3372,12 @@ Building Apps on Next.js and Flutter
 - Bio: Working professional in web devlopment.
 - GitHub: [ro78ldt](https://github.com/ro78ldt)
 
+#### Name: [Nikhil Saini](https://github.com/c0derdx)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: Just another developer
+- GitHub: [c0derdx](https://github.com/c0derdx)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
