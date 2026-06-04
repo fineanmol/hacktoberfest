@@ -4886,6 +4886,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: First Year of Computer Networks at Estácio de Sá University, trying to specialize in cybersecurity
 - GitHub: [staiton](https://github.com/staiton)
 
+#### Name: [Dhwanish](https://github.com/dhwanish-3)
+
+- Place: Kasaragod, Kerala, India
+- Bio: Third year CSE undergrad at NIT Calicut
+- GitHub: [dhwanish-3](https://github.com/dhwanish-3)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
