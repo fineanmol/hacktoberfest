@@ -4517,6 +4517,12 @@ media as a front end developer.
 - Place: Jaipur,Rajasthan,INDIA
 - Bio: Hi 👋, I'm Rahul Meena A passionate full stack developer from India
 
+#### Name: [Shanker Singh](https://github.com/shankersingh01)
+
+- Place: Bangalore, Karnataka, India
+- Bio: MCA student at PES University Bangalore
+- GitHub: [shankersingh01](https://github.com/shankersingh01)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
