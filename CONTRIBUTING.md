@@ -4927,6 +4927,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: An Electronics student trying to learn CS
 - GitHub: [legend100k](https://github.com/legend100k)
 
+#### Name: [Rishabh Dhawad](https://github.com/RishabhDhawad)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: Final year Student
+- GitHub: [RishabhDhawad](https://github.com/RishabhDhawad)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
