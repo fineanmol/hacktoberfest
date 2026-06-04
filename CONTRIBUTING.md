@@ -5125,6 +5125,11 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Myself Arpan Gupta, I am currently doing my BTech from National Institue of Technology Hamirpur. My sepecialization is in Mathematics and Scientific Computing.
 - Github: [gupta-arpan](https://github.com/gupta-arpan)
 
+#### Name: [Rishab Bairi](https://github.com/RishabB54)
+- Place: mandi,Himachal Pradesh, India
+- Bio: I am Computer Science Engineering student from IIT
+- GitHub: [Rishab54](https://github.com/RishabB54)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
