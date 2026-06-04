@@ -5325,6 +5325,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a student.
 - GitHub: [GitHub AmulyaShetty11](https://github.com/AmulyaShetty11)
 
+#### Name: [Shubham Kumar](https://github.com/MysticWanderer142)
+
+- Place: New Delhi, Delhi, India
+- Bio: Senior year pursuing BTech in Information Tehnology?
+- GitHub: [GitHub account name](GitHub link)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
