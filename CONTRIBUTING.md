@@ -5119,6 +5119,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Fullstack Developer | Competitive Programmer
 - GitHub: [Gaurav Bhaskar](https://github.com/gauravbhaskar080)
 
+#### Name: [Arpan Gupta](https://github.com/gupta-arpan)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: Myself Arpan Gupta, I am currently doing my BTech from National Institue of Technology Hamirpur. My sepecialization is in Mathematics and Scientific Computing.
+- Github: [gupta-arpan](https://github.com/gupta-arpan)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
