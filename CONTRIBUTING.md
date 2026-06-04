@@ -5492,6 +5492,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Pre-final year in Int.Mtch Aiml VIT| Flutter Developer | Data Analytics | ML/AI Enthusiast
 - GitHub: [Aditya Walture](https://github.com/adityawalture)
 
+#### Name: [Octavene16](https://github.com/Octavene16)
+
+- Place: Colima, Mexico
+- Bio: Systems Engineer student and software developer apassionate.
+- GitHub: [Octavene16](https://github.com/Octavene16)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
