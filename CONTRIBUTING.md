@@ -5360,6 +5360,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Second Year undergrad pursuing B.tech in Computer Science and Engineering at NSUT, Delhi
 - GitHub: [enayush](https://github.com/enayush)
 
+#### Name: [Ayushi](https://github.com/yushiee)
+
+- Place: Lucknow, UP, India
+- Bio: Final year Btech grad in Computer Science and Engg
+- GitHub: [yushiee](https://github.com/yushiee)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
