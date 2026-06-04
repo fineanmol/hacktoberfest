@@ -5343,6 +5343,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: >8 years FullStack Engineer
 - GitHub: [404 Not Found](https://github.com/mike623)
 
+#### Name: [Muhammad Talha Khan](https://github.com/muhtalhakhan)
+
+- Place: Karachi, Pakistan
+- Bio: Computer Scientist | Data Engineer | ML/AI Enthusiast
+- GitHub: [Muhammad Talha Khan](https://github.com/muhtalhakhan)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
