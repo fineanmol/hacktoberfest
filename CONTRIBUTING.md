@@ -5540,6 +5540,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a Frontend Developer, graduate of Ece
 - GitHub: [Mohamed Faizal](https://github.com/faizalmsdev)
 
+#### Name: [Ridho](https://github.com/addhory)
+
+- Place: Samarinda, East Kalimantan, Indonesia
+- Bio: Frontend Engineer
+- GitHub: [Muhammad Ridho Anshory](https://github.com/addhory)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
