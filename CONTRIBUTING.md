@@ -3329,6 +3329,12 @@ Building Apps on Next.js and Flutter
 - Bio: Estudiante de Ingenieria en Sistemas y desarrollador web.
 - GitHub: [EdwinMolina](https://github.com/EdwinMolina)
 
+#### Name: [Sparsh Manni](https://github.com/sparshmanni/)
+
+- Place: Jalandhar, Punjab, India
+- Bio: 3rd year CSE Student
+- GitHub: [sprshmanni](https://github.com/sparshmanni/)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
