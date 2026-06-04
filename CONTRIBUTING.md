@@ -5183,6 +5183,11 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I'm a BCOM Grad, Learnt about Frontend Dev And Then Switched Career in IT as a Software Developer in an MNC.
 - GitHub: [SAMYAK KHAIRNAR](https://github.com/SamyakKhairnar)
 
+#### Name: [Shubhankar Nautiyal](https://github.com/Shubhankar-1)
+-   Place: Uttarkashi, Uttarakhand, India
+-   Bio: Final Year Computer Science Engineering student with specialization in Computer Science
+-   GitHub: [Shubhankar Nautiyal](https://github.com/Shubhankar-1)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
