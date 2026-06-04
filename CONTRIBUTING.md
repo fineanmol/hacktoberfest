@@ -4747,6 +4747,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final Year Student Pursuing B.E in CSE
 - GitHub: [Sahil-Madhyan](https://github.com/Sahil-Madhyan)
 
+#### Name: [Mrudang Vora](https://github.com/mrudang-vora)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: 15 yrs, Ex-CTO, Ex-TCS, Expert in engg. mgmt & solutions delivery, Led teams with servant leadership, Seeking #NewChallenges #EnggManagerPlusRoles
+- GitHub: [mrudang-vora](https://github.com/mrudang-vora)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
