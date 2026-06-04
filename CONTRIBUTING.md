@@ -4465,6 +4465,12 @@ Building Apps on Next.js and Flutter
 - Bio: Final year student pursing my bachelor's of engineering, I like to code.
 - GitHub: [Ankush Kalsotra](https://github.com/AnkushKalsotra)
 
+#### Name: [Mohd Faiz Aslam](https://github.com/faizaslam11)
+
+- Place: Aligarh, India
+- Bio: Software Developer | MS in SSE | ML/AI Enthusiast
+- GitHub: [Mohd Faiz Aslam](https://github.com/faizaslam11)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
