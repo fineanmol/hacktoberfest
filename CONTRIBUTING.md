@@ -4471,6 +4471,12 @@ Building Apps on Next.js and Flutter
 - Bio: Software Developer | MS in SSE | ML/AI Enthusiast
 - GitHub: [Mohd Faiz Aslam](https://github.com/faizaslam11)
 
+#### Name: [Siddharth Verma](https://github.com/lordsid003)
+
+- Place: Gurgaon, Haryana, India
+- Bio: A Tech enthusiast exploring various domains. Student at Maharaja Surajmal Institue of Technology, New Delhi
+- GitHub: [lordsid003](https://github.com/lordsid003)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
