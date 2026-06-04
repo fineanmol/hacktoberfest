@@ -5071,6 +5071,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a second year student at @HITK , web dev enthusiast
 - GitHub: [prashareet](https://github.com/prashareet)
 
+#### Name: [Dev Gupta](https://github.com/Dev-coder-sudo)
+
+- Place: Baraut, UP, India
+- Bio: I am a Computer Science Student
+- GitHub: [Dev-coder-sudo](https://github.com/Dev-coder-sudo)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
