@@ -4529,6 +4529,12 @@ media as a front end developer.
 - Bio: Developer and activist looking to make an impact! 🚀
 - GitHub: [zaihdo](https://github.com/zaihdo)
 
+#### Name: [Aqsa Isha](https://github.com/aqsa-isha)
+
+- Place: Hyderabad, Pakistan
+- Bio: Third Year undergraduate Software Engineering Student
+- GitHub: [Aqsa Isha](https://github.com/aqsa-isha)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
