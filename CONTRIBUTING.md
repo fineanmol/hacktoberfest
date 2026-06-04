@@ -4735,6 +4735,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Undergraduate Computer Engineering student at Purdue University interested in software engineering and embedded systems.
 - GitHub: [carolinecgilbert](https://github.com/carolinecgilbert)
 
+#### Name: [Akbar Anung Yudha Saputra](https://github.com/akbarsaputrait)
+
+- Place: Malang, East Java, Indonesia
+- Bio: I'm a Frontend Web Developer at SURGE (Indonesia)
+- GitHub: [akbarsaputrait](https://github.com/akbarsaputrait)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
