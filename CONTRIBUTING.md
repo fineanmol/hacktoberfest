@@ -4523,6 +4523,12 @@ media as a front end developer.
 - Bio: MCA student at PES University Bangalore
 - GitHub: [shankersingh01](https://github.com/shankersingh01)
 
+#### Name: [Zaidh Imran](https://github.com/zaihdo)
+
+- Place: Gaborone, Botswana
+- Bio: Developer and activist looking to make an impact! 🚀
+- GitHub: [zaihdo](https://github.com/zaihdo)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
