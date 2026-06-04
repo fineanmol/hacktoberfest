@@ -5468,6 +5468,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am 3rd Year Computer Science Engineering student from Dwarkadas J. Saghvi College of Engineering
 - GitHub: [TirthNisar193](https://github.com/TirthNisar193)
 
+#### Name: [Rishita](https://github.com/RishitaGangwal)
+
+- Place: Indore, M.P., India
+- Bio: Currently pursuing MCA.
+- GitHub: [RishitaGangwal](https://github.com/RishitaGangwal)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
