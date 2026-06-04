@@ -5396,6 +5396,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: ML Enthusiast
 - GitHub: [iamadisinghal](https://github.com/iamadisinghal)
 
+#### Name: [Piumi Rathnayake](https://github.com/Piumir3)
+
+- Place: Sri lanka
+- Bio: Undergraduate Student from University of Moratuwa, Faculty of Information Technology
+- GitHub: [Piumi Rathnayake](https://github.com/Piumir3)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
