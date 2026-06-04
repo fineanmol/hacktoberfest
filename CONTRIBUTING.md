@@ -4939,6 +4939,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a 3rd year under graduate pursing my major in ECE branch.
 - GitHub: [Aryan Garg](https://github.com/jsrjhbaryan959)
 
+#### Name: [Suman Shaw](https://github.com/Shaw145)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Python Develper | Web Developer
+- GitHub: [Shaw145](https://github.com/Shaw145)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
