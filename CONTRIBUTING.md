@@ -5558,6 +5558,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: 2nd year btech CSE student from swami vivekananda college of engineering
 - GitHub: [coderadityasen](https://github.com/coderAdityasen)
 
+#### Name: [AYUSH RAJ](https://github.com/ayushraj17)
+
+- Place: Patna, Bihar, India
+- Bio: I am a Computer Science Engineering student from MGMCET,Navi Mumbai
+- GitHub: [ayushraj17](https://github.com/ayushraj17)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
