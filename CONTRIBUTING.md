@@ -5077,6 +5077,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a Computer Science Student
 - GitHub: [Dev-coder-sudo](https://github.com/Dev-coder-sudo)
 
+#### Name: [Jidhun](https://github.com/jidhxn)
+
+- Place: Delhi, India
+- Bio: 3rd Year Undergraduate pursuing BSc (Hons.) Computer Science from University of Delhi
+- GitHub: [Jidhxn](https://github.com/Jidhxn)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
