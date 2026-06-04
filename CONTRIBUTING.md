@@ -5141,6 +5141,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Pursuing Comp. Sc.
 - GitHub: [shibs-01](https://github.com/shibs-01)
 
+#### Name: [Utsav Bhattarai](https://github.com/utsavbhattarai007)
+
+- Place: Rupandehi, Nepal
+- Bio: I am a full stack developer, blogger and student
+- GitHub: [utsavbhattarai007](https://github.com/utsavbhattarai007)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
