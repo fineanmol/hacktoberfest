@@ -2,7 +2,7 @@
 
 ### Location
 
-India        
+India
 
 ### Academics
 
@@ -11,14 +11,16 @@ Sri chaitanya
 ### Interests
 
 - Coding
+- Workout
 
 ### Development
 
 - Frontend
+- backend
 
 ### Projects
 
-- [Website](https://github.com/silver-spar) 
+- [website](https://github.com/silver-spar)
 
 ### Profile Link
 
