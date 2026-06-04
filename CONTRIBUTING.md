@@ -3102,6 +3102,12 @@ Building Apps on Next.js and Flutter
 - Bio: Business Analyst
 - GitHub: [MoinGShaikh](https://github.com/moingshaikh/)
 
+#### Name: [Carol](https://github.com/CarolDsillva/)
+
+- Place: bangalore, karnataka, India
+- Bio: Designer and Developer
+- GitHub: [CarolDsillva](https://github.com/CarolDsillva/hacktoberfest)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
