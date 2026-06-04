@@ -3126,6 +3126,12 @@ Building Apps on Next.js and Flutter
 - Bio:  I am a Computer Engineering student from Sardar Patel Institute of Technology,Maharashtra.
 - GitHub: [snehaa1011](https://github.com/snehaa1011)
 
+#### Name: [Utkarsh](https://github.com/utkarshgola)
+
+- Place: Delhi, India
+- Bio: Working professional
+- GitHub: [UtkarshGola](https://github.com/utkarshgola)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
