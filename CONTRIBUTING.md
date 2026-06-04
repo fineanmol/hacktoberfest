@@ -5040,6 +5040,13 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Software developer | Algorithmic Trader
 - GitHub: [Kanin](https://github.com/knmixsiri)
 
+#### Name: [Sanjaya](https://github.com/programminglives)
+
+- Place: Kathmandu, Nepal
+- Bio: Laravel Developer
+- GitHub: [programminglives](https://github.com/programminglives)
+- Website: https://sanjayapb.com.np
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
