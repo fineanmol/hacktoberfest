@@ -5089,6 +5089,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Software Developer
 - Github: [PRAKHAR SAXENA](https://github.com/prakharsaxena3322)
 
+#### Name: [Sai Aryan](https://github.com/SaiAryan1784)
+
+- Place: Noida, UP, India
+- Bio: Second Year undergrad pursuing B.tech in Computer Science Engineering (DATA SCIENCE)
+- GitHub: [SaiAryan1784](https://github.com/SaiAryan1784)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
