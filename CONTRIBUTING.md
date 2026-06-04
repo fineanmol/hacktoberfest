@@ -4699,6 +4699,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Third Year undergrad pursuing B.tech in Computer Science and Engineering
 - GitHub: [AnujDhar27](https://github.com/AnujDhar27)
 
+#### Name: [Pallav Goswami](https://github.com/pallavgoswami)
+
+- Place: Bareilly, UP, India
+- Bio: Final Year undergrad pursuing B.Tech in Computer Science and Engineering
+- GitHub: [pallavgoswami](https://github.com/pallavgoswami)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
