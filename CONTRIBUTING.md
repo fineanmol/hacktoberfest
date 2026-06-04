@@ -3062,6 +3062,12 @@ Building Apps on Next.js and Flutter
 
 - GitHub: [Sahasra0108](https://github.com/07tAn)
 
+#### Name: [Chidinma Chieke](https://github.com/Assistantkiwi)
+
+- Place: Bariga, Lagos, Nigeria
+- Bio: Undergrad Student || Frontend Engineer
+- GitHub: [Assistantkiwi](https://github.com/Assistantkiwi)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
