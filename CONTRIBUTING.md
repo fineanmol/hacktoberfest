@@ -3029,6 +3029,12 @@
 - Bio: I am a Computer Science Engineering student from Nagpur
 - GitHub: [vedantdhande04](https://github.com/vedantdhande04)
 
+#### Name: [Aabiskar](https://github.com/pandeyaabiskar)
+
+- Place: Toronto, ON, Canada
+- Bio: Computer Science and Information Technology Graduate from Tribhuvan University
+- GitHub: [pandeyaabiskar](https://github.com/pandeyaabiskar)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
