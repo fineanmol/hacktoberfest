@@ -5047,6 +5047,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - GitHub: [programminglives](https://github.com/programminglives)
 - Website: https://sanjayapb.com.np
 
+#### Name: [Varun](https://github.com/MufcVarun11)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: I'm a final year tech enthusiast deeply passionate about Flutter, Python, and Machine Learning.
+- GitHub: [GitHub account name](GitHub link)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
