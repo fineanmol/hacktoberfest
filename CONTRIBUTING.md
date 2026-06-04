@@ -5528,6 +5528,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Developer that develop bugs.
 - GitHub: [rohit85-it](https://github.com/rohit85-it)
 
+#### Name: [Shrivardha](https://github.com/shrivardha)
+
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Fourth Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [op-amateur](https://github.com/shrivardha)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
