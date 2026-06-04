@@ -4489,6 +4489,12 @@ Building Apps on Next.js and Flutter
 media as a front end developer.
 - GitHub: [op-amateur](https://github.com/trine-marie-sandberg)
 
+#### Name: [Vee](https://github.com/veesesh)
+
+- Place: Hyderabad, Telengana, India
+- Bio: I am an open source enthusiast who loves participating in hackathons and organising technical events as a part of community work.
+- GitHub: [veesesh](https://github.com/veesesh)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
