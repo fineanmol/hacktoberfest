@@ -4963,6 +4963,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final Year Btech CSE student at RCET Bhilai, and have an interest in Android Development and building unique applications.
 - Github: [Rohit570k](https://github.com/Rohit570k)
 
+#### Name: [Dinesh Gupta](https://github.com/iamdiinesh)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Computer science professional with expertise in C, JavaScript, CSS, and HTML for web design and development. Strong communication and leadership skills. Proficient in Microsoft Word and PowerPoint. Enthusiastic about basketball and tennis
+- GitHub: [iamdiinesh](https://github.com/iamdiinesh)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
