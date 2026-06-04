@@ -4874,6 +4874,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Analyst | Data Scientist
 - GitHub: [sriramnjr7](https://gitthub.com/sriramnjr7)
 
+#### Name: [Kshitij B](https://github.com/kshitij9896)
+
+- Place: Mumbai, India
+- Bio: Self Taught Developer
+- GitHub: [kshitij9896](https://github.com/kshitij9896)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
