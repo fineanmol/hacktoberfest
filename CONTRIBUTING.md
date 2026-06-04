@@ -2999,6 +2999,12 @@
 - Bio: Aspiring Mern full stack developer
 - GitHub: [Shubhang-Sagar-Shukla](https://github.com/Shubhang-Sagar-Shukla)
 
+#### Name: [Seth Stegman](https://github.com/sstegmanbsd)
+
+- Place: Washington, USA
+- Bio: AP CSP Student
+- GitHub: [sstegmanbsd](https://github.com/sstegmanbsd)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
