@@ -5289,6 +5289,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Senior Full-Stack developer.
 - GitHub: [iNuad](https://github.com/inuad)
 
+#### Name: [Matheus Paes](https://github.com/matheuspaesp)
+
+- Place: São Paulo, São Paulo, Brazil
+- Bio: Engineer Manager with 13 years in industry
+- GitHub: [Matheus Paes](https://github.com/matheuspaesp)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
