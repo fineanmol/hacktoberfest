@@ -3305,6 +3305,12 @@ Building Apps on Next.js and Flutter
 - Bio: Third Year undergrad pursuing B.tech in Information and communication technology
 - GitHub: [Ramya-Clg](https://github.com/Ramya-Clg)
 
+#### Name: [Andre Timm](https://github.com/andretimm)
+
+- Place: Joinville, SC, Brazil
+- Bio: Fullstack software developer
+- GitHub: [andretimm](https://github.com/andretimm)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
