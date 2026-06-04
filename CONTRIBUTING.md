@@ -5188,6 +5188,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 -   Bio: Final Year Computer Science Engineering student with specialization in Computer Science
 -   GitHub: [Shubhankar Nautiyal](https://github.com/Shubhankar-1)
 
+#### Name: [Utkarsh](https://github.com/Utkarsh1520)
+
+- Place: Noida, Uttar Pradesh, India
+- Bio: Working professionallyas a UI/UX Designer, have recently started learning Frontend Technologies and want to also explore in open source.
+- GitHub: [Utkarsh1520](https://github.com/Utkarsh1520)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
