@@ -5130,6 +5130,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am Computer Science Engineering student from IIT
 - GitHub: [Rishab54](https://github.com/RishabB54)
 
+#### Name: [hungrybear88](https://github.com/hungrybear88)
+
+- Place: NZ
+- Bio: Software engineer
+- GitHub: [hungrybear88](https://github.com/hungrybear88)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
