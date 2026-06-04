@@ -5450,6 +5450,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a Cloud developer as well as a Programmer
 - GitHub: [creator0131](https://github.com/creator0131)
 
+#### Name: [Abhishek Gupta](https://github.com/GhostRider987)
+
+-Place: Vidisha, Madhya Pradesh, India
+-Bio: 3rd Year Btech CSE student at Samrat Ashok Technological Institute
+-Github: [GhostRider987](https://github.com/GhostRider987)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
