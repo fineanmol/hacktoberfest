@@ -4772,6 +4772,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Fullstack Developer
 - GitHub: [saadatshaikh](https://github.com/saadatshaikh)
 
+#### Name: [Arun Santhosh R A](https://github.com/arun-dot-com)
+
+- Place: Chennai,India
+- Bio: Student aspiring to learn
+- GitHub: [arun-dot-com](https://github.com/arun-dot-com)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
