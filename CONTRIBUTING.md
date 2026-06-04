@@ -3335,6 +3335,12 @@ Building Apps on Next.js and Flutter
 - Bio: 3rd year CSE Student
 - GitHub: [sprshmanni](https://github.com/sparshmanni/)
 
+#### Name: [Shubhayan](https://github.com/ShubhayanS)
+
+- Place: Seattle, WA, USA
+- Bio: Data Engineer in USA
+- GitHub: [ShubhayanS](https://github.com/ShubhayanS)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
