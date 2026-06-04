@@ -4610,6 +4610,12 @@ media as a front end developer.
 - Bio: 3rd year undergrad pursuing B.tech Computer Science at NSUT Delhi and Executive Head at AimL Society of Our College
 - GitHub: [alpha2lucifer](https://github.com/alpha2lucifer)
 
+#### Name: [Sushant](https://github.com/Sushant626)
+
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: Sophomore at BIT Mesra, pursuing B.Tech in Electronics and communications engg. <3
+- GitHub: [Sushant626](https://github.com/Sushant626)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
