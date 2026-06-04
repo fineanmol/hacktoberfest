@@ -4598,6 +4598,12 @@ media as a front end developer.
 - Bio: Second Year udergrad pursuing BTech In CSE from NIT Manipur
 - GitHub: [12345rams](https://github.com/12345rams)
 
+#### Name: [Ayush](https://github.com/tiwari00ayush)
+
+- Place: Pilkhuwa, UP, India
+- Bio: Third Year undergrad pursuing B.tech in CSE AIML
+- GitHub: [op-amateur](https://github.com/tiwari00ayush)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
