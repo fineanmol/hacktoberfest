@@ -5107,6 +5107,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Second Year undergrad pursuing B.tech in Data Engineering
 - GitHub: [Samyaktg](https://github.com/Samyaktg)
 
+#### Name: [Prakhar Srivastava](https://github.com/Prakhar047)
+
+- Place: Lucknow, India
+- Bio: Chemical Engineering student from HBTU Kanpur.
+- GitHub: [Prakhar Srivastava](https://github.com/Prakhar047)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
