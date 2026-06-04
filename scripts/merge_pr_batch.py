@@ -2,13 +2,14 @@
 """Apply open PR changes onto master (maintainer merge workflow)."""
 from __future__ import annotations
 
+import os
 import re
 import subprocess
 import sys
 from pathlib import Path
 
 REPO = "fineanmol/hacktoberfest"
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(os.environ.get("HACKTOBERFEST_ROOT", Path(__file__).resolve().parents[1]))
 CORE_EXACT = {
     "LICENSE",
     "CODE_OF_CONDUCT.md",
