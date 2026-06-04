@@ -3198,6 +3198,12 @@ Building Apps on Next.js and Flutter
 - Bio: Web Developer| Software Engineer
 - GitHub: [Vsnshika-bundela](https://github.com/Vanshika-Bundela)
 
+#### Name: [Anukrati Chaturvedi](https://github.com/anukraticodes)
+
+- Place: Noida, Uttar Pradesh, India
+- Bio: Second Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [anukraticodes](https://github.com/anukraticodes)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
