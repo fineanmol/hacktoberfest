@@ -5516,6 +5516,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: 4th year student pursuing B.Tech Computer Science
 - GitHub: [Ashutosh0120](https://github.com/Ashutosh0120)
 
+#### Name: [Anuj Soni](https://github.com/martian2001)
+
+- Place: Ashoknagar, MP, India
+- Bio: 4th Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [martian2001](https://github.com/martian2001)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
