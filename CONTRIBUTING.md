@@ -5101,6 +5101,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: AIML Engineering Undergrad, RVCE | Fullstack Developer
 - Personal Website: [praj-pawar](https://praj-pawar.github.io/personal-website/)
 
+#### Name: [Samyak](https://github.com/Samyaktg)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Second Year undergrad pursuing B.tech in Data Engineering
+- GitHub: [Samyaktg](https://github.com/Samyaktg)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
