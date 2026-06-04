@@ -3096,6 +3096,12 @@ Building Apps on Next.js and Flutter
 - Bio: Third year B.tech student pursuing CSE from SRMIST.
 - GitHub: [KartikXx](https://github.com/KartikXx)
 
+#### Name: [Moin Shaikh](https://github.com/moingshaikh/)
+
+- Place: Canada
+- Bio: Business Analyst
+- GitHub: [MoinGShaikh](https://github.com/moingshaikh/)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
