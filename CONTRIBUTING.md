@@ -5165,6 +5165,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Sophomore under grad pursuing B.tech IT
 - GitHub: [bibinwithab](https://github.com/bibinwithab)
 
+#### Name: [Adarsh](https://github.com/adarsh0701)
+
+- Place: Bengaluru, Karnattaka, India
+- Bio: I'm a Technology consulatantt
+- GitHub: [adarsh0701](https://github.com/adarsh0701)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
