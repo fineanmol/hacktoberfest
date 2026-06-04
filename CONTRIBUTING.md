@@ -4974,6 +4974,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 -   Bio: Frontend Developer
 -   GitHub: [kumarhitesh](https://github.com/kumarhites)
 
+#### Name: [RAGHAVAN B](https://github.com/Raghavan-B)
+
+- Place: Chennai , Tamil Nadu, India
+- Bio: First year postgraduate pursuing Msc.Data Science at VIT Chennai.
+- GitHub: [Raghavan-B](https://github.com/Raghavan-B)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
