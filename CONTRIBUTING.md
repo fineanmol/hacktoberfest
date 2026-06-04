@@ -3174,6 +3174,12 @@ Building Apps on Next.js and Flutter
 - Bio: Explorer, always on the lookout for the next fun fact.
 - GitHub: [MacbClarke](https://github.com/MacbClarke)
 
+#### Name: [Mohamed ibourki](https://github.com/mohamedibourki)
+
+- Place: Tangier, Morocco
+- Bio: Student in CS field, always looking for new opportunities to learn and grow.
+- GitHub: [mohamedibourki](https://github.com/mohamedibourki)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
