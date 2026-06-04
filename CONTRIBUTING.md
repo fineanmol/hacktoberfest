@@ -3311,6 +3311,18 @@ Building Apps on Next.js and Flutter
 - Bio: Fullstack software developer
 - GitHub: [andretimm](https://github.com/andretimm)
 
+#### Name: [Prashansa](https://github.com/Anugya43)
+
+- Place: Delhi, delhi, India
+- Bio: Third Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [Anugya43](https://github.com/Anugya43)
+
+#### Name: [Pallavi Kathait](https://github.com/iceybubble)
+
+- Place: Srinagar Garhwal, Uttarakhand, India
+- Bio: A passionate cybersecurity learner
+- GitHub: [iceybubble](https://github.com/iceybubble)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
