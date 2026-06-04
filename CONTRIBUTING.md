@@ -3168,6 +3168,12 @@ Building Apps on Next.js and Flutter
 - Bio: Working at a IT company
 - GitHub: [deekshithhh](https://github.com/deekshithhh)
 
+#### Name: [MacbClarke](https://github.com/MacbClarke)
+
+- Place: Suzhou, China
+- Bio: Explorer, always on the lookout for the next fun fact.
+- GitHub: [MacbClarke](https://github.com/MacbClarke)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
