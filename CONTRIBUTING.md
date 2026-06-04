@@ -4417,6 +4417,12 @@ Building Apps on Next.js and Flutter
 - Bio: second Year undergrad pursuing B.tech in data science engineering.
 - GitHub: [hiteshkarvil](https://github.com/hiteshkarvil)
 
+#### Name: [G Rutvik Sharma](https://github.com/Rutvik-121)
+
+- Place: Bengaluru,Karnataka,India
+- Bio:  I am a Computer Science undergrad eager to learn new things. Interested in coding and currently a front-end web developer. Aspiring to become a software Engineer.
+- GitHub: [Rutvik-121](https://github.com/Rutvik-121)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
