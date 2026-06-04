@@ -4634,6 +4634,12 @@ media as a front end developer.
 -Bio : T.Y ENTC Engineering Student
 Github : [savinineeli6](https://github.com/savinineeli6)
 
+#### Name: [Mohan Majhi](https://github.com/mohan060104)
+
+- Place: Purulia, West Bengal, India
+- Bio: I'm a tech enthusiast.
+- GitHub: [Mohan Majhi](https://github.com/mohan060104)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
