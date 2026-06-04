@@ -3323,6 +3323,12 @@ Building Apps on Next.js and Flutter
 - Bio: A passionate cybersecurity learner
 - GitHub: [iceybubble](https://github.com/iceybubble)
 
+#### Name: [Edwin Molina](https://github.com/EdwinMolina)
+
+- Place: San Juan De Oriente, Masaya, Nicaragua
+- Bio: Estudiante de Ingenieria en Sistemas y desarrollador web.
+- GitHub: [EdwinMolina](https://github.com/EdwinMolina)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
