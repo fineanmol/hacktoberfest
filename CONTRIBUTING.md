@@ -4951,6 +4951,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Third year student persuing B.Tech in IOT.
 - GitHub: [aditya-shrimali](https://github.com/aditya-shrimali)
 
+#### Name: [Harshal](https://github.com/Harshal-Deshattiwar)
+
+- Place: Nagpur, Maharashtra, India
+- Bio: Working as React Native Developer
+- GitHub: [harshal-deshattiwar](https://github.com/Harshal-Deshattiwar)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
