@@ -5271,6 +5271,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Data Engineer
 - GitHub: [Ugur](https://github.com/uozcan12)
 
+#### Name: [Subrat](https://github.com/subrat2004)
+
+- Place: Kharagpur, West Bengal, India
+- Bio: 3rd year UG at IIT Kharagpur.
+- GitHub: [GitHub account name](https://github.com/subrat2004)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
