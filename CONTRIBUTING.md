@@ -3216,6 +3216,12 @@ Building Apps on Next.js and Flutter
 - Bio: Front-end developer in a startup named Farm2Flavour
 - GitHub: [smazhuvan](https://github.com/smazhuvan)
 
+#### Name: [Siddharth Joshi](https://github.com/0-SiddharthJoshi-0)
+
+- Place: Dehradun , Uttarakhand , INDIA
+- Bio: CSE Undergrad Student
+- GitHub: [tamil-code](https://github.com/0-SiddharthJoshi-0)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
