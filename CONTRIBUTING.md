@@ -4453,6 +4453,12 @@ Building Apps on Next.js and Flutter
 - Bio: Second Year undergrad pursuing BSCS in Computer Science
 - GitHub: [Saadaan Hassan](https://github.com/Saadaan-Hassan)
 
+#### Name: [Kumud Verma](https://github.com/KUMUD-TECH)
+
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: 2nd year undergraduate student pursuing B.tech in Information Technology
+- Github: [KUMUD-TECH](https://github.com/KUMUD-TECH)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
