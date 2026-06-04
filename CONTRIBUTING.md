@@ -5230,6 +5230,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Future Student AI (2024)
 - GitHub: [TechGirl007](https://github.com/TechGirl007)
 
+#### Name: [Taylor J](https://github.com/TaylorDJones11)
+
+- Place: Chicago
+- Bio: Software Engineer
+- GitHub: [TaylorDJones11](https://github.com/TaylorDJones11)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
