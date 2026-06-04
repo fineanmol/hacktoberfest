@@ -4459,6 +4459,12 @@ Building Apps on Next.js and Flutter
 - Bio: 2nd year undergraduate student pursuing B.tech in Information Technology
 - Github: [KUMUD-TECH](https://github.com/KUMUD-TECH)
 
+#### Name: [Ankush Kalsotra](https://github.com/AnkushKalsotra)
+
+- Place: Bengaluru, Karnataka, India
+- Bio: Final year student pursing my bachelor's of engineering, I like to code.
+- GitHub: [Ankush Kalsotra](https://github.com/AnkushKalsotra)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
