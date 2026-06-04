@@ -5372,6 +5372,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Fullstack Developer | Game Developer | XR Enthusiast | Rookie Music Producer
 - GitHub: [sikodev](https://github.com/sickodev)
 
+#### Name: [Anney Omeje](https://github.com/anneyomeje)
+
+- Place: Sakarya, Famagusta, Cyprus
+- Bio: Student, Frontend Developer
+- GitHub: [anneyomeje](https://github.com/anneyomeje)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
