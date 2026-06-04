@@ -4915,6 +4915,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 -Bio: Student at the Indian Institute of Technology,Patna
 -Github: [Suvrayan Bandyopadhyay](https://github.com/SuvrayanBandyopadhyay)
 
+#### Name: [Harsh Yadav](https://github.com/harsxhh)
+
+- Place: Una, Himachal Pradesh, India
+- Bio: Programmer, Student
+- GitHub: [Harsh Yadav](https://github.com/harsxhh)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
