@@ -5462,6 +5462,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Full-Stack Software Developer, who fall in love with Basketball, Surf, and Programming.
 - GitHub: [puuga](https://github.com/puuga)
 
+#### Name: [Tirth Nisar](https://github.com/TirthNisar193)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: I am 3rd Year Computer Science Engineering student from Dwarkadas J. Saghvi College of Engineering
+- GitHub: [TirthNisar193](https://github.com/TirthNisar193)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
