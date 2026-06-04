@@ -3246,6 +3246,12 @@ Building Apps on Next.js and Flutter
 - Bio: I am a final year IT engineering student from VESIT.
 - GitHub: [Abhinayadanda](https://github.com/Abhinayadanda)
 
+#### Name: [D'yara Williams](https://github.com/dyarawilliams)
+
+- Place: Denmark, South Carolina, USA
+- Bio: Passionate Software Engineer interested in AI/ML
+- GitHub: [dyarawilliams](https://github.com/dyarawilliams)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
