@@ -5218,6 +5218,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: 2nd year student of Data Science at RRC
 - GitHub: [PKpacheco](https://github.com/PKpacheco)
 
+#### Name: [UdeeshaRukshan](https://github.com/UdeeshaRukshan)
+
+- Place: Kaduwela, Colombo, Sri Lanka
+- Bio: Second Year undegraduate in SLIIT
+- GitHub: [UdeeshaRukshan](https://github.com/UdeeshaRukshan)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
