@@ -5212,6 +5212,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final Year geek from UEM Kolkata teaching machines since 2017
 - GitHub: [palsuryaofficio](https://github.com/palsuryaofficio)
 
+#### Name: [Pk Pacheco](https://github.com/PKpacheco)
+
+- Place: Winnipeg, Mabitoba, Canada
+- Bio: 2nd year student of Data Science at RRC
+- GitHub: [PKpacheco](https://github.com/PKpacheco)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
