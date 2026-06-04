@@ -4910,6 +4910,11 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Chloe is a fullstack engineer with a background in Systems Administration who is currently look for an opportunity to develop solutions at a company that supports growth.
 - GitHub: [Wraytheon](https://github.com/Wraytheon)
 
+#### Name:[Suvrayan Bandyopadhyay](https://github.com/SuvrayanBandyopadhyay)
+-Place: Patna,Bihar,India
+-Bio: Student at the Indian Institute of Technology,Patna
+-Github: [Suvrayan Bandyopadhyay](https://github.com/SuvrayanBandyopadhyay)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
