@@ -5171,6 +5171,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I'm a Technology consulatantt
 - GitHub: [adarsh0701](https://github.com/adarsh0701)
 
+#### Name: [Mohd Ahmad](https://github.com/No0b-master)
+
+- Place: New Delhi, India
+- Bio: Frontend App & Web Developer
+- GitHub: [maztt](https://github.com/No0b-master)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
