@@ -5552,6 +5552,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a Computer Science Engineering student and i have keen interest in Software Development
 - GitHub: [KashiwalHarsh](https://github.com/KashiwalHarsh)
 
+#### Name: [Aditya sen](https://github.com/coderAdityasen)
+
+- Place: indore Madhya pradesh , india
+- Bio: 2nd year btech CSE student from swami vivekananda college of engineering
+- GitHub: [coderadityasen](https://github.com/coderAdityasen)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
