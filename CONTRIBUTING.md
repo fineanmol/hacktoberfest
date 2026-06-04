@@ -5253,6 +5253,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am currently (2023) a master student (MSc.CA) happy to join the community✨.
 - GitHub: [bhaktibhatt](https://github.com/bhaktibhatt)
 
+#### Name: [Temitope Oyedele](https://github.com/oyedeletemitope)
+
+- Place: Lagos, Nigeria
+- Bio: I am a Software Developer and technical writer.
+- GitHub: [Temitopeoyedele](https://github.com/oyedeletemitope)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
