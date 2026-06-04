@@ -4844,6 +4844,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: 3rd year undergrad pursuing B-Tech in Computer Science at Ganpat University
 - GitHub: [op-amateur](https://github.com/PreetShah77)
 
+#### Name: [Aditya Chaturvedi](https://github.com/Adityachaturvedi2906)
+
+- Place: Shahdol, MP, India
+- Bio: A proactive developer with a strong track record of meeting project deadlines. Ability to solve issues and provide innovative software solutions.
+- GitHub: [Adityachaturvedi2906](https://github.com/Adityachaturvedi2906)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
