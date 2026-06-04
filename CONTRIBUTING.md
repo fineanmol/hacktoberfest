@@ -4546,6 +4546,12 @@ media as a front end developer.
 - Bio: Final Year Undergrad pursuing BSc Computer Science at Informatics Institute of Technology
 - GitHub: [ratheshan03](https://github.com/Ratheshan03)
 
+#### Name: [Anushka Pandit](https://github.com/anushkp1107)
+
+- Place: Agra, Uttar Pradesh, India
+- Bio: Second Year undergrad pursuing B.tech in Information Technology-Business Informatics at IIIT-Allahabad
+- GitHub: [anushkp1107](https://github.com/anushkp1107)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
