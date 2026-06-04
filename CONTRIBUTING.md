@@ -4790,6 +4790,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: CSE Sophomore | Full Stack Developer
 - GitHub: [Sivam003](https://github.com/Sivam003)
 
+#### Name: [NOOKALA TEJDEEP](https://github.com/Tx-3011)
+
+- Place: Bangalore, Karnataka, India
+- Bio: I am a Computer Science Engineering student from MIT Bangalore
+- GitHub: [Tx-3011](https://github.com/Tx-3011)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
