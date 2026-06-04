@@ -5295,6 +5295,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Engineer Manager with 13 years in industry
 - GitHub: [Matheus Paes](https://github.com/matheuspaesp)
 
+#### Name: [Ali Abdullah](https://github.com/ali-ab-2003)
+
+- Place: Islamabad, Pakistan
+- Bio: Web Developer & a Data Science student at Fast Nuces
+- GitHub: [Ali Abdullah](https://github.com/ali-ab-2003)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
