@@ -3204,6 +3204,12 @@ Building Apps on Next.js and Flutter
 - Bio: Second Year undergrad pursuing B.tech in Computer Science and Engineering
 - GitHub: [anukraticodes](https://github.com/anukraticodes)
 
+#### Name: [Raghav Ghulyani](https://github.com/vahghar)
+
+- Place: New Delhi, Delhi, India
+- Bio: Software engineer, passionate about web development, machine learning, and open source.
+- GitHub: [vahghar](https://github.com/vahghar)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
