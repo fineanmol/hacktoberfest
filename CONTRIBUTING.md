@@ -4832,6 +4832,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A tech enthusiast and a Front-End Web developer with great passion and interest for learning and building things that solves some real world problems.
 - GitHub: [mohanm18](https://github.com/mohanm18)
 
+#### Name: [EMMANUEL OLABISI](https://github.com/Zida01)
+
+- Place: Surulere,Lagos Nigeria
+- Bio: IT Support Officer
+- GitHub: [Zida01](https://github.com/Zida01)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
