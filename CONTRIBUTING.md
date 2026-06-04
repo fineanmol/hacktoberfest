@@ -4729,6 +4729,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Computer science student who loves building things from scratch.
 - GitHub: [the-hdr](https://www.github.com/the-hdr)
 
+#### Name: [Caroline Gilbert](https://github.com/carolinecgilbert)
+
+- Place: West Lafayette, IN, USA
+- Bio: Undergraduate Computer Engineering student at Purdue University interested in software engineering and embedded systems.
+- GitHub: [carolinecgilbert](https://github.com/carolinecgilbert)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
