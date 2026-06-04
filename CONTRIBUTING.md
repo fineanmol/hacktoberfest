@@ -4820,6 +4820,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Hello 👋, I'm Rehan, a final-year software engineering student from Air University.
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
 
+#### Name: [Abdulqadir](https://github.com/AQL17)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Final Year undergrad pursuing B.E in CSE at Mumbai University.
+- GitHub: [AQL17](https://github.com/AQL17)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
