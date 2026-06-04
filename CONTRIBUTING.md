@@ -4447,6 +4447,12 @@ Building Apps on Next.js and Flutter
 - Bio: Final Year UG Student B.tech in Electronics and Communication Engineering
 - GitHub: [tellmeY18](https://github.com/tellmeY18)
 
+#### Name: [Saadaan Hassan](https://github.com/Saadaan-Hassan)
+
+- Place: Lahore, Punjab, Pakistan
+- Bio: Second Year undergrad pursuing BSCS in Computer Science
+- GitHub: [Saadaan Hassan](https://github.com/Saadaan-Hassan)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
