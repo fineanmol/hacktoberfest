@@ -3240,6 +3240,12 @@ Building Apps on Next.js and Flutter
 - Bio: Fullstack Dev | Teacher | Small electronics repair
 - GitHub: [NightlyD3V](https://github.com/NightlyD3V)
 
+#### Name: [ABHINAYA DANDA](https://github.com/Abhinayadanda)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: I am a final year IT engineering student from VESIT.
+- GitHub: [Abhinayadanda](https://github.com/Abhinayadanda)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
