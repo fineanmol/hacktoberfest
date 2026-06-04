@@ -4838,6 +4838,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: IT Support Officer
 - GitHub: [Zida01](https://github.com/Zida01)
 
+#### Name: [Preet Shah](https://github.com/PreetShah77)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: 3rd year undergrad pursuing B-Tech in Computer Science at Ganpat University
+- GitHub: [op-amateur](https://github.com/PreetShah77)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
