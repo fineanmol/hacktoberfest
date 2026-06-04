@@ -3347,6 +3347,12 @@ Building Apps on Next.js and Flutter
 - Bio: 4th Year undergrad pursuing B.tech in Information Techonology Engineering
 - GitHub: [Madara909](https://github.com/Madara909)
 
+#### Name: [NIKHIL RANJAN](https://github.com/NIKHIL-bot27)
+
+- Place: JAMSHEDPUR,JHARKHAND,INDIA
+- Bio: FULL STACK WEB DEVELOPER
+- GitHub: [NIKHIL-bot27](https://github.com/NIKHIL-bot27)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
