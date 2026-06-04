@@ -5004,6 +5004,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: 2nd Year of studying at the Yogyakarta University of Technology
 - GitHub: [Jekoyu](https://github.com/Jekoyu)
 
+#### Name: [Hamza](https://github.com/mostuselessboy)
+
+- Place: New Delhi, Delhi, India
+- Bio: Full Stack Web Developer and B. Tech. pursuing student
+- GitHub: [mostuselessboy](https://github.com/mostuselessboy)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
