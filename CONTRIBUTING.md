@@ -3108,6 +3108,12 @@ Building Apps on Next.js and Flutter
 - Bio: Designer and Developer
 - GitHub: [CarolDsillva](https://github.com/CarolDsillva/hacktoberfest)
 
+#### Name: [Jaseem C K](https://github.com/Jaseemck)
+
+- Place: Calicut, Kerala, India
+- Bio: Data Analyst
+- GitHub: [Jaseemck](https://github.com/Jaseemck)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
