@@ -1,14 +1,12 @@
 const container = document.querySelector('.container');
 const search = document.querySelector('.search-box button');
-const searchInputBox = document.querySelector(".search-box input")
 const weatherBox = document.querySelector('.weather-box');
 const weatherDetails = document.querySelector('.weather-details');
 const error404 = document.querySelector('.not-found');
+const background = document.getElementById("video-background");
 
-let typingTimer;
-const doneTypingInterval = 200;
+search.addEventListener('click', () => {
 
-const searchWeather = () =>{
     const APIKey = '6f42afa4f1275a6802a554ad79114ccd';
     const city = document.querySelector('.search-box input').value;
 
@@ -40,22 +38,27 @@ const searchWeather = () =>{
             switch (json.weather[0].main) {
                 case 'Clear':
                     image.src = 'images/clear.png';
+                    background.src = "videos/clear.mp4";
                     break;
 
                 case 'Rain':
                     image.src = 'images/rain.png';
+                    background.src = "videos/rain.mp4";
                     break;
 
                 case 'Snow':
                     image.src = 'images/snow.png';
+                    background.src = "videos/snow.mp4"
                     break;
 
                 case 'Clouds':
                     image.src = 'images/cloud.png';
+                    background.src = "videos/clouds.mp4"
                     break;
 
                 case 'Haze':
                     image.src = 'images/mist.png';
+                    background.src = "videos/haze.mp4"
                     break;
 
                 default:
@@ -76,21 +79,5 @@ const searchWeather = () =>{
 
         });
 
-}
 
-search.addEventListener('click', () => {
-    searchWeather();
 });
-
-searchInputBox.addEventListener('keydown',(event)=>{
-    if(event.key == "Enter"){
-        searchWeather();
-    }
-});
-
-searchInputBox.addEventListener('input',()=>{
-    clearTimeout(typingTimer);
-    typingTimer = setTimeout(searchWeather,doneTypingInterval);
-});
-
-

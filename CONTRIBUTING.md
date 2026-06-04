@@ -4681,6 +4681,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [Tanmay]([https://github.com/op-amateur](https://github.com/Tanmay-Giram)https://github.com/Tanmay-Giram)
 
+#### Name: [Noor Alam](https://github.com/nooralamf42)
+
+- Place: Kannauj, Uttar Pradesh
+- Bio: Fullstack Developer | YouTuber
+- GitHub: [Noor Alam](https://github.com/nooralamf42)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
