@@ -5241,6 +5241,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Place: Pune, India
 - GitHub: [noiceee](https://github.com/noiceee)
 
+#### Name: [Kevin Shah](https://github.com/TechoChat)
+
+- Place: Vadodara, Gujarat, India
+- Bio: pursuing B.Tech in CSE, Passion to build robots 🤖 and do automation 🦿, interested in Programming 👨‍💻 and innovating.
+- GitHub: [Kevin Shah](https://github.com/TechoChat)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
