@@ -4784,6 +4784,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Full Stack Developer | React & Next.js 🌐 Node.js Enthusiast 🛠️ Serverless Architect 🐍 Ruby on Rails | 💻 Laravel PHP 🌟 Tech Innovator.
 - GitHub: [Jackroj](https://github.com/Jackroj)
 
+#### Name: [Sivam Visnu](https://github.com/Sivam003)
+
+- Place: Delhi, India
+- Bio: CSE Sophomore | Full Stack Developer
+- GitHub: [Sivam003](https://github.com/Sivam003)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
