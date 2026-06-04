@@ -3035,6 +3035,12 @@
 - Bio: Computer Science and Information Technology Graduate from Tribhuvan University
 - GitHub: [pandeyaabiskar](https://github.com/pandeyaabiskar)
 
+#### Name: [Cherry](https://github.com/Cherry3939)
+
+- Place: Singapore
+- Bio: Student
+- GitHub: [Cherry3939](https://github.com/Cherry3939)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
