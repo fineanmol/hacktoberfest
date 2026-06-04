@@ -4904,6 +4904,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: First Year undergrad persuing B.Information systems on Universidade de São Paulo
 - GitHub: [Davi-S-Brain](https://github.com/Davi-s-Brain)
 
+#### Name: [Chloe Wray](https://github.com/Wraytheon)
+
+- Place: Dayton, OH, USA
+- Bio: Chloe is a fullstack engineer with a background in Systems Administration who is currently look for an opportunity to develop solutions at a company that supports growth.
+- GitHub: [Wraytheon](https://github.com/Wraytheon)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
