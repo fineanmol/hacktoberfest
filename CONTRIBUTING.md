@@ -4957,6 +4957,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Working as React Native Developer
 - GitHub: [harshal-deshattiwar](https://github.com/Harshal-Deshattiwar)
 
+#### Name: [Rohit570k](https://github.com/Rohit570k)
+
+- Place: Patna,Bihar, India
+- Bio: Final Year Btech CSE student at RCET Bhilai, and have an interest in Android Development and building unique applications.
+- Github: [Rohit570k](https://github.com/Rohit570k)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
