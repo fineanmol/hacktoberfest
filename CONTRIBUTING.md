@@ -3341,6 +3341,12 @@ Building Apps on Next.js and Flutter
 - Bio: Data Engineer in USA
 - GitHub: [ShubhayanS](https://github.com/ShubhayanS)
 
+#### Name: [Sashank Bhardwaj](https://github.com/Madara909)
+
+- Place: Ghaziabad, UP, India
+- Bio: 4th Year undergrad pursuing B.tech in Information Techonology Engineering
+- GitHub: [Madara909](https://github.com/Madara909)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
