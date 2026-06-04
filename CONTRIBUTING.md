@@ -4435,6 +4435,12 @@ Building Apps on Next.js and Flutter
 - Bio: Third Year undergrad pursuing B.tech in Civil Engineering in IIT BHU
 - GitHub: [arunk2003](https://github.com/arunks2003)
 
+#### Name: [Neha Kumari](https://github.com/Neha5679)
+
+- Place: Hazaribagh, Jharkhand, India
+- Bio: Third Year undergrad pursuing B.tech
+- GitHub: [Neha](https://github.com/Neha5679)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
