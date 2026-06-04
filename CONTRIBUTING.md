@@ -4892,6 +4892,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Third year CSE undergrad at NIT Calicut
 - GitHub: [dhwanish-3](https://github.com/dhwanish-3)
 
+#### Name: [Ashutosh Maharana](https://github.com/triad7)
+
+- Place: Bhubaneswar, Odisha, India
+- Bio: Junior Software Engineer (ReactJS and similar TECH Stacks)
+- GitHub: [triad7](https://github.com/triad7)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
