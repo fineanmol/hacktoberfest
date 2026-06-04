@@ -5028,6 +5028,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a frontend developer, and my skills are HTMl, CSS, JavaScript, React, TailwindCss, Git, and Supabase.
 - GitHUb: [Bhaskarsahu23](https://github.com/Bhaskarsahu23)
 
+#### Name: [Saurabh R](https://github.com/saurabh29r)
+
+- Place: Mumbai, MH, India
+- Bio: I'm Passionate about Frontend development
+- GitHub: [Saurabh R](https://github.com/saurabh29r)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
