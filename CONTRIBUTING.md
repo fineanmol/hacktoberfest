@@ -4868,6 +4868,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Software Engineer with Fullstack skills
 - GitHub: [wu-jiaxi](https://github.com/wu-jiaxi)
 
+#### Name: [Sriram S](https://github.com/sriramnjr7)
+
+- Place: Banglore, Karnataka, India
+- Bio: Analyst | Data Scientist
+- GitHub: [sriramnjr7](https://gitthub.com/sriramnjr7)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
