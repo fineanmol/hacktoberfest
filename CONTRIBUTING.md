@@ -5420,6 +5420,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a Computer Science Engineering student
 - GitHub: [onemineus](https://github.com/onemineus)
 
+#### Name: [Nitish](https://github.com/imnrb)
+
+- Place: Mumbai,Maharashtra ,India
+- Bio: Final Year undergrad pursuing B.tech in Electronics and telecommunication
+- GitHub: [imnrb](https://github.com/ogdhruv)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
