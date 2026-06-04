@@ -3162,6 +3162,12 @@ Building Apps on Next.js and Flutter
 - Bio: Second Year undergrad pursuing B.tech in CSE(AI) | MERN Full Stack developer
 - GitHub: [Sonalgupta2005](https://github.com/Sonalgupta2005)
 
+#### Name: [Deekshith](https://github.com/deekshithhh)
+
+- Place: Bengaluru, India
+- Bio: Working at a IT company
+- GitHub: [deekshithhh](https://github.com/deekshithhh)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
