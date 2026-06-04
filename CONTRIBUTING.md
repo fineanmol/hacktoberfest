@@ -5408,6 +5408,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Im a 4th Year B.Tech (CS) student from India?
 - GitHub: [sachin_g](https://github.com/Indicgamer)
 
+#### Name: [Sukanya](https://github.com/Sukanya41455)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Machine Learning and Deep Learning Engineer
+- GitHub: [Sukanya41455](https://github.com/Sukanya41455)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
