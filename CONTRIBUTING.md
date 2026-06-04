@@ -3366,6 +3366,12 @@ Building Apps on Next.js and Flutter
 - Bio: Third Year undergrad pursuing B.tech in Computer Engineering
 - GitHub: [Vaibhav-Sawate](https://www.github.com/Vaibhav-Sawate)
 
+#### Name: [Pratim](https://github.com/ro78ldt)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Working professional in web devlopment.
+- GitHub: [ro78ldt](https://github.com/ro78ldt)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
