@@ -5277,6 +5277,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: 3rd year UG at IIT Kharagpur.
 - GitHub: [GitHub account name](https://github.com/subrat2004)
 
+#### Name: [Deep Das](https://github.com/youtanimstar)
+
+- Place: Howrah, West Bengal, India
+- Bio: I am a B.Tech 2nd-year student at Meghnad Saha Institute of Technology.
+- GitHub: [youtanimstar](https://github.com/youtanimstar)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
