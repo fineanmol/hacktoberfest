@@ -4622,6 +4622,12 @@ media as a front end developer.
 - Bio: Networking student W/ CCNA certification
 - GitHub: [Calvinfred123](https://github.com/Calvinfred123)
 
+#### Name: [DevBen](https://github.com/git-create-devben)
+
+- place: Lagos, Nigeria
+- Bio: Front-end dev 💡 building the future of the web 🌐
+- Github: [git-create-devben](https://github.com/git-create-devben)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
