@@ -3228,6 +3228,12 @@ Building Apps on Next.js and Flutter
 - Bio: Final Year undergrad pursuing B.tech in Computer Science and Engineering
 - GitHub: [Aryang08](https://github.com/Aryang08)
 
+#### Name: [Manahil Iqbal](https://github.com/manahiliqbal)
+
+- Place: Lahore, Pakistan
+- Bio: final year comp sci student
+- GitHub: [manahiliqbal](https://github.com/manahiliqbal)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
