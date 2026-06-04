@@ -4933,6 +4933,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final year Student
 - GitHub: [RishabhDhawad](https://github.com/RishabhDhawad)
 
+#### Name: [Aryan Garg](https://github.com/jsrjhbaryan959)
+
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: I am a 3rd year under graduate pursing my major in ECE branch.
+- GitHub: [Aryan Garg](https://github.com/jsrjhbaryan959)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
