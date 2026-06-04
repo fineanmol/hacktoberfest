@@ -3,12 +3,12 @@ const search = document.querySelector('.search-box button');
 const weatherBox = document.querySelector('.weather-box');
 const weatherDetails = document.querySelector('.weather-details');
 const error404 = document.querySelector('.not-found');
-const background = document.getElementById("video-background");
 
-search.addEventListener('click', () => {
+const searchInput = document.querySelector('.search-box input');
 
+const serchWeather = ()=>{
     const APIKey = '6f42afa4f1275a6802a554ad79114ccd';
-    const city = document.querySelector('.search-box input').value;
+    const city = searchInput.value;
 
     if (city === '')
         return;
@@ -38,27 +38,22 @@ search.addEventListener('click', () => {
             switch (json.weather[0].main) {
                 case 'Clear':
                     image.src = 'images/clear.png';
-                    background.src = "videos/clear.mp4";
                     break;
 
                 case 'Rain':
                     image.src = 'images/rain.png';
-                    background.src = "videos/rain.mp4";
                     break;
 
                 case 'Snow':
                     image.src = 'images/snow.png';
-                    background.src = "videos/snow.mp4"
                     break;
 
                 case 'Clouds':
                     image.src = 'images/cloud.png';
-                    background.src = "videos/clouds.mp4"
                     break;
 
                 case 'Haze':
                     image.src = 'images/mist.png';
-                    background.src = "videos/haze.mp4"
                     break;
 
                 default:
@@ -80,4 +75,14 @@ search.addEventListener('click', () => {
         });
 
 
+}
+
+searchInput.addEventListener("keypress", (event)=>{
+    if(event.key === "Enter")
+    {
+        event.preventDefault();
+        serchWeather();
+    }
 });
+
+search.addEventListener('click', serchWeather);
