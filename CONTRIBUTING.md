@@ -5522,6 +5522,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: 4th Year undergrad pursuing B.tech in Computer Science and Engineering
 - GitHub: [martian2001](https://github.com/martian2001)
 
+#### Name: [Rohit](https://github.com/rohit85-it)
+
+- Place: Maharashtra, Maharashtra, India
+- Bio: Developer that develop bugs.
+- GitHub: [rohit85-it](https://github.com/rohit85-it)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
