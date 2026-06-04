@@ -4569,6 +4569,12 @@ media as a front end developer.
 - Bio: Fullstack developer,CS undergrad at Pranveer singh institute of Technology,Cloud enthusiast
 - Github: [Nitinshukla88](https://github.com/Nitinshukla88)
 
+#### Name: [Anmol Agarwal](https://github.com/onemole6022)
+
+- Place: Kharagpur, WB, India
+- Bio: Game Dev and Web Dev enthusiast currenlty persuing Metallurgical Engineering from IITKGP
+- GitHub: [onemole6022](https://github.com/onemole6022)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
