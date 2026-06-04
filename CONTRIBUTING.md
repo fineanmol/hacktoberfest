@@ -5432,6 +5432,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Nerdy, Passionate about Development and Looking to make some cool friends in the coding community
 - GitHub: [AnkanHalder](https://github.com/AnkanHalder)
 
+#### Name: [Abdul Azeez](https://github.com/Abdul-Azeez060)
+
+- Place: Bhimavaram, Andhra Pradesh, India
+- Bio: Second year Btech, Computer Science and Engineering.
+- GitHub: [Abdul Azeez](https://github.com/Abdul-Azeez060)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
