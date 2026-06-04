@@ -2987,6 +2987,12 @@
 - Bio: Open source learner and contributor
 - GitHub: [summykumari567](https://github.com/summykumari567)
 
+#### Name: [SOKE Honoré](https://github.com/RhooneN)
+
+- Place: Ab-Calavi, Benin
+- Bio: autodidact software dev
+- GitHub: [RhooneN](https://github.com/RhooneN)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
