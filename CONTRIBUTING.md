@@ -4880,6 +4880,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Self Taught Developer
 - GitHub: [kshitij9896](https://github.com/kshitij9896)
 
+#### Name: [Gabriel](https://github.com/staiton)
+
+- Place: Natal, RN, Brazil
+- Bio: First Year of Computer Networks at Estácio de Sá University, trying to specialize in cybersecurity
+- GitHub: [staiton](https://github.com/staiton)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
