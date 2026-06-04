@@ -5480,6 +5480,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am Arunesh Unnithan. I'm a student doing B.Tech at NIT Trichy currently. I'm very interested in software. When I'm not on my keyboard, I'll be drawing or playing the guitar.
 - GitHub: [ashllxyy](https://github.com/ashllxyy)
 
+#### Name: [Yashwanth Varma ](https://github.com/yashwanthvarma18)
+
+- Place: Chennai,Tamil Nadu,India
+- Bio:2nd-year student at the Indian Institute of Technology, Madras (IITM)
+- GitHub: [yashwanthvarma18](https://github.com/yashwanthvarma18)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
