@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}  
+
+body {
+    -ms-overflow-style: none;
+    scrollbar-width: none; 
+    overflow-y: scroll; 
+    background-color: black;
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+.section-image {
+    width: 400px;
+    height: 400px;
+}
