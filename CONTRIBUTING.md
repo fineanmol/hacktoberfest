@@ -2981,6 +2981,11 @@
 - Bio: Full-stack Software Engineer
 - GitHub: [gabrielrab](https://github.com/gabrielrab)
 
+#### Name: [Summy Kumari](https://github.com/summykumari567)
+
+- Place: Patna, Bihar, India
+- Bio: Open source learner and contributor
+- GitHub: [summykumari567](https://github.com/summykumari567)
 
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
