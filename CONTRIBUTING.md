@@ -3150,6 +3150,12 @@ Building Apps on Next.js and Flutter
 - Bio: Undergrad Student(B.Tech)
 - GitHub: [Tejaswini-628](https://github.com/Tejaswini-628)
 
+#### Name: [Achal Singh](https://github.com/achal-singh)
+
+- Place: New Delhi, Delhi, India
+- Bio: Crypto Applications/Web3 Developer | Typescript/Node.JS Developer
+- GitHub: [Achal Singh](https://github.com/achal-singh)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
