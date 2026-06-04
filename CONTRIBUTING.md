@@ -4645,6 +4645,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 -Bio- Second year undergrad pursuing Instrumentation and Control engineering
 -Github: [Sakshi](https://github.com/saakshii12)
 
+#### Name: [Gabriela Lima](https://github.com/gabirlima)
+
+- Place: Porto Alegre, RS, Brazil
+- Bio: Software Quality Engineer
+- GitHub: [gabirlima](https://github.com/gabirlima)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
