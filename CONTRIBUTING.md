@@ -4581,6 +4581,12 @@ media as a front end developer.
 - Bio: Data Scientist | Data Analyst
 - GitHub: [IqraMahmood]([GitHub link](https://github.com/IqraMahmood))
 
+#### Name: [Mubarak Muhammad Ibrahim](https://github.com/DigitalAkhee)
+
+- Place: Gombe State, Nigeria
+- Bio: Computer Science Student | Webflow Developer | Tech Enthusiast
+- GitHub: [Digital Akhee](https://github.com/DigitalAkhee)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
