@@ -3360,6 +3360,12 @@ Building Apps on Next.js and Flutter
 - GitHub: [07tAnYa](https://github.com/SrSurajithpranav)
 -
 
+#### Name: [Vaibhav](https://www.github.com/Vaibhav-Sawate)
+
+- Place: Pune, Maharashtra,India
+- Bio: Third Year undergrad pursuing B.tech in Computer Engineering
+- GitHub: [Vaibhav-Sawate](https://www.github.com/Vaibhav-Sawate)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
