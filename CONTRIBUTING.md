@@ -4405,6 +4405,12 @@ Building Apps on Next.js and Flutter
 - Bio: Student IT
 - GitHub: [jeremycrossan](https://github.com/jeremycrossan)
 
+#### Name: [Amit Kumar](https://github.com/Tealspider23)
+
+- Place: Bhubaneshwar , India
+- Bio: Second Year Sophomore , handling B-tech in Computer Science
+- GitHub: [Tealspider23](https://github.com/Tealspider23)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
