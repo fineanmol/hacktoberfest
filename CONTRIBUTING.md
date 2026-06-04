@@ -4592,6 +4592,12 @@ media as a front end developer.
 - Place: Dhaka, Bangladesh
 - Full Stack Developer
 
+#### Name: [Ram Vijay Yadav](https://github.com/12345rams)
+
+- Place: Azamgarh, Uttarpradesh, India
+- Bio: Second Year udergrad pursuing BTech In CSE from NIT Manipur
+- GitHub: [12345rams](https://github.com/12345rams)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
