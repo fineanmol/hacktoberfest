@@ -3011,6 +3011,12 @@
 - Bio: Student, Open Source Contributor, Coder
 - GitHub: [studentpiyush](https://github.com/studentpiyush)
 
+#### Name: [Arshad Ariff](https://github.com/ArshadAriff)
+
+- Place: Chennai, TN, India
+- Bio: Final Year undergrad pursuing B.tech in CSE
+- GitHub: [ArshadAriff](https://github.com/ArshadAriff)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
