@@ -4992,6 +4992,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A final year undergrad pursuing a B.Tech in Information Technology.
 - GitHub: [diyaatalwar](https://github.com/diyaatalwar)
 
+#### Name: [Seemantkaushal](https://github.com/seemantkaushal/)
+
+- Place: indore, MP , India
+- Bio: I am an data science entusiast .
+- GitHub: [_seemantkaushal](https://github.com/seemantkaushal/)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
