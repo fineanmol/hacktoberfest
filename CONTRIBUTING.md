@@ -4945,6 +4945,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Python Develper | Web Developer
 - GitHub: [Shaw145](https://github.com/Shaw145)
 
+#### Name: [Aditya Shrimali](https://github.com/aditya-shrimali)
+
+- Place: Ujjain, M.P., India
+- Bio: Third year student persuing B.Tech in IOT.
+- GitHub: [aditya-shrimali](https://github.com/aditya-shrimali)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
