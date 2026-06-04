@@ -5065,6 +5065,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Student, Full Stack Web Dev
 - GitHub: [Hardvan](https://github.com/Hardvan)
 
+#### Name: [PRASHAREET CHOUDHURY](https://github.com/prashareet)
+
+- Place: Kolkata,India
+- Bio: I am a second year student at @HITK , web dev enthusiast
+- GitHub: [prashareet](https://github.com/prashareet)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
