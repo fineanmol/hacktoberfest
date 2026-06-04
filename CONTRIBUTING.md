@@ -5059,6 +5059,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Software Engineer
 - GitHub: [op-amateur](https://github.com/Xavi007)
 
+#### Name: [Hardik Pawar](https://github.com/Hardvan)
+
+- Place: Bangalore, India
+- Bio: Student, Full Stack Web Dev
+- GitHub: [Hardvan](https://github.com/Hardvan)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
