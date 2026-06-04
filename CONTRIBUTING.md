@@ -5319,6 +5319,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: SDET Engineer
 - GitHub: [@yuvrajverma01](https://github.com/yuvrajverma01)
 
+#### Name: [Amulya Shetty](https://github.com/AmulyaShetty11)
+
+- Place: Maharashtra, India
+- Bio: I am a student.
+- GitHub: [GitHub AmulyaShetty11](https://github.com/AmulyaShetty11)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
