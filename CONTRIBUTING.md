@@ -5354,6 +5354,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio :  Second Year undergrad pursuing B.tech in Information Technology
 - Github:[swastik2207]( https://github.com/swastik2207)
 
+#### Name: [Ayush Sharma](https://github.com/enayush)
+
+- Place: New Delhi, India
+- Bio: Second Year undergrad pursuing B.tech in Computer Science and Engineering at NSUT, Delhi
+- GitHub: [enayush](https://github.com/enayush)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
