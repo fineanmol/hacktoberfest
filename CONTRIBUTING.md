@@ -3293,6 +3293,12 @@ Building Apps on Next.js and Flutter
 - Bio: Fullstack Developer | App Developer | ML/AI Enthusiast
 - GitHub: [adityakalburgi](https://github.com/adityakalburgi)
 
+#### Name: [Sakshi Thorat](https://github.com/Sthorat22)
+
+- Place: Pune, Maharashtra, India
+- Bio: I am learner and on path to become full stack developer.
+- GitHub: [Sthorat](https://github.com/Sthorat22)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
