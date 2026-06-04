@@ -3074,6 +3074,12 @@ Building Apps on Next.js and Flutter
 - Bio: Senior Software Engineer in Viet Nam
 - GitHub: [ledangtuanbk](https://github.com/ledangtuanbk)
 
+#### Name: [Sparsh Singh](https://github.com/unsparsh)
+
+- Place: Jaipur, Rajasthan
+- Bio: Mern Stack Developer | DSA in JAVA | CSE(AI) Student
+- GitHub: [Sparsh Singh Chundawat](https://github.com/unsparsh)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
