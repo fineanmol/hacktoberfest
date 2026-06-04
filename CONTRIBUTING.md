@@ -3114,6 +3114,12 @@ Building Apps on Next.js and Flutter
 - Bio: Data Analyst
 - GitHub: [Jaseemck](https://github.com/Jaseemck)
 
+#### Name: [Jatin Vishwakarma](https://github.com/coddingjatin)
+
+-Place: Pune,Maharashtra India
+-Bio: FullStack Developer | Student | Eager to learn new technologies | Thats All About Me
+-GitHub: [Jatin Vishwakarma](https://github.com/coddingjatin)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
