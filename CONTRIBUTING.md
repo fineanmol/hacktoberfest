@@ -4399,6 +4399,12 @@ Building Apps on Next.js and Flutter
 -   Bio: Pre-Final Year BE CSE Student at Chitkara University,Punjab
 -   GitHub: [harmanjot2002](https://github.com/harmanjot2002)
 
+#### Name: [Jeremy Crossan](https://github.com/jeremycrossan)
+
+- Place: Grobbendonk, België
+- Bio: Student IT
+- GitHub: [jeremycrossan](https://github.com/jeremycrossan)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
