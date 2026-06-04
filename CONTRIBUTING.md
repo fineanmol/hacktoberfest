@@ -4500,6 +4500,12 @@ media as a front end developer.
 - Bio: I AM A BTECH 2ND YEAR STUDENT FROM DELHI AND A FULL STACK WEB DEVELOPER ALSO LEARNING FLUTTER AND EPLORING THINGS
 - GitHub: https://github.com/LAKSHAYBANSAL879
 
+#### Name: [Pushkaran](https://github.com/Karan9616)
+
+- Place: Banglore, India
+- Bio: fourth Year undergrad pursuing B.tech  Engineering
+- GitHub: [op-amateur](https://github.com/Karan9616)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
