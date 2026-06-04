@@ -4651,6 +4651,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Software Quality Engineer
 - GitHub: [gabirlima](https://github.com/gabirlima)
 
+#### Name: [Atharv Chavan](https://github.com/Atharv0003)
+
+- Place: Mumbai,Maharashtra, India
+- Bio: Frontend enthusiast
+- GitHub: [Atharv0003](https://github.com/Atharv0003)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
