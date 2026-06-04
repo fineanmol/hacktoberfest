@@ -5247,6 +5247,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: pursuing B.Tech in CSE, Passion to build robots 🤖 and do automation 🦿, interested in Programming 👨‍💻 and innovating.
 - GitHub: [Kevin Shah](https://github.com/TechoChat)
 
+#### Name: [Bhakti Bhatt](https://github.com/bhaktibhatt)
+
+- Place: Pune, Maharashtra, India
+- Bio: I am currently (2023) a master student (MSc.CA) happy to join the community✨.
+- GitHub: [bhaktibhatt](https://github.com/bhaktibhatt)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
