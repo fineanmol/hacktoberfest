@@ -5390,6 +5390,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Second Year Undergrad pursuing B.tech in CSE
 - GitHub: [sivia1](https://github.com/sivia1)
 
+#### Name: [ADITYA SINGHAL](https://github.com/iamadisinghal)
+
+- Place: Varanasi, UP, India
+- Bio: ML Enthusiast
+- GitHub: [iamadisinghal](https://github.com/iamadisinghal)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
