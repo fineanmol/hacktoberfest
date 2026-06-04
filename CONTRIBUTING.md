@@ -3378,6 +3378,12 @@ Building Apps on Next.js and Flutter
 - Bio: Just another developer
 - GitHub: [c0derdx](https://github.com/c0derdx)
 
+#### Name: [Prakhar](https://github.com/Prakhar0204)
+
+- Place: Moradabad, UP, India
+- Bio: Second Year undergrad pursuing B.tech in CSE
+- GitHub: [Prakhar0204](https://github.com/Prakhar0204)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
