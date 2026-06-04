@@ -3005,6 +3005,12 @@
 - Bio: AP CSP Student
 - GitHub: [sstegmanbsd](https://github.com/sstegmanbsd)
 
+#### Name: [Piyush Sharma](https://github.com/studentpiyush)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: Student, Open Source Contributor, Coder
+- GitHub: [studentpiyush](https://github.com/studentpiyush)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
