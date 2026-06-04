@@ -5534,6 +5534,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Fourth Year undergrad pursuing B.tech in Computer Science and Engineering
 - GitHub: [op-amateur](https://github.com/shrivardha)
 
+#### Name: [Mohamed Faizal](https://github.com/faizalmsdev)
+
+- Place: Pondicherry, India
+- Bio: I am a Frontend Developer, graduate of Ece
+- GitHub: [Mohamed Faizal](https://github.com/faizalmsdev)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
