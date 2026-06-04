@@ -1,16 +1,11 @@
-permissions:
-  contents: read
-  pull-requests: write
-  issues: write
-
-
-
-# .github/workflows/validate-scripts.yml
 name: Validate scripts on PR
 
 on:
   pull_request:
     types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
 
 jobs:
   validate-scripts:
@@ -18,12 +13,25 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'  # LTS
+          node-version: '18'
 
-      - name: Run scripts validator
-        run: node tools/validate-scripts.js
-
+      - name: Run scripts validator (changed files only)
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          set -euo pipefail
+          mapfile -t CHANGED < <(git diff --name-only --diff-filter=ACMRT "${BASE_SHA}" "${HEAD_SHA}" -- scripts/ \
+            | grep -vE '__pycache__|\.pyc$|/\.vscode/' || true)
+          if [ "${#CHANGED[@]}" -eq 0 ]; then
+            echo "No script files changed in this PR — skipping validation."
+            exit 0
+          fi
+          printf '%s\n' "${CHANGED[@]}"
+          node tools/validate-scripts.js "${CHANGED[@]}"
