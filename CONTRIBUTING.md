@@ -3017,6 +3017,12 @@
 - Bio: Final Year undergrad pursuing B.tech in CSE
 - GitHub: [ArshadAriff](https://github.com/ArshadAriff)
 
+#### Name: [Shivam Pandey](https://github.com/ARhivam)
+
+- Place: lucknow, uttar pradesh, India
+- Bio:  am Computer Science Engineering student from Institute of Engineering and Technology Lucknow
+- GitHub: [ARhivam](https://github.com/ARhivam)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
