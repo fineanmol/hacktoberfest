@@ -3234,6 +3234,12 @@ Building Apps on Next.js and Flutter
 - Bio: final year comp sci student
 - GitHub: [manahiliqbal](https://github.com/manahiliqbal)
 
+#### Name: [NightlyD3V](https://github.com/NightlyD3V)
+
+- Place: New Jersey, USA
+- Bio: Fullstack Dev | Teacher | Small electronics repair
+- GitHub: [NightlyD3V](https://github.com/NightlyD3V)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
