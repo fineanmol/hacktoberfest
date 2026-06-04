@@ -5010,6 +5010,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Full Stack Web Developer and B. Tech. pursuing student
 - GitHub: [mostuselessboy](https://github.com/mostuselessboy)
 
+#### Name: [DEEPNDRA-KUMAR](https://github.com/Deep-1507)
+
+- Place: Jhansi, Uttar Pradesh, India
+- Bio: A budding engineer, currently exploring and learning Web Development.
+- GitHub: [Deep-1507](https://github.com/Deep-1507)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
