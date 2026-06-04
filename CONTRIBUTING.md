@@ -4693,6 +4693,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Front End developer
 - GitHub: [trdxlucifer](https://github.com/trdxlucifer)
 
+#### Name: [Anuj](https://github.com/AnujDhar27)
+
+- Place: Kolkata, WB, India
+- Bio: Third Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [AnujDhar27](https://github.com/AnujDhar27)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
