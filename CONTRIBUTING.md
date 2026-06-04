@@ -4616,6 +4616,12 @@ media as a front end developer.
 - Bio: Sophomore at BIT Mesra, pursuing B.Tech in Electronics and communications engg. <3
 - GitHub: [Sushant626](https://github.com/Sushant626)
 
+#### Name: [Calvin]((https://github.com/Calvinfred123))
+
+- Place: Seattle, Washington, USA
+- Bio: Networking student W/ CCNA certification
+- GitHub: [Calvinfred123](https://github.com/Calvinfred123)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
