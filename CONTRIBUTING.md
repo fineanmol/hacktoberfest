@@ -4663,6 +4663,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: backend developer | AI/ML Enthusiast | Data Analyst |
 - GitHub: [harsh9709](https://github.com/harsh9709)
 
+#### Name: [Rohit Kanojiya](https://github.com/rohit010pro)
+
+- Place: Vadodara, Gujarat, India
+- Bio: I'm currently in my Last Year of Computer Engineering.
+- GitHub: [rohit010pro](https://github.com/rohit010pro)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
