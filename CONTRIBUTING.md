@@ -5153,6 +5153,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I'm a Final Year student pursuing B.tech in Computer Engineering
 - GitHub: [KPrathamesh-27](https://github.com/KPrathamesh-27)
 
+#### Name: [ADITYA KUMAR TIWARI](https://github.com/ironspec07)
+
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: I am a Computer Science Engineering student from Vellore Institute Of Technology,Bhopala
+- GitHub: [ironspec07](https://github.com/ironspec07)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
