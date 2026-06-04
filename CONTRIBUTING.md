@@ -4753,6 +4753,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: 15 yrs, Ex-CTO, Ex-TCS, Expert in engg. mgmt & solutions delivery, Led teams with servant leadership, Seeking #NewChallenges #EnggManagerPlusRoles
 - GitHub: [mrudang-vora](https://github.com/mrudang-vora)
 
+#### Name: [Mohammed Aman](https://giithub.com/beastaman)
+
+- Place: Hyderabad, Telangana, India
+- Bio: Frontend  Developer | ReactJs Developer | Tech Enthusiast
+- GitHub: [beastaman](https://github.com/beastaman)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
