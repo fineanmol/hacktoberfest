@@ -5283,6 +5283,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a B.Tech 2nd-year student at Meghnad Saha Institute of Technology.
 - GitHub: [youtanimstar](https://github.com/youtanimstar)
 
+#### Name: [iNuad](https://github.com/inuad)
+
+- Place: Bangkok, Thailand
+- Bio: Senior Full-Stack developer.
+- GitHub: [iNuad](https://github.com/inuad)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
