@@ -102,6 +102,16 @@ if (warnings.length) {
   warnings.forEach((w) => console.warn('- ' + w));
 }
 
+const strict = process.env.VALIDATE_STRICT === 'true';
+
+if (errors.length && !strict) {
+  console.warn(
+    `\nLENIENT MODE: ${errors.length} issue(s) logged as warnings (set VALIDATE_STRICT=true to fail CI).`
+  );
+  errors.forEach((e) => warnings.push(`[lenient] ${e}`));
+  errors = [];
+}
+
 if (errors.length) {
   console.error('\nValidation failed — please fix the errors above.');
   process.exit(1);

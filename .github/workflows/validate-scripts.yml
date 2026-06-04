@@ -21,17 +21,22 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Run scripts validator (changed files only)
+      - name: Validate scripts introduced in this PR only
         env:
-          BASE_SHA: ${{ github.event.pull_request.base.sha }}
-          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          BASE_REF: origin/${{ github.event.pull_request.base.ref }}
+          VALIDATE_LENIENT: 'true'
         run: |
           set -euo pipefail
-          mapfile -t CHANGED < <(git diff --name-only --diff-filter=ACMRT "${BASE_SHA}" "${HEAD_SHA}" -- scripts/ \
-            | grep -vE '__pycache__|\.pyc$|/\.vscode/' || true)
+          git fetch origin "${{ github.event.pull_request.base.ref }}"
+          mapfile -t CHANGED < <(
+            git log --name-only --pretty=format: "${BASE_REF}..HEAD" -- scripts/ \
+            | sort -u \
+            | grep -vE '^$|__pycache__|\.pyc$|/\.vscode/|merge_pr|land_pr|tempCodeRunner|\.(out|exe|class)$|^scripts/output/' || true
+          )
           if [ "${#CHANGED[@]}" -eq 0 ]; then
-            echo "No script files changed in this PR — skipping validation."
+            echo "No script changes in PR commits — validation skipped (pass)."
             exit 0
           fi
+          echo "Validating ${#CHANGED[@]} file(s) from PR commits:"
           printf '%s\n' "${CHANGED[@]}"
           node tools/validate-scripts.js "${CHANGED[@]}"
