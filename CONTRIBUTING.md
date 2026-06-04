@@ -5113,6 +5113,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Chemical Engineering student from HBTU Kanpur.
 - GitHub: [Prakhar Srivastava](https://github.com/Prakhar047)
 
+#### Name: [Gaurav Bhaskar](https://github.com/gauravbhaskar080)
+
+- Place: Delhi, India
+- Bio: Fullstack Developer | Competitive Programmer
+- GitHub: [Gaurav Bhaskar](https://github.com/gauravbhaskar080)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
