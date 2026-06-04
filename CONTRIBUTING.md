@@ -4850,6 +4850,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A proactive developer with a strong track record of meeting project deadlines. Ability to solve issues and provide innovative software solutions.
 - GitHub: [Adityachaturvedi2906](https://github.com/Adityachaturvedi2906)
 
+#### Name: [Ikechukwu Kalu](https://github.com/ikechukwu750)
+
+- Place: Umuahia, Abia State, Nigeria
+- Bio: Third Year undergraduate pursuing B.Sc in Computer Science
+- GitHub: [Ikechukwu750](https://github.com/ikechukwu750)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
