@@ -5034,6 +5034,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I'm Passionate about Frontend development
 - GitHub: [Saurabh R](https://github.com/saurabh29r)
 
+#### Name: [Kanin](https://github.com/knmixsiri)
+
+- Place: Bangkok, Thailand
+- Bio: Software developer | Algorithmic Trader
+- GitHub: [Kanin](https://github.com/knmixsiri)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
