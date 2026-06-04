@@ -5307,6 +5307,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Engineering Student | Android Developer
 - GitHub: [Kritikmahajan](https://github.com/Kritikmahajan)
 
+#### Name: [Richmond](https://github.com/hateryx)
+
+- Place: Davao City, Philippines
+- Bio: Full stack developer, data engineer, former IT auditor
+- GitHub: [Hateryx](https://github.com/hateryx)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
