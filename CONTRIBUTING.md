@@ -3041,6 +3041,13 @@
 - Bio: Student
 - GitHub: [Cherry3939](https://github.com/Cherry3939)
 
+#### Name: [Shuvayu](GitHub link)
+
+- Place: Kolkata, WB, India
+- Bio: Pre Final Year Computer Science Student in National Institue of technology Goa.
+Building Apps on Next.js and Flutter
+- GitHub: [ShuvayuSarkar](https://github.com/ShuvayuSarkar)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
