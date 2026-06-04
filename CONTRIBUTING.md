@@ -5438,6 +5438,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Second year Btech, Computer Science and Engineering.
 - GitHub: [Abdul Azeez](https://github.com/Abdul-Azeez060)
 
+#### Name: [Ankit Saurabh](https://github.com/ankits57)
+
+- Place: Patna, India
+- Bio: Frontend Developer | ML/AI Enthusiast
+- GitHub: [Ankit Saurabh](https://github.com/ankits57)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
