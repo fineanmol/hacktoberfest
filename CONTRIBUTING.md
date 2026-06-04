@@ -5177,6 +5177,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Frontend App & Web Developer
 - GitHub: [maztt](https://github.com/No0b-master)
 
+#### Name: [SAMYAK KHAIRNAR](https://github.com/SamyakKhairnar)
+
+- Place: Pune, Maharashtra, India
+- Bio: I'm a BCOM Grad, Learnt about Frontend Dev And Then Switched Career in IT as a Software Developer in an MNC.
+- GitHub: [SAMYAK KHAIRNAR](https://github.com/SamyakKhairnar)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
