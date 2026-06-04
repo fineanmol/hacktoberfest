@@ -4969,6 +4969,11 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Computer science professional with expertise in C, JavaScript, CSS, and HTML for web design and development. Strong communication and leadership skills. Proficient in Microsoft Word and PowerPoint. Enthusiastic about basketball and tennis
 - GitHub: [iamdiinesh](https://github.com/iamdiinesh)
 
+#### Name: [Hitesh](https://github.com/kumarhites)
+-   Place: Jamshedpur, India
+-   Bio: Frontend Developer
+-   GitHub: [kumarhitesh](https://github.com/kumarhites)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
