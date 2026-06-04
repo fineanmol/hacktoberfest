@@ -5498,6 +5498,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Systems Engineer student and software developer apassionate.
 - GitHub: [Octavene16](https://github.com/Octavene16)
 
+#### Name: [Oussama](https://github.com/OssamaLouati)
+
+- Place: Rabat, Rabat-Salé, Morocco
+- Bio: 2024 CS graduate from INPT Rabat, Advanced Software Engineering for Digital Services
+- GitHub: [OussamaLouati](https://github.com/OssamaLouati)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
