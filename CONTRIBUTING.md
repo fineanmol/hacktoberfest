@@ -5504,6 +5504,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: 2024 CS graduate from INPT Rabat, Advanced Software Engineering for Digital Services
 - GitHub: [OussamaLouati](https://github.com/OssamaLouati)
 
+#### Name: [Afthab](https://github.com/AfthabEK)
+
+- Place: Calicut, Kerala, India
+- Bio: Third Year undergrad pursuing B.tech in Computer Science & Engineering
+- GitHub: [AfthabEK](https://github.com/AfthabEK)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
