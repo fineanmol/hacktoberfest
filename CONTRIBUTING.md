@@ -5313,6 +5313,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Full stack developer, data engineer, former IT auditor
 - GitHub: [Hateryx](https://github.com/hateryx)
 
+#### Name: [YUVRAJ VERMA](https://github.com/yuvrajverma01)
+
+- Place: Bangalore, Karnataka, India
+- Bio: SDET Engineer
+- GitHub: [@yuvrajverma01](https://github.com/yuvrajverma01)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
