@@ -5366,6 +5366,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final year Btech grad in Computer Science and Engg
 - GitHub: [yushiee](https://github.com/yushiee)
 
+#### Name: [Kumar Bishwa Kalyan](https://github.com/sickodev)
+
+- Place: Rourkela, Odisha, India
+- Bio: Fullstack Developer | Game Developer | XR Enthusiast | Rookie Music Producer
+- GitHub: [sikodev](https://github.com/sickodev)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
