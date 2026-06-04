@@ -3270,6 +3270,12 @@ Building Apps on Next.js and Flutter
 - Bio: Fourth Year undergrad pursuing B.tech in Information Science & Engineering
 - GitHub: [Anandraj2908](https://github.com/Anandraj2908)
 
+#### Name: [Arpon](https://github.com/LifeHashed)
+
+- Place: Kolkata, WB, India
+- Bio: Third Year undergrad pursuing Computer Science and Engg at NIT-DGP
+- Github: [LifeHashed](https://github.com/LifeHashed)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
