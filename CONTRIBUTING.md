@@ -5546,6 +5546,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Frontend Engineer
 - GitHub: [Muhammad Ridho Anshory](https://github.com/addhory)
 
+#### Name: [HARSH KASHIWAL](https://github.com/KashiwalHarsh)
+
+- Place: Dehradun, Uttarakhand, India
+- Bio: I am a Computer Science Engineering student and i have keen interest in Software Development
+- GitHub: [KashiwalHarsh](https://github.com/KashiwalHarsh)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
