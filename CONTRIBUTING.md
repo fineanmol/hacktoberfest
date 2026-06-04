@@ -5384,6 +5384,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Frontedn developer
 - GitHub: [Ilya Burch](https://github.com/IlyaBurch)
 
+#### Name: [Sivia Anzal](https://github.com/sivia1)
+
+- Place: Jorhat, Assam, India
+- Bio: Second Year Undergrad pursuing B.tech in CSE
+- GitHub: [sivia1](https://github.com/sivia1)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
