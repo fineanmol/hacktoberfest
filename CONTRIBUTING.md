@@ -3090,6 +3090,12 @@ Building Apps on Next.js and Flutter
 - Bio: Third Year undergrad pursuing B.tech in Computer Science and Engineering with specialization in Artificial Intelligence
 - GitHub: [SachinKukkar](https://github.com/SachinKukkar)
 
+#### Name: [Kartik](https://github.com/KartikXx)
+
+- Place: Chennai, Tamil Nadu, India
+- Bio: Third year B.tech student pursuing CSE from SRMIST.
+- GitHub: [KartikXx](https://github.com/KartikXx)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
