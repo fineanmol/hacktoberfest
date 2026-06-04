@@ -5194,6 +5194,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Working professionallyas a UI/UX Designer, have recently started learning Frontend Technologies and want to also explore in open source.
 - GitHub: [Utkarsh1520](https://github.com/Utkarsh1520)
 
+#### Name: [PRIYANSHU SHARMA](https://github.com/priyanshusharma80)
+
+- Place: Bareilly, Uttar Pradesh, India
+- Bio: Level 1 Freelancer @Fiverr | Social Media Manager & SEO
+- GitHub: [priyanshusharma80](https://github.com/priyanshusharma80)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
