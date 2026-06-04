@@ -3054,6 +3054,14 @@ Building Apps on Next.js and Flutter
 - Bio: I am a Computer Science Engineering student from Institute Of Engineering and Technology, MLSU,Udaipur
 - GitHub: [surendra-sk](https://github.com/surendra-sk)
 
+#### Name: [Sachini Sahasra](https://github.com/Sahasra0108)
+
+- Place: Kalutara , SriLanka
+- Bio:Full-Stack Developer| IT Undergraduate| University of Moratuwa
+- GitHub: [3mYouOL](https://github.com/Sahasra0108)
+
+- GitHub: [Sahasra0108](https://github.com/07tAn)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
