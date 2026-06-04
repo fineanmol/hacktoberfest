@@ -4980,6 +4980,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: First year postgraduate pursuing Msc.Data Science at VIT Chennai.
 - GitHub: [Raghavan-B](https://github.com/Raghavan-B)
 
+#### Name: [MANSI PRAJAPATI](https://github.com/Mansiprajapatii)
+
+- Place: iNDORE, INDIA
+- Bio: I am a Computer Science Engineering student from SVVV, Indore and I am a full Stack developer
+- GitHub: [Mansiprajapatii](https://github.com/Mansiprajapatii)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
