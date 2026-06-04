@@ -3299,6 +3299,12 @@ Building Apps on Next.js and Flutter
 - Bio: I am learner and on path to become full stack developer.
 - GitHub: [Sthorat](https://github.com/Sthorat22)
 
+#### Name: [Ramya](https://github.com/Ramya-Clg)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: Third Year undergrad pursuing B.tech in Information and communication technology
+- GitHub: [Ramya-Clg](https://github.com/Ramya-Clg)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
