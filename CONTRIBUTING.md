@@ -3282,6 +3282,11 @@ Building Apps on Next.js and Flutter
 - Bio: Sophomore pursuing B.Tech Computer Science and Engineering. Passionate developer with interests in algorithms, web development, and problem-solving.
 - GitHub: [vishwasvk35](https://github.com/vishwasvk35)
 
+#### Name: [Sayan Kundu](https://github.com/electro-coder)
+- Place: Andhra Pradesh, India
+- Bio: Student, Software Developer
+- Github: [electro-coder](https://github.com/electro-coder)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
