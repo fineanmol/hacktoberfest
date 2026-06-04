@@ -3084,6 +3084,12 @@ Building Apps on Next.js and Flutter
 -Place : Jabalpur, India
 -Bio : Full Stack Developer
 
+#### Name: [Sachin Kukkar](https://github.com/SachinKukkar)
+
+- Place: Jaipur, Raj, India
+- Bio: Third Year undergrad pursuing B.tech in Computer Science and Engineering with specialization in Artificial Intelligence
+- GitHub: [SachinKukkar](https://github.com/SachinKukkar)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
