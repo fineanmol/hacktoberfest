@@ -5206,6 +5206,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I'm a novice software developer and pixel artist.
 - GitHub: [Palmtree Productions](https://github.com/RJPalmer)
 
+#### Name: [Dibyasankha Pal](https://github.com/palsuryaofficio)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Final Year geek from UEM Kolkata teaching machines since 2017
+- GitHub: [palsuryaofficio](https://github.com/palsuryaofficio)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
