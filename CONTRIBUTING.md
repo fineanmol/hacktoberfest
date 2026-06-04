@@ -4759,6 +4759,13 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Frontend  Developer | ReactJs Developer | Tech Enthusiast
 - GitHub: [beastaman](https://github.com/beastaman)
 
+#### Name: [Kudaya Paul Yao](https://github.com/0xNunana)
+
+- Place:Accra, Ghana
+- Bio: Software Devekoper,Open Source Contributor , Traveller
+- Affiliation : Envisio Live
+- GitHub: [0xNunana](https://github.com/0xNunana)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
