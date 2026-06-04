@@ -3210,6 +3210,12 @@ Building Apps on Next.js and Flutter
 - Bio: Software engineer, passionate about web development, machine learning, and open source.
 - GitHub: [vahghar](https://github.com/vahghar)
 
+#### Name: [Shivakumar Mazhuvan](https://github.com/smazhuvan)
+
+- Place: Chennai, TN, India
+- Bio: Front-end developer in a startup named Farm2Flavour
+- GitHub: [smazhuvan](https://github.com/smazhuvan)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
