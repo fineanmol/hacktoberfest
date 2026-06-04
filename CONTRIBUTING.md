@@ -4808,6 +4808,18 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Second year undergrad pursuing Bachelor of Computer Engineering at Thapar Institute of Engineering and Technology
 - GitHub: [AryanSaxenaa](https://github.com/AryanSaxenaa)
 
+#### Name: [Harsh Kushwaha](https://github.com/harshkushwaha2001)
+
+- Place: Kanpur, India
+- Bio: Final year student , Persuing B.Tech in CSE from HBTU.
+- GitHub: [Harsh Kushwaha](https://github.com/harshkushwaha2001)
+
+#### Name: [Abdul Rehan](https://github.com/abrehan2)
+
+- Place: Islāmābād, Pakistan
+- Bio: Hello 👋, I'm Rehan, a final-year software engineering student from Air University.
+- GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
