@@ -4802,6 +4802,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Im a student at NHS
 - GitHub: [ohohoh456](https://github.com/ohohoh456)
 
+#### Name: [Aryan Saxena](https://github.com/AryanSaxenaa)
+
+- Place: Aligarh, Uttar Pradesh, India
+- Bio: Second year undergrad pursuing Bachelor of Computer Engineering at Thapar Institute of Engineering and Technology
+- GitHub: [AryanSaxenaa](https://github.com/AryanSaxenaa)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
