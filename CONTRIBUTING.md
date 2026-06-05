@@ -6278,6 +6278,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Junior Frontend developer with experience in SEO
 - GitHub: [StilyanaS](https://github.com/StilyanaS)
 
+#### Name: [Kaustubh Kulkarni](https://github.com/KulkarniKaustubh)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Computer Science Undergraduate
+- GitHub: [KulkarniKaustubh](https://github.com/KulkarniKaustubh)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
