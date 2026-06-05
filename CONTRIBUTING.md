@@ -6421,6 +6421,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Doing my Bachelor's in Data Science 5th semester
 - GitHub: [Hamna12](https://github.com/Hamna12)
 
+#### Name: [ANAMIKA JAIN](https://github.com/ANAMIKA1410)
+
+- Place: SAGAR, Madhya Pradesh, India
+- Bio: I am a Computer Science Engineering student from Samrat Ashok Technological Institute Vidisha (M.P.)
+- GitHub: [ANAMIKA1410](https://github.com/ANAMIKA1410)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
