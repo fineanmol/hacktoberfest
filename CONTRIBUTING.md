@@ -6231,6 +6231,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Computer Applications Student.
 - GitHub: [WatshiwaSid](https://github.com/WatashiwaSid)
 
+#### Name: [HASIR AHMAD](https://github.com/hasirm)
+
+- Place: Malappuram, Kerala, India
+- Bio: I am a Artificial Intelligence And Data Science Engineering student from Sri Shanmugha College of Engineering and Technology Sankari
+- GitHub: [hasrim](https://github.com/hasirm)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
