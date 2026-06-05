@@ -5926,6 +5926,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Second Year student pursuing B.Tech in Computer Science Engineering
 - GitHub: [PriyaSingh03](https://github.com/PriyaSingh03)
 
+#### Name: [Votes Wakoli ](https://github.com/wakoliVotes)
+
+- Place: Nairobi, Nairobi, Kenya
+- Bio: Software Engineer | Writer
+- GitHub: [wakoliVotes](https://github.com/wakoliVotes)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
