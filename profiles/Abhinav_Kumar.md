@@ -1,13 +1,31 @@
-# Abhinav Kumar
+# Your Name
+
+Abhinav Kumar
 
 ### Location
 
-WB/INDIA
+Manipal
 
 ### Academics
 
-B.Tech in IT from IIEST, Shibpur
+Manipal Institute of Technology
+
+### Interests
+
+- Web Developement
+- DevOps
+- UI/UX 
+- Basketball
+
+
+### Development
+
+- I am a full stack developer, specialized in MERN stack and currently exploring devops field..
+
+### Projects
+
+- https://www.mindcommute.com 
 
 ### Profile Link
 
-[Abhinav Kumar](https://github.com/abhinavk454)
+https://github.com/abhinav2712
