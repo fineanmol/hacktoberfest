@@ -5701,6 +5701,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Student in HS
 - Github: [123HelloBob](https://github.com/123HelloBob)
 
+#### Name: [Naina](https://github.com/Naina047)
+
+- Place: Amritsar, India
+- Bio: I'm a Frontend Developer and pursuing B.tech in Computer Science Engineering
+- GitHub: [Naina047](https://github.com/Naina047)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
