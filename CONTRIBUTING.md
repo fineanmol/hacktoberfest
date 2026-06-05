@@ -5974,6 +5974,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Software Engineer
 - GitHub: [dhiemaz](https://github.com/dhiemaz)
 
+#### Name: [Ganesh](https://github.com/ganeshmajhi)
+
+- Place: Bengaluru, India
+- Bio: Working as a developer in 21n78e Creative Labs.
+- GitHub: [Ganesh](https://github.com/ganeshmajhi)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
