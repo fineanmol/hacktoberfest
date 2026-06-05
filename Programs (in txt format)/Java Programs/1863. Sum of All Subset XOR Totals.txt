@@ -1,0 +1,50 @@
+Leetcode - 1863. Sum of All Subset XOR Totals
+https://leetcode.com/problems/sum-of-all-subset-xor-totals/
+
+
+class Solution {
+    int sum=0;
+    
+    public int subsetXORSum(int[] n) {
+        if(n.length==1){
+            return n[0];
+        }
+        else if(n.length==2){
+            return (n[0]+n[1]+n[0]^n[1]);
+        }
+        boolean b[]=new boolean[n.length];
+        Arrays.fill(b,false);
+        int a=0;
+        int s=0;
+        s+=n[0];
+        String st="";
+        for(int i=1;i<n.length;i++){
+            s+=n[i];
+            sum=0;
+            a=xor(n,0,i+1,b,0,-1,st);
+            s+=a; 
+            //System.out.println("  "+s+"      "+a);
+            
+        }
+        return s;
+    }
+    public int xor(int[] n,int co, int te,boolean[] b, int s,int li, String st){
+        if(co==te){
+            //System.out.println(s);
+            sum+=s;
+            return s;
+        }
+        for(int i=li+1;i<n.length;i++){
+            if(b[i]==false){
+                b[i]=true;
+                //System.out.println("  "+s+" "+n[i]);
+                int x=s;
+                s=s^n[i];
+                int a=xor(n,co+1,te,b,s,i,st+" "+n[i]);
+                s=x;
+                b[i]=false;
+            }
+        }
+        return sum;
+    }
+}
