@@ -6243,6 +6243,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [kratika](https://github.com/kratikagupta2002)
 
+#### Name: [Shlok](https://github.com/shlokjjw)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Third Year undergrad pursuing B.tech in Electrical Engineering
+- GitHub: [shlokjjw](https://github.com/shlokjjw)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
