@@ -5819,6 +5819,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Information Technology student from Netaji Subash University of Technology
 - GitHub: [hs309123](https://github.com/hs309123)
 
+#### Name: [Sugam Goel](https://github.com/Sugamgoel28)
+
+- Place: Noida, Uttar Pradesh, India
+- Bio: I am pre-final year engineer undergraduate at National Institute of Technology, Rourkela.
+- GitHub: [Sugamgoel28 ](https://github.com/Sugamgoel28)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
