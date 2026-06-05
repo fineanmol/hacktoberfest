@@ -1,32 +1,8 @@
-#### Name: [Stephen Nwankwo](https://github.com/stenwire)
-
-- Place: Lagos, LAG, NIGERIA
-- Bio: Software Engineering, AI enthusiats and Gamer.
-- GitHub: [stenwire](https://github.com/stenwire)
-
-#### Name: [Rudreshwar Baranwal](https://github.com/devrudra9)
-
-- Place: Pratapgarh, Uttar Pradesh, India
-- Bio: I am a competitive programmer and a frontend web developer too.
-- GitHub: [devrudra9](https://github.com/devrudra9)
-
-#### Name: [Jay Mehta](https://github.com/jaymehta002)
-
-- Place: Lagos, LAG, NIGERIA
-- Bio: Aspiring Software Engineer
-- GitHib: [Jay Mehta](https://github.com/jaymehta002)
-
 #### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
 - Place: Lagos, LAG, NIGERIA
 - Bio: Aspiring Software Engineer
 - GitHib: [Oluwatomilola](https://github.com/DevTomilola-OS)
-
-#### Name: [Sujal Goswami](https://github.com/sujal-goswami)
-
-- Place: Jaipur, India
-- Bio: Second-year college student
-- GitHub: [Sujal Goswami](https://github.com/sujal-goswami)
 
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
@@ -554,7 +530,8 @@
 
 - Place: Indore, Madhya Pradesh, Indore
 - Bio: I am cyber security enthusiastic.
-- # GitHub: [naman1102](https://github.com/naman1102)
+- GitHub: [naman1102](https://github.com/naman1102)
+=======
 
 #### Name: [Saugat Rimal](https://github.com/saugat-rimal)
 
@@ -562,17 +539,12 @@
 - Bio: I am a wordpress and frontend dev
 - GitHub: [Saugat Rimal](https://github.com/saugat-rimal)
 
+
 #### Name: [Shubh Rastogi](https://github.com/shubhrastogi07)
 
 - Place: Lucknow, Uttar Pradesh, India
 - Bio:Just a learner, exploring and experimenting with new things
 - GitHub: [shubhrastogi07](https://github.com/shubhrastogi07)
-
-#### Name: [Aditya Gaurav Bhagat](https://github.com/adityeah2k)
-
-- Place: Dhanbad, Jharkhand, India
-- Bio: I'm a college student currently learning full stack web development.
-- GitHub: [adityeah2k](https://github.com/adityeah2k)
 
 #### Name: [Nurkholiq Agani Hafid](https://github.com/nurkholiqaganihafid)
 
@@ -580,20 +552,8 @@
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
 
-#### Name: [Mansa Dixit](https://github.com/mansadixit)
+#### Name: [Chad](https://github.com/ichadhr)
 
-- Place: Jaipur, Rajasthan, India
-- Bio: I am a Third Year CSE student, I am a technology enthusiast.
-- GitHub: [mansadixit](https://github.com/mansadixit)
-
-#### Name: [Aman Sharma](https://github.com/amansharma703)
-
--   Place: Gorakhpur, UP, India
--   Bio: Full-Stack Developer
--   GitHub: [amansharma703](https://github.com/amansharma703)
-
-#### Name: [Juliet Maria](https://github.com/JulietMaria)
-
--   Place: Chennai,TN, India
--   Bio: Full-Stack Developer
--   GitHub: [JulietMaria](https://github.com/JulietMaria)
+- Place: Bekasi, West Java, Indonesia
+- Bio: Gravity always wins..
+- GitHub: [ichadhr](https://github.com/ichadhr)
