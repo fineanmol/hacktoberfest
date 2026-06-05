@@ -1,8 +1,17 @@
 .DS_Store
-# CONTRIBUTING.md
-# .github/
 thumbs.db
 **/venv/
 __pycache__/
 *.pyc
 scripts/a.out
+*.exe
+tempCodeRunnerFile.*
+# Prevent PR junk at repo root (belongs in scripts/ only)
+/*.py
+/*.cpp
+/*.c
+/*.java
+/*.js
+/*.html
+/*.css
+/*.class
