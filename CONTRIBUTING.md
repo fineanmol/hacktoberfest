@@ -6201,6 +6201,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 
 =======
 
+#### Name: [Zain Ali Shah](https://github.com/ShawFromAttock)
+
+- Place: Islamabad, Pakistan
+- Bio: I am a Computer Engineering student from COMSATS Islamabad
+- GitHub: [ShawFromAttock](https://github.com/ShawFromAttock)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
