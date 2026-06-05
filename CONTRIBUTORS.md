@@ -1,5 +1,4 @@
 #### Name: [Stephen Nwankwo](https://github.com/stenwire)
-
 - Place: Lagos, LAG, NIGERIA
 - Bio: Software Engineering, AI enthusiats and Gamer.
 - GitHub: [stenwire](https://github.com/stenwire)
@@ -592,8 +591,7 @@
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
 
-#### Name: [Swati Shikha](https://github.com/ShikhaSwati60)
-
-- Place: Bihar, India
-- Bio: Software Engineering, Coder
-- GitHub: [ShikhaSwati60](https://github.com/ShikhaSwati60)
+#### Name: [Manus Gupta](https://github.com/Manus-MG)
+-  Lucknow, UttarPradesh, India
+-  Pre-Final year Student of Shri Ramswaroop Memorial college of engineering and management
+-  GitHub: [Manus Gupta](https://github.com/Manus-MG)
