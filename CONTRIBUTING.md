@@ -5785,6 +5785,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a Software Developer, graduate of Mathematics
 - GitHub: [shiva5152](https://github.com/shiva5152)
 
+#### Name: [Aritro Chakraborty](https://github.com/aritrochakraborty29)
+
+- Place: Kolkata, West Brengal, India
+- Bio: Member of Technical Staff, part time golang + python developer
+- GitHub: [AritroChkraborty29](https://github.com/aritrochakraborty29)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
