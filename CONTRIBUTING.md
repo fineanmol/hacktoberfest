@@ -6034,6 +6034,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [Soumojit Chakraborty](https://github.com/SOUMOJIT-CHAKRABORTY)
 
+#### Name: [Ruphaa Ganesan](https://github.com/ruphaa)
+
+- Place: Sydney, Australia
+- Bio: Software Engineer
+- GitHub: [ruphaa](https://github.com/ruphaa)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
