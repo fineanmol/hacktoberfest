@@ -5968,6 +5968,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: First year undergrad pursuing B.Tech in Information Technology at Netaji Subhash Engineering College, Garia
 - GitHub: [soudeepan](https://github.com/soudeepan)
 
+#### Name: [Dimas](https://github.com/dhiemaz)
+
+- Place: Depok, West Java
+- Bio: Software Engineer
+- GitHub: [dhiemaz](https://github.com/dhiemaz)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
