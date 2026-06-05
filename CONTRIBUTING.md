@@ -5992,6 +5992,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: MS in Computer Science at Syracuse University
 - GitHub: [SusheelG1197](https://github.com/susheelg1197)
 
+#### Name: [Sherly Febrianti](https://github.com/sherlyfebrianti96)
+
+- Place: Oslo, Norway
+- Bio: Frontend Developer
+- GitHub: [sherlyfebrianti96](https://github.com/sherlyfebrianti96)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
