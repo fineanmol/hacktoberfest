@@ -6409,6 +6409,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Pre Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/arpanpeter)
 
+#### Name: [Tushar Sublaik](https://github.com/tushar-sublaik)
+
+- Place: Jalandhar, Punjab, India
+- Bio: B.Tech 2nd year Student at NIT, Jalandhar
+- GitHub: [tushar-sublaik](https://github.com/tushar-sublaik)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
