@@ -5932,6 +5932,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Software Engineer | Writer
 - GitHub: [wakoliVotes](https://github.com/wakoliVotes)
 
+#### Name: [Mahad](https://github.com/Mahad-Khan)
+
+- Place: Karachi, Sindh, Pakistan
+- Bio: Backend Developer
+- GitHub: [Mahad-Khan](https://github.com/Mahad-Khan)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
