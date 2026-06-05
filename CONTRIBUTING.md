@@ -5879,6 +5879,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 -Bio: Student at VIT, Chennai
 -GitHub: [Parul Tiwari](https://github.com/Parultiwarii)
 
+#### Name: [Pankaj Singh](https://github.com/pankaj-2503)
+
+- Place: Sarita Vihar, Badarpur , New Delhi
+- Bio: I am third year undergrad student pursuing B.tech in Instrumentation and Control Engineering from NSUT
+- GithHub: [pankaj-2503](https://github.com/pankaj-2503)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
