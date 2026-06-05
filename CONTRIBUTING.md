@@ -6028,6 +6028,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Software Consultant
 - Github: [salmantec](https://github.com/salmantec)
 
+#### Name: [Soumojit Chakraborty](https://github.com/SOUMOJIT-CHAKRABORTY)
+
+- Place: Kolkata , India
+- Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
+- GitHub: [Soumojit Chakraborty](https://github.com/SOUMOJIT-CHAKRABORTY)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
