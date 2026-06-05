@@ -6296,6 +6296,11 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Im a Student and a programer
 - GitHub: [xPutraGm](https://github.com/xPutraGm)
 
+#### Name: Tarif Hingolja (https://github.com/mr-hingolja)
+- Place: Surendranagar, Gujarat, India
+- Bio: I am Tarif Hingolja , Student of CSE in Government Engineering college. I have core technical programming language skill like html,css,php , C , Java
+- GitHub: [mr-hingolja](https://github.com/mr-hingolja)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
