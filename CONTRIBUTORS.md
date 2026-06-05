@@ -100,12 +100,6 @@
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
 
-#### Name: [Prachi Gupta](https://github.com/Prachi-22-81)
-
-- Place: Delhi, India
-- Bio: Student
-- GitHub: [Prachi-22-81](https://github.com/Prachi-22-81)
-
 #### Name: [Devesh](https://github.com/Devesh1602)
 
 - Place: Pune, Maharashtra, INDIA
@@ -440,7 +434,7 @@
 
 - Place: Mumbai, India
 - Bio: Developer | Coder
-- GitHub: [tanishkarao16](https://github.com/tanishkarao16)
+- GitHub: [tanishkarao16] (https://github.com/tanishkarao16)
 
 #### Name: [Tyler Bacon](https://github.com/tbacon781)
 
@@ -610,8 +604,8 @@
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
 
-#### Name: [Manav Agarwal](https://github.com/Hadeso-0)
+#### Name: [Germán Sosa Goy](https://github.com/germansosagoy)
 
-- Place: Ghaziabad, Uttar Pradesh, India
-- Bio: I am a Frontend Developer, proficient in React and also a UI/UX Designer.
-- GitHub: [Hadeso-0](https://github.com/Hadeso-0)
+- Place: Chaco, Argentina
+- Bio: Front-End Developer
+- GitHub: [germansosagoy](https://github.com/germansosagoy)
