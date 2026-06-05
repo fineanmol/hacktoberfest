@@ -6361,6 +6361,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: First Year Student at IIM Ahmedabad
 - GitHub: [kbhandari98](https://github.com/kbhandari98/)
 
+#### Name: [Rudranil Bhattacharjee](https://github.com/exotic123567)
+
+- Place: Kolkata, West Bengal, India
+- Bio: A 2nd year student of B.Tech CSE with a knack towards content creation, design and anime
+- GitHub: [exotic123567](https://github.com/exotic123567)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
