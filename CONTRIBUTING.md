@@ -5873,6 +5873,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: More intrested in Front-end technologies
 - GitHub: [janvi2002](https://github.com/janvi2002)
 
+#### Name: [Parul Tiwari](https://github.com/Parultiwarii)
+
+-Place: New Delhi, India
+-Bio: Student at VIT, Chennai
+-GitHub: [Parul Tiwari](https://github.com/Parultiwarii)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
