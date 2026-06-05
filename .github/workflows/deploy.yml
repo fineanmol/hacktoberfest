@@ -26,10 +26,10 @@ jobs:
         with:
           node-version: '20.19.0'
           cache: 'npm'
-          cache-dependency-path: hacktoberfest-react/package.json
+          cache-dependency-path: hacktoberfest-react/package-lock.json
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
         working-directory: hacktoberfest-react
 
       - name: Build site (Vite)
