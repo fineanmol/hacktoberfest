@@ -5576,6 +5576,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Second Year CSE Student at Lovely Professional University, Punjab
 - GitHub: [YKGupta](https://github.com/YKGupta)
 
+#### Name: [Ishan Dutta](https://github.com/ishandutta0098)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Deep Learning Researcher
+- GitHub: [ishandutta0098](https://github.com/ishandutta0098)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
