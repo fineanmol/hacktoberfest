@@ -1,3 +1,21 @@
+#### Name: [Jay Mehta](https://github.com/jaymehta002)
+
+- Place: Lagos, LAG, NIGERIA
+- Bio: Aspiring Software Engineer
+- GitHib: [Jay Mehta](https://github.com/jaymehta002)
+
+#### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
+
+- Place: Lagos, LAG, NIGERIA
+- Bio: Aspiring Software Engineer
+- GitHib: [Oluwatomilola](https://github.com/DevTomilola-OS)
+
+#### Name: [Sujal Goswami](https://github.com/sujal-goswami)
+
+- Place: Jaipur, India
+- Bio: Second-year college student
+- GitHub: [Sujal Goswami](https://github.com/sujal-goswami)
+
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
 - Place: Gainesville, FL, USA
@@ -21,6 +39,12 @@
 - Place: Delhi, India
 - Bio: Student
 - GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
+
+#### Name: [Prashant Bhapkar](https://github.com/Prashant-Bhapkar)
+
+- Place: Pune, India
+- Bio: Student
+- GitHub: [Prashant Bhapkar](https://github.com/Prashant-Bhapkar)
 
 #### Name: [Ishan Katoch](https://github.com/ishan-1010)
 
@@ -88,6 +112,12 @@
 - Bio: 12 Year Old Just Chillin
 - GitHub: [Ryan-techie](https://github.com/Ryan-techie)
 
+#### Name: [Abhibhab Mitra Thakur](https://github.com/Abhibhab)
+
+- Place: INDIA
+- Bio: 3rd year student
+- GitHub: [Ryan-techie](https://github.com/Abhibhab)
+
 #### Name: [Soham](https://github.com/sohamtembhurne)
 
 - Place: India
@@ -117,6 +147,12 @@
 - Place: Lucknow, Uttar Pradesh, India
 - Bio: Computer science final year student
 - GitHub: [Sayam241020](https://github.com/Sayam241020)
+
+#### Name: [Chayandev Bera](https://github.com/Chayandev)
+
+- Place: Kolkata , West Bengal , India
+- Bio: Computer science 2nd year student
+- GitHub: [Chayandev](https://github.com/Chayandev)
 
 #### Name: Muhammad Noorani
 
@@ -502,11 +538,29 @@
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
 
+#### Name: [Naman Mehta](https://github.com/naman1102)
+
+- Place: Indore, Madhya Pradesh, Indore
+- Bio: I am cyber security enthusiastic.
+- # GitHub: [naman1102](https://github.com/naman1102)
+
+#### Name: [Saugat Rimal](https://github.com/saugat-rimal)
+
+- Place: Biratnagar, Nepal
+- Bio: I am a wordpress and frontend dev
+- GitHub: [Saugat Rimal](https://github.com/saugat-rimal)
+
 #### Name: [Shubh Rastogi](https://github.com/shubhrastogi07)
 
 - Place: Lucknow, Uttar Pradesh, India
 - Bio:Just a learner, exploring and experimenting with new things
 - GitHub: [shubhrastogi07](https://github.com/shubhrastogi07)
+
+#### Name: [Aditya Gaurav Bhagat](https://github.com/adityeah2k)
+
+- Place: Dhanbad, Jharkhand, India
+- Bio: I'm a college student currently learning full stack web development.
+- GitHub: [adityeah2k](https://github.com/adityeah2k)
 
 #### Name: [Nurkholiq Agani Hafid](https://github.com/nurkholiqaganihafid)
 
@@ -514,8 +568,15 @@
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
 
-#### Name: [Anurag Roy](https://github.com/AnuragRoy485)
+#### Name: [Mansa Dixit](https://github.com/mansadixit)
 
-- Place: Kolkata,India
-- Bio: Programmer,Student
-- GitHub: [AnuragRoy485](https://github.com/AnuragRoy485)
+- Place: Jaipur, Rajasthan, India
+- Bio: I am a Third Year CSE student, I am a technology enthusiast.
+- GitHub: [mansadixit](https://github.com/mansadixit)
+
+#### Name: [Som Chandra](https://github.com/Somchandra17)
+
+- Place: Jalandhar, Punjab, India
+- Bio: Cybersecurity Red team enthusiast currently pursuing BTech CSE Second Year
+- Github: [somchandra17](https://github.com/Somchandra17)
+
