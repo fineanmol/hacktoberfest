@@ -5761,6 +5761,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: 3rd Year Information System Undergraduate
 - GitHub: [Ravindu007](https://github.com/Ravindu007)
 
+#### Name: [Chamod Isuru](https://github.com/isuruisuru)
+
+- Place: Kegalle, Sabaragamuwa, Sri Lanka
+- Bio: Full Stack Developer
+- GitHub: [isuruisuru](https://github.com/isuruisuru)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
