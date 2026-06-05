@@ -6325,6 +6325,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am an ECE Undergrad.
 - GitHub: [Rivuozil](https://github.com/Rivuozil)
 
+#### Name: [Harshit Kumar Srivastava](https://github.com/StringHks)
+
+- Place: Patia ,Bhubhaneshwar , India
+- Bio: Student of Computer Science And Engineering
+- GitHub: [StringHks](https://github.com/StringHks)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
