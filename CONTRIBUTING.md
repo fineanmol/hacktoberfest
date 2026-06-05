@@ -6004,6 +6004,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A student
 - GitHub: [amilab](https://github.com/amilabgunarathne)
 
+#### Name: [DARWIN JIMENEZ](https://github.com/DARWINDEV)
+
+- Place: Chiapas, Mexico
+- Bio: Student Success Team at @codigofacilito. 🐊✨
+- GitHub: [DARWINDEV](https://github.com/DARWINDEV)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
