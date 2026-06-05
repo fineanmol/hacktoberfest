@@ -5737,6 +5737,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Completed with the B.Tech in computer science and engineering
 - GitHub: [erswatantra2001](https://github.com/erswatantra2001)
 
+#### Name: [Felipe Ramos](https://github.com/felipecramos)
+
+- Place: Brazil, Natal
+- Bio: Mobile Developer
+- GitHub: [FelipeCRamos](https://github.com/FelipeCRamos)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
