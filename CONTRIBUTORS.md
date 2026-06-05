@@ -16,12 +16,6 @@
 - Bio: Aspiring Software Engineer
 - GitHib: [Jay Mehta](https://github.com/jaymehta002)
 
-#### Name: [Hamza Nawab](https://github.com/blazenn2)
-
-- Place: Karachi, Sindh, Pakistan
-- Bio: Chemical Engineer wanna be da best developer!!!
-- GitHib: [Hamza Nawab](https://github.com/blazenn2)
-
 #### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
 - Place: Lagos, LAG, NIGERIA
@@ -99,12 +93,6 @@
 - Place: Lyon, France
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
-
-#### Name: [Prachi Gupta](https://github.com/Prachi-22-81)
-
-- Place: Delhi, India
-- Bio: Student
-- GitHub: [Prachi-22-81](https://github.com/Prachi-22-81)
 
 #### Name: [Devesh](https://github.com/Devesh1602)
 
@@ -600,18 +588,12 @@
 
 #### Name: [Aman Sharma](https://github.com/amansharma703)
 
-- Place: Gorakhpur, UP, India
-- Bio: Full-Stack Developer
-- GitHub: [amansharma703](https://github.com/amansharma703)
+-   Place: Gorakhpur, UP, India
+-   Bio: Full-Stack Developer
+-   GitHub: [amansharma703](https://github.com/amansharma703)
 
-#### Name: [Jesús Ángel Pérez-Roca Fernández](https://github.com/yisus82)
+#### Name: [Swati Shikha](https://github.com/ShikhaSwati60)
 
-- Place: A Coruña, Galicia, Spain
-- Bio: Professor at CPR Liceo La Paz
-- GitHub: [yisus82](https://github.com/yisus82)
-
-#### Name: [Deepshi Sharma](https://github.com/deepshi4156)
-
-- Place: Ghaziabad, UP, India
-- Bio: FrontEnd Developer
-- GitHub: [deepshi4156](https://github.com/deepshi4156)
+- Place: Bihar, India
+- Bio: Software Engineering, Coder
+- GitHub: [ShikhaSwati60](https://github.com/ShikhaSwati60)
