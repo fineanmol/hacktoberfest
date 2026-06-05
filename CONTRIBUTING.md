@@ -6439,7 +6439,8 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: PhD student
 - GitHub: [CristinaEU1](https://github.com/CristinaEU1)
 
-#### Name: [Your Name](https://github.com/Oore2006)
-- Place: Akure, Ondo State, Nigeria
-- Bio: Aspiring web developer passionate about open source
-- GitHub: [your-username](https://github.com/Oore2006)
+#### Name: [Your Name](https://github.com/your-username)
+
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](https://github.com/your-username)
