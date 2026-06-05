@@ -5797,6 +5797,10 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am an Electrical Engineering student interested in backend web development
 - GitHub: [istutea](https://github.com/istutea)
 
+#### Name: [Muyiwa](https://github.com/Muyi2905)
+- Place: Lagos, Nigeria
+- Bio: computer Science graduate and a fullstack developer
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
