@@ -6337,6 +6337,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Who are you?
 - GitHub: [saksham08jain](https://github.com/saksham08jain)
 
+#### Name: [Lucas Pasche](https://github.com/llpasche)
+
+- Place: Rio de Janeiro, Rio de Janeiro, Brasil
+- Bio: Fullstack dev having my first time at open source.
+- GitHub: [llpasche](https://github.com/llpasche)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
