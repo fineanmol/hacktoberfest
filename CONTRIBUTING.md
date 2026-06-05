@@ -6142,6 +6142,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Web 2&3 Developer
 - Github: [Lesley-Nicole](https:github.com/lesley-nicole)
 
+#### Name: [Daniel Armas Ramírez](https://github.com/daniel692a)
+
+- Place: CDMX, Mexico
+- Bio: Incoming Explore intern at Microsoft, Software developer located in Mexico and data science student at ESCOM. I'm currently learning about algorithms and computer science
+- GitHub: [daniel692a](https://github.com/daniel692a)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
