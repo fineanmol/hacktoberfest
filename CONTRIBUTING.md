@@ -5743,6 +5743,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Mobile Developer
 - GitHub: [FelipeCRamos](https://github.com/FelipeCRamos)
 
+#### Name: [Ish](https://github.com/ishsarin)
+
+- Place: Gurgaon, Haryana, India
+- Bio: A passionate Web Developer
+- GitHub: [ishsarin](https://github.com/ishsarin)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
