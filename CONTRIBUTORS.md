@@ -1,8 +1,3 @@
-#### Name: [Aanya Kumari](https://github.com/Aanya9693)
-
-- Place: Kolkata, West Bengal
-- Bio: Second year College student
-- GitHib: [Aanya9693](https://github.com/Aanya9693)
 
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
@@ -16,6 +11,7 @@
 - Bio: I love music
 - GitHub: [Moch Rizal Fadilah](https://github.com/papoy-xor)
 
+
 #### Name: [Aditya Nigam](https://github.com/adityanigam1)
 
 - Place: Delhi, India
@@ -28,11 +24,13 @@
 - Bio: Student
 - GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 
+
 #### Name: [Ishan Katoch](https://github.com/ishan-1010)
 
 - Place: Dera Bassi, India
 - Bio: Student
 - GitHub: [Ishan](https://github.com/ishan-1010)
+
 
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
@@ -406,11 +404,13 @@
 - Bio: I am a learner
 - GitHub: [agusardi](https://github.com/letdummy)
 
+
 ### NAME: [Benny](https://githubb.com/bennyriot)
 
 - Place: USA
 - Bio: Computer person
 - GitHub: [Benny](https://github.com/bennyriot)
+
 
 #### Name: [Soustab Haldar](https://github.com/soustab10)
 
@@ -418,17 +418,21 @@
 - Bio: Computer Science Major and Developer
 - GitHub: [soustab10](https://github.com/soustab10)
 
+
 #### Name: [AntishK](https://github.com/AntishK)
 
 - Place: Mauritius
 - Bio: Software Developer
 - GitHub: [agusardi](https://github.com/AntishK)
 
+
 #### Name: [Luqman Bello](https://github.com/ItzAboki)
 
 - Place: Abuja, Nigeria
 - Bio: I am an art, tech and design enthusiast
 - GitHub: [ItzAboki](https://github.com/ItzAboki)
+
+
 
 #### Name: [Kunal Kaushik](https://github.com/Kunal-8789)
 
@@ -442,11 +446,13 @@
 - Bio: I love to code?
 - GitHub: [Akashdeep-Tickoo](https://github.com/Akashdeep-Tickoo)
 
+
 #### Name: [Devender Pal](https://github.com/devender15)
 
 - Place: Gurugram, India
 - Bio: https://twitter.com/0x15_dev
 - GitHub: [Devender Pal](https://github.com/devender15)
+
 
 #### Name: [Helton Teixeira](https://github.com/heltonteixeira92)
 
@@ -454,11 +460,13 @@
 - Bio: python/django software developer
 - GitHub: [heltonteixeira92](https://github.com/heltonteixeira92)
 
+
 #### Name: [Garrett](https://github.com/0xGrizzly)
 
 - Place: Atlanta, Georgia
 - Bio: software engineering and cyber security major.
 - GitHub: [0xGrizzly](https://github.com/0xGrizzly)
+
 
 #### Name: [lkmeta](https://github.com/lkmeta)
 
@@ -466,11 +474,13 @@
 - Bio: I am a student
 - GitHub: [lkmeta](https://github.com/lkmeta)
 
+
 #### Name: [Dennis Jojo Kuriakose](https://github.com/atmozki)
 
 - Place: Kottayam, Kerala, India
 - Bio: I am a Computer Science Student
 - GitHub: [atmozki](https://github.com/atmozki)
+
 
 #### Name: [Dhruv Pandey](https://github.com/Dhruvpandey08)
 
@@ -478,11 +488,13 @@
 - Bio: Tech Enthusiast
 - GitHub: [Dhruv Pandey](https://github.com/Dhruvpandey08)
 
+
 #### Name: [Sayak Mondal](https://github.com/isayakmondal)
 
 - Place: Kolkata, India
 - Bio: Passionate Programmer | CSE Undergrad
 - GitHub: [Sayak Mondal](https://github.com/isayakmondal)
+
 
 #### Name: [Moch Rizal Fadilah](https://github.com/papoy-xor)
 
@@ -490,11 +502,13 @@
 - Bio: I still learning programming
 - GitHub: [Moch Rizal Fadilah](https://github.com/papoy-xor)
 
+
 #### Name: [debajyoti ghosh](https://github.com/debajyotig466)
 
 - Place: westBengal, Kolkata, India
 - Bio: I am a Sportslover
 - GitHub: [debajyotig466](https://github.com/debajyotig466)
+
 
 #### Name: [Rohan Raju Meshram](https://github.com/RohanKGP)
 
@@ -502,20 +516,16 @@
 - Bio: I'm an undergraduate student in my third year who enjoys open source and is presently interested in Web development.
 - GitHub: [RohanKGP](https://github.com/RohanKGP)
 
+
 #### Name: [Sam Pulman](https://github.com/sjpulman)
 
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
 
-#### Name: [Shubh Rastogi](https://github.com/shubhrastogi07)
 
-- Place: Lucknow, Uttar Pradesh, India
-- Bio:Just a learner, exploring and experimenting with new things
-- GitHub: [shubhrastogi07](https://github.com/shubhrastogi07)
+#### Name: [Breno Cota](https://github.com/brenocota-hotmart)
 
-#### Name: [Nurkholiq Agani Hafid](https://github.com/nurkholiqaganihafid)
-
-- Place: Barru, South Sulawesi, Indonesia
-- Bio: I'm a student and I love programming world
-- GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+- Place: Belo-Horizonte, Minas Gerais, Brasil
+- Bio: I'm a frontend developer, passionate about React, Vue and Golang
+- GitHub: [brenocota-hotmart](https://github.com/brenocota-hotmart)
