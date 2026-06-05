@@ -6172,6 +6172,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [aayushgarg-03](https://github.com/aayushgarg-03)
 
+#### Name: [Yash Chaudhari](https://github.com/xB0t)
+
+- Place: Nashik, Maharashtra, India.
+- Bio: I am a Student.
+- GitHub: [xB0t](https://github.com/xB0t)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
