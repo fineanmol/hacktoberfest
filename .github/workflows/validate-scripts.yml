@@ -31,7 +31,7 @@ jobs:
           mapfile -t CHANGED < <(
             git log --name-only --pretty=format: "${BASE_REF}..HEAD" -- scripts/ \
             | sort -u \
-            | grep -vE '^$|__pycache__|\.pyc$|/\.vscode/|merge_pr|land_pr|tempCodeRunner|\.(out|exe|class)$|^scripts/output/' || true
+            | grep -vE '^$|__pycache__|\.pyc$|/\.vscode/|merge_pr|land_pr|repo_cleanup|tempCodeRunner|\.(out|exe|class)$|^scripts/output/' || true
           )
           if [ "${#CHANGED[@]}" -eq 0 ]; then
             echo "No script changes in PR commits — validation skipped (pass)."

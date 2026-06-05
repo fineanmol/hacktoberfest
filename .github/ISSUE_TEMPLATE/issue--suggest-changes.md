@@ -9,7 +9,7 @@ assignees: ''
 ---
 
 <!--- Provide a general summary of the issue in the Title above -->
-<!-- Make sure that you've read through https://github.com/fineanmol/hacktoberfest/issues/1 and understand the design of this project. If you have questions about it, please write a comment in that issue. -->
+<!-- Hacktoberfest 2026: read README.md and CONTRIBUTING.md before opening an issue. -->
 
 🐞 **Problem**
 <!--- Provide a detailed description of the change or addition you are proposing -->

@@ -19,3 +19,5 @@ tempCodeRunnerFile.*
 /*.php
 /*.sh
 /*.Rhistory
+node_modules/
+hacktoberfest-react/dist/
