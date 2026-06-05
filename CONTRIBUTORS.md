@@ -514,8 +514,8 @@
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
 
-#### Name: [Kevin Cho](https://github.com/KCho27)
+#### Name: [Ru'fatiani](https://github.com/rufatiani)
 
-- Place: Boston, Massachusetts
-- Bio: Currently working full time as a Full Stack Software Engineer
-- GitHub: [KCho27](https://github.com/KCho27)
+- Place: Cimahi, Jawa Barat, Indonesia
+- Bio: Backend Software Engineer (Java)
+- GitHub: [rufatiani](https://github.com/rufatiani)
