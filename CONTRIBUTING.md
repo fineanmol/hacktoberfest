@@ -6367,6 +6367,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A 2nd year student of B.Tech CSE with a knack towards content creation, design and anime
 - GitHub: [exotic123567](https://github.com/exotic123567)
 
+#### Name: [Tushant Rangari]([GitHub link](https://github.com/tushant07))
+
+- Place: Seloo, Maharashtra, India
+- Bio: First Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [tushant07](https://github.com/tushant07)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
