@@ -6148,6 +6148,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Incoming Explore intern at Microsoft, Software developer located in Mexico and data science student at ESCOM. I'm currently learning about algorithms and computer science
 - GitHub: [daniel692a](https://github.com/daniel692a)
 
+#### Name: [MUKUL OJHA](https://github.com/mukul314)
+
+- Place: Pali, Rajasthan, India
+- Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
+- GitHub: [mukul314](https://github.com/mukul314)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
