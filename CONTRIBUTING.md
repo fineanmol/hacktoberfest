@@ -5902,6 +5902,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Full Stack Developer
 - GitHub: [Gokulakrishnan S](https://github.com/gokulakrishnan19892002)
 
+#### Name: [ShreyGanatra](https://github.com/ShreyGanatra)
+
+- Place: Gujarat,India
+- Bio: Third year undergrad pursuing Elec. engg.
+- GitHub: [ShreyGanatra](https://github.com/ShreyGanatra)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
