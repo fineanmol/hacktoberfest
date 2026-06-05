@@ -5608,6 +5608,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Gaming, Lego as hobby, software programming as a profession
 - GitHub: [Fazer01](https://github.com/Fazer01)
 
+#### Name: [Karen Kvam](https://github.com/kareninakvam)
+
+- Place: Campinas, São Paulo, Brazil
+- Bio: Backend developer and data science student at UNIVESP.
+- GitHub: [kareninakvam](https://github.com/kareninakvam)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
