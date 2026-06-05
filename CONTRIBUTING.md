@@ -6433,6 +6433,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 -Bio: I am a graduatin student currently persuing B.tech at IIIT Bhubaneshwar. I am currently learning Blockchain technology
 -Github:[sm-creative-crazy4code](https://github.com/sm-creative-crazy4code)
 
+#### Name: [CristinaEU1](https://github.com/CristinaEU1)
+
+- Place: Bucharest, Romania
+- Bio: PhD student
+- GitHub: [CristinaEU1](https://github.com/CristinaEU1)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
