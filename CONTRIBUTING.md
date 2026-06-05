@@ -5861,6 +5861,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Software Developer (Database admins)
 - GitHub: [Kanishk-git77](https://github.com/Kanishk-git77)
 
+#### Name: [Uvindu Rajapakshe](https://github.com/UvinduBro)
+
+- Place: Colombo, Sri Lanka
+- Bio: Front-end Develope
+- GitHub: [UvinduBro](https://github.com/UvinduBro)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
