@@ -6106,6 +6106,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Software engineering student, tech enthusiastic
 - GitHub: [MahnoorShoukat](https://github.com/MahnoorShoukat)
 
+#### Name: [Mahrukh khan](https://github.com/Suga7772)
+
+- Place: Islamabad,Pakistan
+- Bio: A 3rd year undergrad pursuing Bachelors in Computer Science
+- GitHub: [Suga7772](https://github.com/Suga7772)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
