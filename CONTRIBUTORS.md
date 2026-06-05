@@ -592,8 +592,8 @@
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
 
-#### Name: [Rahul Jadav](https://github.com/rahuljadav21)
+#### Name: [Yogesh Tumma](https://github.com/YogeshBabyOP)
 
--   Place: Surat, Gujarat, India
--   Bio: Full-Stack Developer, Technology Enthusiast
--   GitHub: [rahuljadav21](https://github.com/rahuljadav21)
+-   Place: Mangalagiri, AP, India
+-   Bio: I am a Third Year CSE student, I am a CP enthusiast.
+-   GitHub: [YogeshBabyOP](https://github.com/YogeshBabyOP)
