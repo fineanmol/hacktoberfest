@@ -251,7 +251,7 @@ export default function App() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
           >
-            Hacktoberfest 2024
+            Hacktoberfest 2026
           </motion.h1>
           <motion.p 
             className="text-xl text-gray-300 max-w-3xl mx-auto mb-8"
@@ -268,7 +268,7 @@ export default function App() {
             transition={{ duration: 0.5, delay: 0.2 }}
           >
             <a
-              href="https://github.com/fineanmol/Hacktoberfest2024"
+              href="https://github.com/fineanmol/hacktoberfest"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary flex items-center justify-center gap-2"

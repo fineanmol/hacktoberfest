@@ -27,7 +27,7 @@ export default function Footer() {
               This project is participating in Hacktoberfest. Join us in celebrating open source!
             </p>
             <div className="flex space-x-4 mt-4">
-              <a href="https://github.com/fineanmol/Hacktoberfest2024" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
+              <a href="https://github.com/fineanmol/hacktoberfest" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
                 <FaGithub className="w-6 h-6" />
               </a>
               <a href="https://linkedin.com/in/fineanmol" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
@@ -59,9 +59,9 @@ export default function Footer() {
             <h3 className="text-lg font-semibold mb-4">Resources</h3>
             <ul className="space-y-2">
               <li><a href="https://hacktoberfest.digitalocean.com/resources" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">Getting Started</a></li>
-              <li><a href="https://github.com/fineanmol/Hacktoberfest2024" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">GitHub Repository</a></li>
-              <li><a href="https://github.com/fineanmol/Hacktoberfest2024/issues" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">Open Issues</a></li>
-              <li><a href="https://github.com/fineanmol/Hacktoberfest2024/pulls" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">Pull Requests</a></li>
+              <li><a href="https://github.com/fineanmol/hacktoberfest" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">GitHub Repository</a></li>
+              <li><a href="https://github.com/fineanmol/hacktoberfest/issues" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">Open Issues</a></li>
+              <li><a href="https://github.com/fineanmol/hacktoberfest/pulls" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">Pull Requests</a></li>
             </ul>
           </div>
         </div>
