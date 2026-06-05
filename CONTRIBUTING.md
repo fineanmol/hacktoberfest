@@ -5683,6 +5683,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Student Software Developer at IIT BHU | Passionate about Web Development
 - Github: https://github.com/marcury122
 
+#### Name: [Harshit](https://github.com/harshitgaur2205)
+
+- Place: Guraon,Haryana,India
+- Bio: Second Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [harshitgaur2205](https://github.com/arshitgaur2205)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
