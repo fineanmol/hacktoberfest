@@ -5891,6 +5891,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a Software Engineering student from Nepal Collage of Information Technology
 - GitHub: [NameLesssNerd](https://github.com/NameLesssNerd)
 
+#### Name: [Unnati](https://github.com/babruwadunnati)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Full Stack Developer
+- GitHub: [babruwadunnati](https://github.com/babruwadunnati)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
