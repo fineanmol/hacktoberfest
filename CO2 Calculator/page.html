@@ -1,0 +1,259 @@
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<form>
+    <label for="countries">Preload the electricity generation stats by the country:</label>
+    <select id="countries" onchange="CountrySelected()" autofocus>
+        <option value="Albania">Albania</option>
+        <option value="Algeria">Algeria</option>
+        <option value="Angola">Angola</option>
+        <option value="Argentina">Argentina</option>
+        <option value="Armenia">Armenia</option>
+        <option value="Australia">Australia</option>
+        <option value="Austria">Austria</option>
+        <option value="Azerbaijan">Azerbaijan</option>
+        <option value="Bahrain">Bahrain</option>
+        <option value="Bangladesh">Bangladesh</option>
+        <option value="Belarus">Belarus</option>
+        <option value="Belgium">Belgium</option>
+        <option value="Benin">Benin</option>
+        <option value="Bolivia">Bolivia</option>
+        <option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+        <option value="Botswana">Botswana</option>
+        <option value="Brazil">Brazil</option>
+        <option value="Brunei Darussalam">Brunei Darussalam</option>
+        <option value="Bulgaria">Bulgaria</option>
+        <option value="Cambodia">Cambodia</option>
+        <option value="Cameroon">Cameroon</option>
+        <option value="Canada">Canada</option>
+        <option value="Chile">Chile</option>
+        <option value="China">China</option>
+        <option value="Hong Kong SAR, China">Hong Kong SAR, China</option>
+        <option value="Colombia">Colombia</option>
+        <option value="Congo, Dem. Rep.">Congo, Dem. Rep.</option>
+        <option value="Congo, Rep.">Congo, Rep.</option>
+        <option value="Costa Rica">Costa Rica</option>
+        <option value="Cote d'Ivoire">Cote d'Ivoire</option>
+        <option value="Croatia">Croatia</option>
+        <option value="Cuba">Cuba</option>
+        <option value="Curacao">Curacao</option>
+        <option value="Cyprus">Cyprus</option>
+        <option value="Czech Republic">Czech Republic</option>
+        <option value="Denmark">Denmark</option>
+        <option value="Dominican Republic">Dominican Republic</option>
+        <option value="Ecuador">Ecuador</option>
+        <option value="Egypt, Arab Rep.">Egypt, Arab Rep.</option>
+        <option value="El Salvador">El Salvador</option>
+        <option value="Eritrea">Eritrea</option>
+        <option value="Estonia">Estonia</option>
+        <option value="Ethiopia">Ethiopia</option>
+        <option value="Finland">Finland</option>
+        <option value="France">France</option>
+        <option value="Gabon">Gabon</option>
+        <option value="Georgia">Georgia</option>
+        <option value="Germany">Germany</option>
+        <option value="Ghana">Ghana</option>
+        <option value="Greece">Greece</option>
+        <option value="Guatemala">Guatemala</option>
+        <option value="Haiti">Haiti</option>
+        <option value="Honduras">Honduras</option>
+        <option value="Hungary">Hungary</option>
+        <option value="Iceland">Iceland</option>
+        <option value="India">India</option>
+        <option value="Indonesia">Indonesia</option>
+        <option value="Iran, Islamic Rep.">Iran, Islamic Rep.</option>
+        <option value="Iraq">Iraq</option>
+        <option value="Ireland">Ireland</option>
+        <option value="Israel">Israel</option>
+        <option value="Italy">Italy</option>
+        <option value="Jamaica">Jamaica</option>
+        <option value="Japan">Japan</option>
+        <option value="Jordan">Jordan</option>
+        <option value="Kazakhstan">Kazakhstan</option>
+        <option value="Kenya">Kenya</option>
+        <option value="Korea, Dem. People’s Rep.">Korea, Dem. People’s Rep.</option>
+        <option value="Korea, Rep.">Korea, Rep.</option>
+        <option value="Kosovo">Kosovo</option>
+        <option value="Kuwait">Kuwait</option>
+        <option value="Kyrgyz Republic">Kyrgyz Republic</option>
+        <option value="Latvia">Latvia</option>
+        <option value="Lebanon">Lebanon</option>
+        <option value="Libya">Libya</option>
+        <option value="Lithuania">Lithuania</option>
+        <option value="Luxembourg">Luxembourg</option>
+        <option value="Macedonia, FYR">Macedonia, FYR</option>
+        <option value="Malaysia">Malaysia</option>
+        <option value="Malta">Malta</option>
+        <option value="Mauritius">Mauritius</option>
+        <option value="Mexico">Mexico</option>
+        <option value="Moldova">Moldova</option>
+        <option value="Mongolia">Mongolia</option>
+        <option value="Montenegro">Montenegro</option>
+        <option value="Morocco">Morocco</option>
+        <option value="Mozambique">Mozambique</option>
+        <option value="Myanmar">Myanmar</option>
+        <option value="Namibia">Namibia</option>
+        <option value="Nepal">Nepal</option>
+        <option value="Netherlands">Netherlands</option>
+        <option value="New Zealand">New Zealand</option>
+        <option value="Nicaragua">Nicaragua</option>
+        <option value="Niger">Niger</option>
+        <option value="Nigeria">Nigeria</option>
+        <option value="Norway">Norway</option>
+        <option value="Oman">Oman</option>
+        <option value="Pakistan">Pakistan</option>
+        <option value="Panama">Panama</option>
+        <option value="Paraguay">Paraguay</option>
+        <option value="Peru">Peru</option>
+        <option value="Philippines">Philippines</option>
+        <option value="Poland">Poland</option>
+        <option value="Portugal">Portugal</option>
+        <option value="Qatar">Qatar</option>
+        <option value="Romania">Romania</option>
+        <option value="Russian Federation">Russian Federation</option>
+        <option value="Saudi Arabia">Saudi Arabia</option>
+        <option value="Senegal">Senegal</option>
+        <option value="Serbia">Serbia</option>
+        <option value="Singapore">Singapore</option>
+        <option value="Slovak Republic">Slovak Republic</option>
+        <option value="Slovenia">Slovenia</option>
+        <option value="South Africa">South Africa</option>
+        <option value="South Sudan">South Sudan</option>
+        <option value="Spain">Spain</option>
+        <option value="Sri Lanka">Sri Lanka</option>
+        <option value="Sudan">Sudan</option>
+        <option value="Suriname">Suriname</option>
+        <option value="Sweden">Sweden</option>
+        <option value="Switzerland">Switzerland</option>
+        <option value="Syrian Arab Republic">Syrian Arab Republic</option>
+        <option value="Tajikistan">Tajikistan</option>
+        <option value="Tanzania">Tanzania</option>
+        <option value="Thailand">Thailand</option>
+        <option value="Togo">Togo</option>
+        <option value="Trinidad and Tobago">Trinidad and Tobago</option>
+        <option value="Tunisia">Tunisia</option>
+        <option value="Turkey">Turkey</option>
+        <option value="Turkmenistan">Turkmenistan</option>
+        <option value="Ukraine">Ukraine</option>
+        <option value="United Arab">United Arab</option>
+        <option value="United Kingdom" selected>United Kingdom</option>
+        <option value="United States">United States</option>
+        <option value="Uruguay">Uruguay</option>
+        <option value="Uzbekistan">Uzbekistan</option>
+        <option value="Venezuela, RB">Venezuela, RB</option>
+        <option value="Vietnam">Vietnam</option>
+        <option value="Yemen, Rep.">Yemen, Rep.</option>
+        <option value="Zambia">Zambia</option>
+        <option value="Zimbabwe">Zimbabwe</option>
+    </select>
+
+
+    <br>
+
+
+    <br>
+
+    <table id="inputTable" class="inputTable">
+        <tr>
+            <td><label for="coal%">Coal</label></td>
+            <td><input type="text" id="coal%" class="num" value="100" onkeyup="Calculate()"> %</td>
+            <td><input type="text" id="coalCO" class="num" value="820" onkeyup="Calculate()"> gCO<sub>2</sub>/kWh</td>
+        </tr>
+        <tr>
+            <td><label for="gas%">Natural gas</label></td>
+            <td><input type="text" id="gas%" class="num" value="0" onkeyup="Calculate()"> %</td>
+            <td><input type="text" id="gasCO" class="num" value="490" onkeyup="Calculate()"> gCO<sub>2</sub>/kWh</td>
+        </tr>
+        <tr>
+            <td><label for="oil%">Oil</label></td>
+            <td><input type="text" id="oil%" class="num" value="0" onkeyup="Calculate()"> %</td>
+            <td><input type="text" id="oilCO" class="num" value="778" onkeyup="Calculate()"> gCO<sub>2</sub>/kWh</td>
+        </tr>
+        <tr>
+            <td><label for="hydro%">Hydropower*</label></td>
+            <td><input type="text" id="hydro%" class="num" value="0" onkeyup="Calculate()"> %</td>
+            <td><input type="text" id="hydroCO" class="num" value="24" onkeyup="Calculate()"> gCO<sub>2</sub>/kWh</td>
+        </tr>
+        <tr>
+            <td><label for="renew%">Renewable**</label></td>
+            <td><input type="text" id="renew%" class="num" value="0" onkeyup="Calculate()"> %</td>
+            <td><input type="text" id="renewCO" class="num" value="41" onkeyup="Calculate()"> gCO<sub>2</sub>/kWh</td>
+        </tr>
+        <tr>
+            <td><label for="nuclear%">Nuclear</label></td>
+            <td><input type="text" id="nuclear%" class="num" value="0" onkeyup="Calculate()"> %</td>
+            <td><input type="text" id="nuclearCO" class="num" value="12" onkeyup="Calculate()"> gCO<sub>2</sub>/kWh</td>
+        </tr>
+        <tr>
+            <td><label for="custom%">Custom</label></td>
+            <td><input type="text" id="custom%" class="num" value="0" onkeyup="Calculate()"> %</td>
+            <td><input type="text" id="customCO" class="num" value="0" onkeyup="Calculate()"> gCO<sub>2</sub>/kWh</td>
+        </tr>
+
+    </table>
+    <br>
+
+    Total percentage: <span id="total%"></span>
+    <br>
+
+    <label for="power">How much power do you use (continuously)?</label>
+    <input type="text" id="power" value="1000" class="power" onkeyup="Calculate()">
+    <select id="powerUnit" onchange="Calculate()">
+        <option value="1000" id="W" selected>W</option>
+        <option value="1" id="kW">kW</option>
+        <option value="0.001" id="MW">MW</option>
+        <option value="0.000001" id="GW">GW</option>
+        <option value="0.000000001" id="TW">TW</option>
+    </select>
+    <br>
+
+
+    <!--RESULTS-->
+    You produce <b><span id="kgCO2result"></span></b> kg of CO<sub>2</sub> emissions per year.
+    <br>
+    You would need to plant <b><span id="treesRequired"></span></b> trees to eliminate your carbon footprint on our
+    planet.
+    <br>
+    <input type="reset">
+
+</form>
+
+*gCO<sub>2</sub> can vary widely, read Wiki page in Sources
+<br>
+**using gCO2 values for Solar PV rooftop, read Wiki page in Sources for other values
+
+<br>
+<button title="Click to show/hide content" type="button"
+        onclick="if(document.getElementById('spoiler').style.display==='none') {document.getElementById('spoiler').style.display=''}else{document.getElementById('spoiler').style.display='none'}">
+    Sources and notes
+</button>
+<div id="spoiler" style="display:none">
+    <fieldset class="fieldSet">
+        Electricity sources: <a href="http://wdi.worldbank.org/table/3.7">The World Bank statistics</a> (Data from 2015)
+        <br>
+        CO<sub>2</sub>/kWh values: Using median values from IPCC: Global warming potential of selected electricity
+        sources (2014)
+        <br>
+        CO<sub>2</sub>/kWh values may differ a lot, especially when power plants use newest (better values), or older
+        (worse values) technologies.
+        Check the <a href="https://en.wikipedia.org/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources">Wikipedia
+        page</a> for Min/Max values.
+        <br>
+        This calculations assume that you use electricity proportionally from all power plants of your country.
+        <br>
+        If you know better where your electricity comes from (for example, you use your own solar power), edit the
+        settings accordingly.
+        <br>
+        One tree can eliminate 15.7 kg of CO<sub>2</sub> per year. Source: <a href="https://www.tfaforms.com/4666774">https://www.tfaforms.com/4666774</a>
+        <br>
+    </fieldset>
+</div>
+<br>
+
+<script src="co2calc.js"></script>
+</body>
+</html>
