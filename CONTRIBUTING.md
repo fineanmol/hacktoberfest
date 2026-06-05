@@ -6160,6 +6160,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Interesting in code and I am a Software Tester
 - GitHub: [Jordanjun98](https://github.com/Jordanjun98)
 
+#### Name: [ vivek kumar](https://github.com/vivek893)
+
+- Place: Patna, Bihar, India
+- Bio: A 3rd year undergrad pursuing B.Tech in Information Technology.
+- GitHub: [vivek893](https://github.com/vivek893)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
