@@ -6100,6 +6100,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A B.Tech 3rd year student
 - GitHub: [Scarlet-Coder](https://github.com/Scarlet-Coder)
 
+#### Name: [MahnoorShoukat](https://github.com/MahnoorShoukat)
+
+- Place: Islamabad, Pakistan
+- Bio: Software engineering student, tech enthusiastic
+- GitHub: [MahnoorShoukat](https://github.com/MahnoorShoukat)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
