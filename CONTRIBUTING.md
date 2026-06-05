@@ -5767,6 +5767,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Full Stack Developer
 - GitHub: [isuruisuru](https://github.com/isuruisuru)
 
+#### Name: [Suryansh Singh](https://github.com/suryanshsingh2001)
+
+- Place: Noida, Uttar Pradesh, India
+- Bio: Developer who loves to turn coffee-fueled ideas into elegant lines of code and dreams into visual experiences
+- GitHub: [suryanshsingh2001](https://github.com/suryanshsingh2001)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
