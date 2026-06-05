@@ -6064,6 +6064,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: security researcher
 - GitHub: [Cyb3rKn1gh7](https://github.com/Cyb3rKn1gh7)
 
+#### Name: [Muhammad Pauzi](https://github.com/muhammadpauzi)
+
+- Place: Medan, Sumatera Utara, Indonesia
+- Bio: Back End Developer & Computer Science Student
+- GitHub: [muhammadpauzi](https://github.com/muhammadpauzi)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
