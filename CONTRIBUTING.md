@@ -5647,6 +5647,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Full Stack dev
 - GitHub: [JOSHI53](https://github.com/JOSHI53)
 
+#### Name: [Pranav Katte](https://github.com/Pranav-kat)
+
+- Place: Pune, Maharashtra, India
+- Bio: Final Year BTech CSE Student at VIT Vellore
+- GitHub: [Pranav-kat](https://github.com/Pranav-kat)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
