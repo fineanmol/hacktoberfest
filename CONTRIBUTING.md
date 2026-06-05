@@ -6403,6 +6403,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A mothefucking dreamer
 - GitHub: [theadg ](https://github.com/theadg)
 
+#### Name: [Arpan](https://github.com/arpanpeter)
+
+- Place: Noida, UP , India
+- Bio: Pre Final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [OGdhruv](https://github.com/arpanpeter)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
