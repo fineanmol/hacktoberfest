@@ -1,9 +1,3 @@
-#### Name: [Samman Sarkar](https://github.com/SammanSarkar)
-
-- Place: Delhi, India
-- Bio: Undergrad student
-- GitHub: [Samman Sarkar](https://github.com/SammanSarkar)
-
 #### Name: [Stephen Nwankwo](https://github.com/stenwire)
 
 - Place: Lagos, LAG, NIGERIA
@@ -105,6 +99,12 @@
 - Place: Lyon, France
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
+
+#### Name: [Prachi Gupta](https://github.com/Prachi-22-81)
+
+- Place: Delhi, India
+- Bio: Student
+- GitHub: [Prachi-22-81](https://github.com/Prachi-22-81)
 
 #### Name: [Devesh](https://github.com/Devesh1602)
 
@@ -609,3 +609,9 @@
 - Place: A Coruña, Galicia, Spain
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
+
+#### Name: [Pongsakorn Lertpiri](https://github.com/Bcepnez)
+
+- Place: Chatujak, Bangkok, Thailand
+- Bio: Just Bug why need to fix it?
+- GitHub: [Bcepnez](https://github.com/Bcepnez)
