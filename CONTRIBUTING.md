@@ -5773,6 +5773,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Developer who loves to turn coffee-fueled ideas into elegant lines of code and dreams into visual experiences
 - GitHub: [suryanshsingh2001](https://github.com/suryanshsingh2001)
 
+#### Name: [Bhoomika Wavhal](https://github.com/wbhoomika)
+
+- Place: Mumbai, India
+- Bio: Data Engineer
+- GitHub: [wbhoomika](https://github.com/wbhoomika)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
