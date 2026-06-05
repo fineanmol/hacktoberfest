@@ -5614,6 +5614,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Backend developer and data science student at UNIVESP.
 - GitHub: [kareninakvam](https://github.com/kareninakvam)
 
+#### Name: [Vinjamuri Manojna](https://github.com/manojna191)
+
+- Place: Tanuku, Andhra Pradesh, India
+- Bio: Final Year B.Tech CSBS Student at Vellore Institute of technology, Vellore
+- GitHub: [manojna191](https://github.com/manojna191)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
