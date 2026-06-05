@@ -5671,6 +5671,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 -Bio: 2023 Graduate || SPPU - BE IT
 -GitHub: https://github.com/mightyshibbu
 
+#### Name: [Mansi](https://github.com/Mannxxx)
+
+- Place: Gurgaon, New Delhi, India
+- Bio:  Final year mechanical undergrad at Indian Institute Of Technology Delhi
+- GitHub: [Mannxxx](https://github.com/Mannxxx)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
