@@ -5962,6 +5962,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A passionate developer trying to master Web.
 - GitHub: [Sharjeel-Riaz](https://github.com/Sharjeel-Riaz)
 
+#### Name: [Soudeepan Biswas](https://github.com/soudeepan)
+
+- Place: Kolkata, West Bengal, India
+- Bio: First year undergrad pursuing B.Tech in Information Technology at Netaji Subhash Engineering College, Garia
+- GitHub: [soudeepan](https://github.com/soudeepan)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
