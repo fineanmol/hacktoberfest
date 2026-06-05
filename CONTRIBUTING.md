@@ -6082,6 +6082,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Web Developer, Computer Science Engineering Undergraduate.
 - GitHub: [AnuragD123](https://github.com/AnuragD123)
 
+#### Name: [Hisham Abdulla](https://github.com/XAnaXprik)
+
+-Place: Kasargod, Kerala, India
+-Bio: A simpleton.
+-GitHub: [XAnaXprik](https://github.com/XAnaXprik)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
