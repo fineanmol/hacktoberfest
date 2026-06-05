@@ -5986,6 +5986,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final Year undergrad pursuing BS in Computer Science
 - GitHub: [Hammad Amjad]((https://github.com/hammadamjad))
 
+#### Name: [Susheel Gounder](https://github.com/susheelg1197)
+
+- Place: Syracuse, NY, USA
+- Bio: MS in Computer Science at Syracuse University
+- GitHub: [SusheelG1197](https://github.com/susheelg1197)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
