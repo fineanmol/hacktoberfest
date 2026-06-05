@@ -5855,6 +5855,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: ECE undergrad currently in 3rd year
 - GitHub: [Mahil Reshi](https://github.com/mahilreshi)
 
+#### Name: [Kanishk](https://github.com/Kanishk-git77)
+
+- Place: Nagpur, Maharashtra, India
+- Bio: Software Developer (Database admins)
+- GitHub: [Kanishk-git77](https://github.com/Kanishk-git77)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
