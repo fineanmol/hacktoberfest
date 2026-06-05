@@ -155,8 +155,7 @@ If you enjoyed this, check out:
 
 
 ## BONUS!
-- Merging All Pull Requests
-- See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
+- See profiles submitted by fellow coders from around the globe — from Kathmandu to Copenhagen.
 - Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 - Check out some very creative ways to print out a "Hello, World!" string.
 
