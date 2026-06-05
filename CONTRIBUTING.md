@@ -6427,6 +6427,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a Computer Science Engineering student from Samrat Ashok Technological Institute Vidisha (M.P.)
 - GitHub: [ANAMIKA1410](https://github.com/ANAMIKA1410)
 
+#### Name:  [Sneha Mandal](https://github.com/sm-creative-crazy4code)
+
+-Place: Kolkata,West Bengal, India
+-Bio: I am a graduatin student currently persuing B.tech at IIIT Bhubaneshwar. I am currently learning Blockchain technology
+-Github:[sm-creative-crazy4code](https://github.com/sm-creative-crazy4code)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
