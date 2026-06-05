@@ -5813,6 +5813,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Undergrad B.Tech
 - GitHub: [XXeshitaXX](https://github.com/XXeshitaXX)
 
+#### Name: [SURVEER SINGH](https://github.com/hs309123)
+
+- Place: Delhi, India
+- Bio: Information Technology student from Netaji Subash University of Technology
+- GitHub: [hs309123](https://github.com/hs309123)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
