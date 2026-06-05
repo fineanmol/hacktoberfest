@@ -22,12 +22,6 @@
 - Bio: Student
 - GitHub: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 
-#### Name: [Ganesh Rahate](https://github.com/Ganeshsrahate)
-
-- Place: Maharashtra,india
-- Bio: Student
-- GitHub: [Ganesh Rahate](https://github.com/Ganeshsrahate)
-
 #### Name: [Ishan Katoch](https://github.com/ishan-1010)
 
 - Place: Dera Bassi, India
@@ -514,8 +508,8 @@
 - Bio:Just a learner, exploring and experimenting with new things
 - GitHub: [shubhrastogi07](https://github.com/shubhrastogi07)
 
-#### Name: [Nurkholiq Agani Hafid](https://github.com/nurkholiqaganihafid)
+#### Name: [Himanshu Gupta](https://github.com/himanshugupta11110000)
 
-- Place: Barru, South Sulawesi, Indonesia
-- Bio: I'm a student and I love programming world
-- GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
+- Place: Delhi, India
+- Bio: Data Structures & Algorithms Enthusiast
+- GitHub: [himanshugupta11110000](https://github.com/himanshugupta11110000)
