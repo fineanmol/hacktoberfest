@@ -1,5 +1,5 @@
 # Canonical maintainer identity for git shortlog, GitHub contributors graph, and contrib.rocks.
-# Maps alternate emails / accounts (fineanmolwork, finenamol-link11) to fineanmol.
+# Maps alternate emails / accounts (fineanmolwork, finenamol-link11, link11) to fineanmol.
 # See: https://git-scm.com/docs/gitmailmap
 #
 # Format: Proper Name <canonical@email> <commit name> <commit@email>
@@ -15,3 +15,6 @@ Anmol Agarwal <24794539+fineanmol@users.noreply.github.com> fineanmolwork <anmol
 Anmol Agarwal <24794539+fineanmol@users.noreply.github.com> fineanmol <anmol.agarwal2004@yahoo.com>
 Anmol Agarwal <24794539+fineanmol@users.noreply.github.com> fineanmol <anmol.agarwal@yahoo.com>
 Anmol Agarwal <24794539+fineanmol@users.noreply.github.com> fineanmol-sears <anmol.agarwal2004@yahoo.com>
+Anmol Agarwal <24794539+fineanmol@users.noreply.github.com> fineanmol-11 <a.agarwal@link11.com>
+Anmol Agarwal <24794539+fineanmol@users.noreply.github.com> fineanmol-11 <A.Agarwal@link11.com>
+Anmol Agarwal <24794539+fineanmol@users.noreply.github.com> <A.Agarwal@link11.com>
