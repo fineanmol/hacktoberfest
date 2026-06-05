@@ -6219,6 +6219,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [suyash-leo](https://github.com/suyash-leo)
 
+#### Name: Akash Yadav(https://github.com/akash2908)
+
+- Place: New Delhi, India
+- Bio: Student
+- GitHub: crazyboy(https://github.com/akash2908)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
