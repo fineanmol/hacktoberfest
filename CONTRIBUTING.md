@@ -6355,6 +6355,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I like coding
 - GitHub: [prajspiben1](https://github.com/prajspiben1)
 
+#### Name: [Kshitij](https://github.com/kbhandari98/)
+
+- Place: Mumbai, Maharashtra
+- Bio: First Year Student at IIM Ahmedabad
+- GitHub: [kbhandari98](https://github.com/kbhandari98/)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
