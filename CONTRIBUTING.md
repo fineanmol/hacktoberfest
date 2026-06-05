@@ -5867,6 +5867,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Front-end Develope
 - GitHub: [UvinduBro](https://github.com/UvinduBro)
 
+#### Name: [JANVI GURJAR](https://github.com/janvi2002)
+
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: More intrested in Front-end technologies
+- GitHub: [janvi2002](https://github.com/janvi2002)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
