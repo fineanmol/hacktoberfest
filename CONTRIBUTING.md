@@ -6313,6 +6313,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Software Engineering Trainee
 - GitHub: [Radsadorn](https://github.com/radsadorn)
 
+#### Name: [Kunal Dongre](https://github.com/kunaldongre24)
+
+- Place: Jalandhar, Punjab, India
+- Bio: Computer Science Student
+- GitHub: [Kunal Dongre](https://github.com/kunaldongre24)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
