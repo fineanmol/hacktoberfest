@@ -6166,6 +6166,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A 3rd year undergrad pursuing B.Tech in Information Technology.
 - GitHub: [vivek893](https://github.com/vivek893)
 
+#### Name: [Aayush Garg](https://github.com/aayushgarg-03)
+
+- Place: Bengaluru,Karnataka,India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [aayushgarg-03](https://github.com/aayushgarg-03)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
