@@ -6290,6 +6290,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering. MERN Stack Developer.
 - GitHub: [itsRajatkumar](https://github.com/itsRajatkumar)
 
+#### Name: [xPutraGm](https://github.com/xPutraGm)
+
+- Place: Malang, Indonesia
+- Bio: Im a Student and a programer
+- GitHub: [xPutraGm](https://github.com/xPutraGm)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
