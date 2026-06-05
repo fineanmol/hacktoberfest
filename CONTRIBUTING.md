@@ -6237,6 +6237,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a Artificial Intelligence And Data Science Engineering student from Sri Shanmugha College of Engineering and Technology Sankari
 - GitHub: [hasrim](https://github.com/hasirm)
 
+#### Name: [Kratika](https://github.com/kratikagupta2002)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [kratika](https://github.com/kratikagupta2002)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
