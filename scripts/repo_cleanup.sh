@@ -42,7 +42,7 @@ done < <(find "$ROOT" -maxdepth 1 -type f -print0)
 
 echo "Removing maintainer merge automation from scripts/..."
 rm -f scripts/merge_pr_*.py scripts/merge_*.sh scripts/land_pr_merge.py \
-  scripts/refresh_*.sh 2>/dev/null || true
+  scripts/refresh_*.sh scripts/merge_pr_batch.py 2>/dev/null || true
 find scripts -maxdepth 1 -type f \( -name '*.exe' -o -name '*.class' -o -name 'tempCodeRunnerFile.*' \) -delete 2>/dev/null || true
 rm -rf scripts/scripts scripts/number-guess-game-project-main 2>/dev/null || true
 
