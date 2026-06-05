@@ -5938,6 +5938,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Backend Developer
 - GitHub: [Mahad-Khan](https://github.com/Mahad-Khan)
 
+#### Name: [Simon](https://github.com/simonpaul08)
+
+- Place: Saharanpur, Uttar Pradesh, India
+- Bio: Front End Developer
+- GitHub: [Simon Paul](https://github.com/simonpaul08/)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
