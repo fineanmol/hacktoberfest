@@ -6379,6 +6379,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Programming enthusiast and 2nd year Btech student
 - GitHub: [teleansh](https://github.com/teleansh)
 
+#### Name: [MD RASHID ALI](https://github.com/RAshidAZ)
+
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: I am a software engineer working at ITH Technologies Pvt. Ltd. I am interested in Node.js.
+- GitHub: [RAshidAZ](https://github.com/RAshidAZ)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
