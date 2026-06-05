@@ -5595,6 +5595,13 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - GitHub: [Cborgg](https://github.com/Cborgg)
 -
 
+#### Name: [Dasith Rathnasinghe](https://github.com/MasterD98)
+
+- Place: Karapitiya, Galle, Sri Lanka
+- Bio: Undergraduate at the University of Moratuwa Faculty of Information Technology
+- GitHub: [MasterD98](https://github.com/MasterD98)
+-
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
