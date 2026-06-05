@@ -6076,6 +6076,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [Sonu Kushwaha](https://github.com/SonuKushwaha-hub)
 
+#### Name: [Anurag Dubey](https://github.com/AnuragD123)
+
+- Place: Indore, India.
+- Bio: Web Developer, Computer Science Engineering Undergraduate.
+- GitHub: [AnuragD123](https://github.com/AnuragD123)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
