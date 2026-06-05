@@ -1,4 +1,5 @@
 #### Name: [Stephen Nwankwo](https://github.com/stenwire)
+
 - Place: Lagos, LAG, NIGERIA
 - Bio: Software Engineering, AI enthusiats and Gamer.
 - GitHub: [stenwire](https://github.com/stenwire)
@@ -591,7 +592,8 @@
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
 
-#### Name: [Manus Gupta](https://github.com/Manus-MG)
--  Lucknow, UttarPradesh, India
--  Pre-Final year Student of Shri Ramswaroop Memorial college of engineering and management
--  GitHub: [Manus Gupta](https://github.com/Manus-MG)
+#### Name: [Juliet Maria](https://github.com/JulietMaria)
+
+-   Place: Chennai,TN, India
+-   Bio: Full-Stack Developer
+-   GitHub: [JulietMaria](https://github.com/JulietMaria)
