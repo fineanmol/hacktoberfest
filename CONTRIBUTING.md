@@ -5980,6 +5980,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Working as a developer in 21n78e Creative Labs.
 - GitHub: [Ganesh](https://github.com/ganeshmajhi)
 
+#### Name: [Hammad amjad](https://github.com/hammadamjad)
+
+- Place: Islamabad, Pakistan
+- Bio: Final Year undergrad pursuing BS in Computer Science
+- GitHub: [Hammad Amjad]((https://github.com/hammadamjad))
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
