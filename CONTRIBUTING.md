@@ -6213,6 +6213,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 -Bio: I am a sophmore at the department of mechanical engineering from National Institute of Technology,Raipur
 -GitHub: https://github.com/utkarshnashine
 
+#### Name: [Suyash](https://github.com/Suyash-leo)
+
+- Place: New Delhi, Delhi, India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [suyash-leo](https://github.com/suyash-leo)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
