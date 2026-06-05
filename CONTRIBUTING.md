@@ -5749,6 +5749,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A passionate Web Developer
 - GitHub: [ishsarin](https://github.com/ishsarin)
 
+#### Name: [Aakash](https://github.com/aakash-sittu)
+
+- Place: Chennai, TamilNadu, India
+- Bio: I am a Computer Science Engineering student from SRM Institute of Science and Technology
+- GitHub: [Aakash-sittu](https://github.com/Aakash-sittu)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
