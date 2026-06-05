@@ -6130,6 +6130,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: engineering student!
 - GitHub: [faitht1023](https://github.com/faitht1023)
 
+#### Name: [Deepanshu](https://github.com/deeps65)
+
+- Place: New Delhi, Delhi, India
+- Bio: 3rd Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [deeps65](https://github.com/deeps65)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
