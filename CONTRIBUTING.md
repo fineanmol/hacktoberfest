@@ -5920,6 +5920,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Career change after 25 years / Web Developer student
 - GitHub: [irvrivera](https://github.com/irvrivera)
 
+#### Name: [Priya Singh](https://github.com/PriyaSingh03)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Second Year student pursuing B.Tech in Computer Science Engineering
+- GitHub: [PriyaSingh03](https://github.com/PriyaSingh03)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
