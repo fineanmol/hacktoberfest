@@ -6088,6 +6088,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 -Bio: A simpleton.
 -GitHub: [XAnaXprik](https://github.com/XAnaXprik)
 
+#### Name: [Deepika Kar](https://github.com/Deepika-kar)
+
+- Place: Brajrajnagar, Odisha,India
+- Bio: Pre-final year student at veer surendra sai university of technology,Burla,Sambalpur
+- GitHub: [Deepika-kar](https://github.com/Deepika-kar)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
