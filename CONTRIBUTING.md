@@ -5807,6 +5807,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: An ECE graduate and a frontend Developer.
 - GitHub: [ADHIRAJ-12](https://github.com/ADHIRAJ-12/)
 
+#### Name: [Eshita](https://github.com/XXeshitaXX)
+
+- Place: New Delhi, Delhi, India
+- Bio: Undergrad B.Tech
+- GitHub: [XXeshitaXX](https://github.com/XXeshitaXX)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
