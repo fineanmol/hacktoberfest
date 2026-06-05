@@ -5588,6 +5588,13 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: a ux engineer who can cook, take photographs & desgin
 - GitHub: [Ahmad Usama](https://github.com/IahmadDev)
 
+#### Name: [Arjun Singh](https://github.com/Cborgg)
+
+- Place: Bangalore,Karnataka,India
+- Bio: ECE student studying in PES
+- GitHub: [Cborgg](https://github.com/Cborgg)
+-
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
