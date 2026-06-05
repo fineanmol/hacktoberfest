@@ -1,0 +1,29 @@
+Leetcode - 257. Binary Tree Paths
+https://leetcode.com/problems/binary-tree-paths/
+
+
+class Solution {
+    List<String> ar=new LinkedList<String>();
+    public List<String> binaryTreePaths(TreeNode root) {
+        String st="";
+        traversal(root,st);
+        return ar;
+    }
+    public void traversal(TreeNode r, String s){
+        s+=r.val;
+        if(r.right==null && r.left==null){
+            ar.add(s);
+            return ;
+        }
+        
+        if(r.left!=null){
+            //System.out.println(s);
+            traversal(r.left,s+"->");
+        }
+        if(r.right!=null){
+            //System.out.println(s);
+            traversal(r.right,s+"->");
+        }
+        
+    }
+}
