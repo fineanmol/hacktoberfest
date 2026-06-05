@@ -6349,6 +6349,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Student of Computer Science And Engineering
 - GitHub: [StringHks](https://github.com/StringHks)
 
+#### Name: [Prajju](https://github.com/prajspiben1)
+
+- Place: Andhra Pradesh, India
+- Bio: I like coding
+- GitHub: [prajspiben1](https://github.com/prajspiben1)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
