@@ -5602,6 +5602,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - GitHub: [MasterD98](https://github.com/MasterD98)
 -
 
+#### Name: [Tom](https://github.com/Fazer01)
+
+- Place: Gelderland, Netherlands
+- Bio: Gaming, Lego as hobby, software programming as a profession
+- GitHub: [Fazer01](https://github.com/Fazer01)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
