@@ -5635,6 +5635,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: 3rd year student at Guru Gobind Singh Indraprastha University and Intern at Prodigal AI
 - GitHub: [Suryansh Gupta](https://github.com/suryanshgupta9933)
 
+#### Name: [Samraj R](https://github.com/samraj-freak)
+
+- Place: Chennai, Tamil Nadu, India
+- Bio: Recent BE CSE Grad with sklls in REACT | JAVASCRIPT | JAVA
+- GitHub: [samraj-freak](https://github.com/samraj-freak)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
