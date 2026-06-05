@@ -5653,6 +5653,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final Year BTech CSE Student at VIT Vellore
 - GitHub: [Pranav-kat](https://github.com/Pranav-kat)
 
+#### Name: [YassaFareed](https://github.com/YassaFareed)
+
+- Place: Karachi, Pakistan
+- Bio:  Data Scientist | Data Engineer | DevOps | ML/AI Enthusiast
+- GitHub: [YassaFareed](https://github.com/YassaFareed)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
