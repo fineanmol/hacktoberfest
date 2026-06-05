@@ -6016,6 +6016,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science & Engineering
 - GitHub: [Manan mal](https://github.com/Man-an-mal)
 
+#### Name: [Tari Akinukawe](https://github.com/Tahree22)
+
+- Place: Port Harcourt, Rivers, Nigeria
+- Bio: A law graduate, learning to code with the aim of switching careers.
+- GitHub: [Tahree22](https://github.com/Tahree22)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
