@@ -5801,6 +5801,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Place: Lagos, Nigeria
 - Bio: computer Science graduate and a fullstack developer
 
+#### Name: [Adhiraj](https://github.com/ADHIRAJ-12/)
+
+- Place: Bareilly, U.P, INDIA
+- Bio: An ECE graduate and a frontend Developer.
+- GitHub: [ADHIRAJ-12](https://github.com/ADHIRAJ-12/)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
