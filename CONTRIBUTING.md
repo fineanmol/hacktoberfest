@@ -5695,6 +5695,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: First Year undergrad pursuing B.tech
 - GitHub: [Manancode](https://github.com/Manancode)
 
+#### Name: [Logan](https://github.com/123HelloBob)
+
+- Place: Seattle, Washington, USA
+- Bio: Student in HS
+- Github: [123HelloBob](https://github.com/123HelloBob)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
