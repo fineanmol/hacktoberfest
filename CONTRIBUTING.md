@@ -5831,6 +5831,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: web-developer and certified food critique.
 - GitHub: [Navdeep Jajoria](https://github.com/LadyDhaga)
 
+#### Name: [Amish Kumar Singh](https://github.com/amish1211)
+
+- Place: Surat, Gujarat, India
+- Bio: I am a computer science student at surat, gujarat
+- GitHub: [amish1211](https://github.com/amish1211)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
