@@ -5731,6 +5731,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Data Scientist pusuing MS CS at New York University
 - GitHub: [Sidhved](https://github.com/sidhved)
 
+#### Name: [Swatantra Gupta](https://github.com/erswatantra2001)
+
+- Place: Mathura, Uttar Pradesh, India
+- Bio: Completed with the B.Tech in computer science and engineering
+- GitHub: [erswatantra2001](https://github.com/erswatantra2001)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
