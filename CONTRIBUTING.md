@@ -5843,6 +5843,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Frontend Developer & Ui/Ux Designer. Currently pursuing BCA-IInd year
 - GitHub: [Mohit Saini](https://github.com/mohitsaini07)
 
+#### Name: [Dennis San Jose](https://github.com/sanjosedennis7593)
+
+- Place: Bulacan, Philippines
+- Bio: Just another fullstack developer
+- GitHub: [Dennis San Jose](https://github.com/sanjosedennis7593)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
