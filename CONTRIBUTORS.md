@@ -592,9 +592,8 @@
 -   Bio: Full-Stack Developer
 -   GitHub: [amansharma703](https://github.com/amansharma703)
 
+#### Name: [Yogesh](https://github.com/YogeshBabyOP)
 
-#### Name: [Prannesh Sathyamoorthy](https://github.com/Prannesh45)
-
-- Place: Bangalore, Karnataka
-- Bio: I am an HPC Cloud Engineer
-- Github: [prannesh45](https://github.com/Prannesh45)
+-   Place: Mangalagiri, AP, India
+-   Bio: I am a Third Year CSE student, I Had Interest In CP.
+-   GitHub: [YogeshBabyOP](https://github.com/YogeshBabyOP)
