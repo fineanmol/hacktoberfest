@@ -6058,6 +6058,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: 2nd year CS student, GDSC Content Lead, Beta MLSA, love coding and playing games
 - GitHub: [haiderali920687](https://github.com/haiderali920687)
 
+#### Name: [Priyanshu Kumawat](https://github.com/Cyb3rKn1gh7)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: security researcher
+- GitHub: [Cyb3rKn1gh7](https://github.com/Cyb3rKn1gh7)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
