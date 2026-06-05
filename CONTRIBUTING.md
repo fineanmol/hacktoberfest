@@ -6022,6 +6022,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A law graduate, learning to code with the aim of switching careers.
 - GitHub: [Tahree22](https://github.com/Tahree22)
 
+#### Name: [Mohamed Salman](https://github.com/salmantec)
+
+- Place: Chennai, Tamilnadu, India
+- Bio: Software Consultant
+- Github: [salmantec](https://github.com/salmantec)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
