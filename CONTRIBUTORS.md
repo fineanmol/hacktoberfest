@@ -16,12 +16,6 @@
 - Bio: Aspiring Software Engineer
 - GitHib: [Jay Mehta](https://github.com/jaymehta002)
 
-#### Name: [Hamza Nawab](https://github.com/blazenn2)
-
-- Place: Karachi, Sindh, Pakistan
-- Bio: Chemical Engineer wanna be da best developer!!!
-- GitHib: [Hamza Nawab](https://github.com/blazenn2)
-
 #### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
 - Place: Lagos, LAG, NIGERIA
@@ -556,6 +550,13 @@
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
 
+
+#### Name: [Rahul Vishwakarma](https://github.com/rahulssv)
+
+- Place: Ponda, Goa, India
+- Bio: I am a Computer Engineering Student
+- GitHub: [rahulssv](https://github.com/rahulssv)
+
 #### Name: [Naman Mehta](https://github.com/naman1102)
 
 - Place: Indore, Madhya Pradesh, Indore
@@ -594,18 +595,7 @@
 
 #### Name: [Aman Sharma](https://github.com/amansharma703)
 
-- Place: Gorakhpur, UP, India
-- Bio: Full-Stack Developer
-- GitHub: [amansharma703](https://github.com/amansharma703)
+-   Place: Gorakhpur, UP, India
+-   Bio: Full-Stack Developer
+-   GitHub: [amansharma703](https://github.com/amansharma703)
 
-#### Name: [Jesús Ángel Pérez-Roca Fernández](https://github.com/yisus82)
-
-- Place: A Coruña, Galicia, Spain
-- Bio: Professor at CPR Liceo La Paz
-- GitHub: [yisus82](https://github.com/yisus82)
-
-#### Name: [VIKAS TRIPATHI](https://github.com/ervikasji)
-
-- Place: Lucknow,UP
-- Bio: Full Stack Developer
-- GitHub: [ervikasji](https://github.com/ervikasji)
