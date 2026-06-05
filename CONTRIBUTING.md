@@ -6397,6 +6397,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Enthusiastic about technology and passionate about developing
 - GitHub: [xandowski](https://github.com/xandowski)
 
+#### Name: [Andrew De Guzman](https://github.com/theadg)
+
+- Place: Angono, Rizal, Philippines
+- Bio: A mothefucking dreamer
+- GitHub: [theadg ](https://github.com/theadg)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
