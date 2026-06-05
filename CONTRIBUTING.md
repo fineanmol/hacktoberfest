@@ -5914,6 +5914,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final Year student B.tech in Computer Science Engineering.
 - GitHub: [Manav888](https://github.com/Manav888)
 
+#### Name: [irvrivera](https://github.com/irvrivera)
+
+- Place: tamarac, FL, USA
+- Bio: Career change after 25 years / Web Developer student
+- GitHub: [irvrivera](https://github.com/irvrivera)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
