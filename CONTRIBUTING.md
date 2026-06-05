@@ -5665,6 +5665,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Pre-final year (3rd year) Btech. CSE student of Chameli Devi Group Of Institutions, Indore
 - GitHub: [kc1100](https://github.com/kc1100)
 
+#### Name: [PRANAV TRIPATHI](https://github.com/mightyshibbu)
+
+-Place: Pune, INDIA
+-Bio: 2023 Graduate || SPPU - BE IT
+-GitHub: https://github.com/mightyshibbu
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
