@@ -5713,6 +5713,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A 3rd year student persuing BCA in Computer Science
 - GitHub: [Herik25](https://github.com/Herik25)
 
+#### Name: [Dimonalek](https://github.com/dimonalek)
+
+- Place: Kyiv, Ukraine
+- Bio: Sysadmin, Python beginner, gamer
+- GitHub: [dimonalek](https://github.com/dimonalek)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
