@@ -5719,6 +5719,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Sysadmin, Python beginner, gamer
 - GitHub: [dimonalek](https://github.com/dimonalek)
 
+#### Name: [Anas Shofyan](https://github.com/anasshofyan)
+
+- Place: South Jakarta, DKI Jakarta, Indonesia
+- Bio: Front End Engineer
+- GitHub: [anasshofyan](https://github.com/anasshofyan)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
