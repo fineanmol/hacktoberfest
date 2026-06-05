@@ -1,9 +1,3 @@
-#### Name: [John Lawolf](https://github.com/law01f)
-
-- Place: Thailand
-- Bio: AI enthusiats and Gamer.
-- GitHub: [law01f](https://github.com/law01f)
-
 #### Name: [Stephen Nwankwo](https://github.com/stenwire)
 
 - Place: Lagos, LAG, NIGERIA
@@ -21,12 +15,6 @@
 - Place: Lagos, LAG, NIGERIA
 - Bio: Aspiring Software Engineer
 - GitHib: [Jay Mehta](https://github.com/jaymehta002)
-
-#### Name: [Hamza Nawab](https://github.com/blazenn2)
-
-- Place: Karachi, Sindh, Pakistan
-- Bio: Chemical Engineer wanna be da best developer!!!
-- GitHib: [Hamza Nawab](https://github.com/blazenn2)
 
 #### Name: [Oluwatomilola](https://github.com/DevTomilola-OS)
 
@@ -105,12 +93,6 @@
 - Place: Lyon, France
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
-
-#### Name: [Prachi Gupta](https://github.com/Prachi-22-81)
-
-- Place: Delhi, India
-- Bio: Student
-- GitHub: [Prachi-22-81](https://github.com/Prachi-22-81)
 
 #### Name: [Devesh](https://github.com/Devesh1602)
 
@@ -606,12 +588,12 @@
 
 #### Name: [Aman Sharma](https://github.com/amansharma703)
 
-- Place: Gorakhpur, UP, India
-- Bio: Full-Stack Developer
-- GitHub: [amansharma703](https://github.com/amansharma703)
+-   Place: Gorakhpur, UP, India
+-   Bio: Full-Stack Developer
+-   GitHub: [amansharma703](https://github.com/amansharma703)
 
-#### Name: [Jesús Ángel Pérez-Roca Fernández](https://github.com/yisus82)
+#### Name: [撒冷才不是小小蒙](https://github.com/SalengNotLittleMeng)
 
-- Place: A Coruña, Galicia, Spain
-- Bio: Professor at CPR Liceo La Paz
-- GitHub: [yisus82](https://github.com/yisus82)
+-   Place: Taiyuan, Shanxi, China
+-   Bio: College students who love JavaScript
+-   GitHub: [SalengNotLittleMeng](https://github.com/SalengNotLittleMeng)
