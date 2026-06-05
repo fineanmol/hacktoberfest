@@ -610,8 +610,8 @@
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
 
-#### Name: [Biswa Prakash Mishra](https://github.com/biswaone)
+#### Name: [Rahul Kumar Baranwal](https://github.com/rahulgithub-web)
 
-- Place: Warangal, India
-- Bio: Student, Computers enthusiast
-- GitHub: [biswaone](https://github.com/biswaone)
+- Place: Bangalore, Karnataka, India
+- Bio: I am a Mern Stack Developer.
+- GitHub: [rahulgithub-web](https://github.com/rahulgithub-web)
