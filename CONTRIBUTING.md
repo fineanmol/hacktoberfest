@@ -6010,6 +6010,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Student Success Team at @codigofacilito. 🐊✨
 - GitHub: [DARWINDEV](https://github.com/DARWINDEV)
 
+#### Name: [Manan mal](https://github.com/Man-an-mal)
+
+- Place: Kolkata, West Bengal, India
+- Bio: A 3rd year undergrad pursuing B.Tech in Computer Science & Engineering
+- GitHub: [Manan mal](https://github.com/Man-an-mal)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
