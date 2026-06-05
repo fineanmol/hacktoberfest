@@ -6307,6 +6307,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Pre Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [rishabh-pandey-393](https://github.com/rishabh-pandey-393)
 
+#### Name: [Sutthirat Phutho](https://github.com/radsadorn)
+
+- Place: Latkraabang, Bangkok, Thailand
+- Bio: Software Engineering Trainee
+- GitHub: [Radsadorn](https://github.com/radsadorn)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
