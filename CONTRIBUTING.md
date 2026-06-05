@@ -6046,6 +6046,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Mobile app developer
 - GitHub: [Asif Jawed](https://github.com/aasif1297)
 
+#### Name: [CodeBreaker518](https://github.com/CodeBreaker518)
+
+- Place: Mexico
+- Bio: University Student interested on Front-end Development
+- GitHub: [CodeBreaker](https://github.com/CodeBreaker518)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
