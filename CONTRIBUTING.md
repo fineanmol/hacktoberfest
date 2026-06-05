@@ -5825,6 +5825,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am pre-final year engineer undergraduate at National Institute of Technology, Rourkela.
 - GitHub: [Sugamgoel28 ](https://github.com/Sugamgoel28)
 
+#### Name: [Navdeep Jajoria](https://github.com/LadyDhaga)
+
+- Place: Jalandhar, Punjab, India
+- Bio: web-developer and certified food critique.
+- GitHub: [Navdeep Jajoria](https://github.com/LadyDhaga)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
