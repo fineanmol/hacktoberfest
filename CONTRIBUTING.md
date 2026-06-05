@@ -6094,6 +6094,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Pre-final year student at veer surendra sai university of technology,Burla,Sambalpur
 - GitHub: [Deepika-kar](https://github.com/Deepika-kar)
 
+#### Name: [Sneha Shukla](https://github.com/Scarlet-Coder)
+
+- Place: Lucknow, India
+- Bio: A B.Tech 3rd year student
+- GitHub: [Scarlet-Coder](https://github.com/Scarlet-Coder)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
