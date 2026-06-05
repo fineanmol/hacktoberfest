@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+    <title>PyScript Hello World</title>
+
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+
+    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.21.2/full/pyodide.js"></script>
+</head>
+
+<body>
+    <py-config>#shadow-root(open)
+        <slot></slot>
+    </py-config>
+    <!--
+        LANGUAGE: Python
+        <br>
+        ENV: PyScript
+        <br>
+        AUTHOR: Lesley-Nicole
+        <br>
+        GITHUB: https://github.com/lesley-nicole
+    -->
+    <br>
+    <p><b>Pyscript is python code in an .html file....without having to download anything.
+            The text below is printed with pyscript python code.</b>
+    </p>
+    <hr>
+    <py-script> print('Hello, World!')</py-script>
+</body>
+
+</html>
