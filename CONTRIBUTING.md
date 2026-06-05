@@ -5725,6 +5725,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Front End Engineer
 - GitHub: [anasshofyan](https://github.com/anasshofyan)
 
+#### Name: [Sidhved](https://github.com/sidhved)
+
+- Place: Brooklyn, NY, USA
+- Bio: Data Scientist pusuing MS CS at New York University
+- GitHub: [Sidhved](https://github.com/sidhved)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
