@@ -5791,6 +5791,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Member of Technical Staff, part time golang + python developer
 - GitHub: [AritroChkraborty29](https://github.com/aritrochakraborty29)
 
+#### Name: [Stuti Pathak](https://github.com/istutea)
+
+- Place: Raigarh, Chattisgarh, India
+- Bio: I am an Electrical Engineering student interested in backend web development
+- GitHub: [istutea](https://github.com/istutea)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
