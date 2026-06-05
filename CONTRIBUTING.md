@@ -6272,6 +6272,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Web developer, react enthusiast
 - GitHub: [akshpnwr](https://github.com/akshpnwr)
 
+#### Name: [Stilyana Stoyanova](https://github.com/StilyanaS)
+
+- Place: Alicante, Valencia, Spain
+- Bio: Junior Frontend developer with experience in SEO
+- GitHub: [StilyanaS](https://github.com/StilyanaS)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
