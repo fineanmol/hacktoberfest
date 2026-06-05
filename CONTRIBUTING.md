@@ -6319,6 +6319,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Computer Science Student
 - GitHub: [Kunal Dongre](https://github.com/kunaldongre24)
 
+#### Name: [Swarnava Bhattacharyya](https://github.com/Rivuozil)
+
+- Place: Kolkata, India
+- Bio: I am an ECE Undergrad.
+- GitHub: [Rivuozil](https://github.com/Rivuozil)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
