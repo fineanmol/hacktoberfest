@@ -100,12 +100,6 @@
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
 
-#### Name: [Prachi Gupta](https://github.com/Prachi-22-81)
-
-- Place: Delhi, India
-- Bio: Student
-- GitHub: [Prachi-22-81](https://github.com/Prachi-22-81)
-
 #### Name: [Devesh](https://github.com/Devesh1602)
 
 - Place: Pune, Maharashtra, INDIA
@@ -610,8 +604,8 @@
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
 
-#### Name: [Pongsakorn Lertpiri](https://github.com/Bcepnez)
+#### Name: [VIKAS TRIPATHI](https://github.com/ervikasji)
 
-- Place: Chatujak, Bangkok, Thailand
-- Bio: Just Bug why need to fix it?
-- GitHub: [Bcepnez](https://github.com/Bcepnez)
+- Place: Lucknow,UP
+- Bio: Full Stack Developer
+- GitHub: [ervikasji](https://github.com/ervikasji)
