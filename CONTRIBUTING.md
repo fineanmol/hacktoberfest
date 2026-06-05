@@ -6284,6 +6284,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Computer Science Undergraduate
 - GitHub: [KulkarniKaustubh](https://github.com/KulkarniKaustubh)
 
+#### Name: [ Rajat Kumar Prajapati ](https://github.com/itsRajatkumar/)
+
+- Place: Udaipur, Rajasthan, India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering. MERN Stack Developer.
+- GitHub: [itsRajatkumar](https://github.com/itsRajatkumar)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
