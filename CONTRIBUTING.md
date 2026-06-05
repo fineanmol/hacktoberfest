@@ -5570,6 +5570,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Pre-Final Year, SRMIST Chennai
 - GitHub: Midhilesh(https://github.com/Midhilesh2003)
 
+#### Name: [Yash Kumar Gupta](https://github.com/YKGupta)
+
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: Second Year CSE Student at Lovely Professional University, Punjab
+- GitHub: [YKGupta](https://github.com/YKGupta)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
