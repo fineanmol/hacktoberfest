@@ -6343,6 +6343,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Fullstack dev having my first time at open source.
 - GitHub: [llpasche](https://github.com/llpasche)
 
+#### Name: [Harshit Kumar Srivastava](https://github.com/StringHks)
+
+- Place: Patia ,Bhubhaneshwar , India
+- Bio: Student of Computer Science And Engineering
+- GitHub: [StringHks](https://github.com/StringHks)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
