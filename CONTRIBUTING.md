@@ -6319,11 +6319,17 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Computer Science Student
 - GitHub: [Kunal Dongre](https://github.com/kunaldongre24)
 
-#### Name: [Swarnava Bhattacharyya](https://github.com/Rivuozil)
+#### Name: [PRATIKSHA EKBOTE](https://github.com/Pratikshaekbote)
 
-- Place: Kolkata, India
-- Bio: I am an ECE Undergrad.
-- GitHub: [Rivuozil](https://github.com/Rivuozil)
+- Place: Nagpur, Maharashtra, India
+- Bio: I am CSE undergrad Student, studying from Ramdeobaba College of Engineering and Managment, Nagpur.
+- GitHub: [Pratikshaekbote](https://github.com/Pratikshaekbote)
+
+#### Name: [FELIPE FONTENELE](https://github.com/luizfelper)
+
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [luizfelper](https://github.com/luizfelper)
 
 #### Name: [Saksham Jain](https://github.com/saksham08jain)
 
