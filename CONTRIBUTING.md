@@ -5779,6 +5779,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Data Engineer
 - GitHub: [wbhoomika](https://github.com/wbhoomika)
 
+#### Name: [shiva gupta](https://github.com/shiva5152)
+
+- Place: Delhi, India
+- Bio: I am a Software Developer, graduate of Mathematics
+- GitHub: [shiva5152](https://github.com/shiva5152)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
