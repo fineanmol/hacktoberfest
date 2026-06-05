@@ -5707,6 +5707,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I'm a Frontend Developer and pursuing B.tech in Computer Science Engineering
 - GitHub: [Naina047](https://github.com/Naina047)
 
+#### Name: [Harsh](https://github.com/Herik25)
+
+- Place: Rajkot, Gujarat, India
+- Bio: A 3rd year student persuing BCA in Computer Science
+- GitHub: [Herik25](https://github.com/Herik25)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
