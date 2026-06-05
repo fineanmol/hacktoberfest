@@ -1,9 +1,9 @@
-// Your First C Program
+// Your First C++ Program
 
-#include <stdio.h>
-
+#include<bits/stdc++.h>
+#include <iostream>
+using namespace std;
 int main() {
-    // printf() displays the string inside quotation
-    printf("Hello, World!");
+    cout << "Hello World!";
     return 0;
 }
