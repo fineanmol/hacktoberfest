@@ -6124,6 +6124,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [Srikant Soni](https://github.com/theCR7)
 
+#### Name: [Faith](https://github.com/faitht1023)
+
+- Place: Canada
+- Bio: engineering student!
+- GitHub: [faitht1023](https://github.com/faitht1023)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
