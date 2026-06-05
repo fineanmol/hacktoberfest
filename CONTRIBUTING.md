@@ -5849,6 +5849,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Just another fullstack developer
 - GitHub: [Dennis San Jose](https://github.com/sanjosedennis7593)
 
+#### Name: [Mahil](https://github.com/mahilreshi)
+
+- Place: Jammu, J&K, India
+- Bio: ECE undergrad currently in 3rd year
+- GitHub: [Mahil Reshi](https://github.com/mahilreshi)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
