@@ -5944,6 +5944,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Front End Developer
 - GitHub: [Simon Paul](https://github.com/simonpaul08/)
 
+#### Name: [Panshul](https://github.com/Panshul00)
+
+- Place: New Delhi, India
+- Bio: Third Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [Panshul00](https://github.com/Panshul00)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
