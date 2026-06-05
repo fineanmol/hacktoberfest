@@ -5582,6 +5582,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Deep Learning Researcher
 - GitHub: [ishandutta0098](https://github.com/ishandutta0098)
 
+#### Name: [Ahmad Usama](https://github.com/IahmadDev)
+
+- Place: Islamabad, Punjab, Pakistan
+- Bio: a ux engineer who can cook, take photographs & desgin
+- GitHub: [Ahmad Usama](https://github.com/IahmadDev)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
