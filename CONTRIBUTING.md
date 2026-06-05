@@ -5998,6 +5998,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Frontend Developer
 - GitHub: [sherlyfebrianti96](https://github.com/sherlyfebrianti96)
 
+#### Name: [Amila](https://github.com/amilabgunarathne)
+
+- Place: Bandarawela, Uva, Sri Lanka
+- Bio: A student
+- GitHub: [amilab](https://github.com/amilabgunarathne)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
