@@ -6052,6 +6052,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: University Student interested on Front-end Development
 - GitHub: [CodeBreaker](https://github.com/CodeBreaker518)
 
+#### Name: [Haider Ali](https://github.com/haiderali920687)
+
+- Place: Rawalpindi, Punjab, Pakistan
+- Bio: 2nd year CS student, GDSC Content Lead, Beta MLSA, love coding and playing games
+- GitHub: [haiderali920687](https://github.com/haiderali920687)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
