@@ -1,24 +1,23 @@
-# <img width="56" alt="193515452-ebdf9e40-b074-4cfe-b19d-716d66b7e724" src="https://user-images.githubusercontent.com/81232337/195917410-5f0419a0-e955-4567-ace9-d4a629e7f45f.png"> Hacktoberfest Project 2 : [Annoying Button](https://github.com/fineanmol/Annoying-submit-button) 🎉.
+# <img width="56" alt="193515452-ebdf9e40-b074-4cfe-b19d-716d66b7e724" src="https://user-images.githubusercontent.com/81232337/195917410-5f0419a0-e955-4567-ace9-d4a629e7f45f.png"> Hacktoberfest 2026 Starter 🎃
 
+Contribute here to complete your [Hacktoberfest](https://hacktoberfest.com/) event.
 
+**Live site:** [fineanmol.github.io/hacktoberfest](https://fineanmol.github.io/hacktoberfest/)
 
+Related project: [Annoying Button](https://github.com/fineanmol/Annoying-submit-button)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🎃 Hacktoberfest 2026 — Starter Project
 
-Contribute here to complete your HacktoberFest Event. 
-
-# 🎃 HacktoberFest Starter Project 🎃
-
-Use this project to make your first contribution to an open source project on GitHub.
-Celebrate [Hacktoberfest](https://hacktoberfest.com/) by getting involved in the open source community by completing some simple tasks in this project.
+Use this repository to make your first (or next) open source contribution on GitHub.
+Celebrate **[Hacktoberfest 2026](https://hacktoberfest.com/)** (October 1–31) by completing simple tasks in this project.
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 [https://fineanmol.github.io/hacktoberfest/](https://fineanmol.github.io/hacktoberfest/)
 
 ## What is Hacktoberfest?
 
-A month-long celebration from October 1st - 31st sponsored by `Digital Ocean` and [`GitHub`](https://dev.to/this-is-learning/hacktoberfest-2022-is-almost-there-get-ready-4ifb) to get people involved in [`Open Source`](https://github.com/open-source). 
-[https://hacktoberfest.com/](https://hacktoberfest.com/)
+A month-long celebration from **October 1–31** sponsored by DigitalOcean, GitHub, and partners — get involved in [open source](https://github.com/open-source).  
+Official site: [hacktoberfest.com](https://hacktoberfest.com/)
 
 
 ## Getting started

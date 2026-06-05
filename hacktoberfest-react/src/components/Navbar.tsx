@@ -36,7 +36,7 @@ export default function Navbar() {
                 />
               </svg>
               <span className="ml-2 text-xl font-bold bg-gradient-to-r from-hacktoberfest-pink to-purple-500 bg-clip-text text-transparent">
-                Hacktoberfest 2024
+                Hacktoberfest 2026
               </span>
             </a>
           </div>
@@ -46,7 +46,7 @@ export default function Navbar() {
             <a href="#contributors" className="text-gray-300 hover:text-white transition-colors">Contributors</a>
             <a href="#about" className="text-gray-300 hover:text-white transition-colors">About</a>
             <div className="flex space-x-4 ml-4">
-              <a href="https://github.com/fineanmol/Hacktoberfest2024" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
+              <a href="https://github.com/fineanmol/hacktoberfest" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
                 <FaGithub className="w-5 h-5" />
               </a>
               <a href="https://linkedin.com/in/fineanmol" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
