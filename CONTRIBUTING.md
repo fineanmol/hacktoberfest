@@ -5950,6 +5950,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Third Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [Panshul00](https://github.com/Panshul00)
 
+#### Name: [Utkarsh Jaulkar](https://github.com/utkarshjaulkar)
+
+- Place: Pune, Maharashtra, India
+- Bio: Third Year Undergraduate Enthusiast in web development.
+- GitHub: [utkarshjaulkar](https://github.com/utkarshjaulkar)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
