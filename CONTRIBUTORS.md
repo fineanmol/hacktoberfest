@@ -610,8 +610,8 @@
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
 
-#### Name: [Arjav Kanadia](https://github.com/DeadliestDemon)
+#### Name: [Biswa Prakash Mishra](https://github.com/biswaone)
 
-- Place: Prayagraj, UP, India
-- Bio: Android App Developer
-- GitHub: [DeadliestDemon](https://github.com/DeadliestDemon)
+- Place: Warangal, India
+- Bio: Student, Computers enthusiast
+- GitHub: [biswaone](https://github.com/biswaone)
