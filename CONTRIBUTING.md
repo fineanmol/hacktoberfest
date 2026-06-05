@@ -6415,6 +6415,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: B.Tech 2nd year Student at NIT, Jalandhar
 - GitHub: [tushar-sublaik](https://github.com/tushar-sublaik)
 
+#### Name: [Hamna Qaseem](https://github.com/Hamna12)
+
+- Place: Pakistan, Punjab
+- Bio: Doing my Bachelor's in Data Science 5th semester
+- GitHub: [Hamna12](https://github.com/Hamna12)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
