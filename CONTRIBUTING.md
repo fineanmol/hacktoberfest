@@ -6112,6 +6112,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: A 3rd year undergrad pursuing Bachelors in Computer Science
 - GitHub: [Suga7772](https://github.com/Suga7772)
 
+#### Name: Ishan Agarwal (https://github.com/ishan-agarwal)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Computer Science Student, Gamer
+- GitHub: [ishan-agarwal](https://github.com/ishan-agarwal)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
