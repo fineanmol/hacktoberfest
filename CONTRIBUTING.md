@@ -6207,6 +6207,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a Computer Engineering student from COMSATS Islamabad
 - GitHub: [ShawFromAttock](https://github.com/ShawFromAttock)
 
+#### Name: [UTKARSH NASHINE](https://github.com/utkarshnashine)
+
+-Place:Bhilai,Chattisgarh
+-Bio: I am a sophmore at the department of mechanical engineering from National Institute of Technology,Raipur
+-GitHub: https://github.com/utkarshnashine
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
