@@ -6225,6 +6225,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Student
 - GitHub: crazyboy(https://github.com/akash2908)
 
+#### Name: [SIDDHANT N.](https://github.com/WatashiwaSid)
+
+- Place: Rishikesh, Uttarakhand, India
+- Bio: Computer Applications Student.
+- GitHub: [WatshiwaSid](https://github.com/WatashiwaSid)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
