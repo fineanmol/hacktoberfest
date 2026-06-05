@@ -100,12 +100,6 @@
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
 
-#### Name: [Prachi Gupta](https://github.com/Prachi-22-81)
-
-- Place: Delhi, India
-- Bio: Student
-- GitHub: [Prachi-22-81](https://github.com/Prachi-22-81)
-
 #### Name: [Devesh](https://github.com/Devesh1602)
 
 - Place: Pune, Maharashtra, INDIA
@@ -610,8 +604,8 @@
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
 
-### Name: [Abhinav Kumar](https://github.com/abhinav2712)
+#### Name: [Rishi Kaushal](https://github.com/sagefell29)
 
-- Place: Manipal,Karnataka,India
-- Bio: Full-stack developer, DevOps Enthusiasts, MIT'24 
-- Github: [abhinav2712](https://github.com/abhinav2712) 
+- Place: Vellore, Tamil Nadu, India
+- Bio: A student at VIT, Vellore in CSE with Bioinformatics
+- GitHub: [sagefell29](https://github.com/sagefell29)
