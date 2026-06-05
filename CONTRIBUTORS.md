@@ -523,9 +523,8 @@
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
 
+#### Name: [Karan Mahajan](https://github.com/karan919)
 
-#### Name: [Xanthis](https://www.github.com/xanthisafk/)
-
-- Place: Delhi, India
-- Bio: Backend developer
-- Github: [xanthisafk](https://www.github.com/xanthisafk)
+- Place: New Delhi, India
+- Bio: I am a frontend developer that specialises in React
+- GitHub: [karan919](https://github.com/karan919)
