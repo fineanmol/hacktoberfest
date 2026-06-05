@@ -5837,6 +5837,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a computer science student at surat, gujarat
 - GitHub: [amish1211](https://github.com/amish1211)
 
+#### Name: [MOHIT SAINI](https://github.com/mohitsaini07)
+
+- Place: Khurja, Uttarpradesh, India
+- Bio: Frontend Developer & Ui/Ux Designer. Currently pursuing BCA-IInd year
+- GitHub: [Mohit Saini](https://github.com/mohitsaini07)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
