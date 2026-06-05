@@ -6391,6 +6391,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Student (Computer Science and Engineering)
 - GitHub: [PoojaGuptan03](https://github.com/PoojaGuptan03)
 
+#### Name: [Alexandre Morais](https://github.com/xandowski)
+
+- Place: Brazil
+- Bio: Enthusiastic about technology and passionate about developing
+- GitHub: [xandowski](https://github.com/xandowski)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
