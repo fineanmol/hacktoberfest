@@ -5885,6 +5885,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am third year undergrad student pursuing B.tech in Instrumentation and Control Engineering from NSUT
 - GithHub: [pankaj-2503](https://github.com/pankaj-2503)
 
+#### Name: [Sushant Khadka](https://github.com/NameLesssNerd)
+
+- Place: Koteswor, Kathmandu, Nepal
+- Bio: I am a Software Engineering student from Nepal Collage of Information Technology
+- GitHub: [NameLesssNerd](https://github.com/NameLesssNerd)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
