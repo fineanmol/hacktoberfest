@@ -5956,6 +5956,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Third Year Undergraduate Enthusiast in web development.
 - GitHub: [utkarshjaulkar](https://github.com/utkarshjaulkar)
 
+#### Name: [Sharjeel Riaz](https://github.com/Sharjeel-Riaz)
+
+- Place: Lahore, Pakistan
+- Bio: A passionate developer trying to master Web.
+- GitHub: [Sharjeel-Riaz](https://github.com/Sharjeel-Riaz)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
