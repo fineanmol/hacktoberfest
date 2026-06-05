@@ -5641,6 +5641,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Recent BE CSE Grad with sklls in REACT | JAVASCRIPT | JAVA
 - GitHub: [samraj-freak](https://github.com/samraj-freak)
 
+#### Name: [Lakshay Bharadwaj](https://github.com/JOSHI53)
+
+- Place: Delhi, India
+- Bio: Full Stack dev
+- GitHub: [JOSHI53](https://github.com/JOSHI53)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
