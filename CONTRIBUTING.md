@@ -5659,6 +5659,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio:  Data Scientist | Data Engineer | DevOps | ML/AI Enthusiast
 - GitHub: [YassaFareed](https://github.com/YassaFareed)
 
+#### Name: Krish Chandel(https://github.com/kc1100)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: Pre-final year (3rd year) Btech. CSE student of Chameli Devi Group Of Institutions, Indore
+- GitHub: [kc1100](https://github.com/kc1100)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
