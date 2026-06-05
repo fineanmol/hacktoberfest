@@ -6184,6 +6184,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: I am a full Stack Software Developer
 - GitHub: [AashifAhamed](https://github.com/AashifAhamed)
 
+#### Name: [KOMPAL LAYAL](https://github.com/komproximal)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: 3rd year student pursuing B.E in Computer
+- GitHub: [komproximal](https://github.com/komproximal)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
