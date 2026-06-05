@@ -6373,6 +6373,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: First Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [tushant07](https://github.com/tushant07)
 
+#### Name: [Ansh](GitHub link)
+
+- Place: New Delhi, Delhi , India
+- Bio: Programming enthusiast and 2nd year Btech student
+- GitHub: [teleansh](https://github.com/teleansh)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
