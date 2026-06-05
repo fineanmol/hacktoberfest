@@ -523,9 +523,7 @@
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
 
-
-#### Name: [Breno Cota](https://github.com/brenocota-hotmart)
-
-- Place: Belo-Horizonte, Minas Gerais, Brasil
-- Bio: I'm a frontend developer, passionate about React, Vue and Golang
-- GitHub: [brenocota-hotmart](https://github.com/brenocota-hotmart)
+#### Name: [Vicky Raghuwanshi](https://github.com/Vicky-Raghuwanshi07)
+- Place: Indore, Madhya Pradesh, India
+- Bio: I'm a 4th year college student pursuing Computer Science & Engineering
+- GitHub: [Vicky Raghuwanshi](https://github.com/Vicky-Raghuwanshi07)
