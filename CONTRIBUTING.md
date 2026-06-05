@@ -6260,6 +6260,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 -Bio: I am a software engineer.
 -GitHub: [animeshsahu80]https://github.com/animeshsahu80
 
+#### Name: [Nikita](https://github.com/nikitawarrier)
+
+- Place: Washington, USA
+- Bio: CSP student, aspiring programmer
+- GitHub: [nikitawarrier](https://github.com/nikitawarrier)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
