@@ -100,6 +100,12 @@
 - Bio: Software engineer. Graduated from INSA Lyon.
 - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [Prachi Gupta](https://github.com/Prachi-22-81)
+
+- Place: Delhi, India
+- Bio: Student
+- GitHub: [Prachi-22-81](https://github.com/Prachi-22-81)
+
 #### Name: [Devesh](https://github.com/Devesh1602)
 
 - Place: Pune, Maharashtra, INDIA
@@ -604,9 +610,8 @@
 - Bio: Professor at CPR Liceo La Paz
 - GitHub: [yisus82](https://github.com/yisus82)
 
+#### Name: [Deepshi Sharma](https://github.com/deepshi4156)
 
-#### Name: [Mainak Debnath](https://github.com/mainak-debnath)
-
-- Place: Kolkata, West Bengal, India
-- Bio: Software Engineer 
-- GitHub: [mainak-debnath](https://github.com/mainak-debnath)
+- Place: Ghaziabad, UP, India
+- Bio: FrontEnd Developer
+- GitHub: [deepshi4156](https://github.com/deepshi4156)
