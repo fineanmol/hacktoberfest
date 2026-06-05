@@ -6070,6 +6070,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Back End Developer & Computer Science Student
 - GitHub: [muhammadpauzi](https://github.com/muhammadpauzi)
 
+#### Name: [Sonu](https://github.com/SonuKushwaha-hub)
+
+- Place: New Delhi, Delhi, India
+- Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
+- GitHub: [Sonu Kushwaha](https://github.com/SonuKushwaha-hub)
+
 #### Name: [Your Name](https://github.com/Oore2006)
 - Place: Akure, Ondo State, Nigeria
 - Bio: Aspiring web developer passionate about open source
