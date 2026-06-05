@@ -1,15 +1,3 @@
-#### Name: [Stephen Nwankwo](https://github.com/stenwire)
-
-- Place: Lagos, LAG, NIGERIA
-- Bio: Software Engineering, AI enthusiats and Gamer.
-- GitHub: [stenwire](https://github.com/stenwire)
-
-#### Name: [Rudreshwar Baranwal](https://github.com/devrudra9)
-
-- Place: Pratapgarh, Uttar Pradesh, India
-- Bio: I am a competitive programmer and a frontend web developer too.
-- GitHub: [devrudra9](https://github.com/devrudra9)
-
 #### Name: [Jay Mehta](https://github.com/jaymehta002)
 
 - Place: Lagos, LAG, NIGERIA
@@ -550,13 +538,6 @@
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
 
-
-#### Name: [Rahul Vishwakarma](https://github.com/rahulssv)
-
-- Place: Ponda, Goa, India
-- Bio: I am a Computer Engineering Student
-- GitHub: [rahulssv](https://github.com/rahulssv)
-
 #### Name: [Naman Mehta](https://github.com/naman1102)
 
 - Place: Indore, Madhya Pradesh, Indore
@@ -575,27 +556,14 @@
 - Bio:Just a learner, exploring and experimenting with new things
 - GitHub: [shubhrastogi07](https://github.com/shubhrastogi07)
 
-#### Name: [Aditya Gaurav Bhagat](https://github.com/adityeah2k)
-
-- Place: Dhanbad, Jharkhand, India
-- Bio: I'm a college student currently learning full stack web development.
-- GitHub: [adityeah2k](https://github.com/adityeah2k)
-
 #### Name: [Nurkholiq Agani Hafid](https://github.com/nurkholiqaganihafid)
 
 - Place: Barru, South Sulawesi, Indonesia
 - Bio: I'm a student and I love programming world
 - GitHub: [nurkholiqaganihafid](https://github.com/nurkholiqaganihafid)
 
-#### Name: [Mansa Dixit](https://github.com/mansadixit)
+#### Name: [Hussain Shaikh](https://github.com/hussainshaikh12)
 
-- Place: Jaipur, Rajasthan, India
-- Bio: I am a Third Year CSE student, I am a technology enthusiast.
-- GitHub: [mansadixit](https://github.com/mansadixit)
-
-#### Name: [Aman Sharma](https://github.com/amansharma703)
-
--   Place: Gorakhpur, UP, India
--   Bio: Full-Stack Developer
--   GitHub: [amansharma703](https://github.com/amansharma703)
-
+- Place: Vasai, Maharashtra, India
+- Bio: Fullstack Django developer currently in my final year degree
+- GitHub: [hussainshaikh12](https://github.com/hussainshaikh12)
