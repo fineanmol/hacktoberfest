@@ -1,5 +1,0 @@
-// LANGUAGE: Python
-// ENV: Python
-// AUTHOR: Arrvindh PK
-// GITHUB: https://github.com/ARRVINDHPK
-print("Hello, World!")
