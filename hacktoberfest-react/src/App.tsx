@@ -5,11 +5,8 @@ import ContributorCard from './components/ContributorCard';
 import { FaSearch, FaGithub, FaStar } from 'react-icons/fa';
 import { motion } from 'framer-motion';
 import { Toaster, toast } from 'react-hot-toast';
-// Import contributor lists from the monorepo root contributors folder
-// These are JS arrays exported as default
-// Path: ../../contributors/<file>.js
-import listA from '../../contributors/contributorslist.js';
-import listB from '../../contributors/contributorsList1.js';
+// Import contributor list from the monorepo root contributors folder
+import contributorsList from '../../contributors/contributorsList.js';
 import Loader from './components/Loader';
 
 interface Contributor {
@@ -102,8 +99,7 @@ export default function App() {
   );
 
   useEffect(() => {
-    const raws: RawContributor[] = ([] as RawContributor[])
-      .concat((listA as RawContributor[]), (listB as RawContributor[]));
+    const raws: RawContributor[] = contributorsList as RawContributor[];
     // De-duplicate by login
     const seen = new Set<string>();
     const base: Contributor[] = [];
