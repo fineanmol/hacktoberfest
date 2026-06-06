@@ -1,5 +1,4 @@
-name: Validate scripts on PR
-
+name: CI · Validate scripts
 on:
   pull_request:
     types: [opened, synchronize, reopened]
