@@ -1,5 +1,6 @@
 const ALLOWED_BOT_LOGINS = new Set([
   'app/imgbot',
+  'app/dependabot',
   'imgbot[bot]',
   'dependabot[bot]',
   'dependabot-preview[bot]',

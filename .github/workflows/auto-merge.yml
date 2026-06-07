@@ -27,7 +27,7 @@ jobs:
 
       - name: Dependabot semver gate
         id: dependabot_gate
-        if: github.event_name == 'pull_request' && github.event.pull_request.user.login == 'dependabot[bot]'
+        if: github.event_name == 'pull_request' && (github.event.pull_request.user.login == 'dependabot[bot]' || github.event.pull_request.user.login == 'app/dependabot')
         uses: dependabot/fetch-metadata@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -37,7 +37,7 @@ jobs:
         id: merge_fineanmol
         if: |
           github.event_name == 'workflow_run' ||
-          github.event.pull_request.user.login != 'dependabot[bot]' ||
+          (github.event.pull_request.user.login != 'dependabot[bot]' && github.event.pull_request.user.login != 'app/dependabot') ||
           steps.dependabot_gate.outputs.update-type != 'version-update:semver-major' ||
           steps.dependabot_gate.outputs.package-ecosystem == 'github_actions'
         continue-on-error: true
