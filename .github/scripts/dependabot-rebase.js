@@ -29,6 +29,9 @@ function recentRebaseComment(comments) {
     if (!comment.body || !comment.body.includes(REBASE_MARKER)) {
       return false;
     }
+    if (comment.user?.login === 'github-actions[bot]') {
+      return false;
+    }
     return new Date(comment.created_at).getTime() >= cutoff;
   });
 }

@@ -22,7 +22,18 @@ jobs:
             .github/scripts
           sparse-checkout-cone-mode: false
 
-      - name: Request Dependabot rebase on stale PRs
+      - name: Request Dependabot rebase (as fineanmol)
+        id: rebase_fineanmol
+        continue-on-error: true
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.AUTOMERGE_TOKEN }}
+          script: |
+            const run = require(`${process.env.GITHUB_WORKSPACE}/.github/scripts/dependabot-rebase.js`);
+            await run({ github, context, core });
+
+      - name: Request Dependabot rebase (fallback)
+        if: steps.rebase_fineanmol.outcome == 'failure'
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
