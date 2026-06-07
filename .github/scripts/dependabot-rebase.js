@@ -5,6 +5,7 @@ const DEPENDABOT_LOGINS = new Set([
 ]);
 
 const REBASE_MARKER = '<!-- dependabot-auto-rebase -->';
+const RECREATE_MARKER = '<!-- dependabot-auto-recreate -->';
 const REBASE_COOLDOWN_MS = 2 * 60 * 60 * 1000;
 
 function isDependabot(user) {
@@ -23,10 +24,17 @@ function needsRebase(pull) {
   return pull.mergeable_state === 'behind' || pull.mergeable_state === 'dirty';
 }
 
-function recentRebaseComment(comments) {
+function commandForPull(pull) {
+  if (pull.mergeable === false || pull.mergeable_state === 'dirty') {
+    return { command: '@dependabot recreate', marker: RECREATE_MARKER };
+  }
+  return { command: '@dependabot rebase', marker: REBASE_MARKER };
+}
+
+function recentCommandComment(comments, marker) {
   const cutoff = Date.now() - REBASE_COOLDOWN_MS;
   return comments.some((comment) => {
-    if (!comment.body || !comment.body.includes(REBASE_MARKER)) {
+    if (!comment.body || !comment.body.includes(marker)) {
       return false;
     }
     if (comment.user?.login === 'github-actions[bot]') {
@@ -81,6 +89,7 @@ module.exports = async ({ github, context, core }) => {
       continue;
     }
 
+    const { command, marker } = commandForPull(fresh);
     const { data: comments } = await github.rest.issues.listComments({
       owner,
       repo,
@@ -88,18 +97,18 @@ module.exports = async ({ github, context, core }) => {
       per_page: 100,
     });
 
-    if (recentRebaseComment(comments)) {
-      core.info(`PR #${pullNumber} already has a recent auto-rebase comment — skip`);
+    if (recentCommandComment(comments, marker)) {
+      core.info(`PR #${pullNumber} already has a recent ${command} comment — skip`);
       continue;
     }
 
-    const body = [REBASE_MARKER, '@dependabot rebase'].join('\n');
+    const body = [marker, command].join('\n');
     await github.rest.issues.createComment({
       owner,
       repo,
       issue_number: pullNumber,
       body,
     });
-    core.info(`Requested Dependabot rebase on PR #${pullNumber}`);
+    core.info(`Requested ${command} on PR #${pullNumber}`);
   }
 };
