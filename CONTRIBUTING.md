@@ -6439,8 +6439,8 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: PhD student
 - GitHub: [CristinaEU1](https://github.com/CristinaEU1)
 
-#### Name: [Your Name](https://github.com/your-username)
+#### Name: [Saurabh Kumar](https://github.com/Saurabhtbj1201)
 
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](https://github.com/your-username)
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: Student || Aspiring Full Stack Developer || Data Analytics
+- GitHub: [Saurabhtbj201](https://github.com/Saurabhtbj201)
