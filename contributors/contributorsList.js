@@ -2735,6 +2735,11 @@ const contributors = [
     id:477,
     fullname: "Archisman Nath Choudhury",
     username: "https://github.com/Archisman-NC"
+  },
+  {
+    id: 478,
+    fullname: "Sarvagya Sharma",
+    username: "https://github.com/PARZIVAL7498",
   }
 ];
 
