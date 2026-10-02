@@ -6,6 +6,12 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Anmol Agarwal](https://github.com/fineanmol)
 
+#### Name: [Aaditee Kedar](https://github.com/coderaadi1)
+
+- Place:Pune , India
+- Bio: Programmer Analyst
+- GitHub: [coderaadi1](https://github.com/coderaadi1)
+
 #### Name: [Puspal Paul](https://github.com/keenpaul29)
 
 - Place: Khardaha, India
