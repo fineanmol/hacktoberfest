@@ -6439,6 +6439,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: PhD student
 - GitHub: [CristinaEU1](https://github.com/CristinaEU1)
 
+#### Name: [Sasindu Nethsara](https://github.com/Nethsara14)
+
+- Place: Katuwana, Sri Lanka
+- Bio: Open source enthusiast
+- GitHub: [Nethsara14](https://github.com/Nethsara14)
+
 #### Name: [Your Name](https://github.com/your-username)
 
 - Place: City, State, Country
