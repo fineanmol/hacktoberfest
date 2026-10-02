@@ -6439,6 +6439,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: PhD student
 - GitHub: [CristinaEU1](https://github.com/CristinaEU1)
 
+#### Name: [Tanish](https://github.com/Tanish018)
+
+- Place: Ranchi, Jharkhand, India
+- Bio: Student
+- GitHub: [Tanish018](https://github.com/Tanish018)
+
 #### Name: [Your Name](https://github.com/your-username)
 
 - Place: City, State, Country
