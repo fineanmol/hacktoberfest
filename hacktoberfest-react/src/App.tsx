@@ -47,7 +47,7 @@ export default function App() {
   const [contributors, setContributors] = useState<Contributor[]>([]);
   const [loading, setLoading] = useState(true);
   const [showSplash, setShowSplash] = useState(true);
-  const envToken = (import.meta as any).env?.VITE_GITHUB_TOKEN as string | undefined;
+  const envToken = import.meta.env.VITE_GITHUB_TOKEN as string | undefined;
   const [visibleContributors, setVisibleContributors] = useState(12);
   const [profileCache, setProfileCache] = useState<Record<string, GithubUser>>(() => {
     try {
@@ -185,7 +185,7 @@ export default function App() {
           }
           const data = (await res.json()) as GithubUser;
           return { login, data } as const;
-        } catch (e) {
+        } catch {
           return { login, data: undefined } as const;
         }
       })
@@ -195,7 +195,7 @@ export default function App() {
         for (const r of results) {
           if (r.data) next[r.login] = r.data;
         }
-        try { localStorage.setItem('gh_profile_cache', JSON.stringify(next)); } catch {}
+        try { localStorage.setItem('gh_profile_cache', JSON.stringify(next)); } catch { /* storage full or unavailable */ }
         return next;
       });
     });
