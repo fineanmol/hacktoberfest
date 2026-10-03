@@ -6439,6 +6439,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: PhD student
 - GitHub: [CristinaEU1](https://github.com/CristinaEU1)
 
+#### Name: [Shwetang Yadav](https://github.com/shwetang01)
+
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: B.Tech Information Technology student at IIIT Bhopal | Backend & Full-Stack Developer | Open Source Enthusiast
+- GitHub: [shwetang01](https://github.com/shwetang01)
+
 #### Name: [Your Name](https://github.com/your-username)
 
 - Place: City, State, Country
