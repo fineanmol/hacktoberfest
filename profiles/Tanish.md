@@ -1,5 +1,4 @@
-# Your Name
-Tanish
+# Tanish
 
 ### Location
 

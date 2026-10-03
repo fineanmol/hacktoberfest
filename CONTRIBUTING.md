@@ -6439,11 +6439,6 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: PhD student
 - GitHub: [CristinaEU1](https://github.com/CristinaEU1)
 
-#### Name: [Tanish](https://github.com/Tanish018)
-
-- Place: Ranchi, Jharkhand, India
-- Bio: Student
-- GitHub: [Tanish018](https://github.com/Tanish018)
 #### Name: [Shwetang Yadav](https://github.com/shwetang01)
 
 - Place: Bhopal, Madhya Pradesh, India
@@ -6455,6 +6450,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Place: Katuwana, Sri Lanka
 - Bio: Open source enthusiast
 - GitHub: [Nethsara14](https://github.com/Nethsara14)
+
+#### Name: [Tanish](https://github.com/Tanish018)
+
+- Place: Ranchi, Jharkhand, India
+- Bio: Student
+- GitHub: [Tanish018](https://github.com/Tanish018)
 
 #### Name: [Your Name](https://github.com/your-username)
 
