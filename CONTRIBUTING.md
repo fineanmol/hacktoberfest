@@ -1,11 +1,5 @@
 <!-- Hacktoberfest 2026: maintainer entry stays at top; new contributors append at end. -->
 
-#### Name: [Atla Vinay](https://github.com/AtlaVinay555)
-
-- Place: Andhra Pradesh, India,
-- Bio: Hi
-- GitHub: [AtlaVinay555](https://github.com/AtlaVinay555)
-
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
 - Place: Old Street, UK,
@@ -6468,6 +6462,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Place: Pune, India
 - Bio: Programmer Analyst
 - GitHub: [coderaadi1](https://github.com/coderaadi1)
+
+#### Name: [Atla Vinay](https://github.com/AtlaVinay555)
+
+- Place: Andhra Pradesh, India
+- Bio: Hi
+- GitHub: [AtlaVinay555](https://github.com/AtlaVinay555)
 
 #### Name: [Your Name](https://github.com/your-username)
 

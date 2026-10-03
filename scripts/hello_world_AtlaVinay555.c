@@ -1,5 +1,11 @@
-#include<stdio.h>
+// LANGUAGE: C
+// ENV: gcc
+// AUTHOR: Atla Vinay
+// GITHUB: https://github.com/AtlaVinay555
 
-int main(){
-  printf("Hello World!");
+#include <stdio.h>
+
+int main() {
+  printf("Hello, World!\n");
+  return 0;
 }
