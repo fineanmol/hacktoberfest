@@ -6444,6 +6444,11 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Place: Katuwana, Sri Lanka
 - Bio: Open source enthusiast
 - GitHub: [Nethsara14](https://github.com/Nethsara14)
+#### Name: [Shwetang Yadav](https://github.com/shwetang01)
+
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: B.Tech Information Technology student at IIIT Bhopal | Backend & Full-Stack Developer | Open Source Enthusiast
+- GitHub: [shwetang01](https://github.com/shwetang01)
 
 #### Name: [Your Name](https://github.com/your-username)
 
