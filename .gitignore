@@ -1,5 +1,7 @@
 .DS_Store
 thumbs.db
+Thumbs.db
+.vscode/
 **/venv/
 __pycache__/
 *.pyc
