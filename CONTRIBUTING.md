@@ -6440,6 +6440,37 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - GitHub: [CristinaEU1](https://github.com/CristinaEU1)
 
 #### Name: [Saurabh Kumar](https://github.com/Saurabhtbj1201)
+#### Name: [Shwetang Yadav](https://github.com/shwetang01)
+
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: B.Tech Information Technology student at IIIT Bhopal | Backend & Full-Stack Developer | Open Source Enthusiast
+- GitHub: [shwetang01](https://github.com/shwetang01)
+
+#### Name: [Sasindu Nethsara](https://github.com/Nethsara14)
+
+- Place: Katuwana, Sri Lanka
+- Bio: Open source enthusiast
+- GitHub: [Nethsara14](https://github.com/Nethsara14)
+
+#### Name: [Tanish](https://github.com/Tanish018)
+
+- Place: Ranchi, Jharkhand, India
+- Bio: Student
+- GitHub: [Tanish018](https://github.com/Tanish018)
+
+#### Name: [Aaditee Kedar](https://github.com/coderaadi1)
+
+- Place: Pune, India
+- Bio: Programmer Analyst
+- GitHub: [coderaadi1](https://github.com/coderaadi1)
+
+#### Name: [Atla Vinay](https://github.com/AtlaVinay555)
+
+- Place: Andhra Pradesh, India
+- Bio: Hi
+- GitHub: [AtlaVinay555](https://github.com/AtlaVinay555)
+
+#### Name: [Your Name](https://github.com/your-username)
 
 - Place: Greater Noida, Uttar Pradesh, India
 - Bio: Student || Aspiring Full Stack Developer || Data Analytics
