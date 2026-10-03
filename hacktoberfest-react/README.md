@@ -35,7 +35,7 @@ npm run build && npm run preview
 - `src/components/ContributorCard.tsx` – contributor card UI
 - `src/components/Loader.tsx` – animated SVG loader (styled-components)
 - `src/index.css` – Tailwind utilities and custom classes (buttons, inputs, gradients)
-- `contributors/` – two JS lists loaded at runtime (combined/deduped in `App.tsx`)
+- `contributors/contributorsList.js` – contributor list imported by `App.tsx` (deduped at runtime)
 
 ## Features
 
