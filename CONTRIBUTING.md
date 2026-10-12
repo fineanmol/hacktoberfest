@@ -6475,6 +6475,12 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Student || Aspiring Full Stack Developer || Data Analytics
 - GitHub: [Saurabhtbj1201](https://github.com/Saurabhtbj1201)
 
+#### Name: [Sai Mokshitha Gali](https://github.com/Mokshitha08-ui)
+
+- Place: Hyderabad, Telangana, India
+- Bio: Computer Science and Engineering Student | Open Source Contributor
+- GitHub: [Mokshitha08-ui](https://github.com/Mokshitha08-ui)
+
 #### Name: [Your Name](https://github.com/your-username)
 
 - Place: City, State, Country
