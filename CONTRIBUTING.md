@@ -65,6 +65,12 @@
 - Place: Delhi, India
 - Bio: Data Analyst | ML Enthusiast | MCA Student at Guru Gobind Singh Indraprastha University (GGSIPU)
 - GitHub: [Vannu07](https://github.com/vannu07)
+#### Name: [Eman Bedeir](https://github.com/emanbedeir0)
+- Place: Mansoura, Egypt
+- Bio: Computer Science Student
+- GitHub: [emanbedeir0](https://github.com/emanbedeir0)
+
+---
 
 #### Name: [Himanshu Verma](https://github.com/Hverma1206)
 
