@@ -41,7 +41,7 @@ jobs:
           steps.dependabot_gate.outputs.update-type != 'version-update:semver-major' ||
           steps.dependabot_gate.outputs.package-ecosystem == 'github_actions'
         continue-on-error: true
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         env:
           REQUIRED_CHECK_NAME: validate
         with:
@@ -52,7 +52,7 @@ jobs:
 
       - name: Merge bot PR (fallback)
         if: steps.merge_fineanmol.outcome == 'failure'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         env:
           REQUIRED_CHECK_NAME: validate
         with:
