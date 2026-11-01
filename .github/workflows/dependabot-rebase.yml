@@ -25,7 +25,7 @@ jobs:
       - name: Request Dependabot rebase (as fineanmol)
         id: rebase_fineanmol
         continue-on-error: true
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           github-token: ${{ secrets.AUTOMERGE_TOKEN }}
           script: |
@@ -34,7 +34,7 @@ jobs:
 
       - name: Request Dependabot rebase (fallback)
         if: steps.rebase_fineanmol.outcome == 'failure'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
