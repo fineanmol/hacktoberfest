@@ -6475,8 +6475,8 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Student || Aspiring Full Stack Developer || Data Analytics
 - GitHub: [Saurabhtbj1201](https://github.com/Saurabhtbj1201)
 
-#### Name: [Your Name](https://github.com/your-username)
+#### Name: [Sneha Rathod](https://github.com/sneharathod7)
 
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](https://github.com/your-username)
+- Place: Hyderabad, Telangana, India
+- Bio: open source enthusiast
+- GitHub: [sneharathod7](https://github.com/sneharathod7)
