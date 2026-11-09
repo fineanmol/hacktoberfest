@@ -1,13 +1,18 @@
-# Abhinav Kumar
+# Himanshu
 
 ### Location
 
-Ghaziabad/INDIA
+Delhi, India
 
 ### Academics
 
-B.Tech in CSE from ABES Engineering College 
+DTU
+
+### Interests
+
+- Backend Development (Java)
+- Mobile Development
 
 ### Profile Link
 
-[Himanshu Singh](https://github.com/himanshu9125)
+[Himanshu](https://github.com/him2016)
