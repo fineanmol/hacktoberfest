@@ -2734,8 +2734,13 @@ const contributors = [
   {
     id:477,
     fullname: "Archisman Nath Choudhury",
-    username: "https://github.com/Archisman-NC"
-  }
+    username: "https://github.com/Archisman-NC",
+  },
+  {
+    id: 478,
+    fullname: "Osinachi Nwagboso",
+    username: "https://github.com/sianachi",
+  },
 ];
 
 export default contributors;
