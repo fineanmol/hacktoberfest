@@ -6475,8 +6475,8 @@ Github : [savinineeli6](https://github.com/savinineeli6)
 - Bio: Student || Aspiring Full Stack Developer || Data Analytics
 - GitHub: [Saurabhtbj1201](https://github.com/Saurabhtbj1201)
 
-#### Name: [Your Name](https://github.com/your-username)
+#### Name: [Adarsh Patil](https://github.com/adarshpatil-07)
 
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](https://github.com/your-username)
+- Place: Nagpur, Maharashtra, India
+- Bio: B.Tech Computer Engineering student, full-stack developer, and AI/ML enthusiast passionate about open-source contributions and building useful software.
+- GitHub: [adarshpatil-07](https://github.com/adarshpatil-07)
